@@ -3884,7 +3884,7 @@
     "fabric": "TM1050",
     "marca": "TMAC",
     "nome": "ANEL ESCAPAMENTO CG/ML/TUR/XL TMAC",
-    "estoque": "232",
+    "estoque": "230",
     "preco": "0,56"
   },
   {
@@ -8164,7 +8164,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "524",
+    "estoque": "523",
     "preco": "109,69"
   },
   {
@@ -8312,6 +8312,14 @@
     "preco": "178,5"
   },
   {
+    "codigo": "52658",
+    "fabric": "RT5L-BS",
+    "marca": "RAIOM",
+    "nome": "BATERIA SUZUKI/BURGMAN-SUNDOWN FUTURE RT5L-BS RAIOM",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "51842",
     "fabric": "007A10B",
     "marca": "RAIOM",
@@ -8332,7 +8340,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "119",
+    "estoque": "118",
     "preco": "133,22"
   },
   {
@@ -21524,7 +21532,7 @@
     "fabric": "KOI0004",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR TITAN 150 2004/08 MOTOKOI",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "7,34"
   },
   {
@@ -31636,7 +31644,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "227",
+    "estoque": "226",
     "preco": "15,74"
   },
   {
@@ -31756,7 +31764,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "54",
+    "estoque": "53",
     "preco": "15,23"
   },
   {
@@ -34236,7 +34244,7 @@
     "fabric": "KOI0203",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 160/TITAN 150 14/20/FAN 125 14/20/FAN 150 14/20 MOTOKOI",
-    "estoque": "84",
+    "estoque": "83",
     "preco": "18,38"
   },
   {
@@ -60676,7 +60684,7 @@
     "fabric": "KOI0117",
     "marca": "MOTOKOI",
     "nome": "CILINDRO BENGALA INTERNO TITAN 150/TITAN 160 MOTOKOI",
-    "estoque": "16",
+    "estoque": "14",
     "preco": "70,29"
   },
   {
@@ -65604,7 +65612,7 @@
     "fabric": "TM241",
     "marca": "TMAC",
     "nome": "CORRENTE TRANSMISSAO 520H X 110L TMAC CB300",
-    "estoque": "61",
+    "estoque": "60",
     "preco": "78,11"
   },
   {
@@ -75692,7 +75700,7 @@
     "fabric": "TM7076",
     "marca": "TMAC",
     "nome": "ESPELHO FREIO TITAN 2000 DIANTEIRO TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "87,55"
   },
   {
@@ -82156,7 +82164,7 @@
     "fabric": "TC3310",
     "marca": "TMAC",
     "nome": "FLEXIVEL FREIO TWISTER DIANTEIRO TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "30,04"
   },
   {
@@ -82252,7 +82260,7 @@
     "fabric": "221",
     "marca": "IPIRANGA",
     "nome": "FLUIDO FREIO DOT 4 IPIRANGA 200ML",
-    "estoque": "41",
+    "estoque": "40",
     "preco": "15,26"
   },
   {
@@ -96916,7 +96924,7 @@
     "fabric": "HCP0060T",
     "marca": "VAZ",
     "nome": "KIT COROA/PINHAO CB 250 TWISTER 2016 VAZ - HCP0060T",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "78,23"
   },
   {
@@ -100020,7 +100028,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "203",
+    "estoque": "202",
     "preco": "28,51"
   },
   {
@@ -100068,7 +100076,7 @@
     "fabric": "TL004",
     "marca": "TMAC",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO TMAC",
-    "estoque": "1696",
+    "estoque": "1695",
     "preco": "1,4"
   },
   {
@@ -100540,7 +100548,7 @@
     "fabric": "TL006",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA TITAN 00 KS / ES  ESMAGADA 12V 16W  TMAC T15",
-    "estoque": "257",
+    "estoque": "255",
     "preco": "0,72"
   },
   {
@@ -103220,7 +103228,7 @@
     "fabric": "PA00671",
     "marca": "PANTHER",
     "nome": "LUBRIFICANTES ATF PANTHER 1 LT",
-    "estoque": "162",
+    "estoque": "161",
     "preco": "16,28"
   },
   {
@@ -103316,7 +103324,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "966",
+    "estoque": "964",
     "preco": "31,49"
   },
   {
@@ -103348,7 +103356,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "1954",
+    "estoque": "1951",
     "preco": "25,19"
   },
   {
@@ -103372,7 +103380,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "154",
+    "estoque": "153",
     "preco": "40,94"
   },
   {
@@ -112228,7 +112236,7 @@
     "fabric": "25135K",
     "marca": "MOTOKOI BR",
     "nome": "MOLA DESCANCO LATERAL TITAN KS/150/BIZ MOTOKOI",
-    "estoque": "129",
+    "estoque": "126",
     "preco": "2,37"
   },
   {
@@ -112396,7 +112404,7 @@
     "fabric": "25341K",
     "marca": "MOTOKOI BR",
     "nome": "MOLA GARFO TITAN 150 DIANTEIRO MOTOKOI (PAR)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "47,25"
   },
   {
@@ -122532,7 +122540,7 @@
     "fabric": "FA670",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO BROS 160/CB 250 TWISTER/CRF 250 2015/XRE 300 22 C/ABS TRASEIRA TMAC",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "10,49"
   },
   {
@@ -123740,7 +123748,7 @@
     "fabric": "FA375",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO TITAN 150 PARTIR DE 2009 DIANT TMAC",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "10,49"
   },
   {
@@ -124972,7 +124980,7 @@
     "fabric": "KOI0132",
     "marca": "MOTOKOI",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS MOTOKOI",
-    "estoque": "151",
+    "estoque": "150",
     "preco": "16,21"
   },
   {
@@ -136636,7 +136644,7 @@
     "fabric": "18822",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX",
-    "estoque": "263",
+    "estoque": "262",
     "preco": "220,4"
   },
   {
@@ -136756,7 +136764,7 @@
     "fabric": "6084",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-14 TECHNIC SPORT R TL 46P",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "160,65"
   },
   {
@@ -137676,7 +137684,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "621",
+    "estoque": "620",
     "preco": "230,99"
   },
   {
@@ -141556,7 +141564,7 @@
     "fabric": "TM1022",
     "marca": "TMAC",
     "nome": "PUNHO LUZ CG 89/91 TMAC",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "39,38"
   },
   {
@@ -152084,7 +152092,7 @@
     "fabric": "4773",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150 NOVA PAR GVS COMBATE",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "25,73"
   },
   {
@@ -152100,7 +152108,7 @@
     "fabric": "4770",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150 PAR GVS",
-    "estoque": "57",
+    "estoque": "56",
     "preco": "23,63"
   },
   {
@@ -152828,7 +152836,7 @@
     "fabric": "TM980",
     "marca": "TMAC",
     "nome": "ROLAMENTO 6301-RS CROMO RODA DIANT. CG TMAC",
-    "estoque": "153",
+    "estoque": "151",
     "preco": "4,19"
   },
   {
@@ -166900,7 +166908,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "129",
+    "estoque": "128",
     "preco": "5,24"
   },
   {
