@@ -8148,7 +8148,7 @@
     "fabric": "ERX 6BS",
     "marca": "ERBS",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED ERX 6BS ERBS",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "125,98"
   },
   {
@@ -8156,7 +8156,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "447",
+    "estoque": "446",
     "preco": "111,29"
   },
   {
@@ -8180,7 +8180,7 @@
     "fabric": "MTX5L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ/TITAN 2000 ES/TITAN150 KS 125 MTX5L-BS MOTOKOI",
-    "estoque": "65",
+    "estoque": "64",
     "preco": "99,23"
   },
   {
@@ -14652,7 +14652,7 @@
     "fabric": "44073K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA BATENTE CAVALETE CENTRAL TITAN 00/150 MOTOKOI",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "0,98"
   },
   {
@@ -15748,7 +15748,7 @@
     "fabric": "1097",
     "marca": "POLIVISOR",
     "nome": "BOTAO SAN MARINO UND POLIVISOR",
-    "estoque": "170",
+    "estoque": "167",
     "preco": "2,63"
   },
   {
@@ -17548,7 +17548,7 @@
     "fabric": "03466",
     "marca": "DANIDREA",
     "nome": "BUCHA QUADRO ELASTICO TODAY/TITAN/TITAN 150/160 DANIDREA PLUS +",
-    "estoque": "31",
+    "estoque": "30",
     "preco": "15,27"
   },
   {
@@ -26324,7 +26324,7 @@
     "fabric": "TM4001",
     "marca": "TMAC",
     "nome": "CABO EMBREAGEM YBR 125 02/08 TMAC",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "13,13"
   },
   {
@@ -31708,7 +31708,7 @@
     "fabric": "11553",
     "marca": "LEVORIN",
     "nome": "CAMARA DE AR TRAS BIZ LEVORIN MSA 14",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "34,13"
   },
   {
@@ -31732,7 +31732,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "206",
+    "estoque": "205",
     "preco": "15,23"
   },
   {
@@ -35300,7 +35300,7 @@
     "fabric": "1005001142",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS NYLON UNISEX G",
-    "estoque": "63",
+    "estoque": "62",
     "preco": "148,45"
   },
   {
@@ -45876,7 +45876,7 @@
     "fabric": "TM403",
     "marca": "TMAC",
     "nome": "CARBURADOR BIZ 100 TMAC",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "94,49"
   },
   {
@@ -47260,7 +47260,7 @@
     "fabric": "4888",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL INFERIOR TITAN 150 PRETA ORBITAL",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "6,29"
   },
   {
@@ -48268,7 +48268,7 @@
     "fabric": "4883ORB",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL SUPERIOR TITAN 150 ORBITAL",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "7,88"
   },
   {
@@ -60172,7 +60172,7 @@
     "fabric": "TM466",
     "marca": "TMAC",
     "nome": "CILINDRO MESTRE FREIO TITAN 2000/TITAN 150/TITAN 160/CBX 200/CBX 250 SUPERIOR TMAC",
-    "estoque": "52",
+    "estoque": "51",
     "preco": "47,78"
   },
   {
@@ -60396,7 +60396,7 @@
     "fabric": "1307000039",
     "marca": "PROTERCAPAS",
     "nome": "COLETE INFANTIL PROTERCAPAS PRETO",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "29,39"
   },
   {
@@ -86932,7 +86932,7 @@
     "fabric": "TM0176",
     "marca": "TMAC",
     "nome": "INTERRUPTOR PARTIDA TITAN 150 05-08/SPORT/FAN150 2012 ESD TMAC",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "15,75"
   },
   {
@@ -97956,7 +97956,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "509",
+    "estoque": "508",
     "preco": "62,99"
   },
   {
@@ -99488,14 +99488,6 @@
     "preco": "89,25"
   },
   {
-    "codigo": "36727",
-    "fabric": "721600",
-    "marca": "MELC",
-    "nome": "LANTERNA TRASEIRA BIZ 100/POP 100 VERMELHA COMPLETA MELC",
-    "estoque": "0",
-    "preco": "60,03"
-  },
-  {
     "codigo": "51258",
     "fabric": "33700",
     "marca": "R1",
@@ -99664,14 +99656,6 @@
     "preco": "50,86"
   },
   {
-    "codigo": "47671",
-    "fabric": "722500",
-    "marca": "MELC",
-    "nome": "LANTERNA TRASEIRA BROS ATE 08/TORNADO MELC",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "40237",
     "fabric": "TM050",
     "marca": "TMAC",
@@ -99702,14 +99686,6 @@
     "nome": "LANTERNA TRASEIRA CB 250 TRILHA",
     "estoque": "0",
     "preco": "240,2"
-  },
-  {
-    "codigo": "40839",
-    "fabric": "723500",
-    "marca": "MELC",
-    "nome": "LANTERNA TRASEIRA CB 300 09/15/XRE 300 10/18 MELC (723500)",
-    "estoque": "0",
-    "preco": "51,17"
   },
   {
     "codigo": "51263",
@@ -99830,14 +99806,6 @@
     "nome": "LANTERNA TRASEIRA CRYPTON 98/02 TRILHA",
     "estoque": "0",
     "preco": "101,04"
-  },
-  {
-    "codigo": "48261",
-    "fabric": "721500",
-    "marca": "MELC",
-    "nome": "LANTERNA TRASEIRA CRYPTON MELC 98/05 (721500)",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "16240",
@@ -100040,14 +100008,6 @@
     "preco": "57,75"
   },
   {
-    "codigo": "40680",
-    "fabric": "722700",
-    "marca": "MELC",
-    "nome": "LANTERNA TRASEIRA TITAN 150 04/08 VERMELHA COMPLETA MELC",
-    "estoque": "0",
-    "preco": "32,85"
-  },
-  {
     "codigo": "16228",
     "fabric": "112 1014",
     "marca": "SPORTIVE",
@@ -100086,14 +100046,6 @@
     "nome": "LANTERNA TRASEIRA TITAN 150 04/08 VERMELHA TORK S. PISCA",
     "estoque": "0",
     "preco": "46,04"
-  },
-  {
-    "codigo": "36826",
-    "fabric": "723700",
-    "marca": "MELC",
-    "nome": "LANTERNA TRASEIRA TITAN 150 09 VERMELHA COMPLETA MELC",
-    "estoque": "0",
-    "preco": "62,08"
   },
   {
     "codigo": "39695",
@@ -100256,22 +100208,6 @@
     "preco": "0"
   },
   {
-    "codigo": "36827",
-    "fabric": "",
-    "marca": "MELC",
-    "nome": "LANTERNA TRASEIRA TWISTER COMPLETA MELC",
-    "estoque": "0",
-    "preco": "33,87"
-  },
-  {
-    "codigo": "51908",
-    "fabric": "",
-    "marca": "MELC",
-    "nome": "LANTERNA TRASEIRA TWISTER COMPLETA TMAC",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "32532",
     "fabric": "LT-10H",
     "marca": "TORK",
@@ -100376,14 +100312,6 @@
     "preco": "51,21"
   },
   {
-    "codigo": "42750",
-    "fabric": "721900",
-    "marca": "MELC",
-    "nome": "LANTERNA TRASEIRA YBR 00/08 MELC",
-    "estoque": "0",
-    "preco": "36,37"
-  },
-  {
     "codigo": "51284",
     "fabric": "33712",
     "marca": "R1",
@@ -100414,14 +100342,6 @@
     "nome": "LANTERNA TRASEIRA YBR 125 FACTOR 09 TMAC",
     "estoque": "3",
     "preco": "57,75"
-  },
-  {
-    "codigo": "44563",
-    "fabric": "723900",
-    "marca": "MELC",
-    "nome": "LANTERNA TRASEIRA YBR 125 FACTOR 09/16 VERMELHO MELC",
-    "estoque": "0",
-    "preco": "47,88"
   },
   {
     "codigo": "9171",
@@ -100574,14 +100494,6 @@
     "nome": "LENTE LANTERNA BIZ 100 TRASEIRA CRISTAL STLU",
     "estoque": "0",
     "preco": "0"
-  },
-  {
-    "codigo": "37734",
-    "fabric": "711600",
-    "marca": "MELC",
-    "nome": "LENTE LANTERNA BIZ 100 TRASEIRA VERMELHA MELC",
-    "estoque": "0",
-    "preco": "12,97"
   },
   {
     "codigo": "48807",
@@ -101204,7 +101116,7 @@
     "fabric": "102701",
     "marca": "MELC",
     "nome": "LENTE PAINEL SUPERIOR TITAN 150 05/08 MELC (102701)",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "15,74"
   },
   {
@@ -101532,7 +101444,7 @@
     "fabric": "6280",
     "marca": "GVS",
     "nome": "LENTE PISCA CG 83/99 LARANJA GVS",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "3,62"
   },
   {
@@ -102100,7 +102012,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "394",
+    "estoque": "392",
     "preco": "29,39"
   },
   {
@@ -102116,7 +102028,7 @@
     "fabric": "4407",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 20W50 SL",
-    "estoque": "1296",
+    "estoque": "1295",
     "preco": "22,04"
   },
   {
@@ -102132,7 +102044,7 @@
     "fabric": "",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 20W50 SL",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "22,04"
   },
   {
@@ -102148,7 +102060,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "729",
+    "estoque": "726",
     "preco": "31,49"
   },
   {
@@ -102180,7 +102092,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "1511",
+    "estoque": "1510",
     "preco": "25,19"
   },
   {
@@ -102188,7 +102100,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "879",
+    "estoque": "878",
     "preco": "34,64"
   },
   {
@@ -102236,7 +102148,7 @@
     "fabric": "104078",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 10W40",
-    "estoque": "107",
+    "estoque": "106",
     "preco": "60,38"
   },
   {
@@ -102300,7 +102212,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "519",
+    "estoque": "518",
     "preco": "13,64"
   },
   {
@@ -102324,7 +102236,7 @@
     "fabric": "",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 10W40 SEMI SINTETICO",
-    "estoque": "283",
+    "estoque": "282",
     "preco": "49,88"
   },
   {
@@ -105276,7 +105188,7 @@
     "fabric": "P-1030",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM YBR 125 PROTEC",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "6,6"
   },
   {
@@ -121988,7 +121900,7 @@
     "fabric": "N943",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO FALCON/XRE 300 SEM ABS TRASEIRO  COBREQ N-943",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "25,73"
   },
   {
@@ -123764,7 +123676,7 @@
     "fabric": "KOI-00100 STD",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS MOTOKOI BR",
-    "estoque": "129",
+    "estoque": "127",
     "preco": "14,69"
   },
   {
@@ -123804,7 +123716,7 @@
     "fabric": "KOI-00100 A",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS MOTOKOI BR",
-    "estoque": "149",
+    "estoque": "147",
     "preco": "15,74"
   },
   {
@@ -124900,7 +124812,7 @@
     "fabric": "LBJ01",
     "marca": "TMAC",
     "nome": "PEDAL CAMBIO TITAN 2000 ES/KS TMAC",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "17,85"
   },
   {
@@ -125868,7 +125780,7 @@
     "fabric": "KOI0390",
     "marca": "MOTOKOI",
     "nome": "PEDAL PARTIDA CG/TO/TITAN 99 MOTOKOI",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "20,99"
   },
   {
@@ -128228,7 +128140,7 @@
     "fabric": "P-53S",
     "marca": "STALLION",
     "nome": "PISCA CB 250 16 ED MOD ESPORTIVO STALLION BASE UNIVERSAL COXIM (PAR) SEQUENCIAL C/PORCA",
-    "estoque": "92",
+    "estoque": "91",
     "preco": "27,29"
   },
   {
@@ -128508,7 +128420,7 @@
     "fabric": "6086",
     "marca": "GVS",
     "nome": "PISCA FALCON AMBAR DIANT DIR./TRAS ESQ. C/ LAMPADA GVS",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "33,6"
   },
   {
@@ -128532,7 +128444,7 @@
     "fabric": "6087",
     "marca": "GVS",
     "nome": "PISCA FALCON AMBAR DIANT ESQ./TRAS DIR. C/ LAMPADA GVS",
-    "estoque": "7",
+    "estoque": "5",
     "preco": "31,49"
   },
   {
@@ -135300,7 +135212,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "261",
+    "estoque": "260",
     "preco": "115,49"
   },
   {
@@ -135364,7 +135276,7 @@
     "fabric": "100663",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREET MF7 TT",
-    "estoque": "94",
+    "estoque": "93",
     "preco": "100,79"
   },
   {
@@ -135428,7 +135340,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TL 47P (SEM CAMARA)",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "250,41"
   },
   {
@@ -136052,7 +135964,7 @@
     "fabric": "6055",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 130/70-16 TECHNIC SPORT R CITYCOM 300 TL 61P",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "315"
   },
   {
@@ -136092,7 +136004,7 @@
     "fabric": "6020",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 130/70-17 TECHNIC SPORT TWISTER/FAZER TL 62S",
-    "estoque": "23",
+    "estoque": "24",
     "preco": "280,35"
   },
   {
@@ -136468,7 +136380,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX TL 57P (SEM CAMARA)",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "269,81"
   },
   {
@@ -136540,7 +136452,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "96",
+    "estoque": "95",
     "preco": "130,2"
   },
   {
@@ -139972,7 +139884,7 @@
     "fabric": "014-1003",
     "marca": "TORK",
     "nome": "PROTETOR PERNAS BIZ 125 11/13 PRETA TORK",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "196,35"
   },
   {
@@ -150580,7 +150492,7 @@
     "fabric": "610112",
     "marca": "GVS",
     "nome": "RETROVISOR MINI Z400 GVS (PAR)",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "51,45"
   },
   {
@@ -150932,7 +150844,7 @@
     "fabric": "4767",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 2000/03 PAR GVS",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "25,73"
   },
   {
@@ -159180,7 +159092,7 @@
     "fabric": "1101892",
     "marca": "WW3",
     "nome": "TENSION /ACION. CORRENTE TITAN 150 - BIZ 125 C/ CAT.  WW3",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "33,21"
   },
   {
@@ -164260,7 +164172,7 @@
     "fabric": "1772IR",
     "marca": "POLIVISOR",
     "nome": "VISEIRA LS2 FF320/353 IRIDIUM POLIVISOR",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "79,54"
   },
   {
@@ -165804,7 +165716,7 @@
     "fabric": "1010F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM FUME POLIVISOR",
-    "estoque": "27",
+    "estoque": "26",
     "preco": "6,62"
   },
   {
