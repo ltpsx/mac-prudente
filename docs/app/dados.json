@@ -12412,7 +12412,7 @@
     "fabric": "90200271",
     "marca": "MAGNETRON",
     "nome": "BOBINA IGNICAO TITAN 03-04/FAN 125 08/TIT 150 04-08/TORNADO/TWISTER/NXR 125-150 03-04 MAGNETRON",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "62,03"
   },
   {
@@ -18220,7 +18220,7 @@
     "fabric": "KOI0316",
     "marca": "MOTOKOI",
     "nome": "BUZINA CG/TITAN 12V MOTOKOI",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "7,34"
   },
   {
@@ -31612,7 +31612,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "988",
+    "estoque": "986",
     "preco": "15,74"
   },
   {
@@ -31844,7 +31844,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "43",
+    "estoque": "40",
     "preco": "20,99"
   },
   {
@@ -32460,7 +32460,7 @@
     "fabric": "KOI0184",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BIZ 125 09/17 MOTOKOI",
-    "estoque": "64",
+    "estoque": "63",
     "preco": "22,58"
   },
   {
@@ -35420,7 +35420,7 @@
     "fabric": "KOI0317",
     "marca": "MOTOKOI",
     "nome": "CAPA IMPERMEAVEL BANCO P/ MOTO EGG MOTOKOI",
-    "estoque": "30",
+    "estoque": "29",
     "preco": "15,74"
   },
   {
@@ -40484,7 +40484,7 @@
     "fabric": "1264056P03",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET BORBOLETA PRETO/LILAS 56",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "124,95"
   },
   {
@@ -40540,7 +40540,7 @@
     "fabric": "1264058P10",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET BORBOLETA PRETO/TIFFANY 58",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "124,95"
   },
   {
@@ -46204,7 +46204,7 @@
     "fabric": "KOI0170",
     "marca": "MOTOKOI",
     "nome": "CARBURADOR TITAN 150 04/08 MOTOKOI",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "83,99"
   },
   {
@@ -57516,7 +57516,7 @@
     "fabric": "",
     "marca": "TOTAL PRINT",
     "nome": "CHAVEIRO UNIVERSAL AVULSO",
-    "estoque": "2287",
+    "estoque": "2286",
     "preco": "4,19"
   },
   {
@@ -79852,7 +79852,7 @@
     "fabric": "KL741",
     "marca": "MAHLE",
     "nome": "FILTRO COMBUSTIVEL TITAN 150 09 MIX/FLEX MAHLE",
-    "estoque": "63",
+    "estoque": "62",
     "preco": "12,59"
   },
   {
@@ -84372,7 +84372,7 @@
     "fabric": "TC4026",
     "marca": "TMAC",
     "nome": "GUIA DESLIZADOR CORRENTE TRANSMISSAO TWISTER TMAC",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "16,38"
   },
   {
@@ -92380,7 +92380,7 @@
     "fabric": "TM013",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 TMAC 4MM",
-    "estoque": "110",
+    "estoque": "109",
     "preco": "19,94"
   },
   {
@@ -96492,7 +96492,7 @@
     "fabric": "51208",
     "marca": "MOTOBOR",
     "nome": "KIT MECANISMO SAN MARINO COMPLETO MOTOBOR",
-    "estoque": "49",
+    "estoque": "48",
     "preco": "7,63"
   },
   {
@@ -98660,7 +98660,7 @@
     "fabric": "VE05084000001",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA TITAN 150 VEDAMOTORS - GUARNICAO + 2 RETENTORES",
-    "estoque": "151",
+    "estoque": "150",
     "preco": "10,49"
   },
   {
@@ -98884,7 +98884,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "272",
+    "estoque": "271",
     "preco": "28,51"
   },
   {
@@ -101972,7 +101972,7 @@
     "fabric": "4407",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 20W50 SL",
-    "estoque": "1253",
+    "estoque": "1249",
     "preco": "22,04"
   },
   {
@@ -102004,7 +102004,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "686",
+    "estoque": "682",
     "preco": "31,49"
   },
   {
@@ -102036,7 +102036,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "1433",
+    "estoque": "1431",
     "preco": "25,19"
   },
   {
@@ -106228,7 +106228,7 @@
     "fabric": "P-1020",
     "marca": "PROTEC",
     "nome": "MANETE TITAN 2000 KS CROMADO PAR PROTEC",
-    "estoque": "27",
+    "estoque": "26",
     "preco": "41,64"
   },
   {
@@ -107116,7 +107116,7 @@
     "fabric": "MA037-001",
     "marca": "CIRCUIT",
     "nome": "MANOPLA CIRCUIT INTERLAGOS PT PLUS",
-    "estoque": "133",
+    "estoque": "132",
     "preco": "23,09"
   },
   {
@@ -109044,7 +109044,7 @@
     "fabric": "228/1509",
     "marca": "FABRECK",
     "nome": "MESA INFERIOR GUIDAO FAN 125 09... FABRECK",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "141,96"
   },
   {
@@ -109660,7 +109660,7 @@
     "fabric": "223/1523",
     "marca": "FABRECK",
     "nome": "MESA SUPERIOR GUIDAO FAN 125 09 FABRECK",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "105,97"
   },
   {
@@ -114900,7 +114900,7 @@
     "fabric": "1099P",
     "marca": "POLIVISOR",
     "nome": "PALA SAN MARINO PRETO POLIVISOR",
-    "estoque": "40",
+    "estoque": "39",
     "preco": "19,43"
   },
   {
@@ -135508,7 +135508,7 @@
     "fabric": "80005",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 100/90-14 LEVORIN MATRIX SCOOTER TL PCX",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "393,96"
   },
   {
@@ -136252,7 +136252,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "519",
+    "estoque": "518",
     "preco": "230,99"
   },
   {
@@ -136332,7 +136332,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "90",
+    "estoque": "88",
     "preco": "130,2"
   },
   {
@@ -143864,14 +143864,6 @@
     "preco": "60,08"
   },
   {
-    "codigo": "34290",
-    "fabric": "",
-    "marca": "SERVITEC",
-    "nome": "REGULADOR /RETIFICADOR BIZ 100 / DREAM / BIZ 125 ATE 08  SERVITEC",
-    "estoque": "0",
-    "preco": "28,92"
-  },
-  {
     "codigo": "25601",
     "fabric": "TM149",
     "marca": "TMAC",
@@ -143918,14 +143910,6 @@
     "nome": "REGULADOR /RETIFICADOR BIZ 125 09 / CG 150 TITAN 09 MAGNETRON",
     "estoque": "0",
     "preco": "286,59"
-  },
-  {
-    "codigo": "28769",
-    "fabric": "37050",
-    "marca": "SOLIDEZ",
-    "nome": "REGULADOR /RETIFICADOR BIZ 125 09 / CG 150 TITAN 09 SOLIDEZ",
-    "estoque": "0",
-    "preco": "75,45"
   },
   {
     "codigo": "32345",
@@ -151380,7 +151364,7 @@
     "fabric": "562045",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6301 RODA DIANT CG/XLS/STR C/ 1 BLIND NACHI",
-    "estoque": "94",
+    "estoque": "92",
     "preco": "26,76"
   },
   {
@@ -165444,7 +165428,7 @@
     "fabric": "1743C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS FORMULA 1 R 2,20 MM CRISTAL POLIVISOR",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "26,78"
   },
   {
@@ -165532,7 +165516,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "80",
+    "estoque": "78",
     "preco": "5,24"
   },
   {
@@ -165732,7 +165716,7 @@
     "fabric": "1759C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 2,20 MM CRISTAL POLIVISOR",
-    "estoque": "3",
+    "estoque": "4",
     "preco": "14,54"
   },
   {
