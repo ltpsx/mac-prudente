@@ -4652,7 +4652,7 @@
     "fabric": "832701",
     "marca": "MELC",
     "nome": "ARO FAROL TITAN 2000/150 CROMADO MELC (832701)",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "17,83"
   },
   {
@@ -7292,7 +7292,7 @@
     "fabric": "KOI0156",
     "marca": "MOTOKOI BR",
     "nome": "BALACLAVA MOTOKOI PRETA",
-    "estoque": "47",
+    "estoque": "46",
     "preco": "18,38"
   },
   {
@@ -8836,7 +8836,7 @@
     "fabric": "LBJ039",
     "marca": "LBJ",
     "nome": "BICO INJETOR TITAN 150 10/MIX-FAN 150 10/NXR 11 LBJ 8 FUROS",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "152,25"
   },
   {
@@ -18324,7 +18324,7 @@
     "fabric": "90265550",
     "marca": "MAGNETRON",
     "nome": "BUZINA TITAN 150 ATE 08 MAGNETRON",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "17,86"
   },
   {
@@ -40828,7 +40828,7 @@
     "fabric": "1250060PTO",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SOLID PRETO 60",
-    "estoque": "15",
+    "estoque": "13",
     "preco": "114,45"
   },
   {
@@ -41244,7 +41244,7 @@
     "fabric": "1304058P07",
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/ROSA 58",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "313,95"
   },
   {
@@ -44572,7 +44572,7 @@
     "fabric": "10013516",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO FEMME PRETO 56",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "178,48"
   },
   {
@@ -47260,7 +47260,7 @@
     "fabric": "102703",
     "marca": "MELC",
     "nome": "CARCACA PAINEL INFERIOR TITAN 150 PRETA MELC (102703)",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "7,34"
   },
   {
@@ -55488,14 +55488,6 @@
     "preco": "56,44"
   },
   {
-    "codigo": "19075",
-    "fabric": "50.105.05",
-    "marca": "SERVITEC",
-    "nome": "CDI CG/ML 85-88 SERVITEC",
-    "estoque": "0",
-    "preco": "73,73"
-  },
-  {
     "codigo": "23753",
     "fabric": "90272330",
     "marca": "MAGNETRON",
@@ -55704,14 +55696,6 @@
     "preco": "221,47"
   },
   {
-    "codigo": "33948",
-    "fabric": "",
-    "marca": "SERVITEC",
-    "nome": "CDI TITAN 150 KS/ES/ESD S/LIMITADOR SERVITEC",
-    "estoque": "0",
-    "preco": "162,97"
-  },
-  {
     "codigo": "6888",
     "fabric": "90272001",
     "marca": "MAGNETRON",
@@ -55824,14 +55808,6 @@
     "preco": "54,75"
   },
   {
-    "codigo": "36929",
-    "fabric": "50.147.10",
-    "marca": "SERVITEC",
-    "nome": "CDI WEB 100 02/06 SERVITEC",
-    "estoque": "0",
-    "preco": "115,73"
-  },
-  {
     "codigo": "24374",
     "fabric": "90272370",
     "marca": "MAGNETRON",
@@ -55926,14 +55902,6 @@
     "nome": "CDI YBR 125 2000/01 MAGNETRON",
     "estoque": "2",
     "preco": "277,61"
-  },
-  {
-    "codigo": "33953",
-    "fabric": "",
-    "marca": "SERVITEC",
-    "nome": "CDI YBR 125 2000/01 SERVITEC",
-    "estoque": "0",
-    "preco": "77,79"
   },
   {
     "codigo": "43514",
@@ -70188,7 +70156,7 @@
     "fabric": "03502",
     "marca": "REGGIO",
     "nome": "EIXO RODA TITAN 150/TITAN 160/TITAN 125/TOD 125/CBX 200/CBX 150/ DIANTEIRO REGGIO",
-    "estoque": "92",
+    "estoque": "91",
     "preco": "10,49"
   },
   {
@@ -97412,7 +97380,7 @@
     "fabric": "H03868XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO FAN 125 09 VAZ (43/14/428HX116L) H03868XS",
-    "estoque": "76",
+    "estoque": "75",
     "preco": "62,99"
   },
   {
@@ -100692,7 +100660,7 @@
     "fabric": "862700",
     "marca": "GVS",
     "nome": "LENTE LANTERNA TITAN 150 04/08 TRASEIRA VERMELHO GVS",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "14,18"
   },
   {
@@ -101076,7 +101044,7 @@
     "fabric": "102701",
     "marca": "MELC",
     "nome": "LENTE PAINEL SUPERIOR TITAN 150 05/08 MELC (102701)",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "15,74"
   },
   {
@@ -101972,7 +101940,7 @@
     "fabric": "4407",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 20W50 SL",
-    "estoque": "1249",
+    "estoque": "1245",
     "preco": "22,04"
   },
   {
@@ -102004,7 +101972,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "682",
+    "estoque": "681",
     "preco": "31,49"
   },
   {
@@ -102036,7 +102004,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "1431",
+    "estoque": "1430",
     "preco": "25,19"
   },
   {
@@ -106508,7 +106476,7 @@
     "fabric": "KOI0151",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI C/PUNHO PROTECAO UV PRETO M",
-    "estoque": "101",
+    "estoque": "100",
     "preco": "18,38"
   },
   {
@@ -107116,7 +107084,7 @@
     "fabric": "MA037-001",
     "marca": "CIRCUIT",
     "nome": "MANOPLA CIRCUIT INTERLAGOS PT PLUS",
-    "estoque": "132",
+    "estoque": "130",
     "preco": "23,09"
   },
   {
@@ -109388,7 +109356,7 @@
     "fabric": "90205020",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA TITAN 150 / FAN 09 MAGNETRON",
-    "estoque": "265",
+    "estoque": "264",
     "preco": "10,49"
   },
   {
@@ -123628,7 +123596,7 @@
     "fabric": "KOI-00100 B",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,50 DIANT/TRAS MOTOKOI BR",
-    "estoque": "125",
+    "estoque": "124",
     "preco": "15,74"
   },
   {
@@ -125900,7 +125868,7 @@
     "fabric": "KOI0393",
     "marca": "MOTOKOI",
     "nome": "PEDAL PARTIDA TITAN150 04-08/BROS 06-12/FAN125 09-13 MOTOKOI",
-    "estoque": "62",
+    "estoque": "61",
     "preco": "20,99"
   },
   {
@@ -126628,7 +126596,7 @@
     "fabric": "68396",
     "marca": "EX RACING",
     "nome": "PESO GUIDAO PCX 150 19 ED CROMADO EX RACING COM BUCHA (PAR)",
-    "estoque": "48",
+    "estoque": "47",
     "preco": "36,31"
   },
   {
@@ -137564,7 +137532,7 @@
     "fabric": "23282",
     "marca": "MOTOBOR",
     "nome": "PRESILHA FIXACAO CARENAGEM TITAN 160/TITAN 150 14/FAZER 150 MOTOBOR",
-    "estoque": "27",
+    "estoque": "22",
     "preco": "1,89"
   },
   {
@@ -140572,7 +140540,7 @@
     "fabric": "IP0003",
     "marca": "RT",
     "nome": "PUNHO LUZ TITAN 150 ES/ESD- FAN 125 ES 09 / FAN 150 ESI RT",
-    "estoque": "49",
+    "estoque": "48",
     "preco": "22,58"
   },
   {
@@ -142196,7 +142164,7 @@
     "fabric": "331706",
     "marca": "MELC",
     "nome": "RABETA TITAN 02/03 VERDE MELC (331706)",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "55,98"
   },
   {
@@ -144104,14 +144072,6 @@
     "preco": "180,38"
   },
   {
-    "codigo": "22840",
-    "fabric": "35485",
-    "marca": "JEC PRO",
-    "nome": "REGULADOR /RETIFICADOR FALCON 06/08 JEC PRO",
-    "estoque": "0",
-    "preco": "152,84"
-  },
-  {
     "codigo": "19173",
     "fabric": "90271290",
     "marca": "MAGNETRON",
@@ -144166,14 +144126,6 @@
     "nome": "REGULADOR /RETIFICADOR FAZER 250 10/17 TMAC",
     "estoque": "2",
     "preco": "136,54"
-  },
-  {
-    "codigo": "34292",
-    "fabric": "",
-    "marca": "SERVITEC",
-    "nome": "REGULADOR /RETIFICADOR FAZER 250 ATE 09  SERVITEC",
-    "estoque": "0",
-    "preco": "46,28"
   },
   {
     "codigo": "15219",
@@ -144240,14 +144192,6 @@
     "preco": "120,75"
   },
   {
-    "codigo": "28773",
-    "fabric": "37216",
-    "marca": "KGA",
-    "nome": "REGULADOR /RETIFICADOR LEAD 110 KGA",
-    "estoque": "0",
-    "preco": "186,53"
-  },
-  {
     "codigo": "25575",
     "fabric": "TM155",
     "marca": "TMAC",
@@ -144312,14 +144256,6 @@
     "preco": "0"
   },
   {
-    "codigo": "24140",
-    "fabric": "35758",
-    "marca": "JEC PRO",
-    "nome": "REGULADOR /RETIFICADOR TITAN 02/04 / FAN / NXR 125/1250 / BROS JEC PRO",
-    "estoque": "0",
-    "preco": "35,91"
-  },
-  {
     "codigo": "6865",
     "fabric": "90271370",
     "marca": "MAGNETRON",
@@ -144334,14 +144270,6 @@
     "nome": "REGULADOR /RETIFICADOR TITAN 150 / NXR 150 BROS 06 / FAN 09 TMAC",
     "estoque": "7",
     "preco": "18,38"
-  },
-  {
-    "codigo": "33361",
-    "fabric": "35869",
-    "marca": "JEC PRO",
-    "nome": "REGULADOR /RETIFICADOR TITAN 160/FAN 160/START 160 JEC PRO",
-    "estoque": "0",
-    "preco": "163,65"
   },
   {
     "codigo": "2806",
@@ -144510,14 +144438,6 @@
     "nome": "REGULADOR /RETIFICADOR YES 125 09/14/INTRUDER 125 09/14 TMAC",
     "estoque": "3",
     "preco": "71"
-  },
-  {
-    "codigo": "9426",
-    "fabric": "50045.1",
-    "marca": "CEMOPAR",
-    "nome": "REGULADOR CABOS CG/TITAN ATE 2001 CEMOPAR (LONGO)",
-    "estoque": "0",
-    "preco": "4,83"
   },
   {
     "codigo": "42931",
@@ -145380,7 +145300,7 @@
     "fabric": "TM177",
     "marca": "TMAC",
     "nome": "RELE PISCA TITAN 150 /FAN 150 14 TMAC",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "11,19"
   },
   {
@@ -149260,7 +149180,7 @@
     "fabric": "4776",
     "marca": "GVS",
     "nome": "RETROVISOR BIZ 125/POP/BROS 09 PAR GVS COMBATE",
-    "estoque": "66",
+    "estoque": "65",
     "preco": "24,68"
   },
   {
@@ -150676,7 +150596,7 @@
     "fabric": "4770",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150 PAR GVS",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "23,63"
   },
   {
