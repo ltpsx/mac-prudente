@@ -8292,7 +8292,7 @@
     "fabric": "01010B",
     "marca": "RAIOM",
     "nome": "BATERIA RTX10-BS RAIOM",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "301,88"
   },
   {
@@ -8500,7 +8500,7 @@
     "fabric": "BP-03FM",
     "marca": "TORK",
     "nome": "BAULETO TORK SMART BOX 2 PRETO 28 LITROS (LENTE FUME)",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "99,74"
   },
   {
@@ -8508,7 +8508,7 @@
     "fabric": "BP-03",
     "marca": "TORK",
     "nome": "BAULETO TORK SMART BOX 2 PRETO 28 LITROS (LENTE VERMELHA)",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "99,74"
   },
   {
@@ -8516,7 +8516,7 @@
     "fabric": "BP-09FM",
     "marca": "TORK",
     "nome": "BAULETO TORK SMART BOX 2 PRETO 45 LITROS (LENTE FUME)",
-    "estoque": "0",
+    "estoque": "8",
     "preco": "155,4"
   },
   {
@@ -8524,7 +8524,7 @@
     "fabric": "BP-09",
     "marca": "TORK",
     "nome": "BAULETO TORK SMART BOX 2 PRETO 45 LITROS (LENTE VERMELHA)",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "155,4"
   },
   {
@@ -8540,7 +8540,7 @@
     "fabric": "BP-11PT",
     "marca": "TORK",
     "nome": "BAULETO TORK SMART BOX 3 PRETO 52 LITROS",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "341,25"
   },
   {
@@ -8556,7 +8556,7 @@
     "fabric": "BP-11VM",
     "marca": "TORK",
     "nome": "BAULETO TORK SMART BOX 3 VERMELHO 52 LITROS",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "341,25"
   },
   {
@@ -18092,7 +18092,7 @@
     "fabric": "TM1431",
     "marca": "TMAC",
     "nome": "BUJAO OLEO CG/TOD/TIT/CBX 200 TMAC C/ANEL + MOLA + PENEIRA",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "6,29"
   },
   {
@@ -31468,7 +31468,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "144",
+    "estoque": "142",
     "preco": "15,23"
   },
   {
@@ -31612,7 +31612,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "940",
+    "estoque": "936",
     "preco": "15,74"
   },
   {
@@ -31732,7 +31732,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "195",
+    "estoque": "193",
     "preco": "15,23"
   },
   {
@@ -31804,7 +31804,7 @@
     "fabric": "KOI0290",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TORNADO/XT/CB MOTOKOI 4.10-18 120/80-18",
-    "estoque": "50",
+    "estoque": "48",
     "preco": "18,89"
   },
   {
@@ -35348,7 +35348,7 @@
     "fabric": "1004001132",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER G",
-    "estoque": "137",
+    "estoque": "135",
     "preco": "89,24"
   },
   {
@@ -36736,14 +36736,6 @@
     "preco": "542,2"
   },
   {
-    "codigo": "28513",
-    "fabric": "",
-    "marca": "AXXIS",
-    "nome": "CAPACETE AXXIS EAGLE SNAKE",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "31046",
     "fabric": "",
     "marca": "AXXIS",
@@ -36782,14 +36774,6 @@
     "nome": "CAPACETE AXXIS EAGLE SNAKE PRETO FOSCO/CINZA 61/62",
     "estoque": "0",
     "preco": "542,2"
-  },
-  {
-    "codigo": "48300",
-    "fabric": "",
-    "marca": "AXXIS",
-    "nome": "CAPACETE AXXIS EAGLE SNAKE PRETO/ROSA 54",
-    "estoque": "0",
-    "preco": "523,95"
   },
   {
     "codigo": "32818",
@@ -40972,7 +40956,7 @@
     "fabric": "1271060P05",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/VERMELHO 60",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "124,95"
   },
   {
@@ -60140,7 +60124,7 @@
     "fabric": "TM466",
     "marca": "TMAC",
     "nome": "CILINDRO MESTRE FREIO TITAN 2000/TITAN 150/TITAN 160/CBX 200/CBX 250 SUPERIOR TMAC",
-    "estoque": "50",
+    "estoque": "49",
     "preco": "47,78"
   },
   {
@@ -64532,7 +64516,7 @@
     "fabric": "TM206",
     "marca": "TMAC",
     "nome": "CORRENTE TRANSMISSAO 520UO X 120L TMAC C/RETENTOR",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "163,82"
   },
   {
@@ -65092,7 +65076,7 @@
     "fabric": "14002-BK",
     "marca": "MOTOKOI BR",
     "nome": "COXIM COROA TITAN 150 MOTOKOI (4 PCS) COMBATE",
-    "estoque": "341",
+    "estoque": "340",
     "preco": "5,73"
   },
   {
@@ -67508,7 +67492,7 @@
     "fabric": "1018631",
     "marca": "WGK",
     "nome": "DISCO EMBREAGEM YBR 125/XTZ 125 WGK",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "26,01"
   },
   {
@@ -71044,7 +71028,7 @@
     "fabric": "1015",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 1,50 M UNIVERSAL C/ GANCHO FERRO MS EXTENSOR",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "4,19"
   },
   {
@@ -71068,7 +71052,7 @@
     "fabric": "1007",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 1,50 M UNIVERSAL C/ GANCHO PASTICO MS EXTENSOR",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "3,68"
   },
   {
@@ -71092,7 +71076,7 @@
     "fabric": "1016",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 2,00 M UNIVERSAL C/ GANCHO FERRO MS EXTENSOR",
-    "estoque": "0",
+    "estoque": "40",
     "preco": "4,73"
   },
   {
@@ -71124,7 +71108,7 @@
     "fabric": "1008",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 2,00 M UNIVERSAL C/ GANCHO PLASTICO MS EXTENSOR",
-    "estoque": "0",
+    "estoque": "40",
     "preco": "4,19"
   },
   {
@@ -71148,7 +71132,7 @@
     "fabric": "1480",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 3,00 M UNIVERSAL C/ GANCHO PLASTICO MS EXTENSOR",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "6,29"
   },
   {
@@ -71172,7 +71156,7 @@
     "fabric": "136",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 4,00 M UNIVERSAL C/ GANCHO PLASTICO MS EXTENSOR",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "7,88"
   },
   {
@@ -76740,7 +76724,7 @@
     "fabric": "100502702",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO FAZER 150 13/15/FACTOR 150 16 ED/FACTOR 125I 17 ED POLIMET MACICO",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "106,01"
   },
   {
@@ -76876,7 +76860,7 @@
     "fabric": "100500702",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 150 04/15/FAN 125 09 ED POLIMET TUBULAR",
-    "estoque": "24",
+    "estoque": "23",
     "preco": "39,89"
   },
   {
@@ -76884,7 +76868,7 @@
     "fabric": "100501902",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 150 04/15/FAN 125 09 ED POLIMET TUBULAR C/PROTETOR PE",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "41,99"
   },
   {
@@ -80436,7 +80420,7 @@
     "fabric": "KOI0355",
     "marca": "MOTOKOI",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX MOTOKOI",
-    "estoque": "248",
+    "estoque": "246",
     "preco": "4,19"
   },
   {
@@ -87068,7 +87052,7 @@
     "fabric": "90235310",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR PARTIDA TWISTER 06/08  MAGNETRON",
-    "estoque": "7",
+    "estoque": "8",
     "preco": "93,45"
   },
   {
@@ -96780,7 +96764,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "300",
+    "estoque": "299",
     "preco": "62,99"
   },
   {
@@ -97372,7 +97356,7 @@
     "fabric": "H03868XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO FAN 125 09 VAZ (43/14/428HX116L) H03868XS",
-    "estoque": "68",
+    "estoque": "66",
     "preco": "62,99"
   },
   {
@@ -97516,7 +97500,7 @@
     "fabric": "001-KOI-103H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FZ 15 FAZER MOTOKOI (41/14/428HX128L)",
-    "estoque": "9",
+    "estoque": "10",
     "preco": "69,99"
   },
   {
@@ -97956,7 +97940,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "501",
+    "estoque": "498",
     "preco": "62,99"
   },
   {
@@ -98028,7 +98012,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "539",
+    "estoque": "536",
     "preco": "62,99"
   },
   {
@@ -98844,7 +98828,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "268",
+    "estoque": "267",
     "preco": "28,51"
   },
   {
@@ -101964,7 +101948,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "641",
+    "estoque": "637",
     "preco": "31,49"
   },
   {
@@ -101996,7 +101980,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "1358",
+    "estoque": "1354",
     "preco": "25,19"
   },
   {
@@ -102148,7 +102132,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "477",
+    "estoque": "474",
     "preco": "38,3"
   },
   {
@@ -135116,7 +135100,7 @@
     "fabric": "100663",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREET MF7 TT",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "100,79"
   },
   {
@@ -136292,7 +136276,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "79",
+    "estoque": "78",
     "preco": "130,2"
   },
   {
@@ -143516,7 +143500,7 @@
     "fabric": "1103",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA PRETO 42 X 42 MS EXTENSOR",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "12,59"
   },
   {
@@ -152564,7 +152548,7 @@
     "fabric": "TP1102",
     "marca": "TMAC",
     "nome": "SENSOR HÍBRIDO TITAN 150 [09]/MIX/FLEX/FAN 150/BROS150 09/MIX/FLEX/BIZ 125 MIX / FLEX TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "158,4"
   },
   {
@@ -154580,7 +154564,7 @@
     "fabric": "146",
     "marca": "PROJETIL",
     "nome": "SUPORTE MOLA CAVALETE CENTRAL CG/TODAY/TITAN PROJETIL",
-    "estoque": "88",
+    "estoque": "87",
     "preco": "6,29"
   },
   {
@@ -166372,7 +166356,7 @@
     "fabric": "1744F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TORK NEW LIBERTY 3 FUME POLIVISOR",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "31,49"
   },
   {
