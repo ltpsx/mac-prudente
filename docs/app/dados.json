@@ -1812,7 +1812,7 @@
     "fabric": "109590",
     "marca": "MOTUL",
     "nome": "ADITIVO P/ RADIADOR MOTUL MOTOCOOL EXPERT -37ºC",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "47,78"
   },
   {
@@ -8260,7 +8260,7 @@
     "fabric": "MTX5L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ/TITAN 2000 ES/TITAN150 KS 125 MTX5L-BS MOTOKOI",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "99,23"
   },
   {
@@ -8412,7 +8412,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "69",
+    "estoque": "68",
     "preco": "133,22"
   },
   {
@@ -31556,7 +31556,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "80",
+    "estoque": "79",
     "preco": "15,23"
   },
   {
@@ -37452,7 +37452,7 @@
     "fabric": "1259058PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO SOLID PRETO FOSCO 58",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "124,96"
   },
   {
@@ -44660,7 +44660,7 @@
     "fabric": "10013434",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 60",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "178,49"
   },
   {
@@ -67076,7 +67076,7 @@
     "fabric": "11581000510",
     "marca": "TEKBOND",
     "nome": "DESENGRIPANTE SPRAY TEKBOND 300ML",
-    "estoque": "45",
+    "estoque": "44",
     "preco": "12,72"
   },
   {
@@ -71500,7 +71500,7 @@
     "fabric": "1015",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 1,50 M UNIVERSAL C/ GANCHO FERRO MS EXTENSOR",
-    "estoque": "27",
+    "estoque": "23",
     "preco": "4,19"
   },
   {
@@ -72812,7 +72812,7 @@
     "fabric": "TM313",
     "marca": "TMAC",
     "nome": "ENGRENAGEM + PINHAO DO VELOCIMETRO TITAN 150 KS FERRO TMAC",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "8,64"
   },
   {
@@ -79684,7 +79684,7 @@
     "fabric": "ARM446/1",
     "marca": "TECFIL",
     "nome": "FILTRO AR TIT 125-150 09-13/BIZ 110I/POP 110/NXR125-150-160/XRE190 TECFIL",
-    "estoque": "82",
+    "estoque": "81",
     "preco": "7,34"
   },
   {
@@ -80156,7 +80156,7 @@
     "fabric": "GI79",
     "marca": "TECFIL",
     "nome": "FILTRO COMBUSTIVEL BROS/XRE GASOLINA TECFIL",
-    "estoque": "9",
+    "estoque": "10",
     "preco": "13,09"
   },
   {
@@ -80524,7 +80524,7 @@
     "fabric": "OC1019",
     "marca": "MAHLE",
     "nome": "FILTRO OLEO CB 500/HORNET/NINJA 300 MAHLE",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "20,99"
   },
   {
@@ -80692,7 +80692,7 @@
     "fabric": "FVC015",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO FAZER 250/LANDER VEDAMOTORS",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "14,69"
   },
   {
@@ -83884,7 +83884,7 @@
     "fabric": "VE05016001045",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "279",
+    "estoque": "278",
     "preco": "5,78"
   },
   {
@@ -85756,7 +85756,7 @@
     "fabric": "100411201",
     "marca": "POLIMET",
     "nome": "GUIDAO PCX 150 16/22 CROMADO POLIMET",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "73,49"
   },
   {
@@ -97196,7 +97196,7 @@
     "fabric": "49375589",
     "marca": "GLOBAL WAY",
     "nome": "KIT TRANSMISSAO BIZ 125 GLOBAL WAY (34/14/428HX106L)",
-    "estoque": "70",
+    "estoque": "67",
     "preco": "46,2"
   },
   {
@@ -97636,7 +97636,7 @@
     "fabric": "001-KOI-082H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO CRYPTON 115 11 MOTOKOI (41/15/428HX108L)",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "70,35"
   },
   {
@@ -97780,7 +97780,7 @@
     "fabric": "49375591",
     "marca": "GLOBAL WAY",
     "nome": "KIT TRANSMISSAO FAN 125 09 GLOBAL WAY (43/14/428HX116L)",
-    "estoque": "13",
+    "estoque": "10",
     "preco": "46,2"
   },
   {
@@ -98364,7 +98364,7 @@
     "fabric": "49375592",
     "marca": "GLOBAL WAY",
     "nome": "KIT TRANSMISSAO TITAN 150 GLOBAL WAY (43/16/428HX118)",
-    "estoque": "160",
+    "estoque": "156",
     "preco": "46,2"
   },
   {
@@ -98428,7 +98428,7 @@
     "fabric": "49375593",
     "marca": "GLOBAL WAY",
     "nome": "KIT TRANSMISSAO TITAN 160 GLOBAL WAY (44/15/428HX118L)",
-    "estoque": "49",
+    "estoque": "37",
     "preco": "46,2"
   },
   {
@@ -98492,7 +98492,7 @@
     "fabric": "49389910",
     "marca": "GLOBAL WAY",
     "nome": "KIT TRANSMISSAO TITAN 2000 GLOBAL WAY (44/14/428HX116)",
-    "estoque": "8",
+    "estoque": "4",
     "preco": "46,2"
   },
   {
@@ -98988,7 +98988,7 @@
     "fabric": "S00182XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO YES 125 VAZ (43/X14/4284HX116L) S00182XS",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "62,99"
   },
   {
@@ -102372,7 +102372,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "264",
+    "estoque": "260",
     "preco": "29,39"
   },
   {
@@ -102388,7 +102388,7 @@
     "fabric": "4407",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 20W50 SL",
-    "estoque": "821",
+    "estoque": "819",
     "preco": "22,04"
   },
   {
@@ -102420,7 +102420,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "3725",
+    "estoque": "3721",
     "preco": "31,49"
   },
   {
@@ -102452,7 +102452,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "3530",
+    "estoque": "3526",
     "preco": "25,19"
   },
   {
@@ -102492,7 +102492,7 @@
     "fabric": "",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 20W50",
-    "estoque": "55",
+    "estoque": "53",
     "preco": "43,58"
   },
   {
@@ -102508,7 +102508,7 @@
     "fabric": "104078",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 10W40",
-    "estoque": "74",
+    "estoque": "72",
     "preco": "60,38"
   },
   {
@@ -105356,7 +105356,7 @@
     "fabric": "P-1039",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM NX200 / XR200 PROTEC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "10,49"
   },
   {
@@ -106908,7 +106908,7 @@
     "fabric": "KOI0152",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI C/PUNHO PROTECAO UV PRETO G",
-    "estoque": "61",
+    "estoque": "60",
     "preco": "18,38"
   },
   {
@@ -106916,7 +106916,7 @@
     "fabric": "KOI0151",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI C/PUNHO PROTECAO UV PRETO M",
-    "estoque": "88",
+    "estoque": "87",
     "preco": "18,38"
   },
   {
@@ -116836,7 +116836,7 @@
     "fabric": "303000",
     "marca": "MELC",
     "nome": "PARALAMA DIANT BIZ 125 05/06 VERMELHO MELC (303000)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "52,29"
   },
   {
@@ -124068,7 +124068,7 @@
     "fabric": "302CP",
     "marca": "COBREQ",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS COBREQ 302CP",
-    "estoque": "80",
+    "estoque": "78",
     "preco": "31,49"
   },
   {
@@ -135620,7 +135620,7 @@
     "fabric": "100648",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 2.75-18 MAGGION WINNER TT",
-    "estoque": "47",
+    "estoque": "46",
     "preco": "125,98"
   },
   {
@@ -135716,7 +135716,7 @@
     "fabric": "100663",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREET MF7 TT",
-    "estoque": "67",
+    "estoque": "66",
     "preco": "100,79"
   },
   {
@@ -136612,7 +136612,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 170/60-17 MICHELIN ANAKEE ADVENTURE 72V TL/TT",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "1627,5"
   },
   {
@@ -136684,7 +136684,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 190/55-17 MICHELIN PILOT POWER 2CT REAR TL ZR 75W",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "1312,5"
   },
   {
@@ -138476,7 +138476,7 @@
     "fabric": "TM7209",
     "marca": "TMAC",
     "nome": "PRISIONEIRO COROA TITAN 150/FAN 09/TWISTER/CB 300 TMAC (KIT 4 PCS)",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "7,2"
   },
   {
@@ -143084,7 +143084,7 @@
     "fabric": "333711",
     "marca": "MELC",
     "nome": "RABETA TITAN 150 11 MIX/FAN AMARELO MELC (333711)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "94,49"
   },
   {
@@ -151876,7 +151876,7 @@
     "fabric": "562045",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6301 RODA DIANT CG/XLS/STR C/ 1 BLIND NACHI",
-    "estoque": "83",
+    "estoque": "81",
     "preco": "26,76"
   },
   {
@@ -157620,7 +157620,7 @@
     "fabric": "323702",
     "marca": "MELC",
     "nome": "TAMPA LATERAL FAN 150 09/10 PRETO MELC (323702)",
-    "estoque": "4",
+    "estoque": "5",
     "preco": "63,8"
   },
   {
@@ -162324,7 +162324,7 @@
     "fabric": "23004K",
     "marca": "MOTOKOI BR",
     "nome": "VARAO FREIO TITAN 00 MOTOKOI",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "10,49"
   },
   {
