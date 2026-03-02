@@ -2052,7 +2052,7 @@
     "fabric": "20256",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE YBR FACTOR/XTZ 125/NEO 110/INTRUDER 125 SIVERST",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "18,49"
   },
   {
@@ -2068,7 +2068,7 @@
     "fabric": "20088",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE YBR/ XTZ/ YES INTRUDER 125 00/08 SIVERST",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "19,05"
   },
   {
@@ -5364,7 +5364,7 @@
     "fabric": "22330K",
     "marca": "MOTOKOI BR",
     "nome": "ARRUELA BUJAO OLEO TITAN 150/BIZ/YBR 12MM MOTOKOI",
-    "estoque": "383",
+    "estoque": "382",
     "preco": "0,39"
   },
   {
@@ -6876,7 +6876,7 @@
     "fabric": "100201201",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO TITAN 150 04/08 CROMADO REFORCADO POLIMET",
-    "estoque": "3",
+    "estoque": "4",
     "preco": "118,69"
   },
   {
@@ -8644,7 +8644,7 @@
     "fabric": "BP-03",
     "marca": "TORK",
     "nome": "BAULETO TORK SMART BOX 2 PRETO 28 LITROS (LENTE VERMELHA)",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "99,74"
   },
   {
@@ -8772,7 +8772,7 @@
     "fabric": "LBJ040",
     "marca": "LBJ",
     "nome": "BICO INJETOR BIZ 125 11/17 LBJ (6 FUROS)",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "120,75"
   },
   {
@@ -15252,7 +15252,7 @@
     "fabric": "44084K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA PEDALEIRA TITAN 160 DIANT MOTOKOI (PAR)",
-    "estoque": "364",
+    "estoque": "363",
     "preco": "9,44"
   },
   {
@@ -31836,7 +31836,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "575",
+    "estoque": "574",
     "preco": "15,74"
   },
   {
@@ -32676,7 +32676,7 @@
     "fabric": "KOI0184",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BIZ 125 09/17 MOTOKOI",
-    "estoque": "55",
+    "estoque": "53",
     "preco": "22,58"
   },
   {
@@ -64508,7 +64508,7 @@
     "fabric": "C257",
     "marca": "CORAMI",
     "nome": "CORRENTE COMANDO XR250TORNADO(01-08)/TWISTER(01-08)/CB300R(10-)/XR300E(10-)  126 L CORAMI",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "43,25"
   },
   {
@@ -66268,7 +66268,7 @@
     "fabric": "VE99065000959",
     "marca": "VEDAMOTORS",
     "nome": "COXIM TAMPA VALVULA TITAN/FAN 125/150 2004/11 VEDAMOTORS",
-    "estoque": "687",
+    "estoque": "667",
     "preco": "4,19"
   },
   {
@@ -76732,7 +76732,7 @@
     "fabric": "23518K",
     "marca": "MOTOKOI BR",
     "nome": "ESTICADOR CORRENTE BIZ MOTOKOI",
-    "estoque": "68",
+    "estoque": "66",
     "preco": "2,63"
   },
   {
@@ -80852,7 +80852,7 @@
     "fabric": "FVC015",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO FAZER 250/LANDER VEDAMOTORS",
-    "estoque": "39",
+    "estoque": "38",
     "preco": "14,69"
   },
   {
@@ -81076,7 +81076,7 @@
     "fabric": "FVC022",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX VEDAMOTORS",
-    "estoque": "48",
+    "estoque": "47",
     "preco": "10,49"
   },
   {
@@ -84436,7 +84436,7 @@
     "fabric": "TC3513",
     "marca": "TMAC",
     "nome": "GUIA CORRENTE COMANDO TWISTER/TORNADO TMAC",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "10,49"
   },
   {
@@ -85492,7 +85492,7 @@
     "fabric": "C1518",
     "marca": "CORAMI",
     "nome": "GUIA VALVULA YES 125 05/12 EN CORAMI",
-    "estoque": "4",
+    "estoque": "2",
     "preco": "8,73"
   },
   {
@@ -86252,7 +86252,7 @@
     "fabric": "100406822",
     "marca": "POLIMET",
     "nome": "GUIDAO XRE 300 GRAFITE POLIMET",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "56,95"
   },
   {
@@ -94620,7 +94620,7 @@
     "fabric": "VS05004000193",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TWISTER VEDAMOTORS",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "6,02"
   },
   {
@@ -99988,7 +99988,7 @@
     "fabric": "TL006",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA TITAN 00 KS / ES  ESMAGADA 12V 16W  TMAC T15",
-    "estoque": "129",
+    "estoque": "128",
     "preco": "0,72"
   },
   {
@@ -102532,7 +102532,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "246",
+    "estoque": "244",
     "preco": "29,39"
   },
   {
@@ -102580,7 +102580,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "3687",
+    "estoque": "3686",
     "preco": "31,49"
   },
   {
@@ -102756,7 +102756,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "436",
+    "estoque": "435",
     "preco": "38,3"
   },
   {
@@ -115532,7 +115532,7 @@
     "fabric": "21550K",
     "marca": "MOTOKOI BR",
     "nome": "PARAFUSO BANCO TITAN 150 MOTOKOI",
-    "estoque": "56",
+    "estoque": "54",
     "preco": "2,24"
   },
   {
@@ -116356,7 +116356,7 @@
     "fabric": "10244 NC",
     "marca": "SIVERST",
     "nome": "PARAFUSO REGULAGEM AR TITAN 150/BROS 150 SIVERST",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "12,57"
   },
   {
@@ -120700,7 +120700,7 @@
     "fabric": "302101",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TWISTER 03/06/07/08  PRETO F. MAIOR MELC (302101)",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "91,97"
   },
   {
@@ -124356,7 +124356,7 @@
     "fabric": "KOI-00100 A",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS MOTOKOI BR",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "15,74"
   },
   {
@@ -124388,7 +124388,7 @@
     "fabric": "KOI-00100 B",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,50 DIANT/TRAS MOTOKOI BR",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "15,74"
   },
   {
@@ -130236,7 +130236,7 @@
     "fabric": "6657",
     "marca": "GVS",
     "nome": "PISCA TITAN 2000/XRE300/CB300R DD/TE COMPLETO C/ COXIM LARANJA GVS S/LAMPADA COMBATE",
-    "estoque": "65",
+    "estoque": "64",
     "preco": "10,8"
   },
   {
@@ -135796,7 +135796,7 @@
     "fabric": "82223",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 2.75-17 LEVORIN DAKAR 2 TL 47P",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "233,32"
   },
   {
@@ -150868,7 +150868,7 @@
     "fabric": "4901",
     "marca": "GVS",
     "nome": "RETROVISOR MINI REDONDO PAR  HONDA CROMADO GVS",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "31,49"
   },
   {
@@ -160060,7 +160060,7 @@
     "fabric": "TC4511",
     "marca": "TMAC",
     "nome": "TENSOR CORRENTE COMANDO TWISTER/TORNADO TMAC",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "15,23"
   },
   {
