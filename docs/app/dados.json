@@ -18428,7 +18428,7 @@
     "fabric": "KOI0316",
     "marca": "MOTOKOI",
     "nome": "BUZINA CG/TITAN 12V MOTOKOI",
-    "estoque": "8",
+    "estoque": "5",
     "preco": "7,34"
   },
   {
@@ -20276,7 +20276,7 @@
     "fabric": "TM5039",
     "marca": "TMAC",
     "nome": "CABO ACELERADOR FALCON \"B\" TMAC",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "9,02"
   },
   {
@@ -30892,7 +30892,7 @@
     "fabric": "TM560",
     "marca": "TMAC",
     "nome": "CAIXA DIRECAO COLAR CG/TITAN TMAC",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "16,24"
   },
   {
@@ -31836,7 +31836,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "517",
+    "estoque": "512",
     "preco": "15,74"
   },
   {
@@ -35636,7 +35636,7 @@
     "fabric": "KOI0317",
     "marca": "MOTOKOI",
     "nome": "CAPA IMPERMEAVEL BANCO P/ MOTO EGG MOTOKOI",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "15,74"
   },
   {
@@ -44724,7 +44724,7 @@
     "fabric": "",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO FEMME PRETO 58",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "178,49"
   },
   {
@@ -46364,7 +46364,7 @@
     "fabric": "TM401",
     "marca": "TMAC",
     "nome": "CARBURADOR TITAN 150 04/08 TMAC",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "86,51"
   },
   {
@@ -60724,7 +60724,7 @@
     "fabric": "TM466",
     "marca": "TMAC",
     "nome": "CILINDRO MESTRE FREIO TITAN 2000/TITAN 150/TITAN 160/CBX 200/CBX 250 SUPERIOR TMAC",
-    "estoque": "31",
+    "estoque": "30",
     "preco": "47,78"
   },
   {
@@ -76916,7 +76916,7 @@
     "fabric": "23520",
     "marca": "MOTOBOR",
     "nome": "ESTICADOR CORRENTE TITAN 150 MOTOBOR",
-    "estoque": "93",
+    "estoque": "91",
     "preco": "2,73"
   },
   {
@@ -80516,7 +80516,7 @@
     "fabric": "TM0985",
     "marca": "TMAC",
     "nome": "FILTRO COMBUSTIVEL UNIVERSAL TMAC",
-    "estoque": "814",
+    "estoque": "813",
     "preco": "2,09"
   },
   {
@@ -82020,7 +82020,7 @@
     "fabric": "TM0574",
     "marca": "TMAC",
     "nome": "FUSIVEL 20A LAMINA TMAC",
-    "estoque": "4860",
+    "estoque": "4858",
     "preco": "0,68"
   },
   {
@@ -82836,7 +82836,7 @@
     "fabric": "10013120",
     "marca": "SIVERST",
     "nome": "GICLEUR Nº 120 TITAN 150 08/STRADA SIVERST",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "6,33"
   },
   {
@@ -91860,7 +91860,7 @@
     "fabric": "VS05700000170",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS CG/TODAY/TITAN 99 CDI VEDAMOTORS",
-    "estoque": "24",
+    "estoque": "23",
     "preco": "30,45"
   },
   {
@@ -93112,14 +93112,6 @@
     "preco": "32,76"
   },
   {
-    "codigo": "25976",
-    "fabric": "KC-CG160T4",
-    "marca": "DDL",
-    "nome": "JOGO RAIO TRAS TITAN 160 DDL 4 MM",
-    "estoque": "0",
-    "preco": "50,4"
-  },
-  {
     "codigo": "1433",
     "fabric": "RAIO02ET",
     "marca": "BONNA",
@@ -94268,7 +94260,7 @@
     "fabric": "VS05003000103",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO CG/ML/TUR/XL125/CBX/NX150 VEDAMOTORS",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "8,12"
   },
   {
@@ -94372,7 +94364,7 @@
     "fabric": "VS05003010301",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 150/BROS 150 06/07 VEDAMOTORS",
-    "estoque": "97",
+    "estoque": "94",
     "preco": "8,64"
   },
   {
@@ -99524,7 +99516,7 @@
     "fabric": "TL004",
     "marca": "TMAC",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO TMAC",
-    "estoque": "1429",
+    "estoque": "1417",
     "preco": "1,4"
   },
   {
@@ -99964,7 +99956,7 @@
     "fabric": "TL003",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA CG 125 12X10W TMAC",
-    "estoque": "80",
+    "estoque": "60",
     "preco": "0,83"
   },
   {
@@ -102556,7 +102548,7 @@
     "fabric": "4407",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 20W50 SL",
-    "estoque": "716",
+    "estoque": "712",
     "preco": "22,04"
   },
   {
@@ -102588,7 +102580,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "3630",
+    "estoque": "3629",
     "preco": "31,49"
   },
   {
@@ -102628,7 +102620,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "729",
+    "estoque": "723",
     "preco": "34,64"
   },
   {
@@ -102764,7 +102756,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "427",
+    "estoque": "426",
     "preco": "38,3"
   },
   {
@@ -130244,7 +130236,7 @@
     "fabric": "6657",
     "marca": "GVS",
     "nome": "PISCA TITAN 2000/XRE300/CB300R DD/TE COMPLETO C/ COXIM LARANJA GVS S/LAMPADA COMBATE",
-    "estoque": "64",
+    "estoque": "61",
     "preco": "10,8"
   },
   {
@@ -130340,7 +130332,7 @@
     "fabric": "6658",
     "marca": "GVS",
     "nome": "PISCA TITAN 2000/XRE300/CB300R DE/TD COMPLETO C/ COXIM LARANJA GVS S/LAMPADA COMBATE",
-    "estoque": "34",
+    "estoque": "32",
     "preco": "10,8"
   },
   {
@@ -135868,7 +135860,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "327",
+    "estoque": "326",
     "preco": "109,2"
   },
   {
@@ -137100,7 +137092,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "217",
+    "estoque": "216",
     "preco": "124,95"
   },
   {
@@ -147572,7 +147564,7 @@
     "fabric": "1101753",
     "marca": "MOTOPORT",
     "nome": "RETENTOR BENGALA CG/ML/TUR 125 99/ BIZ 100/125/FAN 125 09",
-    "estoque": "39",
+    "estoque": "37",
     "preco": "2,63"
   },
   {
@@ -148156,7 +148148,7 @@
     "fabric": "512N",
     "marca": "CORTECO",
     "nome": "RETENTOR CAMBIO CG/TITAN CORTECO",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "13,64"
   },
   {
@@ -148172,7 +148164,7 @@
     "fabric": "12005K",
     "marca": "MOTOKOI BR",
     "nome": "RETENTOR CAMBIO CG/TITAN MOTOKOI",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "2,05"
   },
   {
@@ -151892,7 +151884,7 @@
     "fabric": "KOI0396",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6004 COROA TITAN 150 MOTOKOI",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "5,24"
   },
   {
@@ -151996,7 +151988,7 @@
     "fabric": "",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6202 ZZE RODA TRAS CG/TITAN C/ 2 BLIND NACHI",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "22,05"
   },
   {
@@ -152132,7 +152124,7 @@
     "fabric": "TM980",
     "marca": "TMAC",
     "nome": "ROLAMENTO 6301-RS CROMO RODA DIANT. CG TMAC",
-    "estoque": "90",
+    "estoque": "88",
     "preco": "4,19"
   },
   {
@@ -152156,7 +152148,7 @@
     "fabric": "TM981",
     "marca": "TMAC",
     "nome": "ROLAMENTO 6302-RS CROMO RODA TRAS. CG TMAC",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "5,24"
   },
   {
@@ -152164,7 +152156,7 @@
     "fabric": "6302 ZE",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6302-ZE CROMO RODA TRAS. CG C/ BLIND NACHI",
-    "estoque": "50",
+    "estoque": "49",
     "preco": "29,88"
   },
   {
