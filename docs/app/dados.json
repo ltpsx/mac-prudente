@@ -25916,7 +25916,7 @@
     "fabric": "KOI0092",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM TITAN 160/FAN 160 MOTOKOI",
-    "estoque": "45",
+    "estoque": "44",
     "preco": "9,92"
   },
   {
@@ -44796,7 +44796,7 @@
     "fabric": "10013433",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 58",
-    "estoque": "79",
+    "estoque": "78",
     "preco": "178,49"
   },
   {
@@ -62260,7 +62260,7 @@
     "fabric": "200369",
     "marca": "PLASMOTO",
     "nome": "COMPLEMENTO ABA TANQUE TITAN 160 22 INTERNA (DEFLETOR) PLASMOTO",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "47,25"
   },
   {
@@ -84120,6 +84120,14 @@
     "preco": "23,63"
   },
   {
+    "codigo": "52894",
+    "fabric": "133700",
+    "marca": "MELC",
+    "nome": "GUIA CABO VELOCIMETRO TITAN 2000 150 09 ED/TITAN 150 14 MELC",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "16054",
     "fabric": "25460",
     "marca": "TRILHA",
@@ -84134,6 +84142,14 @@
     "nome": "GUIA CABO VELOCIMETRO TITAN 2000 E ACIMA: BIZ/CG125/TITAN 125 FABRECK",
     "estoque": "1",
     "preco": "2,51"
+  },
+  {
+    "codigo": "52893",
+    "fabric": "131700",
+    "marca": "MELC",
+    "nome": "GUIA CABO VELOCIMETRO TITAN 2000 E ACIMA: BIZ/CG125/TITAN 125 MELC",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "45559",
@@ -84166,6 +84182,14 @@
     "nome": "GUIA CABO VELOCIMETRO TODAY/TITAN 99 PRETO JOJAFER",
     "estoque": "32",
     "preco": "5,24"
+  },
+  {
+    "codigo": "52895",
+    "fabric": "131900",
+    "marca": "MELC",
+    "nome": "GUIA CABO VELOCIMETRO YBR 125/YBR FACTOR MELC",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "25619",
@@ -98668,7 +98692,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "353",
+    "estoque": "352",
     "preco": "62,99"
   },
   {
@@ -127092,7 +127116,7 @@
     "fabric": "45001K",
     "marca": "MOTOKOI BR",
     "nome": "PEDALEIRA TITAN 160/FAN 160 MOTOKOI ESQ",
-    "estoque": "28",
+    "estoque": "27",
     "preco": "14,43"
   },
   {
@@ -151372,7 +151396,7 @@
     "fabric": "4773",
     "marca": "GVS",
     "nome": "RETROVISOR TITAN 150 NOVA PAR GVS COMBATE",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "25,73"
   },
   {
@@ -159340,7 +159364,7 @@
     "fabric": "TM849",
     "marca": "TMAC",
     "nome": "TAMPA TANQUE TITAN 160 TMAC",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "68,25"
   },
   {
