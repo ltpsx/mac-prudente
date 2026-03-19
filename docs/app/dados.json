@@ -4020,7 +4020,7 @@
     "fabric": "VE05009500109",
     "marca": "VEDAMOTORS",
     "nome": "ANEL ESCAPAMENTO CG/ML/TUR/XL VEDAMOTORS",
-    "estoque": "200",
+    "estoque": "198",
     "preco": "1,1"
   },
   {
@@ -4612,7 +4612,7 @@
     "fabric": "ATR010-2",
     "marca": "ATROX",
     "nome": "ANTENA CORTA PIPA GUIDAO 7 ESTAGIOS ATROX PRETA",
-    "estoque": "30",
+    "estoque": "29",
     "preco": "20,99"
   },
   {
@@ -8316,7 +8316,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "129",
+    "estoque": "126",
     "preco": "111,29"
   },
   {
@@ -16684,7 +16684,7 @@
     "fabric": "13004K",
     "marca": "MOTOKOI BR",
     "nome": "BUCHA COROA CG/TITAN MOTOKOI (4PCS)",
-    "estoque": "64",
+    "estoque": "63",
     "preco": "8,93"
   },
   {
@@ -25684,7 +25684,7 @@
     "fabric": "KOI0077",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM TITAN 02/04 MOTOKOI",
-    "estoque": "45",
+    "estoque": "44",
     "preco": "8,66"
   },
   {
@@ -31076,7 +31076,7 @@
     "fabric": "05007",
     "marca": "DANIDREA",
     "nome": "CAIXA DIRECAO COLAR TITAN 00/TITAN 150/TITAN 160 DANIDREA",
-    "estoque": "40",
+    "estoque": "39",
     "preco": "28,34"
   },
   {
@@ -31852,7 +31852,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "816",
+    "estoque": "814",
     "preco": "17,33"
   },
   {
@@ -33712,6 +33712,14 @@
     "preco": "35,5"
   },
   {
+    "codigo": "52906",
+    "fabric": "KOI0935",
+    "marca": "MOTOKOI BR",
+    "nome": "CAPA BANCO HAOJUE DR 160 FI 2018 PRETA MOTOKOI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "44907",
     "fabric": "100159",
     "marca": "ORIGINAL CAPAS",
@@ -34262,6 +34270,14 @@
     "nome": "CAPA BANCO SAHARA 87/99 - XLX 350 PIRAVAL",
     "estoque": "2",
     "preco": "25,18"
+  },
+  {
+    "codigo": "52905",
+    "fabric": "KOI0934",
+    "marca": "MOTOKOI BR",
+    "nome": "CAPA BANCO SH 150I 2019 PRETA MOTOKOI",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "0200000465759",
@@ -35670,6 +35686,14 @@
     "nome": "CAPA CONTATO XLR 125 MELC",
     "estoque": "2",
     "preco": "41,99"
+  },
+  {
+    "codigo": "52908",
+    "fabric": "KOI0936",
+    "marca": "MOTOKOI BR",
+    "nome": "CAPA DE BANCO HAOJUE NK 150 2020 PRETA MOTOKOI",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "47775",
@@ -44764,7 +44788,7 @@
     "fabric": "10013516",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO FEMME PRETO 56",
-    "estoque": "75",
+    "estoque": "74",
     "preco": "178,48"
   },
   {
@@ -44828,7 +44852,7 @@
     "fabric": "10013433",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 58",
-    "estoque": "75",
+    "estoque": "73",
     "preco": "178,49"
   },
   {
@@ -46196,7 +46220,7 @@
     "fabric": "TM386",
     "marca": "TMAC",
     "nome": "CARBURADOR CG/TODAY/TITAN 99 ECCO TMAC",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "114,69"
   },
   {
@@ -55508,7 +55532,7 @@
     "fabric": "104",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL CG/TODAY/TITAN C/ BORRACHA PROJETIL",
-    "estoque": "19",
+    "estoque": "17",
     "preco": "20,99"
   },
   {
@@ -56636,7 +56660,7 @@
     "fabric": "KOI0320",
     "marca": "MOTOKOI",
     "nome": "CHAVE CONTATO BIZ 100 98/05 MOTOKOI",
-    "estoque": "6",
+    "estoque": "7",
     "preco": "29,69"
   },
   {
@@ -67308,7 +67332,7 @@
     "fabric": "11581000510",
     "marca": "TEKBOND",
     "nome": "DESENGRIPANTE SPRAY TEKBOND 300ML",
-    "estoque": "40",
+    "estoque": "39",
     "preco": "12,72"
   },
   {
@@ -76108,7 +76132,7 @@
     "fabric": "90278670",
     "marca": "MAGNETRON",
     "nome": "ESTATOR FAN 125 09/15 MAGNETRON",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "173,25"
   },
   {
@@ -77044,7 +77068,7 @@
     "fabric": "TM0975",
     "marca": "TMAC",
     "nome": "ESTICADOR CORRENTE TITAN TMAC",
-    "estoque": "30",
+    "estoque": "28",
     "preco": "2,09"
   },
   {
@@ -79924,7 +79948,7 @@
     "fabric": "S4V0210200054",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR TIT 125-150 09-13/BIZ 110I/POP 110/NXR125-150-160/XRE190 VEDAMOTORS",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "18,89"
   },
   {
@@ -81508,7 +81532,7 @@
     "fabric": "TC3305",
     "marca": "TMAC",
     "nome": "FLEXIVEL FREIO BROS 150 06/08 DIANTEIRO TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "38,23"
   },
   {
@@ -81748,7 +81772,7 @@
     "fabric": "221",
     "marca": "IPIRANGA",
     "nome": "FLUIDO FREIO DOT 4 IPIRANGA 200ML",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "15,26"
   },
   {
@@ -93028,7 +93052,7 @@
     "fabric": "KOI0119",
     "marca": "MOTOKOI",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 MOTOKOI 4MM",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "19,94"
   },
   {
@@ -98788,7 +98812,7 @@
     "fabric": "H01190XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 2000 VAZ (44/14/428HX116) H01190XS",
-    "estoque": "190",
+    "estoque": "189",
     "preco": "62,99"
   },
   {
@@ -99348,7 +99372,7 @@
     "fabric": "12153M512V",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 PHILLIPS M5",
-    "estoque": "66",
+    "estoque": "65",
     "preco": "23,63"
   },
   {
@@ -99532,7 +99556,7 @@
     "fabric": "KOI0359",
     "marca": "MOTOKOI",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 MOTOKOI",
-    "estoque": "78",
+    "estoque": "77",
     "preco": "4,73"
   },
   {
@@ -99604,7 +99628,7 @@
     "fabric": "TL004",
     "marca": "TMAC",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO TMAC",
-    "estoque": "1281",
+    "estoque": "1280",
     "preco": "1,4"
   },
   {
@@ -100076,7 +100100,7 @@
     "fabric": "TL006",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA TITAN 00 KS / ES  ESMAGADA 12V 16W  TMAC T15",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "0,72"
   },
   {
@@ -102692,7 +102716,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "2484",
+    "estoque": "2481",
     "preco": "25,19"
   },
   {
@@ -102836,7 +102860,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "383",
+    "estoque": "381",
     "preco": "38,3"
   },
   {
@@ -107172,7 +107196,7 @@
     "fabric": "KOI0155",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI S/PUNHO PROTECAO UV PRETO G",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "18,38"
   },
   {
@@ -107428,7 +107452,7 @@
     "fabric": "285",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 2000 KS ESQUERDO PROTEC",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "11,03"
   },
   {
@@ -115604,7 +115628,7 @@
     "fabric": "21550K",
     "marca": "MOTOKOI BR",
     "nome": "PARAFUSO BANCO TITAN 150 MOTOKOI",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "2,24"
   },
   {
@@ -135900,7 +135924,7 @@
     "fabric": "100648",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 2.75-18 MAGGION WINNER TT",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "125,98"
   },
   {
@@ -137436,7 +137460,7 @@
     "fabric": "238",
     "marca": "PROTEC",
     "nome": "PORCA COROA CG/TOD/TIT PROTEC",
-    "estoque": "130",
+    "estoque": "129",
     "preco": "1,6"
   },
   {
@@ -138644,7 +138668,7 @@
     "fabric": "26125K",
     "marca": "MOTOKOI BR",
     "nome": "PRISIONEIRO COROA CG/TITAN 125 MOTOKOI",
-    "estoque": "6",
+    "estoque": "2",
     "preco": "1,87"
   },
   {
@@ -138660,7 +138684,7 @@
     "fabric": "241",
     "marca": "PROTEC",
     "nome": "PRISIONEIRO COROA CG/TITAN 125 PROTEC",
-    "estoque": "59",
+    "estoque": "55",
     "preco": "1,65"
   },
   {
@@ -149724,7 +149748,7 @@
     "fabric": "M730902060000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR RODA TRASEIRA CG/TITAN VEDAMOTORS",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "6,83"
   },
   {
@@ -150044,7 +150068,7 @@
     "fabric": "KOI0243",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR BIZ 125/POP/BROS 09 PAR MOTOKOI BR",
-    "estoque": "264",
+    "estoque": "263",
     "preco": "20,99"
   },
   {
@@ -150100,7 +150124,7 @@
     "fabric": "8223",
     "marca": "GVS",
     "nome": "RETROVISOR BMW GS GVS (PAR YAMAHA) HASTE FIXA MINI",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "30,45"
   },
   {
@@ -151444,7 +151468,7 @@
     "fabric": "KOI0242",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 NOVA PAR MOTOKOI BR",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "22,04"
   },
   {
@@ -152204,7 +152228,7 @@
     "fabric": "KOI0402",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6302-RS CROMO RODA TRAS. CG MOTOKOI",
-    "estoque": "33",
+    "estoque": "30",
     "preco": "5,24"
   },
   {
@@ -163164,7 +163188,7 @@
     "fabric": "DP7EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 00/XT600 DP7EA9 NGK",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "20,48"
   },
   {
