@@ -8340,7 +8340,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "74",
+    "estoque": "75",
     "preco": "111,29"
   },
   {
@@ -10588,7 +10588,7 @@
     "fabric": "10121641",
     "marca": "WGK",
     "nome": "BIELA YBR/XTZ 00/09 125 WGK",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "80,33"
   },
   {
@@ -14860,7 +14860,7 @@
     "fabric": "C6166",
     "marca": "CORAMI",
     "nome": "BOMBA OLEO TWISTER 01-08/XR 250 01-08 CORAMI",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "120,75"
   },
   {
@@ -15196,7 +15196,7 @@
     "fabric": "44277K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA PEDALEIRA BIZ 100/BIZ 125/DREAM DIANT MOTOKOI ***PAR***",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "7,56"
   },
   {
@@ -31312,6 +31312,14 @@
     "preco": "25,23"
   },
   {
+    "codigo": "53083",
+    "fabric": "PDM0801",
+    "marca": "PANDAO",
+    "nome": "CAIXA DIRECAO COLAR CG/TITAN PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "33676",
     "fabric": "TM560",
     "marca": "TMAC",
@@ -32252,7 +32260,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "CAMARA DE AR DIANT/TRAS CG LEVORIN SA-18",
-    "estoque": "187",
+    "estoque": "186",
     "preco": "44,63"
   },
   {
@@ -45636,7 +45644,7 @@
     "fabric": "10013572",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 61/62",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "178,49"
   },
   {
@@ -45940,7 +45948,7 @@
     "fabric": "CAP-47PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 56",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "88,32"
   },
   {
@@ -56124,7 +56132,7 @@
     "fabric": "101000102",
     "marca": "POLIMET",
     "nome": "CAVALETE LATERAL BIZ 100 / DREAM / POP POLIMET",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "22,05"
   },
   {
@@ -56300,7 +56308,7 @@
     "fabric": "104",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL CG/TODAY/TITAN C/ BORRACHA PROJETIL",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "20,99"
   },
   {
@@ -56814,6 +56822,14 @@
     "nome": "CDI BIZ 125 06/08 ES/KS MAGNETRON",
     "estoque": "3",
     "preco": "263,4"
+  },
+  {
+    "codigo": "53084",
+    "fabric": "PDM1311",
+    "marca": "PANDAO",
+    "nome": "CDI BIZ 125 06/08 ES/KS PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "43486",
@@ -57408,6 +57424,14 @@
     "preco": "34,24"
   },
   {
+    "codigo": "53094",
+    "fabric": "PDM0026",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO BIZ 100 13 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "25811",
     "fabric": "TM806",
     "marca": "TMAC",
@@ -57496,12 +57520,28 @@
     "preco": "84,84"
   },
   {
+    "codigo": "53093",
+    "fabric": "PDM0023",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO BIZ 125 09/10 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "16994",
     "fabric": "25359",
     "marca": "JUNKUN",
     "nome": "CHAVE CONTATO BIZ 125 11/12 JUNKUM",
     "estoque": "0",
     "preco": "58,73"
+  },
+  {
+    "codigo": "53092",
+    "fabric": "PDM0024",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO BIZ 125 11/14 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "26966",
@@ -57542,6 +57582,14 @@
     "nome": "CHAVE CONTATO BIZ 125 ATE 2008 MOTOKOI",
     "estoque": "7",
     "preco": "31,49"
+  },
+  {
+    "codigo": "53095",
+    "fabric": "PDM0022",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO BIZ 125 ATE 2008 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "26965",
@@ -57632,6 +57680,14 @@
     "preco": "37,28"
   },
   {
+    "codigo": "53090",
+    "fabric": "PDM0450",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO BROS 160 15/17 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "37526",
     "fabric": "CI0014",
     "marca": "RT",
@@ -57662,6 +57718,14 @@
     "nome": "CHAVE CONTATO BROS 160 FLEX 2018 MAGNETRON",
     "estoque": "0",
     "preco": "141,76"
+  },
+  {
+    "codigo": "53091",
+    "fabric": "PDM0446",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO BROS 160 FLEX 2018 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "33397",
@@ -57728,6 +57792,14 @@
     "preco": "110,24"
   },
   {
+    "codigo": "53085",
+    "fabric": "PDM0451",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO CB 250 16 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "37528",
     "fabric": "CI0023",
     "marca": "RT",
@@ -57750,6 +57822,14 @@
     "nome": "CHAVE CONTATO CB 250 19/22 TMAC",
     "estoque": "2",
     "preco": "69,29"
+  },
+  {
+    "codigo": "53086",
+    "fabric": "PDM0442",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO CB 300 09/15 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "25807",
@@ -57878,6 +57958,14 @@
     "nome": "CHAVE CONTATO FALCON 06-08 /TORNADO/TWISTER/BROS 150 MAGNETRON",
     "estoque": "0",
     "preco": "73,49"
+  },
+  {
+    "codigo": "53096",
+    "fabric": "PDM0033",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO FALCON 06-08 /TORNADO/TWISTER/BROS 150 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "28310",
@@ -58336,6 +58424,14 @@
     "preco": "29,39"
   },
   {
+    "codigo": "53087",
+    "fabric": "PDM0039",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO TITAN 150 09 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "26110",
     "fabric": "TM812",
     "marca": "TMAC",
@@ -58432,6 +58528,14 @@
     "preco": "27,56"
   },
   {
+    "codigo": "53088",
+    "fabric": "PDM0030",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO TITAN 160 16/17/FAN 160 16/17 FLEXONE PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "27108",
     "fabric": "90260550",
     "marca": "MAGNETRON",
@@ -58454,6 +58558,14 @@
     "nome": "CHAVE CONTATO TITAN 160 18/19/FAN 160 18/19 FLEXONE MOTOKOI",
     "estoque": "12",
     "preco": "57,23"
+  },
+  {
+    "codigo": "53089",
+    "fabric": "PDM0447",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO TITAN 160 18/19/FAN 160 18/19 FLEXONE PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "37531",
@@ -65460,7 +65572,7 @@
     "fabric": "1210401",
     "marca": "WW3",
     "nome": "CORRENTE COMANDO YBR ATE 05 88 L WW3",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "11,31"
   },
   {
@@ -68900,7 +69012,7 @@
     "fabric": "TM527",
     "marca": "TMAC",
     "nome": "DISCO EMBREAGEM TWISTER/TORNADO 250 TMAC",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "31,49"
   },
   {
@@ -73252,7 +73364,7 @@
     "fabric": "1104790",
     "marca": "GP7/GP",
     "nome": "EMBREAGEM PRIMARIA BIZ 100 98/01 (TACA+SAPATA+PESO+BUCHA BASE ALTA) GP7",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "173,25"
   },
   {
@@ -77796,7 +77908,7 @@
     "fabric": "TM0976",
     "marca": "TMAC",
     "nome": "ESTICADOR CORRENTE TITAN 150 TMAC",
-    "estoque": "208",
+    "estoque": "206",
     "preco": "2,09"
   },
   {
@@ -78092,7 +78204,7 @@
     "fabric": "2726",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO BIZ 100 ES PROJETIL",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "60,98"
   },
   {
@@ -81308,7 +81420,7 @@
     "fabric": "KL741",
     "marca": "MAHLE",
     "nome": "FILTRO COMBUSTIVEL TITAN 150 09 MIX/FLEX MAHLE",
-    "estoque": "37",
+    "estoque": "36",
     "preco": "12,59"
   },
   {
@@ -81708,7 +81820,7 @@
     "fabric": "PL241",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO FAZER 250/LANDER TECFIL",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "14,18"
   },
   {
@@ -93276,7 +93388,7 @@
     "fabric": "VS10700000660",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS YBR 125 VEDAMOTORS",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "26,25"
   },
   {
@@ -98308,7 +98420,7 @@
     "fabric": "H03555X",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BROS 125 VAZ (54/17/428HX132L) H03555X",
-    "estoque": "8",
+    "estoque": "6",
     "preco": "173,25"
   },
   {
@@ -98420,7 +98532,7 @@
     "fabric": "H04003XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BROS 160/XRE 190 VAZ (48/16/428HX128L)",
-    "estoque": "41",
+    "estoque": "40",
     "preco": "102,66"
   },
   {
@@ -99628,7 +99740,7 @@
     "fabric": "H01104XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 99 VAZ (43/14/428HX116) H01104XS",
-    "estoque": "87",
+    "estoque": "86",
     "preco": "62,99"
   },
   {
@@ -100324,7 +100436,7 @@
     "fabric": "KOI0359",
     "marca": "MOTOKOI",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 MOTOKOI",
-    "estoque": "52",
+    "estoque": "51",
     "preco": "4,73"
   },
   {
@@ -100396,7 +100508,7 @@
     "fabric": "TL004",
     "marca": "TMAC",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO TMAC",
-    "estoque": "1236",
+    "estoque": "1235",
     "preco": "1,4"
   },
   {
@@ -100868,7 +100980,7 @@
     "fabric": "TL006",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA TITAN 00 KS / ES  ESMAGADA 12V 16W  TMAC T15",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "0,72"
   },
   {
@@ -103404,7 +103516,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "28",
+    "estoque": "27",
     "preco": "30,44"
   },
   {
@@ -103484,7 +103596,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "2091",
+    "estoque": "2076",
     "preco": "25,19"
   },
   {
@@ -103596,7 +103708,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "615",
+    "estoque": "613",
     "preco": "13,64"
   },
   {
@@ -103620,7 +103732,7 @@
     "fabric": "",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 10W40 SEMI SINTETICO",
-    "estoque": "226",
+    "estoque": "225",
     "preco": "49,88"
   },
   {
@@ -123668,7 +123780,7 @@
     "fabric": "KOI-00206",
     "marca": "MOTOKOI BR",
     "nome": "PASTILHA FREIO LANDER XTZ / FAZER 250 TRASEIRO MOTOKOI",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "15,45"
   },
   {
@@ -135564,7 +135676,7 @@
     "fabric": "90241700",
     "marca": "MAGNETRON",
     "nome": "PLACA PARTIDA BIZ 100 98/05/BIZ 100 12/WEB 100 MAGNETRON",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "53,52"
   },
   {
@@ -136716,7 +136828,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "486",
+    "estoque": "485",
     "preco": "115,49"
   },
   {
@@ -137740,7 +137852,7 @@
     "fabric": "16083",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 80/100-14 LEVORIN MATRIX BIZ",
-    "estoque": "124",
+    "estoque": "123",
     "preco": "219,46"
   },
   {
@@ -137780,7 +137892,7 @@
     "fabric": "3101",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC TIGER BIZ TT 49L",
-    "estoque": "104",
+    "estoque": "103",
     "preco": "110,24"
   },
   {
@@ -137812,7 +137924,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "222",
+    "estoque": "221",
     "preco": "230,99"
   },
   {
@@ -138156,7 +138268,7 @@
     "fabric": "238",
     "marca": "PROTEC",
     "nome": "PORCA COROA CG/TOD/TIT PROTEC",
-    "estoque": "101",
+    "estoque": "97",
     "preco": "1,6"
   },
   {
@@ -139380,7 +139492,7 @@
     "fabric": "241",
     "marca": "PROTEC",
     "nome": "PRISIONEIRO COROA CG/TITAN 125 PROTEC",
-    "estoque": "23",
+    "estoque": "19",
     "preco": "1,65"
   },
   {
@@ -148404,7 +148516,7 @@
     "fabric": "12002MD",
     "marca": "MOTOBOR",
     "nome": "RETENTOR BENGALA CG/TITAN/BIZ 100/BIZ 125 MOTOBOR MOLA DUPLA ***PAR***",
-    "estoque": "45",
+    "estoque": "44",
     "preco": "6,15"
   },
   {
@@ -165308,7 +165420,7 @@
     "fabric": "4000555",
     "marca": "EBF",
     "nome": "VISEIRA EBF X TROY FF 526 2,00 MM FUME EBF",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "57,75"
   },
   {
