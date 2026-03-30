@@ -4020,7 +4020,7 @@
     "fabric": "VE05009500109",
     "marca": "VEDAMOTORS",
     "nome": "ANEL ESCAPAMENTO CG/ML/TUR/XL VEDAMOTORS",
-    "estoque": "196",
+    "estoque": "195",
     "preco": "1,1"
   },
   {
@@ -9204,7 +9204,7 @@
     "fabric": "TM0401",
     "marca": "TMAC",
     "nome": "BICO RODA S/CAMARA TR414 TMAC",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "2,89"
   },
   {
@@ -15420,7 +15420,7 @@
     "fabric": "44084K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA PEDALEIRA TITAN 160 DIANT MOTOKOI (PAR)",
-    "estoque": "350",
+    "estoque": "349",
     "preco": "9,44"
   },
   {
@@ -16020,7 +16020,7 @@
     "fabric": "4000529",
     "marca": "EBF",
     "nome": "BOTAO EBF SPARK JET",
-    "estoque": "51",
+    "estoque": "50",
     "preco": "13,4"
   },
   {
@@ -26252,7 +26252,7 @@
     "fabric": "KOI0092",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM TITAN 160/FAN 160 MOTOKOI",
-    "estoque": "89",
+    "estoque": "88",
     "preco": "9,92"
   },
   {
@@ -29980,7 +29980,7 @@
     "fabric": "KOI0060",
     "marca": "MOTOKOI",
     "nome": "CABO VELOCIMETRO TITAN 150 04/08 MOTOKOI",
-    "estoque": "60",
+    "estoque": "59",
     "preco": "8,93"
   },
   {
@@ -30524,7 +30524,7 @@
     "fabric": "KOI0066",
     "marca": "MOTOKOI",
     "nome": "CABO VELOCIMETRO YBR FACTOR ED 09/16 MOTOKOI",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "8,91"
   },
   {
@@ -32276,7 +32276,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "553",
+    "estoque": "544",
     "preco": "17,33"
   },
   {
@@ -32396,7 +32396,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "130",
+    "estoque": "126",
     "preco": "16,79"
   },
   {
@@ -40148,7 +40148,7 @@
     "fabric": "1189060F04",
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK FLASH PRETO FOSCO/PRATA 60",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "219,45"
   },
   {
@@ -55820,7 +55820,7 @@
     "fabric": "SR-16-H1",
     "marca": "STALLION",
     "nome": "CARREGADOR CELULAR C. SUPORTE STALLION S/CARREGADOR ALUMINIO",
-    "estoque": "98",
+    "estoque": "97",
     "preco": "18,38"
   },
   {
@@ -77120,6 +77120,14 @@
     "preco": "68,27"
   },
   {
+    "codigo": "53193",
+    "fabric": "PDM0354",
+    "marca": "PANDAO",
+    "nome": "ESTATOR BIZ 125 09/12 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "25821",
     "fabric": "TM727",
     "marca": "TMAC",
@@ -77142,6 +77150,14 @@
     "nome": "ESTATOR BIZ 125 ES/KS MAGNETRON",
     "estoque": "3",
     "preco": "197,18"
+  },
+  {
+    "codigo": "53192",
+    "fabric": "PDM0370",
+    "marca": "PANDAO",
+    "nome": "ESTATOR BIZ 125 ES/KS PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "37557",
@@ -77248,6 +77264,14 @@
     "preco": "196,19"
   },
   {
+    "codigo": "53202",
+    "fabric": "PDM0380",
+    "marca": "PANDAO",
+    "nome": "ESTATOR BROS 150 06/08 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "37003",
     "fabric": "50.173.36",
     "marca": "SERVITEC",
@@ -77270,6 +77294,14 @@
     "nome": "ESTATOR BROS 150 09 MIX ED MAGNETRON",
     "estoque": "2",
     "preco": "189,92"
+  },
+  {
+    "codigo": "53203",
+    "fabric": "PDM0360",
+    "marca": "PANDAO",
+    "nome": "ESTATOR BROS 150 09 MIX ED PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "37559",
@@ -77360,6 +77392,14 @@
     "preco": "535,32"
   },
   {
+    "codigo": "53195",
+    "fabric": "PDM0364",
+    "marca": "PANDAO",
+    "nome": "ESTATOR CB 300 13/15 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "33692",
     "fabric": "TM743",
     "marca": "TMAC",
@@ -77374,6 +77414,14 @@
     "nome": "ESTATOR CB 300 MAGNETRON",
     "estoque": "1",
     "preco": "572,23"
+  },
+  {
+    "codigo": "53194",
+    "fabric": "PDM0355",
+    "marca": "PANDAO",
+    "nome": "ESTATOR CB 300 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "37558",
@@ -77494,6 +77542,14 @@
     "nome": "ESTATOR FALCON 00/04 FALCON TMAC",
     "estoque": "5",
     "preco": "212,98"
+  },
+  {
+    "codigo": "53201",
+    "fabric": "PDM0378",
+    "marca": "PANDAO",
+    "nome": "ESTATOR FALCON 00/08 FALCON PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "43708",
@@ -77712,6 +77768,14 @@
     "preco": "131,76"
   },
   {
+    "codigo": "53197",
+    "fabric": "PDM0376",
+    "marca": "PANDAO",
+    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "37554",
     "fabric": "ES0005",
     "marca": "RT",
@@ -77750,6 +77814,14 @@
     "nome": "ESTATOR TITAN 150 04/08 MAGNETRON",
     "estoque": "0",
     "preco": "152,26"
+  },
+  {
+    "codigo": "53200",
+    "fabric": "PDM0377",
+    "marca": "PANDAO",
+    "nome": "ESTATOR TITAN 150 04/08 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "37556",
@@ -77792,6 +77864,14 @@
     "preco": "97,82"
   },
   {
+    "codigo": "53198",
+    "fabric": "PDM0361",
+    "marca": "PANDAO",
+    "nome": "ESTATOR TITAN 150 14/15 FLEX PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "35038",
     "fabric": "TM740",
     "marca": "TMAC",
@@ -77830,6 +77910,14 @@
     "nome": "ESTATOR TITAN 150 I.E/ MIX / FAN ESI 09 EM DIANTE MAGNETRON",
     "estoque": "8",
     "preco": "236,24"
+  },
+  {
+    "codigo": "53199",
+    "fabric": "PDM0358",
+    "marca": "TMAC",
+    "nome": "ESTATOR TITAN 150 I.E/ MIX / FAN ESI 09 EM DIANTE PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "43713",
@@ -77920,6 +78008,14 @@
     "preco": "371,15"
   },
   {
+    "codigo": "53196",
+    "fabric": "PDM0372",
+    "marca": "PANDAO",
+    "nome": "ESTATOR TWISTER PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "25544",
     "fabric": "TM716",
     "marca": "TMAC",
@@ -77952,6 +78048,14 @@
     "preco": "117,72"
   },
   {
+    "codigo": "53204",
+    "fabric": "PDM0382",
+    "marca": "PANDAO",
+    "nome": "ESTATOR XRE 300 09/12 PANDAO S/ABS",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "43703",
     "fabric": "ES0030",
     "marca": "RT",
@@ -77966,6 +78070,14 @@
     "nome": "ESTATOR XRE 300 09/12 TMAC S/ABS",
     "estoque": "1",
     "preco": "204,75"
+  },
+  {
+    "codigo": "53205",
+    "fabric": "PDM0383",
+    "marca": "PANDAO",
+    "nome": "ESTATOR XRE 300 13/14 PANDAO C/ABS",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "33694",
@@ -79092,7 +79204,7 @@
     "fabric": "4174",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO TITAN 150 PRETO PROJETIL",
-    "estoque": "139",
+    "estoque": "138",
     "preco": "31,49"
   },
   {
@@ -79556,7 +79668,7 @@
     "fabric": "811700",
     "marca": "MELC",
     "nome": "FAROL COMPLETO TIT125 00-04/FAN125 05-13 MELC (811700)",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "41,27"
   },
   {
@@ -82556,7 +82668,7 @@
     "fabric": "PL153",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX TECFIL",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "10,49"
   },
   {
@@ -87604,7 +87716,7 @@
     "fabric": "100401201",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 150 04/08 CROMADO POLIMET",
-    "estoque": "67",
+    "estoque": "66",
     "preco": "44,63"
   },
   {
@@ -101140,7 +101252,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "18,38"
   },
   {
@@ -104068,7 +104180,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "2894",
+    "estoque": "2891",
     "preco": "31,49"
   },
   {
@@ -104100,7 +104212,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "2039",
+    "estoque": "2037",
     "preco": "25,19"
   },
   {
@@ -104108,7 +104220,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "519",
+    "estoque": "518",
     "preco": "36,74"
   },
   {
@@ -104156,7 +104268,7 @@
     "fabric": "104078",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 10W40",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "62,99"
   },
   {
@@ -104212,7 +104324,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "597",
+    "estoque": "593",
     "preco": "13,64"
   },
   {
@@ -108556,7 +108668,7 @@
     "fabric": "KOI0151",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI C/PUNHO PROTECAO UV PRETO M",
-    "estoque": "74",
+    "estoque": "73",
     "preco": "18,38"
   },
   {
@@ -111428,7 +111540,7 @@
     "fabric": "90205020",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA TITAN 150 / FAN 09 MAGNETRON",
-    "estoque": "183",
+    "estoque": "182",
     "preco": "10,49"
   },
   {
@@ -124556,7 +124668,7 @@
     "fabric": "KOI0379",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO TITAN 150 PARTIR DE 2009 DIANT MOTOKOI",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "10,24"
   },
   {
@@ -124572,7 +124684,7 @@
     "fabric": "FA375",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO TITAN 150 PARTIR DE 2009 DIANT TMAC",
-    "estoque": "38",
+    "estoque": "35",
     "preco": "10,49"
   },
   {
@@ -135612,7 +135724,7 @@
     "fabric": "C110-4",
     "marca": "CORAMI",
     "nome": "PISTAO TWISTER 250/TORNADO 250 1,00 CORAMI",
-    "estoque": "3",
+    "estoque": "1",
     "preco": "92,85"
   },
   {
@@ -138396,7 +138508,7 @@
     "fabric": "3101",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC TIGER BIZ TT 49L",
-    "estoque": "103",
+    "estoque": "102",
     "preco": "110,24"
   },
   {
@@ -138428,7 +138540,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "208",
+    "estoque": "207",
     "preco": "230,99"
   },
   {
@@ -138460,7 +138572,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 90/90-18 MICHELIN CITY EXTRA TL 57S",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "293,99"
   },
   {
@@ -138500,7 +138612,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "533",
+    "estoque": "532",
     "preco": "131,25"
   },
   {
@@ -152836,7 +152948,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "100",
+    "estoque": "99",
     "preco": "19,94"
   },
   {
@@ -156564,7 +156676,7 @@
     "fabric": "3192",
     "marca": "PROJETIL",
     "nome": "SUPORTE FAROL FAN 125 09/13 ARANHA PRETO PROJETIL",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "44,63"
   },
   {
