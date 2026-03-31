@@ -8700,7 +8700,7 @@
     "fabric": "BP-09FM",
     "marca": "TORK",
     "nome": "BAULETO TORK SMART BOX 2 PRETO 45 LITROS (LENTE FUME)",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "155,4"
   },
   {
@@ -26924,7 +26924,7 @@
     "fabric": "KOI0076",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM YBR FACTOR 09/12 MOTOKOI",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "12,38"
   },
   {
@@ -46212,7 +46212,7 @@
     "fabric": "CAP-36PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 60",
-    "estoque": "84",
+    "estoque": "83",
     "preco": "88,32"
   },
   {
@@ -47500,7 +47500,7 @@
     "fabric": "CB0008",
     "marca": "RT",
     "nome": "CARBURADOR TITAN 2002/04/FAN 125 RT",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "89,25"
   },
   {
@@ -60003,7 +60003,7 @@
     "codigo": "24464",
     "fabric": "90285870",
     "marca": "MAGNETRON",
-    "nome": "CHICOTE PRINCIPAL FAN 150 FLEX ESI/ESDI 12/13 MAGNETRON",
+    "nome": "CHICOTE PRINCIPAL FAN 150 FLEX ESI/ESDI 11/13 MAGNETRON",
     "estoque": "0",
     "preco": "446,23"
   },
@@ -60563,9 +60563,17 @@
     "codigo": "24471",
     "fabric": "90288060",
     "marca": "MAGNETRON",
-    "nome": "CHICOTE PRINCIPAL XT 225 MAGNETRON",
+    "nome": "CHICOTE PRINCIPAL XT 225 96/06 MAGNETRON",
     "estoque": "0",
     "preco": "196,19"
+  },
+  {
+    "codigo": "10562",
+    "fabric": "90288010",
+    "marca": "MAGNETRON",
+    "nome": "CHICOTE PRINCIPAL XTZ 125 02/05 MAGNETRON",
+    "estoque": "0",
+    "preco": "180,27"
   },
   {
     "codigo": "10570",
@@ -60582,14 +60590,6 @@
     "nome": "CHICOTE PRINCIPAL XTZ 125 E 11/14 MAGNETRON",
     "estoque": "1",
     "preco": "218,36"
-  },
-  {
-    "codigo": "10562",
-    "fabric": "90288010",
-    "marca": "MAGNETRON",
-    "nome": "CHICOTE PRINCIPAL XTZ 125 E ATE 05 MAGNETRON",
-    "estoque": "0",
-    "preco": "180,27"
   },
   {
     "codigo": "10586",
@@ -61972,7 +61972,7 @@
     "fabric": "TM466",
     "marca": "TMAC",
     "nome": "CILINDRO MESTRE FREIO TITAN 2000/TITAN 150/TITAN 160/CBX 200/CBX 250 SUPERIOR TMAC",
-    "estoque": "39",
+    "estoque": "38",
     "preco": "47,78"
   },
   {
@@ -62684,7 +62684,7 @@
     "fabric": "KOI0336",
     "marca": "MOTOKOI",
     "nome": "COLETOR ADMISSAO CG/TODAY/TITAN 125 MOTOKOI",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "15,74"
   },
   {
@@ -68508,7 +68508,7 @@
     "fabric": "11581000510",
     "marca": "TEKBOND",
     "nome": "DESENGRIPANTE SPRAY TEKBOND 300ML",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "12,72"
   },
   {
@@ -73732,7 +73732,7 @@
     "fabric": "10116061",
     "marca": "WGK",
     "nome": "EMBREAGEM KIT COMPLETO TIT150 05-14/FAN150/FAN09/BROS 06 WGK",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "97,31"
   },
   {
@@ -74832,14 +74832,6 @@
     "preco": "136,54"
   },
   {
-    "codigo": "19645",
-    "fabric": "90241110",
-    "marca": "MAGNETRON",
-    "nome": "ENGRENAGEM PARTIDA CB 300 MAGNETRON",
-    "estoque": "0",
-    "preco": "267,61"
-  },
-  {
     "codigo": "40071",
     "fabric": "C902",
     "marca": "CORAMI",
@@ -74862,6 +74854,14 @@
     "nome": "ENGRENAGEM PARTIDA CB 300/XRE 300 WGK",
     "estoque": "2",
     "preco": "169,32"
+  },
+  {
+    "codigo": "19645",
+    "fabric": "90241110",
+    "marca": "MAGNETRON",
+    "nome": "ENGRENAGEM PARTIDA CB 300R 09/12 MAGNETRON",
+    "estoque": "0",
+    "preco": "267,61"
   },
   {
     "codigo": "40072",
@@ -77739,7 +77739,7 @@
     "codigo": "32074",
     "fabric": "90279090",
     "marca": "MAGNETRON",
-    "nome": "ESTATOR START 160 17/18/BROS 18 MAGNETRON",
+    "nome": "ESTATOR START 160 16/22/BROS 18 MAGNETRON",
     "estoque": "7",
     "preco": "177,45"
   },
@@ -78064,20 +78064,20 @@
     "preco": "288,73"
   },
   {
-    "codigo": "32075",
-    "fabric": "90279100",
-    "marca": "MAGNETRON",
-    "nome": "ESTATOR XRE 190 16 ED MAGNETRON",
-    "estoque": "0",
-    "preco": "215,25"
-  },
-  {
     "codigo": "46980",
     "fabric": "TM759",
     "marca": "TMAC",
     "nome": "ESTATOR XRE 190 16/20 ED TMAC",
     "estoque": "2",
     "preco": "117,72"
+  },
+  {
+    "codigo": "32075",
+    "fabric": "90279100",
+    "marca": "MAGNETRON",
+    "nome": "ESTATOR XRE 190 16/20 MAGNETRON",
+    "estoque": "0",
+    "preco": "215,25"
   },
   {
     "codigo": "53204",
@@ -81492,7 +81492,7 @@
     "fabric": "ARM446/1",
     "marca": "TECFIL",
     "nome": "FILTRO AR TIT 125-150 09-13/BIZ 110I/POP 110/NXR125-150-160/XRE190 TECFIL",
-    "estoque": "59",
+    "estoque": "58",
     "preco": "7,34"
   },
   {
@@ -82500,7 +82500,7 @@
     "fabric": "FVC015",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO FAZER 250/LANDER VEDAMOTORS",
-    "estoque": "22",
+    "estoque": "20",
     "preco": "14,69"
   },
   {
@@ -87756,7 +87756,7 @@
     "fabric": "100401201",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 150 04/08 CROMADO POLIMET",
-    "estoque": "66",
+    "estoque": "65",
     "preco": "44,63"
   },
   {
@@ -89504,6 +89504,14 @@
     "preco": "23,1"
   },
   {
+    "codigo": "15205",
+    "fabric": "90237540",
+    "marca": "MAGNETRON",
+    "nome": "INTERRUPTOR PARTIDA XTZ 250 LANDER 09/14 MAGNETRON",
+    "estoque": "0",
+    "preco": "76,81"
+  },
+  {
     "codigo": "15204",
     "fabric": "90237530",
     "marca": "MAGNETRON",
@@ -89518,14 +89526,6 @@
     "nome": "INTERRUPTOR PARTIDA XTZ 250 LANDER [07-08] TMAC",
     "estoque": "1",
     "preco": "39,28"
-  },
-  {
-    "codigo": "15205",
-    "fabric": "90237540",
-    "marca": "MAGNETRON",
-    "nome": "INTERRUPTOR PARTIDA XTZ 250 LANDER [09-12] MAGNETRON",
-    "estoque": "0",
-    "preco": "76,81"
   },
   {
     "codigo": "47064",
@@ -93268,7 +93268,7 @@
     "fabric": "11021257",
     "marca": "X11",
     "nome": "JAQUETA X11 VELER PRETO GG",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "684,74"
   },
   {
@@ -104268,7 +104268,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "2873",
+    "estoque": "2872",
     "preco": "31,49"
   },
   {
@@ -104300,7 +104300,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "1963",
+    "estoque": "1954",
     "preco": "25,19"
   },
   {
@@ -108972,7 +108972,7 @@
     "fabric": "P-293",
     "marca": "PROTEC",
     "nome": "MANICOTO NXR 125/ BROS KS/ES DIREITO  INJETADO PROTEC",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "11,29"
   },
   {
@@ -114558,6 +114558,14 @@
     "nome": "MOTOR PARTIDA CITYCOM 300I 11/16 /NEXT 250 13/17 LBJ",
     "estoque": "2",
     "preco": "229,37"
+  },
+  {
+    "codigo": "53299",
+    "fabric": "PDM0832",
+    "marca": "PANDAO",
+    "nome": "MOTOR PARTIDA CRF 230 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "40256",
@@ -123560,6 +123568,14 @@
     "preco": "13,64"
   },
   {
+    "codigo": "53300",
+    "fabric": "PDM1362",
+    "marca": "PANDAO",
+    "nome": "PASTILHA FREIO BROS 160/BIZ 125/PCX 19 CBS DIANT PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "38765",
     "fabric": "FA690",
     "marca": "TMAC",
@@ -126052,7 +126068,7 @@
     "fabric": "302CP",
     "marca": "COBREQ",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS COBREQ 302CP",
-    "estoque": "59",
+    "estoque": "58",
     "preco": "31,49"
   },
   {
@@ -127068,7 +127084,7 @@
     "fabric": "1211114",
     "marca": "GP7/GP",
     "nome": "PEDAL CAMBIO FAZER 250 05/11 COMPLETO GP",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "68,93"
   },
   {
@@ -129708,7 +129724,7 @@
     "fabric": "HB03.114",
     "marca": "VAZ",
     "nome": "PINHAO TITAN 150 / FAN 125 2009 14D VAZ - HB03114",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "12,08"
   },
   {
@@ -130444,7 +130460,7 @@
     "fabric": "8003",
     "marca": "GVS",
     "nome": "PISCA BROS 13 DD/TE/BROS 160 CRISTAL GVS C/SOQUETE",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "21,84"
   },
   {
@@ -130500,7 +130516,7 @@
     "fabric": "8004",
     "marca": "GVS",
     "nome": "PISCA BROS 13 DE/TD/BROS 160 CRISTAL GVS C/SOQUETE",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "23,1"
   },
   {
@@ -132164,7 +132180,7 @@
     "fabric": "6658",
     "marca": "GVS",
     "nome": "PISCA TITAN 2000/XRE300/CB300R DE/TD COMPLETO C/ COXIM LARANJA GVS S/LAMPADA COMBATE",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "10,8"
   },
   {
@@ -137788,7 +137804,7 @@
     "fabric": "18822",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TT 47P",
-    "estoque": "95",
+    "estoque": "94",
     "preco": "220,4"
   },
   {
@@ -137988,7 +138004,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 100/80-18 LEVORIN DAKAR II TL 59P (SEM CAMARA)",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "293,98"
   },
   {
@@ -138756,7 +138772,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "202",
+    "estoque": "199",
     "preco": "230,99"
   },
   {
@@ -138788,7 +138804,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 90/90-18 MICHELIN CITY EXTRA TL 57S",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "293,99"
   },
   {
@@ -142531,7 +142547,7 @@
     "codigo": "10406",
     "fabric": "90235070",
     "marca": "MAGNETRON",
-    "nome": "PUNHO LUZ BROS 150 KS 2006/08 MAGNETRON",
+    "nome": "PUNHO LUZ BROS 150 KS 06/08 MAGNETRON",
     "estoque": "0",
     "preco": "59,35"
   },
@@ -142915,7 +142931,7 @@
     "codigo": "39927",
     "fabric": "90235510",
     "marca": "MAGNETRON",
-    "nome": "PUNHO LUZ NMAX 160 17/20 MAGNETRON",
+    "nome": "PUNHO LUZ NMAX 160 17/21 MAGNETRON",
     "estoque": "0",
     "preco": "105,39"
   },
@@ -142960,20 +142976,20 @@
     "preco": "55,21"
   },
   {
-    "codigo": "39928",
-    "fabric": "90235860",
-    "marca": "MAGNETRON",
-    "nome": "PUNHO LUZ PCX 150 19/20 MAGNETRON",
-    "estoque": "0",
-    "preco": "95,79"
-  },
-  {
     "codigo": "46828",
     "fabric": "TM0155",
     "marca": "TMAC",
     "nome": "PUNHO LUZ PCX 150 19/20 TMAC",
     "estoque": "2",
     "preco": "58,04"
+  },
+  {
+    "codigo": "39928",
+    "fabric": "90235860",
+    "marca": "MAGNETRON",
+    "nome": "PUNHO LUZ PCX 150 19/21 MAGNETRON",
+    "estoque": "0",
+    "preco": "95,79"
   },
   {
     "codigo": "46829",
@@ -146216,6 +146232,22 @@
     "preco": "98,3"
   },
   {
+    "codigo": "53294",
+    "fabric": "PDM0895",
+    "marca": "PANDAO",
+    "nome": "REFIL BOMBA COMBUSTIVEL BROS 150/10/FLEX/XRE 300 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "53293",
+    "fabric": "TM988",
+    "marca": "TMAC",
+    "nome": "REFIL BOMBA COMBUSTIVEL BROS 160-XRE190  15/18 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "53251",
     "fabric": "PDM0877",
     "marca": "PANDAO",
@@ -146304,6 +146336,14 @@
     "preco": "123,18"
   },
   {
+    "codigo": "53292",
+    "fabric": "PDM0883",
+    "marca": "PANDAO",
+    "nome": "REFIL BOMBA COMBUSTIVEL DAFRA CITYCOM 300i 11/16 PANDAO C/FILTRO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "53249",
     "fabric": "PDM0887",
     "marca": "PANDAO",
@@ -146360,12 +146400,28 @@
     "preco": "120,07"
   },
   {
+    "codigo": "53297",
+    "fabric": "PDM0899",
+    "marca": "PANDAO",
+    "nome": "REFIL BOMBA COMBUSTIVEL FAZER 250 06/15 LANDER 250 PANDAO C/FILTRO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "26625",
     "fabric": "TM985",
     "marca": "TMAC",
     "nome": "REFIL BOMBA COMBUSTIVEL FAZER 250/LANDER 250 TMAC",
     "estoque": "1",
     "preco": "103,95"
+  },
+  {
+    "codigo": "53295",
+    "fabric": "PDM0881",
+    "marca": "PANDAO",
+    "nome": "REFIL BOMBA COMBUSTIVEL PCX 150 12 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "53254",
@@ -146470,6 +146526,14 @@
     "nome": "REFIL BOMBA COMBUSTIVEL TITAN 150 14/15/TITAN 160/FAN 160 16/ED/BROS 160 ESD15/17/TWISTER16/22/XRE 190 16/ED TMAC C/FILTRO",
     "estoque": "1",
     "preco": "103,95"
+  },
+  {
+    "codigo": "53296",
+    "fabric": "PDM0898",
+    "marca": "PANDAO",
+    "nome": "REFIL BOMBA COMBUSTIVEL XTZ 150 E/ED FLEX 14/17 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "52626",
@@ -146742,6 +146806,14 @@
     "nome": "REGULADOR /RETIFICADOR FACTOR 125/ FAZER 150 YS MAGNETRON",
     "estoque": "4",
     "preco": "78,1"
+  },
+  {
+    "codigo": "53298",
+    "fabric": "PDM0812",
+    "marca": "PANDAO",
+    "nome": "REGULADOR /RETIFICADOR FACTOR 150 17/18-FAZER 150 ED 16/19 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "22839",
@@ -155376,12 +155448,28 @@
     "preco": "57,75"
   },
   {
+    "codigo": "53282",
+    "fabric": "PDM2405",
+    "marca": "PANDAO",
+    "nome": "SENSOR HÍBRIDO BIZ 110I/ POP 110I/START 160 16 ED PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "42146",
     "fabric": "TP1110",
     "marca": "TMAC",
     "nome": "SENSOR HÍBRIDO BIZ 110I/ POP 110I/START 160 16 ED TMAC",
     "estoque": "0",
     "preco": "57,75"
+  },
+  {
+    "codigo": "53280",
+    "fabric": "PDM2412",
+    "marca": "PANDAO",
+    "nome": "SENSOR HÍBRIDO FALCON 13/19 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "47152",
@@ -155398,6 +155486,14 @@
     "nome": "SENSOR HÍBRIDO FAZER 250/ XTZ 250 LANDER MAGNETRON",
     "estoque": "1",
     "preco": "570,26"
+  },
+  {
+    "codigo": "53279",
+    "fabric": "PDM1404",
+    "marca": "PANDAO",
+    "nome": "SENSOR HÍBRIDO FAZER 250/ XTZ 250 LANDER PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "40369",
@@ -155478,6 +155574,14 @@
     "nome": "SENSOR HÍBRIDO YBR 150 FACTOR/XTZ / YS 150 TMAC",
     "estoque": "2",
     "preco": "141,75"
+  },
+  {
+    "codigo": "53281",
+    "fabric": "PDM2410",
+    "marca": "PANDAO",
+    "nome": "SENSOR HÍBRIDO YBR 150 FACTOR/XTZ 150 / YS 150 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "24255",
@@ -155568,6 +155672,38 @@
     "preco": "71"
   },
   {
+    "codigo": "53287",
+    "fabric": "PDM1436",
+    "marca": "PANDAO",
+    "nome": "SENSOR MARCHA LENTA BIZ 11/15 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "53285",
+    "fabric": "PDM1450",
+    "marca": "PANDAO",
+    "nome": "SENSOR MARCHA LENTA BIZ 16/18 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "53286",
+    "fabric": "PDM1449",
+    "marca": "PANDAO",
+    "nome": "SENSOR MARCHA LENTA BIZ 18/22 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "53283",
+    "fabric": "PDM1437",
+    "marca": "PANDAO",
+    "nome": "SENSOR MARCHA LENTA CB 300 09/15 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "51441",
     "fabric": "1101671",
     "marca": "CONDOR",
@@ -155576,12 +155712,36 @@
     "preco": "93,44"
   },
   {
+    "codigo": "53289",
+    "fabric": "PDM1439",
+    "marca": "PANDAO",
+    "nome": "SENSOR MARCHA LENTA FACTOR 150-FAZER 150 CROSSER 150 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "47156",
     "fabric": "TP1451",
     "marca": "TMAC",
     "nome": "SENSOR MARCHA LENTA FAZER 250 06-17/LANDER 250 07-17 TMAC",
     "estoque": "1",
     "preco": "78,75"
+  },
+  {
+    "codigo": "53284",
+    "fabric": "PDM1435",
+    "marca": "PANDAO",
+    "nome": "SENSOR MARCHA LENTA TIT150 09/15-BROS 150 09/14 -PCX 150",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "53288",
+    "fabric": "PDM1443",
+    "marca": "PANDAO",
+    "nome": "SENSOR MARCHA LENTA TIT160/FAN 160 16/17 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "47157",
@@ -155640,20 +155800,20 @@
     "preco": "152,24"
   },
   {
-    "codigo": "27154",
-    "fabric": "90224220",
-    "marca": "MAGNETRON",
-    "nome": "SENSOR OXIGENIO BROS 150 11/14/XRE 300 10/15 MAGNETRON",
-    "estoque": "0",
-    "preco": "264,72"
-  },
-  {
     "codigo": "42136",
     "fabric": "TP1124",
     "marca": "TMAC",
     "nome": "SENSOR OXIGENIO BROS 150 11/14/XRE 300 10/15 TMAC",
     "estoque": "2",
     "preco": "213"
+  },
+  {
+    "codigo": "27154",
+    "fabric": "90224220",
+    "marca": "MAGNETRON",
+    "nome": "SENSOR OXIGENIO BROS 150 11/15/XRE 300 10/15 MAGNETRON",
+    "estoque": "0",
+    "preco": "264,72"
   },
   {
     "codigo": "42137",
@@ -155806,6 +155966,14 @@
     "nome": "SENSOR OXIGENIO YBR 150/FAZER 150 TMAC",
     "estoque": "2",
     "preco": "203,25"
+  },
+  {
+    "codigo": "53290",
+    "fabric": "PDM1413",
+    "marca": "PANDAO",
+    "nome": "SENSOR TEMPERATURA CB 300 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "47155",
@@ -156046,6 +156214,14 @@
     "nome": "SENSOR VELOCIMETRO FAN 125 14-18 CONDOR",
     "estoque": "1",
     "preco": "81,89"
+  },
+  {
+    "codigo": "53291",
+    "fabric": "PDM1429",
+    "marca": "PANDAO",
+    "nome": "SENSOR VELOCIMETRO FAN 125 14-18 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "53277",
@@ -166193,7 +166369,7 @@
   },
   {
     "codigo": "52947",
-    "fabric": "A02701870ZZ54",
+    "fabric": "A02621870ZZ54",
     "marca": "BIEFFE",
     "nome": "VISEIRA BIEFFE B-12 2020 CROMADA",
     "estoque": "0",
