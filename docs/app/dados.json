@@ -6332,7 +6332,7 @@
     "fabric": "90224140",
     "marca": "MAGNETRON",
     "nome": "ATUADOR MARCHA LENTA CG 150 09-15/NXR 150 09-15/NXR 160 15-24/XRE 190 16-24/PCX 150 14-15 MAGNETRON",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "103,95"
   },
   {
@@ -8324,7 +8324,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "259",
+    "estoque": "257",
     "preco": "111,28"
   },
   {
@@ -8348,7 +8348,7 @@
     "fabric": "MTX5L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ/TITAN 2000 ES/TITAN150 KS 125 MTX5L-BS MOTOKOI",
-    "estoque": "45",
+    "estoque": "43",
     "preco": "99,23"
   },
   {
@@ -10660,7 +10660,7 @@
     "fabric": "803600",
     "marca": "MELC",
     "nome": "BLOCO OPTICO BIZ 125 11/17/BIZ 100 13/16/BIZ 110 16/17 MELC (803600)",
-    "estoque": "24",
+    "estoque": "23",
     "preco": "48,29"
   },
   {
@@ -18524,7 +18524,7 @@
     "fabric": "1013211",
     "marca": "WGK",
     "nome": "BUJAO OLEO CG/TOD/TIT/CBX 200 WGK C/ANEL",
-    "estoque": "51",
+    "estoque": "50",
     "preco": "5,24"
   },
   {
@@ -19313,7 +19313,7 @@
   },
   {
     "codigo": "53060",
-    "fabric": "PDM02000",
+    "fabric": "PDM0200",
     "marca": "PANDAO",
     "nome": "CABO ACELERADOR BIZ 125 11/12 PANDAO",
     "estoque": "0",
@@ -26100,7 +26100,7 @@
     "fabric": "TM4005",
     "marca": "TMAC",
     "nome": "CABO EMBREAGEM TITAN 150 04/08 TMAC",
-    "estoque": "150",
+    "estoque": "149",
     "preco": "9,44"
   },
   {
@@ -26300,7 +26300,7 @@
     "fabric": "KOI0092",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM TITAN 160/FAN 160 MOTOKOI",
-    "estoque": "48",
+    "estoque": "47",
     "preco": "9,92"
   },
   {
@@ -30812,7 +30812,7 @@
     "fabric": "LD05FP",
     "marca": "NGK",
     "nome": "CACHIMBO VELA CG/TOD/TIT LDO5FP NGK",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "19,43"
   },
   {
@@ -32220,7 +32220,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "100",
+    "estoque": "99",
     "preco": "16,79"
   },
   {
@@ -32356,7 +32356,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "615",
+    "estoque": "612",
     "preco": "17,33"
   },
   {
@@ -32468,7 +32468,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "289",
+    "estoque": "288",
     "preco": "16,79"
   },
   {
@@ -34940,7 +34940,7 @@
     "fabric": "KOI0227",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 150 09/13/FAN 150 09/13/FAN 125 09/13 MOTOKOI",
-    "estoque": "58",
+    "estoque": "48",
     "preco": "17,61"
   },
   {
@@ -42124,7 +42124,7 @@
     "fabric": "1250060PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SOLID PRETO FOSCO 60",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "114,45"
   },
   {
@@ -46980,7 +46980,7 @@
     "fabric": "CAP-35PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 58",
-    "estoque": "105",
+    "estoque": "104",
     "preco": "83,99"
   },
   {
@@ -46988,7 +46988,7 @@
     "fabric": "CAP-36PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 60",
-    "estoque": "60",
+    "estoque": "59",
     "preco": "88,32"
   },
   {
@@ -54524,7 +54524,7 @@
     "fabric": "373705",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL TITAN 150/MIX 10 PRETO MELC (373705)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "79,05"
   },
   {
@@ -58568,20 +58568,20 @@
     "preco": "30,75"
   },
   {
-    "codigo": "53329",
-    "fabric": "PDM0440",
-    "marca": "PANDAO",
-    "nome": "CHAVE CONTATO BIZ 110 I 16/17 C/TRAVA E CHAVE LONGA PANDAO",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "39923",
     "fabric": "90260600",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO BIZ 110 I 18/20/BIZ 125 EX 18/20 MAGNETRON",
     "estoque": "2",
     "preco": "205,45"
+  },
+  {
+    "codigo": "53329",
+    "fabric": "PDM0440",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO BIZ 110I 16/17 C/TRAVA E CHAVE LONGA PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "9055",
@@ -58755,7 +58755,7 @@
     "codigo": "53090",
     "fabric": "PDM0450",
     "marca": "PANDAO",
-    "nome": "CHAVE CONTATO BROS 160 15/17 PANDAO",
+    "nome": "CHAVE CONTATO BROS 160 15/16 PANDAO",
     "estoque": "0",
     "preco": "0"
   },
@@ -59032,14 +59032,6 @@
     "preco": "73,49"
   },
   {
-    "codigo": "53096",
-    "fabric": "PDM0033",
-    "marca": "PANDAO",
-    "nome": "CHAVE CONTATO FALCON 06-08 /TORNADO/TWISTER/BROS 150 PANDAO",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "28310",
     "fabric": "TM819",
     "marca": "TMAC",
@@ -59054,6 +59046,14 @@
     "nome": "CHAVE CONTATO FALCON 2013 MAGNETRON",
     "estoque": "2",
     "preco": "107,53"
+  },
+  {
+    "codigo": "53096",
+    "fabric": "PDM0033",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO FALCON 400 06/08/TORNADO/TWISTER/BROS 150 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "17376",
@@ -59504,14 +59504,6 @@
     "preco": "29,39"
   },
   {
-    "codigo": "53087",
-    "fabric": "PDM0039",
-    "marca": "PANDAO",
-    "nome": "CHAVE CONTATO TITAN 150 09 PANDAO",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "26110",
     "fabric": "TM812",
     "marca": "TMAC",
@@ -59574,6 +59566,14 @@
     "nome": "CHAVE CONTATO TITAN 150 HBL",
     "estoque": "0",
     "preco": "20,99"
+  },
+  {
+    "codigo": "53087",
+    "fabric": "PDM0039",
+    "marca": "PANDAO",
+    "nome": "CHAVE CONTATO TITAN 150 KS/ES 09/TITAN 150 ESD 09/13 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "2785",
@@ -60092,7 +60092,7 @@
     "fabric": "",
     "marca": "TOTAL PRINT",
     "nome": "CHAVEIRO UNIVERSAL AVULSO",
-    "estoque": "2160",
+    "estoque": "2159",
     "preco": "4,19"
   },
   {
@@ -62608,6 +62608,14 @@
     "preco": "120,14"
   },
   {
+    "codigo": "53100",
+    "fabric": "PDM2204",
+    "marca": "PANDAO",
+    "nome": "CILINDRO MESTRE FREIO FALCON 400 TRAS INF PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "26649",
     "fabric": "TM463",
     "marca": "TMAC",
@@ -62638,14 +62646,6 @@
     "nome": "CILINDRO MESTRE FREIO FALCON DIANT INFERIOR TRILHA",
     "estoque": "0",
     "preco": "207"
-  },
-  {
-    "codigo": "53100",
-    "fabric": "PDM2204",
-    "marca": "PANDAO",
-    "nome": "CILINDRO MESTRE FREIO FALCON TRAS INF PANDAO",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "26658",
@@ -70312,20 +70312,20 @@
     "preco": "0"
   },
   {
-    "codigo": "53104",
-    "fabric": "PDM1752",
-    "marca": "TMAC",
-    "nome": "DISCO FREIO BIZ+ 125  DIANTEIRO PANDAO",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "39701",
     "fabric": "TM441",
     "marca": "TMAC",
     "nome": "DISCO FREIO BIZ+ 125  DIANTEIRO TMAC",
     "estoque": "7",
     "preco": "78,75"
+  },
+  {
+    "codigo": "53104",
+    "fabric": "PDM1752",
+    "marca": "TMAC",
+    "nome": "DISCO FREIO BIZ+ 125 ES 06/07 DIANTEIRO PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "0200000535476",
@@ -70337,7 +70337,7 @@
   },
   {
     "codigo": "53112",
-    "fabric": "PDM744",
+    "fabric": "PDM1744",
     "marca": "PANDAO",
     "nome": "DISCO FREIO BROS 150/160 DIANT PANDAO",
     "estoque": "0",
@@ -70400,6 +70400,14 @@
     "preco": "72,45"
   },
   {
+    "codigo": "53133",
+    "fabric": "PDM1750",
+    "marca": "PANDAO",
+    "nome": "DISCO FREIO CB 300 11/15/HORNET S. ABS TRASEIRO PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "51149",
     "fabric": "DF0024",
     "marca": "RT",
@@ -70412,14 +70420,6 @@
     "fabric": "KOI0974",
     "marca": "MOTOKOI",
     "nome": "DISCO FREIO CB 300/HORNET S. ABS TRASEIRO MOTOKOI",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
-    "codigo": "53133",
-    "fabric": "PDM1750",
-    "marca": "PANDAO",
-    "nome": "DISCO FREIO CB 300/HORNET S. ABS TRASEIRO PANDAO",
     "estoque": "0",
     "preco": "0"
   },
@@ -70792,20 +70792,20 @@
     "preco": "259,29"
   },
   {
+    "codigo": "53134",
+    "fabric": "PDM1778",
+    "marca": "PANDAO",
+    "nome": "DISCO FREIO NMAX 160 16/20 TRASEIRO PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "47328",
     "fabric": "TM428",
     "marca": "TMAC",
     "nome": "DISCO FREIO NMAX 160 2016 DIANTEIRO TMAC",
     "estoque": "2",
     "preco": "89,25"
-  },
-  {
-    "codigo": "53134",
-    "fabric": "PDM1778",
-    "marca": "PANDAO",
-    "nome": "DISCO FREIO NMAX 160 2016 TRASEIRO PANDAO",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "47329",
@@ -70896,6 +70896,14 @@
     "preco": "157,09"
   },
   {
+    "codigo": "53115",
+    "fabric": "PDM1741",
+    "marca": "PANDAO",
+    "nome": "DISCO FREIO TITAN 150 04/08 DIANTEIRO PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "22062",
     "fabric": "194",
     "marca": "FABRECK",
@@ -70924,14 +70932,6 @@
     "fabric": "KOI0120",
     "marca": "MOTOKOI",
     "nome": "DISCO FREIO TITAN 150 DIANTEIRO MOTOKOI",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
-    "codigo": "53115",
-    "fabric": "PDM1741",
-    "marca": "PANDAO",
-    "nome": "DISCO FREIO TITAN 150 DIANTEIRO PANDAO",
     "estoque": "0",
     "preco": "0"
   },
@@ -70968,6 +70968,14 @@
     "preco": "121,78"
   },
   {
+    "codigo": "53105",
+    "fabric": "PDM1760",
+    "marca": "PANDAO",
+    "nome": "DISCO FREIO TWISTER 250 01/08/CB 300 09/15 DIANTEIRO PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "44524",
     "fabric": "KOI0127",
     "marca": "MOTOKOI",
@@ -70982,14 +70990,6 @@
     "nome": "DISCO FREIO TWISTER 250/CB 300  DIANTEIRO TRILHA",
     "estoque": "0",
     "preco": "204,89"
-  },
-  {
-    "codigo": "53105",
-    "fabric": "PDM1760",
-    "marca": "PANDAO",
-    "nome": "DISCO FREIO TWISTER 250/CB 300 DIANTEIRO PANDAO",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "51145",
@@ -71208,6 +71208,14 @@
     "preco": "149,34"
   },
   {
+    "codigo": "53128",
+    "fabric": "PDM1745",
+    "marca": "PANDAO",
+    "nome": "DISCO FREIO YBR 125 06/08 DIANTEIRO PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "53131",
     "fabric": "PDM1746",
     "marca": "PANDAO",
@@ -71246,14 +71254,6 @@
     "nome": "DISCO FREIO YBR DIANTEIRO DIAFRAG",
     "estoque": "0",
     "preco": "115,37"
-  },
-  {
-    "codigo": "53128",
-    "fabric": "PDM1745",
-    "marca": "PANDAO",
-    "nome": "DISCO FREIO YBR DIANTEIRO PANDAO",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "26118",
@@ -71512,6 +71512,14 @@
     "preco": "9,43"
   },
   {
+    "codigo": "53635",
+    "fabric": "PDM0627",
+    "marca": "PANDAO",
+    "nome": "EIXO ABRE PATIM TRAS BIZ 100/125 PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "24938",
     "fabric": "06908",
     "marca": "DANIDREA",
@@ -71531,7 +71539,7 @@
     "codigo": "53144",
     "fabric": "PDM0616",
     "marca": "PANDAO",
-    "nome": "EIXO ABRE PATIM TRAS BROS125/150 PANDAO",
+    "nome": "EIXO ABRE PATIM TRAS BROS 125/150 PANDAO",
     "estoque": "0",
     "preco": "0"
   },
@@ -88812,7 +88820,7 @@
     "fabric": "100401201",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 150 04/08 CROMADO POLIMET",
-    "estoque": "59",
+    "estoque": "58",
     "preco": "41,99"
   },
   {
@@ -92348,7 +92356,7 @@
     "fabric": "764460414417",
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE FEMININA PRETO/CINZA G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "393,12"
   },
   {
@@ -92372,7 +92380,7 @@
     "fabric": "764460415018",
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE FEMININA PRETO/CINZA P",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "393,12"
   },
   {
@@ -92380,7 +92388,7 @@
     "fabric": "764460414080",
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/CINZA 3G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "393,12"
   },
   {
@@ -92388,7 +92396,7 @@
     "fabric": "764460414059",
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/CINZA M",
-    "estoque": "3",
+    "estoque": "0",
     "preco": "393,12"
   },
   {
@@ -92396,7 +92404,7 @@
     "fabric": "764460414271",
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 10G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "393,12"
   },
   {
@@ -92412,7 +92420,7 @@
     "fabric": "764460414219",
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 4G",
-    "estoque": "2",
+    "estoque": "0",
     "preco": "393,12"
   },
   {
@@ -92420,7 +92428,7 @@
     "fabric": "764460414226",
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 5G",
-    "estoque": "3",
+    "estoque": "0",
     "preco": "393,12"
   },
   {
@@ -92428,7 +92436,7 @@
     "fabric": "764460414233",
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE PRETO/VERMELHO 6G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "393,12"
   },
   {
@@ -92484,7 +92492,7 @@
     "fabric": "791923",
     "marca": "NASA",
     "nome": "JAQUETA NASA BOMBER PRETO 3G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "388,5"
   },
   {
@@ -92508,7 +92516,7 @@
     "fabric": "791926",
     "marca": "NASA",
     "nome": "JAQUETA NASA BOMBER PRETO GG",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "388,5"
   },
   {
@@ -92516,7 +92524,7 @@
     "fabric": "791927",
     "marca": "NASA",
     "nome": "JAQUETA NASA BOMBER PRETO M",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "388,5"
   },
   {
@@ -92524,7 +92532,7 @@
     "fabric": "",
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 LADY PRETO/BRANCO L",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "457,01"
   },
   {
@@ -92532,7 +92540,7 @@
     "fabric": "",
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 LADY PRETO/BRANCO M",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "457,01"
   },
   {
@@ -92540,7 +92548,7 @@
     "fabric": "",
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 LADY PRETO/BRANCO S",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "457,01"
   },
   {
@@ -92596,7 +92604,7 @@
     "fabric": "",
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/BRANCO M",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "457,01"
   },
   {
@@ -93420,7 +93428,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "JAQUETA X11 EVO 3 PRETO P",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "811,62"
   },
   {
@@ -93724,7 +93732,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT GEN PRETO 2G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "1004,72"
   },
   {
@@ -93732,7 +93740,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT GEN PRETO 3G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "1004,72"
   },
   {
@@ -93756,7 +93764,7 @@
     "fabric": "11021135",
     "marca": "X11",
     "nome": "JAQUETA X11 NEXT GEN PRETO M",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "1004,78"
   },
   {
@@ -93828,7 +93836,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO 3G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "547,62"
   },
   {
@@ -93852,7 +93860,7 @@
     "fabric": "11021155",
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO/CINZA/VERMELHO GG",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "498,75"
   },
   {
@@ -93860,7 +93868,7 @@
     "fabric": "11021153",
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO/CINZA/VERMELHO M",
-    "estoque": "2",
+    "estoque": "0",
     "preco": "498,75"
   },
   {
@@ -93868,7 +93876,7 @@
     "fabric": "11021152",
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO/CINZA/VERMELHO P",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "498,75"
   },
   {
@@ -93884,7 +93892,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 FEMININA PRETO/ROSA M",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "547,62"
   },
   {
@@ -93924,7 +93932,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 PRETO M",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "547,62"
   },
   {
@@ -93932,7 +93940,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 PRETO P",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "547,62"
   },
   {
@@ -94084,7 +94092,7 @@
     "fabric": "015649",
     "marca": "X11",
     "nome": "JAQUETA X11 STRETCH PRETO 3G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "904,26"
   },
   {
@@ -94116,7 +94124,7 @@
     "fabric": "015207",
     "marca": "X11",
     "nome": "JAQUETA X11 STRETCH PRETO M",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "904,68"
   },
   {
@@ -94268,7 +94276,7 @@
     "fabric": "11021158",
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO PRETO G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "593,32"
   },
   {
@@ -94276,7 +94284,7 @@
     "fabric": "11021159",
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO PRETO GG",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "593,32"
   },
   {
@@ -94284,7 +94292,7 @@
     "fabric": "11021157",
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO PRETO M",
-    "estoque": "2",
+    "estoque": "0",
     "preco": "593,32"
   },
   {
@@ -94292,7 +94300,7 @@
     "fabric": "11021156",
     "marca": "X11",
     "nome": "JAQUETA X11 URBAN PRO PRETO P",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "593,3"
   },
   {
@@ -100220,7 +100228,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "128",
+    "estoque": "127",
     "preco": "62,99"
   },
   {
@@ -101420,7 +101428,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "219",
+    "estoque": "218",
     "preco": "62,99"
   },
   {
@@ -102308,7 +102316,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "66",
+    "estoque": "65",
     "preco": "28,51"
   },
   {
@@ -105340,7 +105348,7 @@
     "fabric": "",
     "marca": "CASTROL",
     "nome": "LUBRIFICANTES MOTO 4T CASTROL 20W50 ACTEVO ESSENTIAL MINERAL",
-    "estoque": "2435",
+    "estoque": "2434",
     "preco": "24,14"
   },
   {
@@ -105396,7 +105404,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "2159",
+    "estoque": "2135",
     "preco": "35,69"
   },
   {
@@ -105404,7 +105412,7 @@
     "fabric": "123079",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W40 MX",
-    "estoque": "83",
+    "estoque": "82",
     "preco": "36,74"
   },
   {
@@ -105428,7 +105436,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "688",
+    "estoque": "684",
     "preco": "26,24"
   },
   {
@@ -105436,7 +105444,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "358",
+    "estoque": "357",
     "preco": "36,74"
   },
   {
@@ -105476,7 +105484,7 @@
     "fabric": "104071",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 10W30",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "62,99"
   },
   {
@@ -105540,7 +105548,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "294",
+    "estoque": "293",
     "preco": "13,64"
   },
   {
@@ -110916,7 +110924,7 @@
     "fabric": "ATRS031",
     "marca": "ATROX",
     "nome": "MANOPLA ESPORTIVA STRIP PRATA/PRETO ATROX XL-269A",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "32,85"
   },
   {
@@ -125980,7 +125988,7 @@
     "fabric": "FA190",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160EX TMAC",
-    "estoque": "50",
+    "estoque": "51",
     "preco": "14,75"
   },
   {
@@ -125996,7 +126004,7 @@
     "fabric": "N949",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TITAN 150 PARTIR DE 2009 DIANT COBREQ N-949",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "27,03"
   },
   {
@@ -127364,7 +127372,7 @@
     "fabric": "KOI-00100 A",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS MOTOKOI BR",
-    "estoque": "782",
+    "estoque": "781",
     "preco": "15,74"
   },
   {
@@ -128620,7 +128628,7 @@
     "fabric": "LBJ08",
     "marca": "TMAC",
     "nome": "PEDAL CAMBIO YBR TMAC",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "20,45"
   },
   {
@@ -139772,7 +139780,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 140/70-17 LEVORIN MATRIX SPORT II CB 300",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "509,24"
   },
   {
@@ -140020,7 +140028,7 @@
     "fabric": "100266",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 80/100-14 MAGGION STREET BIZ 100 TT",
-    "estoque": "70",
+    "estoque": "69",
     "preco": "117,59"
   },
   {
@@ -140076,7 +140084,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN DAKKAR II TL 57P (SEM CAMARA)",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "257,25"
   },
   {
@@ -140188,7 +140196,7 @@
     "fabric": "3008",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC TIGER TT 57P",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "131,25"
   },
   {
@@ -143692,7 +143700,7 @@
     "fabric": "3727",
     "marca": "GIRO",
     "nome": "PROTETOR TANQUE GIRO (GRAVATINHA FAIXA TANQUE)",
-    "estoque": "74",
+    "estoque": "73",
     "preco": "10,59"
   },
   {
@@ -149308,7 +149316,7 @@
     "fabric": "TM176",
     "marca": "TMAC",
     "nome": "RELE PISCA CB 300R/ CG 150 TITAN I.E/ MIX TMAC",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "10,91"
   },
   {
@@ -153388,7 +153396,7 @@
     "fabric": "KOI0243",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR BIZ 125/POP/BROS 09 PAR MOTOKOI BR",
-    "estoque": "231",
+    "estoque": "230",
     "preco": "20,99"
   },
   {
@@ -154820,7 +154828,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "72",
+    "estoque": "71",
     "preco": "19,94"
   },
   {
@@ -154828,7 +154836,7 @@
     "fabric": "1458",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150 PAR NEXPART",
-    "estoque": "48",
+    "estoque": "38",
     "preco": "16,79"
   },
   {
@@ -158196,7 +158204,7 @@
     "fabric": "08011",
     "marca": "PLASMOTO",
     "nome": "SOQUETE FAROL BIZ 125 11-17/BIZ 100 13/16/BIZ 110 16-17/BROS 150 13-14 PLASMOTO LAMPADA H4",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "12,59"
   },
   {
@@ -160068,7 +160076,7 @@
     "fabric": "709",
     "marca": "PROTEC",
     "nome": "SUPORTE PEDALEIRA TRAS. TITAN 160 L.D PROTEC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "141,76"
   },
   {
@@ -160092,7 +160100,7 @@
     "fabric": "710",
     "marca": "PROTEC",
     "nome": "SUPORTE PEDALEIRA TRAS. TITAN 160 L.E PROTEC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "146,99"
   },
   {
@@ -164444,7 +164452,7 @@
     "fabric": "TP104",
     "marca": "TMAC",
     "nome": "TORNEIRA GASOLINA YBR 125/XTZ 125 03/14 C/BOTAO T/GRANDE TMAC",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "25,39"
   },
   {
@@ -167284,7 +167292,7 @@
     "fabric": "DP8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN ATE 99 DP8EA-9 NGK",
-    "estoque": "57",
+    "estoque": "56",
     "preco": "19,94"
   },
   {
@@ -169828,7 +169836,7 @@
     "fabric": "1735F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA NORISK FF391/RAZOR FUME POLIVISOR",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "52,1"
   },
   {
