@@ -5108,7 +5108,7 @@
     "fabric": "KOI0311",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.60 X 18 CG/TOD/TIT DIANT MOTOKOI",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "62,99"
   },
   {
@@ -8324,7 +8324,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "240",
+    "estoque": "239",
     "preco": "111,28"
   },
   {
@@ -8492,7 +8492,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "59",
+    "estoque": "58",
     "preco": "133,22"
   },
   {
@@ -29572,7 +29572,7 @@
     "fabric": "KOI0059",
     "marca": "MOTOKOI",
     "nome": "CABO VELOCIMETRO FAN 125 2009 MOTOKOI",
-    "estoque": "64",
+    "estoque": "63",
     "preco": "8,91"
   },
   {
@@ -32356,7 +32356,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "570",
+    "estoque": "568",
     "preco": "17,33"
   },
   {
@@ -32580,7 +32580,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "20,99"
   },
   {
@@ -61988,7 +61988,7 @@
     "fabric": "TM1324",
     "marca": "TMAC",
     "nome": "CILINDRO BENGALA INTERNO FALCON TMAC",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "135,45"
   },
   {
@@ -68372,7 +68372,7 @@
     "fabric": "VE99065000959",
     "marca": "VEDAMOTORS",
     "nome": "COXIM TAMPA VALVULA TITAN/FAN 125/150 2004/11 VEDAMOTORS",
-    "estoque": "537",
+    "estoque": "535",
     "preco": "4,19"
   },
   {
@@ -82684,7 +82684,7 @@
     "fabric": "ARM451/1",
     "marca": "TECFIL",
     "nome": "FILTRO AR TITAN 160/TITAN 150 14/15/FAN 125 14/16 TECFIL",
-    "estoque": "157",
+    "estoque": "156",
     "preco": "27,43"
   },
   {
@@ -86724,7 +86724,7 @@
     "fabric": "VE99016010009",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 150/FAN 125 09 VEDAMOTORS",
-    "estoque": "636",
+    "estoque": "635",
     "preco": "4,73"
   },
   {
@@ -97924,7 +97924,7 @@
     "fabric": "VS05610000002",
     "marca": "VEDAMOTORS",
     "nome": "KIT A FAN 125 2009 VEDAMOTORS",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "15,51"
   },
   {
@@ -105412,7 +105412,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "2094",
+    "estoque": "2092",
     "preco": "35,69"
   },
   {
@@ -105444,7 +105444,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "552",
+    "estoque": "549",
     "preco": "26,24"
   },
   {
@@ -105452,7 +105452,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "342",
+    "estoque": "340",
     "preco": "36,74"
   },
   {
@@ -110228,7 +110228,7 @@
     "fabric": "292",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN ES / TITAN 150 ESQUERDO  PROTEC",
-    "estoque": "86",
+    "estoque": "85",
     "preco": "12,34"
   },
   {
@@ -112668,7 +112668,7 @@
     "fabric": "90203200",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA CB 300/XRE 300/CRF 230F 2008 ED/CB 250 MAGNETRON",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "55,98"
   },
   {
@@ -117140,7 +117140,7 @@
     "fabric": "TP035",
     "marca": "TMAC",
     "nome": "PAINEL FAN 150 10/11 FLEX TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "131,25"
   },
   {
@@ -126068,7 +126068,7 @@
     "fabric": "N1882",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TITAN 160 18/FAN 150 18 CBS COBREQ N-1882",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "26,78"
   },
   {
@@ -126596,7 +126596,7 @@
     "fabric": "KOI-00101 STD",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO BIZ/BROS/XL 125 0,00 TRAS MOTOKOI BR",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "15,74"
   },
   {
@@ -127340,8 +127340,8 @@
     "fabric": "KOI-00100 STD",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS MOTOKOI BR",
-    "estoque": "613",
-    "preco": "14,69"
+    "estoque": "612",
+    "preco": "11,54"
   },
   {
     "codigo": "24834",
@@ -131036,7 +131036,7 @@
     "fabric": "HB03.114",
     "marca": "VAZ",
     "nome": "PINHAO TITAN 150 / FAN 125 2009 14D VAZ - HB03114",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "12,08"
   },
   {
@@ -135404,7 +135404,7 @@
     "fabric": "1103190",
     "marca": "KMP",
     "nome": "PISTAO FAN 125 09 ED 0,75 KMP",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "62,99"
   },
   {
@@ -139540,7 +139540,7 @@
     "fabric": "3222H",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 110/90-17 LEVORIN DUAL SPORT 60P",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "404,24"
   },
   {
@@ -140020,7 +140020,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 80/100-14 LEVORIN DAKAR II BIZ",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "236,25"
   },
   {
@@ -140100,7 +140100,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "230,99"
   },
   {
@@ -143052,7 +143052,7 @@
     "fabric": "4000131",
     "marca": "EBF",
     "nome": "PROTETOR LATERAL EBF NEW SPARK/EOX",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "20,99"
   },
   {
@@ -144620,7 +144620,7 @@
     "fabric": "90235140",
     "marca": "MAGNETRON",
     "nome": "PUNHO LUZ TITAN 2000 ES MAGNETRON",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "83"
   },
   {
@@ -145556,7 +145556,7 @@
     "fabric": "522801",
     "marca": "MELC",
     "nome": "RABETA FAN 09/13 PRETO MELC (522801)",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "61,95"
   },
   {
@@ -148340,7 +148340,7 @@
     "fabric": "90274430",
     "marca": "MAGNETRON",
     "nome": "REGULADOR /RETIFICADOR FAZER 250 [10-11] / XTZ 250Z TENERE MAGNETRON",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "194,25"
   },
   {
@@ -152228,7 +152228,7 @@
     "fabric": "M739000GB4683",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR HASTE VALVULA TWISTER/TITAN 150/TITAN 2002/BIZ VEDAMOTORS (PAR)",
-    "estoque": "154",
+    "estoque": "153",
     "preco": "10,49"
   },
   {
@@ -153092,7 +153092,7 @@
     "fabric": "M730902060000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR RODA TRASEIRA CG/TITAN VEDAMOTORS",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "6,83"
   },
   {
@@ -154884,7 +154884,7 @@
     "fabric": "1397",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150/TITAN 125 NOVA PAR NEXPART",
-    "estoque": "29",
+    "estoque": "27",
     "preco": "20,99"
   },
   {
@@ -155484,7 +155484,7 @@
     "fabric": "TM982",
     "marca": "TMAC",
     "nome": "ROLAMENTO 6202 ZZ RODA TRAS CG/TITAN TMAC",
-    "estoque": "73",
+    "estoque": "72",
     "preco": "4,99"
   },
   {
@@ -157824,20 +157824,20 @@
     "preco": "75,68"
   },
   {
-    "codigo": "53274",
-    "fabric": "PDM1424",
-    "marca": "PANDAO",
-    "nome": "SENSOR VELOCIMETRO XRE 300  PANDAO",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "40359",
     "fabric": "TP1404",
     "marca": "TMAC",
     "nome": "SENSOR VELOCIMETRO XRE 300 10 TMAC",
     "estoque": "1",
     "preco": "74,22"
+  },
+  {
+    "codigo": "53274",
+    "fabric": "PDM1424",
+    "marca": "PANDAO",
+    "nome": "SENSOR VELOCIMETRO XRE 300 PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "42145",
@@ -161836,7 +161836,7 @@
     "fabric": "222806",
     "marca": "MELC",
     "nome": "TAMPA LATERAL FAN 125 09/13 PRETO INJETADO MELC (222806)",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "97,74"
   },
   {
@@ -165764,7 +165764,7 @@
     "fabric": "1104432",
     "marca": "WW3",
     "nome": "VALVULA ADMISSAO/ESCAPE FAN 09/ BROS 125 2013 WW3",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "52,02"
   },
   {
@@ -168084,7 +168084,7 @@
     "fabric": "205301002",
     "marca": "ASX",
     "nome": "VISEIRA ASX/AXXIS/MT FUME P-V18B",
-    "estoque": "45",
+    "estoque": "44",
     "preco": "98,66"
   },
   {
@@ -168396,7 +168396,7 @@
     "fabric": "1708C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA EBF EOX 2,20 MM CRSTAL POLIVISOR",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "26,78"
   },
   {
@@ -170572,7 +170572,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "160",
+    "estoque": "159",
     "preco": "5,51"
   },
   {
