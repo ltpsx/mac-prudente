@@ -3468,7 +3468,7 @@
     "fabric": "KOI0179",
     "marca": "MOTOKOI",
     "nome": "AMORTECEDOR TITAN 2000 MOTOKOI (PAR)",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "125,99"
   },
   {
@@ -4372,7 +4372,7 @@
     "fabric": "M752007300004",
     "marca": "VEDAMOTORS",
     "nome": "ANEL TAMPA CABECOTE TITAN 160/BROS 160 LE VEDAMOTORS",
-    "estoque": "72",
+    "estoque": "71",
     "preco": "3,94"
   },
   {
@@ -4476,7 +4476,7 @@
     "fabric": "M752603162004",
     "marca": "VEDAMOTORS",
     "nome": "ANEL TAMPA VALVULA BIZ 125 VEDAMOTORS",
-    "estoque": "5",
+    "estoque": "3",
     "preco": "1,94"
   },
   {
@@ -5044,7 +5044,7 @@
     "fabric": "TC060",
     "marca": "TMAC",
     "nome": "ARO RODA 1.40 X 17 BIZ DIANT TMAC",
-    "estoque": "77",
+    "estoque": "76",
     "preco": "73,49"
   },
   {
@@ -5172,7 +5172,7 @@
     "fabric": "KOI0313",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.85 X 18 CG/TOD/TIT TRAS MOTOKOI",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "73,49"
   },
   {
@@ -8324,7 +8324,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "235",
+    "estoque": "234",
     "preco": "111,28"
   },
   {
@@ -8396,7 +8396,7 @@
     "fabric": "00910B",
     "marca": "RAIOM",
     "nome": "BATERIA CB500/CBR600/BANDIT 650/KANSAS RTX9- RAIOM",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "219,45"
   },
   {
@@ -8476,7 +8476,7 @@
     "fabric": "007A10B",
     "marca": "RAIOM",
     "nome": "BATERIA SUZUKI/BURGMAN-SUNDOWN FUTURE RTX7A-BS RAIOM",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "152,25"
   },
   {
@@ -10300,7 +10300,7 @@
     "fabric": "10121621",
     "marca": "WGK",
     "nome": "BIELA TITAN 160/BROS 160/XRE 190 WGK",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "81,38"
   },
   {
@@ -10660,7 +10660,7 @@
     "fabric": "803600",
     "marca": "MELC",
     "nome": "BLOCO OPTICO BIZ 125 11/17/BIZ 100 13/16/BIZ 110 16/17 MELC (803600)",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "48,29"
   },
   {
@@ -21676,7 +21676,7 @@
     "fabric": "KOI0021",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR STRADA \"A\" MOTOKOI",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "9,04"
   },
   {
@@ -32204,7 +32204,7 @@
     "fabric": "2917",
     "marca": "LEVORIN",
     "nome": "CAMARA DE AR DIANT BIZ LEVORIN MSB-17",
-    "estoque": "30",
+    "estoque": "29",
     "preco": "31,49"
   },
   {
@@ -32220,7 +32220,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "86",
+    "estoque": "85",
     "preco": "16,79"
   },
   {
@@ -32468,7 +32468,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "265",
+    "estoque": "264",
     "preco": "16,79"
   },
   {
@@ -32580,7 +32580,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "89",
+    "estoque": "88",
     "preco": "20,99"
   },
   {
@@ -38341,7 +38341,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 ANTARES PRETO/VERMELHO 58",
     "estoque": "1",
-    "preco": "115,49"
+    "preco": "127,04"
   },
   {
     "codigo": "44916",
@@ -38349,7 +38349,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW BRANCO 56",
     "estoque": "0",
-    "preco": "104,99"
+    "preco": "115,49"
   },
   {
     "codigo": "47757",
@@ -38357,7 +38357,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW BRANCO 58",
     "estoque": "0",
-    "preco": "104,99"
+    "preco": "115,49"
   },
   {
     "codigo": "44917",
@@ -38365,7 +38365,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW BRANCO 60",
     "estoque": "0",
-    "preco": "104,99"
+    "preco": "115,49"
   },
   {
     "codigo": "40761",
@@ -38397,7 +38397,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW PRETO FOSCO 60",
     "estoque": "0",
-    "preco": "104,99"
+    "preco": "115,49"
   },
   {
     "codigo": "46109",
@@ -38405,7 +38405,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW VERMELHO 56",
     "estoque": "18",
-    "preco": "104,99"
+    "preco": "115,49"
   },
   {
     "codigo": "44918",
@@ -38413,7 +38413,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW VERMELHO 58",
     "estoque": "4",
-    "preco": "104,99"
+    "preco": "115,49"
   },
   {
     "codigo": "44919",
@@ -38421,7 +38421,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW VERMELHO 60",
     "estoque": "6",
-    "preco": "104,99"
+    "preco": "115,49"
   },
   {
     "codigo": "39201",
@@ -38596,7 +38596,7 @@
     "fabric": "1263056P07",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO BORBOLETA PRETO/ROSA 56",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "137,45"
   },
   {
@@ -38765,7 +38765,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO STYLE PRETO/PRATA 56",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "43196",
@@ -38773,7 +38773,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO STYLE PRETO/PRATA 58",
     "estoque": "1",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "43197",
@@ -38781,7 +38781,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO STYLE PRETO/PRATA 60",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "41946",
@@ -38925,7 +38925,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/AZUL 56",
     "estoque": "0",
-    "preco": "287,04"
+    "preco": "315,75"
   },
   {
     "codigo": "43655",
@@ -38933,7 +38933,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/AZUL 58",
     "estoque": "0",
-    "preco": "287,03"
+    "preco": "315,74"
   },
   {
     "codigo": "43656",
@@ -38941,7 +38941,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/AZUL 60",
     "estoque": "0",
-    "preco": "287,04"
+    "preco": "315,75"
   },
   {
     "codigo": "43657",
@@ -38949,7 +38949,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/AZUL 61/62",
     "estoque": "0",
-    "preco": "287,04"
+    "preco": "315,75"
   },
   {
     "codigo": "43664",
@@ -38957,7 +38957,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/PRATA 56",
     "estoque": "0",
-    "preco": "287,04"
+    "preco": "315,75"
   },
   {
     "codigo": "43668",
@@ -38965,7 +38965,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/PRATA 58",
     "estoque": "0",
-    "preco": "287,04"
+    "preco": "315,75"
   },
   {
     "codigo": "43669",
@@ -38973,7 +38973,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/PRATA 60",
     "estoque": "0",
-    "preco": "287,03"
+    "preco": "315,74"
   },
   {
     "codigo": "43671",
@@ -38981,7 +38981,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/PRATA 61/62",
     "estoque": "0",
-    "preco": "287,03"
+    "preco": "315,74"
   },
   {
     "codigo": "43675",
@@ -38989,7 +38989,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/VERMELHO 56",
     "estoque": "0",
-    "preco": "287,04"
+    "preco": "315,75"
   },
   {
     "codigo": "43681",
@@ -38997,7 +38997,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/VERMELHO 58",
     "estoque": "0",
-    "preco": "287,03"
+    "preco": "315,74"
   },
   {
     "codigo": "43683",
@@ -39005,7 +39005,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/VERMELHO 60",
     "estoque": "0",
-    "preco": "287,04"
+    "preco": "315,75"
   },
   {
     "codigo": "43686",
@@ -39013,7 +39013,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW FAST PRETO/VERMELHO 61/62",
     "estoque": "0",
-    "preco": "287,04"
+    "preco": "315,75"
   },
   {
     "codigo": "43208",
@@ -39277,7 +39277,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW SOLID VERMELHO 56",
     "estoque": "0",
-    "preco": "267,03"
+    "preco": "293,73"
   },
   {
     "codigo": "43646",
@@ -39285,7 +39285,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW SOLID VERMELHO 58",
     "estoque": "0",
-    "preco": "267,03"
+    "preco": "293,73"
   },
   {
     "codigo": "43649",
@@ -39293,7 +39293,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW SOLID VERMELHO 60",
     "estoque": "0",
-    "preco": "267,03"
+    "preco": "293,73"
   },
   {
     "codigo": "43650",
@@ -39301,7 +39301,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF E08 NEW SOLID VERMELHO 61",
     "estoque": "0",
-    "preco": "267,03"
+    "preco": "293,73"
   },
   {
     "codigo": "30537",
@@ -39925,7 +39925,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO FOSCO/ROSA 56",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51698",
@@ -39933,7 +39933,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO FOSCO/ROSA 58",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51699",
@@ -39941,7 +39941,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO FOSCO/ROSA 60",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51700",
@@ -39957,7 +39957,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO FOSCO/VERMELHO 56",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51702",
@@ -39965,7 +39965,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO FOSCO/VERMELHO 58",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51703",
@@ -39973,7 +39973,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO FOSCO/VERMELHO 60",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51704",
@@ -39981,7 +39981,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO FOSCO/VERMELHO 61/62",
     "estoque": "3",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51705",
@@ -39989,7 +39989,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO/ROSA 56",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51706",
@@ -39997,7 +39997,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO/ROSA 58",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51707",
@@ -40005,7 +40005,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO/ROSA 60",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51708",
@@ -40021,7 +40021,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO/VERMELHO 56",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51710",
@@ -40029,7 +40029,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO/VERMELHO 58",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51711",
@@ -40037,7 +40037,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO/VERMELHO 60",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51712",
@@ -40045,7 +40045,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION III PRETO/VERMELHO 61/62",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "30835",
@@ -40333,7 +40333,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK DRAGON PRETO/AZUL 56",
     "estoque": "0",
-    "preco": "210"
+    "preco": "231"
   },
   {
     "codigo": "42499",
@@ -40341,7 +40341,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK DRAGON PRETO/AZUL 58",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "42500",
@@ -40349,7 +40349,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK DRAGON PRETO/AZUL 60",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "42501",
@@ -40357,7 +40357,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK DRAGON PRETO/AZUL 61/62",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "42482",
@@ -40421,7 +40421,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK DRAGON PRETO/VERMELHO 56",
     "estoque": "2",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "42503",
@@ -40429,7 +40429,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK DRAGON PRETO/VERMELHO 58",
     "estoque": "2",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "42504",
@@ -40437,7 +40437,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK DRAGON PRETO/VERMELHO 60",
     "estoque": "2",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "42505",
@@ -40445,7 +40445,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK DRAGON PRETO/VERMELHO 61/62",
     "estoque": "2",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "30920",
@@ -40581,7 +40581,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK FLASH PRETO/AZUL 56",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "45829",
@@ -40589,7 +40589,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK FLASH PRETO/AZUL 58",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "45830",
@@ -40597,7 +40597,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK FLASH PRETO/AZUL 60",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "45831",
@@ -40605,7 +40605,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK FLASH PRETO/AZUL 61/62",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "38795",
@@ -41141,7 +41141,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPIDER PRETO/AZUL 56",
     "estoque": "1",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "44029",
@@ -41149,7 +41149,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPIDER PRETO/AZUL 58",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "44030",
@@ -41157,7 +41157,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPIDER PRETO/AZUL 60",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "44031",
@@ -41165,7 +41165,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPIDER PRETO/AZUL 61/62",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "44032",
@@ -41173,7 +41173,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPIDER PRETO/TIFANY 56",
     "estoque": "3",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "44033",
@@ -41181,7 +41181,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPIDER PRETO/TIFANY 58",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "44034",
@@ -41189,7 +41189,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPIDER PRETO/TIFANY 60",
     "estoque": "1",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "44024",
@@ -41197,7 +41197,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPIDER PRETO/VERMELHO 56",
     "estoque": "0",
-    "preco": "219,44"
+    "preco": "241,38"
   },
   {
     "codigo": "44025",
@@ -41205,7 +41205,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPIDER PRETO/VERMELHO 58",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "44026",
@@ -41213,7 +41213,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPIDER PRETO/VERMELHO 60",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "44027",
@@ -41221,7 +41221,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPIDER PRETO/VERMELHO 61/62",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "51718",
@@ -41229,7 +41229,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/ROSA 56",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51719",
@@ -41237,7 +41237,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/ROSA 58",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51720",
@@ -41245,7 +41245,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/ROSA 60",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51721",
@@ -41261,7 +41261,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/TIFANY 56",
     "estoque": "2",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51723",
@@ -41269,7 +41269,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/TIFANY 58",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51724",
@@ -41277,7 +41277,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/TIFANY 60",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51725",
@@ -41293,7 +41293,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/VERMELHO 56",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51715",
@@ -41301,7 +41301,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/VERMELHO 58",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51716",
@@ -41309,7 +41309,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/VERMELHO 60",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "51717",
@@ -41317,7 +41317,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/VERMELHO 61/62",
     "estoque": "0",
-    "preco": "208,95"
+    "preco": "229,85"
   },
   {
     "codigo": "39230",
@@ -41661,7 +41661,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/PRATA 56",
     "estoque": "1",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "51930",
@@ -41669,7 +41669,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/PRATA 58",
     "estoque": "2",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "51931",
@@ -41677,7 +41677,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/PRATA 60",
     "estoque": "2",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "51932",
@@ -41685,7 +41685,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/PRATA 61/62",
     "estoque": "1",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "51933",
@@ -41693,7 +41693,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/ROSA 56",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "51934",
@@ -41701,7 +41701,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/ROSA 58",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "51935",
@@ -41709,7 +41709,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/ROSA 60",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "51938",
@@ -41717,7 +41717,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/VERDE 58",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "51939",
@@ -41725,7 +41725,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/VERDE 60",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "51940",
@@ -41733,7 +41733,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/VERDE 61/62",
     "estoque": "0",
-    "preco": "219,45"
+    "preco": "241,4"
   },
   {
     "codigo": "31025",
@@ -42133,7 +42133,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/AZUL 56",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45814",
@@ -42141,7 +42141,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/AZUL 58",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45815",
@@ -42149,7 +42149,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/AZUL 60",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45816",
@@ -42157,7 +42157,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/LILAS 56",
     "estoque": "5",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45817",
@@ -42165,7 +42165,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/LILAS 58",
     "estoque": "2",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45818",
@@ -42173,7 +42173,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/LILAS 60",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45822",
@@ -42181,7 +42181,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/PRATA 56",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45823",
@@ -42189,7 +42189,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/PRATA 58",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45824",
@@ -42197,7 +42197,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/PRATA 60",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45819",
@@ -42205,7 +42205,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/TIFANY 56",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45820",
@@ -42213,7 +42213,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/TIFANY 58",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45821",
@@ -42221,7 +42221,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/TIFANY 60",
     "estoque": "0",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45825",
@@ -42229,7 +42229,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/VERMELHO 56",
     "estoque": "4",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45826",
@@ -42237,7 +42237,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/VERMELHO 58",
     "estoque": "1",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "45827",
@@ -42245,7 +42245,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/VERMELHO 60",
     "estoque": "1",
-    "preco": "124,95"
+    "preco": "137,45"
   },
   {
     "codigo": "38953",
@@ -42477,7 +42477,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/BRANCO 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45916",
@@ -42485,7 +42485,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/BRANCO 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45917",
@@ -42493,7 +42493,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/BRANCO 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45918",
@@ -42501,7 +42501,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/BRANCO 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45907",
@@ -42509,7 +42509,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/ROSA 56",
     "estoque": "2",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45908",
@@ -42517,7 +42517,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/ROSA 58",
     "estoque": "2",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45909",
@@ -42525,7 +42525,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/ROSA 60",
     "estoque": "2",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45911",
@@ -42533,7 +42533,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/TIFFANY 56",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45912",
@@ -42541,7 +42541,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/TIFFANY 58",
     "estoque": "2",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45913",
@@ -42549,7 +42549,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/TIFFANY 60",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45914",
@@ -42557,7 +42557,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/TIFFANY 61/62",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45903",
@@ -42565,7 +42565,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/VERMELHO 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45904",
@@ -42573,7 +42573,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/VERMELHO 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45905",
@@ -42581,7 +42581,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/VERMELHO 60",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45906",
@@ -42589,7 +42589,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 COSMIC PRETO/VERMELHO 61/62",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45839",
@@ -42597,7 +42597,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH BRANCO/ROXO 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45840",
@@ -42605,7 +42605,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH BRANCO/ROXO 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45841",
@@ -42613,7 +42613,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH BRANCO/ROXO 60",
     "estoque": "1",
-    "preco": "323,4"
+    "preco": "355,74"
   },
   {
     "codigo": "45411",
@@ -42621,7 +42621,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO FOSCO/AZUL 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45412",
@@ -42629,7 +42629,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO FOSCO/AZUL 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45413",
@@ -42637,7 +42637,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO FOSCO/AZUL 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45414",
@@ -42645,7 +42645,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO FOSCO/AZUL 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45415",
@@ -42653,7 +42653,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO FOSCO/ROSA 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45416",
@@ -42661,7 +42661,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO FOSCO/ROSA 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45417",
@@ -42669,7 +42669,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO FOSCO/ROSA 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45419",
@@ -42677,7 +42677,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO FOSCO/VERMELHO 56",
     "estoque": "2",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45420",
@@ -42685,7 +42685,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO FOSCO/VERMELHO 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45421",
@@ -42693,7 +42693,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO FOSCO/VERMELHO 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45422",
@@ -42701,7 +42701,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO FOSCO/VERMELHO 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45423",
@@ -42709,7 +42709,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/AZUL 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45424",
@@ -42717,7 +42717,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/AZUL 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45425",
@@ -42725,7 +42725,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/AZUL 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45426",
@@ -42733,7 +42733,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/AZUL 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45431",
@@ -42741,7 +42741,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/ROSA 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45432",
@@ -42749,7 +42749,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/ROSA 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45433",
@@ -42757,7 +42757,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/ROSA 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45836",
@@ -42765,7 +42765,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/ROXO 56",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45837",
@@ -42773,7 +42773,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/ROXO 58",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45838",
@@ -42781,7 +42781,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/ROXO 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45427",
@@ -42789,7 +42789,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/VERMELHO 56",
     "estoque": "2",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45428",
@@ -42797,7 +42797,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/VERMELHO 58",
     "estoque": "2",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45429",
@@ -42805,7 +42805,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/VERMELHO 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45430",
@@ -42813,7 +42813,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 CRUSH PRETO/VERMELHO 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44921",
@@ -42821,7 +42821,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/AMARELO 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44922",
@@ -42829,7 +42829,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/AMARELO 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44923",
@@ -42837,7 +42837,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/AMARELO 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44924",
@@ -42845,7 +42845,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/AMARELO 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44925",
@@ -42853,7 +42853,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/AZUL 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44926",
@@ -42861,7 +42861,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/AZUL 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44927",
@@ -42869,7 +42869,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/AZUL 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44928",
@@ -42877,7 +42877,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/AZUL 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44933",
@@ -42885,7 +42885,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/TIFANY 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44934",
@@ -42893,7 +42893,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/TIFANY 58",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44935",
@@ -42901,7 +42901,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/TIFANY 60",
     "estoque": "2",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44929",
@@ -42909,7 +42909,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/VERMELHO 56",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44930",
@@ -42917,7 +42917,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/VERMELHO 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44931",
@@ -42925,7 +42925,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/VERMELHO 60",
     "estoque": "2",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44932",
@@ -42933,7 +42933,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 RAGE PRETO/VERMELHO 61/62",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44949",
@@ -42941,7 +42941,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SOLID PRETO FOSCO 61/62",
     "estoque": "0",
-    "preco": "288,53"
+    "preco": "317,38"
   },
   {
     "codigo": "52106",
@@ -42949,7 +42949,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SOLID SPECIAL PRETO FOSCO 56",
     "estoque": "1",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "52107",
@@ -42957,7 +42957,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SOLID SPECIAL PRETO FOSCO 58",
     "estoque": "2",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "52108",
@@ -42965,7 +42965,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SOLID SPECIAL PRETO FOSCO 60",
     "estoque": "0",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "49978",
@@ -42973,7 +42973,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SOLID SPECIAL PRETO FOSCO 61/62",
     "estoque": "1",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "48826",
@@ -42989,7 +42989,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL BRANCO 56",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "50709",
@@ -42997,7 +42997,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL BRANCO 58",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "52118",
@@ -43005,7 +43005,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL BRANCO 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "50708",
@@ -43013,7 +43013,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL BRANCO 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "48829",
@@ -43021,7 +43021,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL PRETO 56",
     "estoque": "0",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "48830",
@@ -43029,7 +43029,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL PRETO 58",
     "estoque": "2",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "48831",
@@ -43037,7 +43037,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL PRETO 60",
     "estoque": "1",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "48832",
@@ -43045,7 +43045,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL PRETO 61/62",
     "estoque": "0",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "48833",
@@ -43053,7 +43053,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL PRETO FOSCO 56",
     "estoque": "0",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "48834",
@@ -43061,7 +43061,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL PRETO FOSCO 58",
     "estoque": "0",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "48835",
@@ -43069,7 +43069,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL PRETO FOSCO 60",
     "estoque": "0",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "48836",
@@ -43077,7 +43077,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 SPECIAL PRETO FOSCO 61/62",
     "estoque": "0",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "45869",
@@ -43085,7 +43085,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED AZUL/TIFFANY 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45870",
@@ -43093,7 +43093,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED AZUL/TIFFANY 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45871",
@@ -43101,7 +43101,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED AZUL/TIFFANY 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45872",
@@ -43109,7 +43109,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED AZUL/TIFFANY 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45865",
@@ -43117,7 +43117,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED AZUL/VERDE 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45866",
@@ -43125,7 +43125,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED AZUL/VERDE 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45867",
@@ -43133,7 +43133,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED AZUL/VERDE 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45868",
@@ -43141,7 +43141,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED AZUL/VERDE 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "48938",
@@ -43149,7 +43149,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED BRANCO 56",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "48940",
@@ -43157,7 +43157,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED BRANCO 58",
     "estoque": "2",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "48942",
@@ -43165,7 +43165,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED BRANCO 60",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "48943",
@@ -43173,7 +43173,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED BRANCO 61/62",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45873",
@@ -43181,7 +43181,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED BRANCO/TIFFANY 56",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45874",
@@ -43189,7 +43189,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED BRANCO/TIFFANY 58",
     "estoque": "2",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45875",
@@ -43197,7 +43197,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED BRANCO/TIFFANY 60",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "45877",
@@ -43205,7 +43205,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 TED BRANCO/TIFFANY 61/62",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47553",
@@ -43213,7 +43213,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS BRANCO/AZUL 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47554",
@@ -43221,7 +43221,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS BRANCO/AZUL 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47555",
@@ -43229,7 +43229,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS BRANCO/AZUL 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47556",
@@ -43237,7 +43237,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS BRANCO/AZUL 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47557",
@@ -43245,7 +43245,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS BRANCO/ROXO 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47558",
@@ -43253,7 +43253,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS BRANCO/ROXO 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47559",
@@ -43261,7 +43261,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS BRANCO/ROXO 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47560",
@@ -43269,7 +43269,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS BRANCO/ROXO 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47545",
@@ -43277,7 +43277,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS PRETO/AZUL 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47546",
@@ -43285,7 +43285,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS PRETO/AZUL 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47547",
@@ -43293,7 +43293,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS PRETO/AZUL 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47548",
@@ -43301,7 +43301,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS PRETO/AZUL 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47549",
@@ -43309,7 +43309,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS PRETO/VERMELHO 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47550",
@@ -43317,7 +43317,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS PRETO/VERMELHO 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47551",
@@ -43325,7 +43325,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS PRETO/VERMELHO 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "47552",
@@ -43333,7 +43333,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 THANOS PRETO/VERMELHO 61/62",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "51669",
@@ -43341,7 +43341,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 VISION PRETO FOSCO 56",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "51670",
@@ -43349,7 +43349,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 VISION PRETO FOSCO 58",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "51671",
@@ -43357,7 +43357,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 VISION PRETO FOSCO 60",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "51672",
@@ -43365,7 +43365,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 VISION PRETO FOSCO 61",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "51677",
@@ -43373,7 +43373,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 VISION PRETO/ROSA 56",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "51678",
@@ -43381,7 +43381,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 VISION PRETO/ROSA 58",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "51679",
@@ -43389,7 +43389,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 VISION PRETO/ROSA 60",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "51673",
@@ -43397,7 +43397,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 VISION PRETO/VERMELHO 56",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "51674",
@@ -43405,7 +43405,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 VISION PRETO/VERMELHO 58",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "51675",
@@ -43413,7 +43413,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 VISION PRETO/VERMELHO 60",
     "estoque": "1",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "51676",
@@ -43421,7 +43421,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY FF 526 VISION PRETO/VERMELHO 61",
     "estoque": "0",
-    "preco": "313,95"
+    "preco": "345,35"
   },
   {
     "codigo": "44079",
@@ -43429,7 +43429,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/AZUL 56",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44080",
@@ -43437,7 +43437,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/AZUL 58",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44081",
@@ -43445,7 +43445,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/AZUL 60",
     "estoque": "0",
-    "preco": "551,25"
+    "preco": "606,38"
   },
   {
     "codigo": "44082",
@@ -43453,7 +43453,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/AZUL 61/62",
     "estoque": "0",
-    "preco": "551,25"
+    "preco": "606,38"
   },
   {
     "codigo": "44083",
@@ -43461,7 +43461,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/LARANJA 56",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44084",
@@ -43469,7 +43469,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/LARANJA 58",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44085",
@@ -43477,7 +43477,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/LARANJA 60",
     "estoque": "0",
-    "preco": "551,25"
+    "preco": "606,38"
   },
   {
     "codigo": "44086",
@@ -43485,7 +43485,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/LARANJA 61/62",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44087",
@@ -43493,7 +43493,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/VERMELHO 56",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44088",
@@ -43501,7 +43501,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/VERMELHO 58",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44089",
@@ -43509,7 +43509,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/VERMELHO 60",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44090",
@@ -43517,7 +43517,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO FOSCO/VERMELHO 61/62",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44091",
@@ -43525,7 +43525,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO/AZUL 56",
     "estoque": "0",
-    "preco": "569,42"
+    "preco": "626,36"
   },
   {
     "codigo": "44092",
@@ -43533,7 +43533,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO/AZUL 58",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44093",
@@ -43541,7 +43541,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO/AZUL 60",
     "estoque": "0",
-    "preco": "551,25"
+    "preco": "606,38"
   },
   {
     "codigo": "44094",
@@ -43549,7 +43549,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO/AZUL 61/62",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "49225",
@@ -43557,7 +43557,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO/LARANJA 56",
     "estoque": "0",
-    "preco": "569,1"
+    "preco": "626,01"
   },
   {
     "codigo": "46165",
@@ -43565,7 +43565,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO/LARANJA 60",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44095",
@@ -43573,7 +43573,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO/VERMELHO 56",
     "estoque": "2",
-    "preco": "569,1"
+    "preco": "626,01"
   },
   {
     "codigo": "44096",
@@ -43581,7 +43581,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO/VERMELHO 58",
     "estoque": "1",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "44097",
@@ -43589,7 +43589,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO/VERMELHO 60",
     "estoque": "2",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "44098",
@@ -43597,7 +43597,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR GTR PRETO/VERMELHO 61/62",
     "estoque": "2",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "50009",
@@ -43605,7 +43605,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/AMARELO 56",
     "estoque": "0",
-    "preco": "569,1"
+    "preco": "626,01"
   },
   {
     "codigo": "50010",
@@ -43613,7 +43613,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/AMARELO 58",
     "estoque": "0",
-    "preco": "569,1"
+    "preco": "626,01"
   },
   {
     "codigo": "50011",
@@ -43621,7 +43621,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/AMARELO 60",
     "estoque": "0",
-    "preco": "569,1"
+    "preco": "626,01"
   },
   {
     "codigo": "50012",
@@ -43629,7 +43629,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/AMARELO 61/62",
     "estoque": "0",
-    "preco": "569,1"
+    "preco": "626,01"
   },
   {
     "codigo": "44070",
@@ -43637,7 +43637,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/AZUL 56",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44071",
@@ -43645,7 +43645,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/AZUL 58",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44072",
@@ -43653,7 +43653,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/AZUL 60",
     "estoque": "1",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44073",
@@ -43661,7 +43661,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/AZUL 61/62",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44074",
@@ -43669,7 +43669,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/VERMELHO 56",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44075",
@@ -43677,7 +43677,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/VERMELHO 58",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44076",
@@ -43685,7 +43685,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/VERMELHO 60",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44077",
@@ -43693,7 +43693,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO FOSCO/VERMELHO 61/62",
     "estoque": "0",
-    "preco": "551,25"
+    "preco": "606,38"
   },
   {
     "codigo": "44058",
@@ -43701,7 +43701,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/AMARELO 56",
     "estoque": "1",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44059",
@@ -43709,7 +43709,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/AMARELO 58",
     "estoque": "2",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44060",
@@ -43717,7 +43717,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/AMARELO 60",
     "estoque": "1",
-    "preco": "569,42"
+    "preco": "626,36"
   },
   {
     "codigo": "44061",
@@ -43725,7 +43725,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/AMARELO 61/62",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44062",
@@ -43733,7 +43733,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/AZUL 56",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44063",
@@ -43741,7 +43741,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/AZUL 58",
     "estoque": "0",
-    "preco": "569,4"
+    "preco": "626,35"
   },
   {
     "codigo": "44064",
@@ -43749,7 +43749,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/AZUL 60",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44065",
@@ -43757,7 +43757,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/AZUL 61/62",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44066",
@@ -43765,7 +43765,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/VERMELHO 56",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44067",
@@ -43773,7 +43773,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/VERMELHO 58",
     "estoque": "1",
-    "preco": "551,25"
+    "preco": "606,38"
   },
   {
     "codigo": "44068",
@@ -43781,7 +43781,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/VERMELHO 60",
     "estoque": "0",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44069",
@@ -43789,7 +43789,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR RMC PRETO/VERMELHO 61/62",
     "estoque": "1",
-    "preco": "569,39"
+    "preco": "626,34"
   },
   {
     "codigo": "44185",
@@ -43797,7 +43797,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID BRANCO 56",
     "estoque": "0",
-    "preco": "541,25"
+    "preco": "595,38"
   },
   {
     "codigo": "44186",
@@ -43805,7 +43805,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID BRANCO 58",
     "estoque": "0",
-    "preco": "541,25"
+    "preco": "595,38"
   },
   {
     "codigo": "44187",
@@ -43813,7 +43813,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID BRANCO 60",
     "estoque": "0",
-    "preco": "541,25"
+    "preco": "595,38"
   },
   {
     "codigo": "44188",
@@ -43821,7 +43821,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID BRANCO 61",
     "estoque": "0",
-    "preco": "541,25"
+    "preco": "595,38"
   },
   {
     "codigo": "44108",
@@ -43829,7 +43829,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID CHUMBO 56",
     "estoque": "0",
-    "preco": "541,25"
+    "preco": "595,38"
   },
   {
     "codigo": "44109",
@@ -43837,7 +43837,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID CHUMBO 58",
     "estoque": "0",
-    "preco": "541,25"
+    "preco": "595,38"
   },
   {
     "codigo": "44110",
@@ -43845,7 +43845,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID CHUMBO 60",
     "estoque": "0",
-    "preco": "541,25"
+    "preco": "595,38"
   },
   {
     "codigo": "44111",
@@ -43853,7 +43853,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID CHUMBO 61/62",
     "estoque": "0",
-    "preco": "541,25"
+    "preco": "595,38"
   },
   {
     "codigo": "44100",
@@ -43861,7 +43861,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID PRETO 56",
     "estoque": "0",
-    "preco": "524,99"
+    "preco": "577,49"
   },
   {
     "codigo": "44101",
@@ -43869,7 +43869,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID PRETO 58",
     "estoque": "0",
-    "preco": "524,99"
+    "preco": "577,49"
   },
   {
     "codigo": "44102",
@@ -43877,7 +43877,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID PRETO 60",
     "estoque": "0",
-    "preco": "524,99"
+    "preco": "577,49"
   },
   {
     "codigo": "44103",
@@ -43885,7 +43885,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID PRETO 61/62",
     "estoque": "0",
-    "preco": "523,95"
+    "preco": "576,35"
   },
   {
     "codigo": "44104",
@@ -43893,7 +43893,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID PRETO FOSCO 56",
     "estoque": "0",
-    "preco": "524,99"
+    "preco": "577,49"
   },
   {
     "codigo": "44105",
@@ -43901,7 +43901,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID PRETO FOSCO 58",
     "estoque": "0",
-    "preco": "524,99"
+    "preco": "577,49"
   },
   {
     "codigo": "44106",
@@ -43909,7 +43909,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID PRETO FOSCO 60",
     "estoque": "0",
-    "preco": "524,99"
+    "preco": "577,49"
   },
   {
     "codigo": "44107",
@@ -43917,7 +43917,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID PRETO FOSCO 61/62",
     "estoque": "0",
-    "preco": "524,99"
+    "preco": "577,49"
   },
   {
     "codigo": "47753",
@@ -43925,7 +43925,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL BRANCO 56",
     "estoque": "1",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "46357",
@@ -43933,7 +43933,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL BRANCO 58",
     "estoque": "1",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "47751",
@@ -43941,7 +43941,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL BRANCO 60",
     "estoque": "1",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "47752",
@@ -43949,7 +43949,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL BRANCO 61/62",
     "estoque": "1",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "46358",
@@ -43957,7 +43957,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL CHUMBO 56",
     "estoque": "0",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "46174",
@@ -43965,7 +43965,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL CHUMBO 58",
     "estoque": "0",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "46175",
@@ -43973,7 +43973,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL CHUMBO 60",
     "estoque": "0",
-    "preco": "503,64"
+    "preco": "554,01"
   },
   {
     "codigo": "46173",
@@ -43981,7 +43981,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL CHUMBO 61/62",
     "estoque": "0",
-    "preco": "503,64"
+    "preco": "554,01"
   },
   {
     "codigo": "49973",
@@ -43989,7 +43989,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL CINZA BRILHANTE 60",
     "estoque": "0",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "49237",
@@ -43997,7 +43997,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL CINZA FOSCO 56",
     "estoque": "0",
-    "preco": "502,95"
+    "preco": "553,25"
   },
   {
     "codigo": "49238",
@@ -44005,7 +44005,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL CINZA FOSCO 58",
     "estoque": "0",
-    "preco": "502,95"
+    "preco": "553,25"
   },
   {
     "codigo": "49239",
@@ -44013,7 +44013,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL CINZA FOSCO 60",
     "estoque": "0",
-    "preco": "502,95"
+    "preco": "553,25"
   },
   {
     "codigo": "49240",
@@ -44021,7 +44021,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL CINZA FOSCO 61/62",
     "estoque": "0",
-    "preco": "502,95"
+    "preco": "553,25"
   },
   {
     "codigo": "47605",
@@ -44029,7 +44029,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO 56",
     "estoque": "1",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "46168",
@@ -44037,7 +44037,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO 58",
     "estoque": "1",
-    "preco": "503,64"
+    "preco": "554,01"
   },
   {
     "codigo": "47604",
@@ -44045,7 +44045,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO 60",
     "estoque": "0",
-    "preco": "503,64"
+    "preco": "554,01"
   },
   {
     "codigo": "46167",
@@ -44053,7 +44053,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO 61/62",
     "estoque": "1",
-    "preco": "503,64"
+    "preco": "554,01"
   },
   {
     "codigo": "46169",
@@ -44061,7 +44061,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO FOSCO 56",
     "estoque": "0",
-    "preco": "503,64"
+    "preco": "554,01"
   },
   {
     "codigo": "52105",
@@ -44069,7 +44069,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO FOSCO 56",
     "estoque": "1",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "46171",
@@ -44077,7 +44077,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO FOSCO 58",
     "estoque": "0",
-    "preco": "503,64"
+    "preco": "554,01"
   },
   {
     "codigo": "49974",
@@ -44085,7 +44085,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO FOSCO 58",
     "estoque": "0",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "47603",
@@ -44093,7 +44093,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO FOSCO 60",
     "estoque": "0",
-    "preco": "503,64"
+    "preco": "554,01"
   },
   {
     "codigo": "49975",
@@ -44101,7 +44101,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO FOSCO 60",
     "estoque": "1",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "49976",
@@ -44109,7 +44109,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO FOSCO 61",
     "estoque": "1",
-    "preco": "504"
+    "preco": "554,4"
   },
   {
     "codigo": "47602",
@@ -44117,7 +44117,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY MODULAR SOLID SPECIAL PRETO FOSCO 61/62",
     "estoque": "0",
-    "preco": "503,64"
+    "preco": "554,01"
   },
   {
     "codigo": "42637",
@@ -44125,7 +44125,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY SV DRONE PRETO FOSCO/VERMELHO 56",
     "estoque": "0",
-    "preco": "317,09"
+    "preco": "348,8"
   },
   {
     "codigo": "42638",
@@ -44133,7 +44133,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY SV DRONE PRETO FOSCO/VERMELHO 58",
     "estoque": "0",
-    "preco": "317,09"
+    "preco": "348,8"
   },
   {
     "codigo": "43194",
@@ -44141,7 +44141,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY SV DRONE PRETO FOSCO/VERMELHO 60",
     "estoque": "0",
-    "preco": "317,09"
+    "preco": "348,8"
   },
   {
     "codigo": "45832",
@@ -44149,7 +44149,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY SV DRONE PRETO/AMARELO 56",
     "estoque": "0",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "45833",
@@ -44157,7 +44157,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY SV DRONE PRETO/AMARELO 58",
     "estoque": "0",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "45834",
@@ -44165,7 +44165,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY SV DRONE PRETO/AMARELO 60",
     "estoque": "0",
-    "preco": "288,75"
+    "preco": "317,63"
   },
   {
     "codigo": "40525",
@@ -44309,7 +44309,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY SV SOLID BRANCO 56",
     "estoque": "0",
-    "preco": "316,05"
+    "preco": "347,66"
   },
   {
     "codigo": "48303",
@@ -44325,7 +44325,7 @@
     "marca": "EBF",
     "nome": "CAPACETE EBF X TROY SV SOLID BRANCO 60",
     "estoque": "0",
-    "preco": "317,07"
+    "preco": "348,78"
   },
   {
     "codigo": "48305",
@@ -46588,7 +46588,7 @@
     "fabric": "10013516",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO FEMME PRETO 56",
-    "estoque": "62",
+    "estoque": "61",
     "preco": "178,48"
   },
   {
@@ -46660,7 +46660,7 @@
     "fabric": "10013434",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 60",
-    "estoque": "40",
+    "estoque": "39",
     "preco": "178,49"
   },
   {
@@ -46948,7 +46948,7 @@
     "fabric": "CAP-149PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR KIDS PRETO 54",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "89,24"
   },
   {
@@ -48220,7 +48220,7 @@
     "fabric": "KOI0170",
     "marca": "MOTOKOI",
     "nome": "CARBURADOR TITAN 150 04/08 MOTOKOI",
-    "estoque": "49",
+    "estoque": "48",
     "preco": "83,99"
   },
   {
@@ -48956,7 +48956,7 @@
     "fabric": "09016",
     "marca": "PLASMOTO",
     "nome": "CARCACA FAROL YES 125 REDONDA PLASMOTO",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "15,58"
   },
   {
@@ -49468,7 +49468,7 @@
     "fabric": "103902",
     "marca": "MELC",
     "nome": "CARCACA PAINEL INFERIOR YBR 125 FACTOR MELC (103902)",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "14,69"
   },
   {
@@ -50612,7 +50612,7 @@
     "fabric": "103900",
     "marca": "MELC",
     "nome": "CARCACA PAINEL SUPERIOR YBR 125 FACTOR MELC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "44,63"
   },
   {
@@ -63924,7 +63924,7 @@
     "fabric": "TM1516",
     "marca": "TMAC",
     "nome": "COLETOR ADMISSAO TITAN 150 04/08 S/CAT TMAC",
-    "estoque": "68",
+    "estoque": "67",
     "preco": "19,43"
   },
   {
@@ -68332,7 +68332,7 @@
     "fabric": "TM7228",
     "marca": "TMAC",
     "nome": "COXIM TAMPA VALVULA TITAN 125/ TITAN 150/ BROS 150 KS ES ESD TMAC",
-    "estoque": "50",
+    "estoque": "48",
     "preco": "1,58"
   },
   {
@@ -70100,7 +70100,7 @@
     "fabric": "1018621",
     "marca": "WGK",
     "nome": "DISCO EMBREAGEM TITAN 150 WGK",
-    "estoque": "134",
+    "estoque": "132",
     "preco": "24,68"
   },
   {
@@ -82180,7 +82180,7 @@
     "fabric": "ARM499/1",
     "marca": "TECFIL",
     "nome": "FILTRO AR FAZER 150 14/CROSSER 150 TECFIL",
-    "estoque": "20",
+    "estoque": "0",
     "preco": "35,5"
   },
   {
@@ -83124,7 +83124,7 @@
     "fabric": "KL741",
     "marca": "MAHLE",
     "nome": "FILTRO COMBUSTIVEL TITAN 150 09 MIX/FLEX MAHLE",
-    "estoque": "54",
+    "estoque": "53",
     "preco": "12,59"
   },
   {
@@ -86724,7 +86724,7 @@
     "fabric": "VE99016010009",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 150/FAN 125 09 VEDAMOTORS",
-    "estoque": "635",
+    "estoque": "634",
     "preco": "4,73"
   },
   {
@@ -86748,7 +86748,7 @@
     "fabric": "VE05016001045",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "212",
+    "estoque": "211",
     "preco": "5,78"
   },
   {
@@ -88828,7 +88828,7 @@
     "fabric": "100401201",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 150 04/08 CROMADO POLIMET",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "41,99"
   },
   {
@@ -89380,7 +89380,7 @@
     "fabric": "90235340",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR FAROL LIG/DESL BIZ 100 MAGNETRON",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "11,75"
   },
   {
@@ -95172,7 +95172,7 @@
     "fabric": "KC-BIZ D 2,6",
     "marca": "DDL",
     "nome": "JOGO RAIO DIANT BIZ 100/125 DDL 2,6MM",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "31,49"
   },
   {
@@ -95772,7 +95772,7 @@
     "fabric": "TM013",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 TMAC 4MM",
-    "estoque": "188",
+    "estoque": "187",
     "preco": "19,94"
   },
   {
@@ -96596,7 +96596,7 @@
     "fabric": "VE05001000261",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA CABECOTE TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "20,13"
   },
   {
@@ -96876,7 +96876,7 @@
     "fabric": "VS05002000262",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA CILINDRO TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "6,29"
   },
   {
@@ -97012,7 +97012,7 @@
     "fabric": "VS05035000107",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA FILTRO CENTRIFUGO CG/ML/TU 125 VEDAMOTORS",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "2,09"
   },
   {
@@ -97236,7 +97236,7 @@
     "fabric": "VS05003010301",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 150/BROS 150 06/07 VEDAMOTORS",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "9,44"
   },
   {
@@ -97244,7 +97244,7 @@
     "fabric": "VS05003000263",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "13,13"
   },
   {
@@ -97468,7 +97468,7 @@
     "fabric": "VS05004015400",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TITAN 150/BROS 150 VEDAMOTORS",
-    "estoque": "131",
+    "estoque": "130",
     "preco": "5,78"
   },
   {
@@ -97476,7 +97476,7 @@
     "fabric": "VS05004000264",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "7,88"
   },
   {
@@ -97700,7 +97700,7 @@
     "fabric": "VS05610000295",
     "marca": "VEDAMOTORS",
     "nome": "KIT A BIZ 100 VEDAMOTORS",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "23,68"
   },
   {
@@ -98004,7 +98004,7 @@
     "fabric": "VS0561010001K",
     "marca": "VEDAMOTORS",
     "nome": "KIT A TITAN 150 VEDAMOTORS",
-    "estoque": "85",
+    "estoque": "84",
     "preco": "16,83"
   },
   {
@@ -99308,7 +99308,7 @@
     "fabric": "HCP0036T",
     "marca": "VAZ",
     "nome": "KIT COROA/PINHAO FAN 125 2014 VAZ HCP0036T",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "41,99"
   },
   {
@@ -100812,7 +100812,7 @@
     "fabric": "TM113",
     "marca": "TMAC",
     "nome": "KIT TRANSMISSAO FAN 125 09 TMAC (43/14/428HX116L)",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "62,99"
   },
   {
@@ -101508,7 +101508,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "136",
+    "estoque": "135",
     "preco": "62,99"
   },
   {
@@ -105396,7 +105396,7 @@
     "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "1424",
+    "estoque": "1423",
     "preco": "30,44"
   },
   {
@@ -105420,7 +105420,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "2082",
+    "estoque": "2075",
     "preco": "35,69"
   },
   {
@@ -105452,7 +105452,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "506",
+    "estoque": "502",
     "preco": "26,24"
   },
   {
@@ -105476,7 +105476,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "175",
+    "estoque": "161",
     "preco": "49,34"
   },
   {
@@ -105564,7 +105564,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "227",
+    "estoque": "221",
     "preco": "13,64"
   },
   {
@@ -105588,7 +105588,7 @@
     "fabric": "",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 10W40 SEMI SINTETICO",
-    "estoque": "181",
+    "estoque": "180",
     "preco": "49,88"
   },
   {
@@ -105596,7 +105596,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "275",
+    "estoque": "273",
     "preco": "38,3"
   },
   {
@@ -114724,7 +114724,7 @@
     "fabric": "25134K",
     "marca": "MOTOKOI BR",
     "nome": "MOLA PEDAL FREIO CG/TO/TITAN MOTOKOI",
-    "estoque": "92",
+    "estoque": "91",
     "preco": "1,55"
   },
   {
@@ -126460,7 +126460,7 @@
     "fabric": "FA680",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO YBR FACTOR 150 16/FAZER 150 DIANTEIRO TMAC",
-    "estoque": "50",
+    "estoque": "49",
     "preco": "17,56"
   },
   {
@@ -129740,7 +129740,7 @@
     "fabric": "KOI0393",
     "marca": "MOTOKOI",
     "nome": "PEDAL PARTIDA TITAN150 04-08/BROS 06-12/FAN125 09-13 MOTOKOI",
-    "estoque": "39",
+    "estoque": "38",
     "preco": "20,99"
   },
   {
@@ -136724,7 +136724,7 @@
     "fabric": "1104386",
     "marca": "KMP",
     "nome": "PISTAO TITAN 160/BROS 160 0,75 KMP",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "59,84"
   },
   {
@@ -139004,7 +139004,7 @@
     "fabric": "6050",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT TL 42P",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "131,25"
   },
   {
@@ -139052,7 +139052,7 @@
     "fabric": "16084",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 60/100-17 LEVORIN MATRIX BIZ",
-    "estoque": "174",
+    "estoque": "172",
     "preco": "209,99"
   },
   {
@@ -140036,7 +140036,7 @@
     "fabric": "16083",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 80/100-14 LEVORIN MATRIX BIZ",
-    "estoque": "76",
+    "estoque": "75",
     "preco": "219,46"
   },
   {
@@ -141180,7 +141180,7 @@
     "fabric": "19015",
     "marca": "PLASMOTO",
     "nome": "PORTA CORRENTE TITAN-FAN 150/FAN 129 09 PLASMOTO (19015)",
-    "estoque": "31",
+    "estoque": "30",
     "preco": "13,13"
   },
   {
@@ -147612,7 +147612,7 @@
     "fabric": "TC906",
     "marca": "TMAC",
     "nome": "REFIL BOMBA COMBUSTIVEL BIZ 125 KS 11/12/BIZ 125 ES/EX FLEX 11/15 TMAC C/FILTRO",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "116,99"
   },
   {
@@ -149228,7 +149228,7 @@
     "fabric": "TM916",
     "marca": "TMAC",
     "nome": "RELE PARTIDA YBR E-ED/ FACTOR/ XTZ 125E / XTZ 125X TMAC",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "42,97"
   },
   {
@@ -151732,7 +151732,7 @@
     "fabric": "M73FG00028000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR CAMBIO TITAN 150/TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "52",
+    "estoque": "51",
     "preco": "6,28"
   },
   {
@@ -152236,7 +152236,7 @@
     "fabric": "M739000GB4683",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR HASTE VALVULA TWISTER/TITAN 150/TITAN 2002/BIZ VEDAMOTORS (PAR)",
-    "estoque": "152",
+    "estoque": "151",
     "preco": "10,49"
   },
   {
@@ -152788,7 +152788,7 @@
     "fabric": "M730001047000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR PINHAO CG 125/TITAN 150/TITAN 160/NEXT 250 VEDAMOTORS",
-    "estoque": "60",
+    "estoque": "59",
     "preco": "6,83"
   },
   {
@@ -153420,7 +153420,7 @@
     "fabric": "KOI0243",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR BIZ 125/POP/BROS 09 PAR MOTOKOI BR",
-    "estoque": "227",
+    "estoque": "226",
     "preco": "20,99"
   },
   {
@@ -153652,7 +153652,7 @@
     "fabric": "8104",
     "marca": "GVS",
     "nome": "RETROVISOR CB 250 PRETO DIR CONVEXO GVS 13MM",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "57,75"
   },
   {
@@ -155500,7 +155500,7 @@
     "fabric": "104980",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6202 ZZE RODA TRAS CG/TITAN C/ 2 BLIND NACHI",
-    "estoque": "8",
+    "estoque": "6",
     "preco": "24,14"
   },
   {
@@ -155508,7 +155508,7 @@
     "fabric": "562030",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6203 RODA TRAS NX/XR/ XLR/ DREAN C/ 1 BLIND NACHI",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "25,94"
   },
   {
@@ -155980,7 +155980,7 @@
     "fabric": "035BC07S65NC",
     "marca": "NACHI",
     "nome": "ROLAMENTO VIRABREQUIM TITAN 160/BROS 160 LD/LE 035BC07S65NC NACHI",
-    "estoque": "33",
+    "estoque": "31",
     "preco": "97,13"
   },
   {
@@ -159748,7 +159748,7 @@
     "fabric": "101800127",
     "marca": "POLIMET",
     "nome": "SUPORTE PARALAMA DIANT TITAN 150/TITAN 160/FAN 150 14 POLIMET",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "25,99"
   },
   {
@@ -165620,7 +165620,7 @@
     "fabric": "10112001",
     "marca": "WGK",
     "nome": "VALVULA ADMISSAO TITAN 160/BROS 160 WGK",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "20,15"
   },
   {
@@ -166300,7 +166300,7 @@
     "fabric": "10112021",
     "marca": "WGK",
     "nome": "VALVULA ESCAPE TITAN 160/BROS 160 WGK",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "27,55"
   },
   {
@@ -167132,7 +167132,7 @@
     "fabric": "DPR8EA9",
     "marca": "NGK",
     "nome": "VELA FAN/BROS/GS 500  DPR8EA-9 NGK",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "23,63"
   },
   {
@@ -167324,7 +167324,7 @@
     "fabric": "DP8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN ATE 99 DP8EA-9 NGK",
-    "estoque": "46",
+    "estoque": "44",
     "preco": "19,94"
   },
   {
