@@ -10324,7 +10324,7 @@
     "fabric": "BL9023",
     "marca": "METAL LEVE",
     "nome": "BIELA TITAN/XLR/KS/ES 92/01 CBX/NX200 METAL LEVE",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "133,35"
   },
   {
@@ -16196,7 +16196,7 @@
     "fabric": "1232",
     "marca": "POLIVISOR",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW ATOMIC/NEW LIBERTY 3/JOY 23 POLIVISOR PAR",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "9,01"
   },
   {
@@ -30868,7 +30868,7 @@
     "fabric": "TM3005",
     "marca": "TMAC",
     "nome": "CADEADO ARTICULADO 15X1200MM TMAC",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "37,87"
   },
   {
@@ -36068,7 +36068,7 @@
     "fabric": "1004001133",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER GG",
-    "estoque": "36",
+    "estoque": "33",
     "preco": "89,24"
   },
   {
@@ -81996,7 +81996,7 @@
     "fabric": "004540V",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR ESPORTIVO TITAN 150 09 ED/BROS 150 09 ED VERMELHO VEDAMOTORS",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "27,56"
   },
   {
@@ -83972,7 +83972,7 @@
     "fabric": "0001-FL",
     "marca": "COBREQ",
     "nome": "FLANGE RODA TITAN 150 04/13 TRASEIRA COBREQ",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "99,23"
   },
   {
@@ -86628,7 +86628,7 @@
     "fabric": "15193K",
     "marca": "MOTOKOI BR",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 150/FAN 125 09 MOTOKOI C/COXIM",
-    "estoque": "5",
+    "estoque": "3",
     "preco": "4,65"
   },
   {
@@ -94900,7 +94900,7 @@
     "fabric": "VS05700010001",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS TITAN 150/BROS 150 06/07 VEDAMOTORS",
-    "estoque": "57",
+    "estoque": "56",
     "preco": "23,63"
   },
   {
@@ -103984,6 +103984,14 @@
     "preco": "0"
   },
   {
+    "codigo": "53650",
+    "fabric": "362700",
+    "marca": "GVS",
+    "nome": "LENTE LANTERNA FAN 125 09/13/TITAN/JOB/SPORT 150 05/08 TRASEIRA VERMELHA GVS",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "33319",
     "fabric": "42159",
     "marca": "TRILHA",
@@ -104036,6 +104044,14 @@
     "fabric": "02782",
     "marca": "STYLU",
     "nome": "LENTE LANTERNA SUZUKI YES VERMELHA STLU",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "53649",
+    "fabric": "361700",
+    "marca": "GVS",
+    "nome": "LENTE LANTERNA TITAN 125 00/04/FAN 125 05/08 TRASEIRA VERMELHA GVS",
     "estoque": "0",
     "preco": "0"
   },
@@ -104912,28 +104928,12 @@
     "preco": "2,06"
   },
   {
-    "codigo": "19001",
-    "fabric": "9496",
-    "marca": "GVS",
-    "nome": "LENTE PISCA TITAN 2000 CRISTAL GVS",
-    "estoque": "1",
-    "preco": "7,11"
-  },
-  {
     "codigo": "12515",
     "fabric": "4923",
     "marca": "ORBITAL",
     "nome": "LENTE PISCA TITAN 2000 CRISTAL ORBITAL",
     "estoque": "10",
     "preco": "6,29"
-  },
-  {
-    "codigo": "1572",
-    "fabric": "8398",
-    "marca": "GVS",
-    "nome": "LENTE PISCA TITAN 2000 FUME GVS",
-    "estoque": "33",
-    "preco": "4,29"
   },
   {
     "codigo": "12516",
@@ -104984,20 +104984,36 @@
     "preco": "1,88"
   },
   {
-    "codigo": "27007",
-    "fabric": "9498",
-    "marca": "GVS",
-    "nome": "LENTE PISCA TITAN 2000 VERMELHA GVS",
-    "estoque": "7",
-    "preco": "7,51"
-  },
-  {
     "codigo": "27643",
     "fabric": "4924",
     "marca": "ORBITAL",
     "nome": "LENTE PISCA TITAN 2000 VERMELHA ORBITAL",
     "estoque": "9",
     "preco": "8,16"
+  },
+  {
+    "codigo": "19001",
+    "fabric": "9496/4496",
+    "marca": "GVS",
+    "nome": "LENTE PISCA TITAN 2000/TWISTER/CB 300 CRISTAL GVS",
+    "estoque": "1",
+    "preco": "7,11"
+  },
+  {
+    "codigo": "1572",
+    "fabric": "8398/3398",
+    "marca": "GVS",
+    "nome": "LENTE PISCA TITAN 2000/TWISTER/CB 300 FUME GVS",
+    "estoque": "33",
+    "preco": "4,29"
+  },
+  {
+    "codigo": "27007",
+    "fabric": "9498/4498",
+    "marca": "GVS",
+    "nome": "LENTE PISCA TITAN 2000/TWISTER/CB 300 VERMELHA GVS",
+    "estoque": "7",
+    "preco": "7,51"
   },
   {
     "codigo": "18993",
@@ -105356,7 +105372,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "325",
+    "estoque": "322",
     "preco": "26,24"
   },
   {
@@ -105380,7 +105396,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "135",
+    "estoque": "134",
     "preco": "49,34"
   },
   {
@@ -133561,7 +133577,7 @@
   },
   {
     "codigo": "46252",
-    "fabric": "810055",
+    "fabric": "810055/310055",
     "marca": "GVS",
     "nome": "PISCA XRE 300 19 ED/ADV 150 LED GVS CRISTAL SEQUENCIAL",
     "estoque": "8",
@@ -141668,7 +141684,7 @@
     "fabric": "51202K",
     "marca": "MOTOKOI BR",
     "nome": "PRISIONEIRO COROA TITAN 150/FAN 09/TWISTER/CB 300 MOTOKOI (KIT C/PORCAS)",
-    "estoque": "44",
+    "estoque": "43",
     "preco": "14,18"
   },
   {
@@ -153177,25 +153193,25 @@
   },
   {
     "codigo": "36102",
-    "fabric": "9338",
+    "fabric": "9338/4338",
     "marca": "GVS",
-    "nome": "RETROVISOR BIZ 125 18 GVS (PAR) ROSCA INVERSA 9MM",
+    "nome": "RETROVISOR BIZ 125 18/21 GVS (PAR) ROSCA INVERSA 9MM",
     "estoque": "9",
     "preco": "35,69"
   },
   {
     "codigo": "36574",
-    "fabric": "9337",
+    "fabric": "9337/4337",
     "marca": "GVS",
-    "nome": "RETROVISOR BIZ 125 18 GVS L/D ROSCA INVERSA 9MM",
+    "nome": "RETROVISOR BIZ 125 18/21 GVS L/D ROSCA INVERSA 9MM",
     "estoque": "0",
     "preco": "21,84"
   },
   {
     "codigo": "36575",
-    "fabric": "9336",
+    "fabric": "9336/4336",
     "marca": "GVS",
-    "nome": "RETROVISOR BIZ 125 18 GVS L/E ROSCA INVERSA 9MM",
+    "nome": "RETROVISOR BIZ 125 18/21 GVS L/E ROSCA INVERSA 9MM",
     "estoque": "5",
     "preco": "21,84"
   },
@@ -154001,7 +154017,7 @@
   },
   {
     "codigo": "51237",
-    "fabric": "610425",
+    "fabric": "610425/110425",
     "marca": "GVS",
     "nome": "RETROVISOR LEAD 110 PRATA PAR HONDA ROSCA M8 INVERSA GVS",
     "estoque": "0",
@@ -154353,9 +154369,9 @@
   },
   {
     "codigo": "52296",
-    "fabric": "610340",
+    "fabric": "610340/110340",
     "marca": "GVS",
-    "nome": "RETROVISOR MINI XRE 300 23 GVS (PAR HONDA) CONVEXO AZUL",
+    "nome": "RETROVISOR MINI XRE 300 19/23 GVS (PAR HONDA) CONVEXO AZUL",
     "estoque": "0",
     "preco": "94,49"
   },
@@ -154409,7 +154425,7 @@
   },
   {
     "codigo": "46249",
-    "fabric": "610112",
+    "fabric": "610112/110112",
     "marca": "GVS",
     "nome": "RETROVISOR MINI Z400 GVS (PAR)",
     "estoque": "0",
@@ -154481,9 +154497,9 @@
   },
   {
     "codigo": "51233",
-    "fabric": "610375",
+    "fabric": "610375/110375",
     "marca": "GVS",
-    "nome": "RETROVISOR PCX 150 13/18 / XRE 190 16/24 ROSCA M10 INVERSA GVS (PAR HONDA)",
+    "nome": "RETROVISOR PCX 150 13/18/XRE 190 16/24 ROSCA M10 INVERSA GVS (PAR HONDA)",
     "estoque": "0",
     "preco": "78,75"
   },
@@ -154577,7 +154593,7 @@
   },
   {
     "codigo": "51235",
-    "fabric": "610378",
+    "fabric": "610378/110378",
     "marca": "GVS",
     "nome": "RETROVISOR SH 150 INVERSA GVS (PAR HONDA)",
     "estoque": "2",
@@ -155017,7 +155033,7 @@
   },
   {
     "codigo": "51214",
-    "fabric": "610480",
+    "fabric": "610480/110480",
     "marca": "GVS",
     "nome": "RETROVISOR XRE 300 24 PAR GVS PRATA PAR INVERSO",
     "estoque": "2",
@@ -155065,7 +155081,7 @@
   },
   {
     "codigo": "51232",
-    "fabric": "610372",
+    "fabric": "610372/110372",
     "marca": "GVS",
     "nome": "RETROVISOR XT 660 GVS (PAR YAMAHA) GIRO 360",
     "estoque": "0",
@@ -155073,7 +155089,7 @@
   },
   {
     "codigo": "51230",
-    "fabric": "610370",
+    "fabric": "610370/110370",
     "marca": "GVS",
     "nome": "RETROVISOR XT 660 GVS M10 PAR YAMAHA",
     "estoque": "0",
@@ -155860,7 +155876,7 @@
     "fabric": "28BCS18NSE2",
     "marca": "NACHI",
     "nome": "ROLAMENTO VIRABREQUIM TITAN 2000 28BCS18 NSE2 C/BLIN. NACHI",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "109,22"
   },
   {
@@ -155876,7 +155892,7 @@
     "fabric": "28BCS18",
     "marca": "NACHI",
     "nome": "ROLAMENTO VIRABREQUIM TITAN 2000 28BCS18 S/BLIND. NACHI",
-    "estoque": "6",
+    "estoque": "7",
     "preco": "85,58"
   },
   {
@@ -166804,7 +166820,7 @@
     "fabric": "C6HSA",
     "marca": "NGK",
     "nome": "VELA BIZ 100 C6HSA NGK",
-    "estoque": "50",
+    "estoque": "45",
     "preco": "20,48"
   },
   {
@@ -171236,7 +171252,7 @@
     "fabric": "VI-53",
     "marca": "TORK",
     "nome": "VISEIRA TORK LIBERTY KIDS 2,00 MM TORK",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "26,78"
   },
   {
