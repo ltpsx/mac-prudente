@@ -3972,7 +3972,7 @@
     "fabric": "VE05009500109",
     "marca": "VEDAMOTORS",
     "nome": "ANEL ESCAPAMENTO CG/ML/TUR/XL VEDAMOTORS",
-    "estoque": "103",
+    "estoque": "102",
     "preco": "1,1"
   },
   {
@@ -13436,7 +13436,7 @@
     "fabric": "90217420",
     "marca": "MAGNETRON",
     "nome": "BOIA TANQUE BIZ 100 98/01 MAGNETRON",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "73,5"
   },
   {
@@ -18380,7 +18380,7 @@
     "fabric": "03706",
     "marca": "DANIDREA",
     "nome": "BUJAO OLEO CB 400/450 / XL/XLX  14MM DANIDREA",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "7,34"
   },
   {
@@ -32156,7 +32156,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "58",
+    "estoque": "57",
     "preco": "16,79"
   },
   {
@@ -32292,7 +32292,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "466",
+    "estoque": "461",
     "preco": "17,33"
   },
   {
@@ -36076,7 +36076,7 @@
     "fabric": "1004001131",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER M",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "89,24"
   },
   {
@@ -42028,7 +42028,7 @@
     "fabric": "1250058PTO",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SOLID PRETO 58",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "125,9"
   },
   {
@@ -74196,7 +74196,7 @@
     "fabric": "87120-KYO-910",
     "marca": "HONDA",
     "nome": "EMBLEMA FRONTAL TITAN 99 HONDA",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "21,84"
   },
   {
@@ -88348,7 +88348,7 @@
     "fabric": "100409901",
     "marca": "POLIMET",
     "nome": "GUIDAO CARGO 160 POLIMET C/PESO",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "62,18"
   },
   {
@@ -94892,7 +94892,7 @@
     "fabric": "VS05850000140",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS TITAN 00/01 KS/ES/KSE VEDAMOTORS C/BORRACHA RETENTOR HASTE GROSSA",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "50,93"
   },
   {
@@ -97732,7 +97732,7 @@
     "fabric": "VE0561021150K",
     "marca": "VEDAMOTORS",
     "nome": "KIT A CBX 200/NX 200/XR 200 293CC VEDAMOTORS",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "46,22"
   },
   {
@@ -102300,7 +102300,7 @@
     "fabric": "TL004",
     "marca": "TMAC",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO TMAC",
-    "estoque": "996",
+    "estoque": "991",
     "preco": "1,4"
   },
   {
@@ -105113,9 +105113,9 @@
   },
   {
     "codigo": "41801",
-    "fabric": "6237",
+    "fabric": "6237/1237",
     "marca": "GVS",
-    "nome": "LENTE PISCA YBR FACTOR LARANJA GVS",
+    "nome": "LENTE PISCA YBR FACTOR 09/11/FAZER 250 11/XTZ 250 09/11 LARANJA GVS",
     "estoque": "41",
     "preco": "3,94"
   },
@@ -105388,7 +105388,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "315",
+    "estoque": "314",
     "preco": "26,24"
   },
   {
@@ -105412,7 +105412,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "134",
+    "estoque": "133",
     "preco": "49,34"
   },
   {
@@ -110148,7 +110148,7 @@
     "fabric": "1282",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 99 DIREITO INJETADO  PROTEC CROMADO",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "26,22"
   },
   {
@@ -112844,7 +112844,7 @@
     "fabric": "TC3021",
     "marca": "TMAC",
     "nome": "MESA PORTA ESCOVA YBR 125I / XT 150 CROSSER / NMAX 160 16 TMAC",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "8"
   },
   {
@@ -124780,7 +124780,7 @@
     "fabric": "FA174",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO CB 300 S.ABS/CB 500 F-X/XJ 6 09-12 TRAS TMAC",
-    "estoque": "18",
+    "estoque": "16",
     "preco": "11,35"
   },
   {
@@ -138908,7 +138908,7 @@
     "fabric": "100648",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 2.75-18 MAGGION WINNER TT",
-    "estoque": "63",
+    "estoque": "62",
     "preco": "125,98"
   },
   {
@@ -138996,7 +138996,7 @@
     "fabric": "",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREETFIGHTER MF7 TT",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "100,79"
   },
   {
@@ -139036,7 +139036,7 @@
     "fabric": "3100",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC TIGER BIZ TT 33L",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "97,13"
   },
   {
@@ -139060,7 +139060,7 @@
     "fabric": "18822",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TT 47P",
-    "estoque": "38",
+    "estoque": "37",
     "preco": "220,4"
   },
   {
@@ -140012,7 +140012,7 @@
     "fabric": "3101",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC TIGER BIZ TT 49L",
-    "estoque": "67",
+    "estoque": "66",
     "preco": "110,24"
   },
   {
@@ -140044,7 +140044,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "96",
+    "estoque": "94",
     "preco": "230,99"
   },
   {
@@ -153547,7 +153547,7 @@
     "codigo": "6742",
     "fabric": "4842/2704",
     "marca": "GVS",
-    "nome": "RETROVISOR BURGMAN PAR GVS",
+    "nome": "RETROVISOR BURGMAN 125 06/10 PAR GVS",
     "estoque": "0",
     "preco": "54,6"
   },
@@ -153947,7 +153947,7 @@
     "codigo": "6744",
     "fabric": "4839/2399",
     "marca": "GVS",
-    "nome": "RETROVISOR FAZER/LANDER 250 (PAR) GVS",
+    "nome": "RETROVISOR FAZER/LANDER 250 06/17 (PAR) GVS",
     "estoque": "0",
     "preco": "57,35"
   },
@@ -154536,6 +154536,14 @@
     "preco": "57,75"
   },
   {
+    "codigo": "45279",
+    "fabric": "8981/5981",
+    "marca": "GVS",
+    "nome": "RETROVISOR PCX 150 13/18/XRE 190 16/24 ROSCA M10 INVERSA PRETO PAR GVS LENTE CONVEXA",
+    "estoque": "6",
+    "preco": "110,25"
+  },
+  {
     "codigo": "41803",
     "fabric": "8508",
     "marca": "GVS",
@@ -154574,14 +154582,6 @@
     "nome": "RETROVISOR PCX 150 ROSCA M10 INVERSA PRETO L/D GVS LENTE CONVEXA",
     "estoque": "3",
     "preco": "57,75"
-  },
-  {
-    "codigo": "45279",
-    "fabric": "8981",
-    "marca": "GVS",
-    "nome": "RETROVISOR PCX 150 ROSCA M10 INVERSA PRETO PAR GVS LENTE CONVEXA",
-    "estoque": "6",
-    "preco": "110,25"
   },
   {
     "codigo": "10628",
@@ -154804,7 +154804,7 @@
     "fabric": "1397",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150/TITAN 125 NOVA PAR NEXPART",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "20,99"
   },
   {
@@ -156596,7 +156596,7 @@
     "fabric": "SS002-001",
     "marca": "CIRCUIT",
     "nome": "SANFONA BENGALA 18 DENTES PT CIRCUIT",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "48,3"
   },
   {
@@ -163628,7 +163628,7 @@
     "fabric": "1010341",
     "marca": "WGK",
     "nome": "TENSION /ACION. CORRENTE CBX/NX/XR 200/CBX-XR250 WGK",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "73,74"
   },
   {
@@ -163900,7 +163900,7 @@
     "fabric": "TC4508",
     "marca": "TMAC",
     "nome": "TENSOR CORRENTE COMANDO CBX200/XR200/NX200/CRF230 TMAC",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "12,57"
   },
   {
@@ -170492,7 +170492,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "134",
+    "estoque": "133",
     "preco": "5,51"
   },
   {
