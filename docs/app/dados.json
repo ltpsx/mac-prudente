@@ -1908,7 +1908,7 @@
     "fabric": "10709",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE CG/ML/TU ECCO MED. 10,02MM SIVERST",
-    "estoque": "32",
+    "estoque": "42",
     "preco": "17,46"
   },
   {
@@ -1916,7 +1916,7 @@
     "fabric": "11353",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE CG/ML/TU ECCO MED. 10,05MM SIVERST",
-    "estoque": "14",
+    "estoque": "34",
     "preco": "16,93"
   },
   {
@@ -1924,7 +1924,7 @@
     "fabric": "11381",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE CG/ML/TU ECCO MED. 10,08MM SIVERST",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "16,41"
   },
   {
@@ -1932,7 +1932,7 @@
     "fabric": "10710",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE CG/ML/TU ECCO MED. 9,95 MM SIVERST",
-    "estoque": "8",
+    "estoque": "18",
     "preco": "16,79"
   },
   {
@@ -1964,7 +1964,7 @@
     "fabric": "10722",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE FALCON 99/08 SIVERST",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "28,08"
   },
   {
@@ -2028,7 +2028,7 @@
     "fabric": "20063",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE XT225/TDM225/BURGMAN SIVERST",
-    "estoque": "4",
+    "estoque": "14",
     "preco": "16,28"
   },
   {
@@ -2052,7 +2052,7 @@
     "fabric": "20256",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE YBR FACTOR/XTZ 125/NEO 110/INTRUDER 125 SIVERST",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "18,49"
   },
   {
@@ -2068,7 +2068,7 @@
     "fabric": "20088",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA C/ SEDE YBR/ XTZ/ YES INTRUDER 125 00/08 SIVERST",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "19,05"
   },
   {
@@ -2076,7 +2076,7 @@
     "fabric": "10108",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA S/ SEDE BIZ/DREAM SIVERST",
-    "estoque": "7",
+    "estoque": "17",
     "preco": "12,6"
   },
   {
@@ -2084,7 +2084,7 @@
     "fabric": "10250",
     "marca": "SIVERST",
     "nome": "AGULHA BOIA S/ SEDE FALCON 99..08 SIVERST",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "23,14"
   },
   {
@@ -8260,7 +8260,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "176",
+    "estoque": "175",
     "preco": "111,28"
   },
   {
@@ -13324,7 +13324,7 @@
     "fabric": "10063",
     "marca": "SIVERST",
     "nome": "BOIA CARBURADOR ECCO CG/TITAN/TITAN 150 SIVERST",
-    "estoque": "8",
+    "estoque": "13",
     "preco": "34,13"
   },
   {
@@ -15140,7 +15140,7 @@
     "fabric": "44066K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA PEDAL DE PARTIDA CG/ML/TU MOTOKOI",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "1,84"
   },
   {
@@ -16052,7 +16052,7 @@
     "fabric": "1233",
     "marca": "POLIVISOR",
     "nome": "BOTAO LS2 FF358/FF396/FF386/FF394 (PAR) POLIVISOR",
-    "estoque": "15",
+    "estoque": "25",
     "preco": "20,99"
   },
   {
@@ -16196,7 +16196,7 @@
     "fabric": "1232",
     "marca": "POLIVISOR",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW ATOMIC/NEW LIBERTY 3/JOY 23 POLIVISOR PAR",
-    "estoque": "8",
+    "estoque": "58",
     "preco": "8,16"
   },
   {
@@ -16236,7 +16236,7 @@
     "fabric": "1231",
     "marca": "POLIVISOR",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW FOUR/EVOLUTION G4 (FINO) POLIVISOR",
-    "estoque": "2",
+    "estoque": "12",
     "preco": "8,93"
   },
   {
@@ -27204,7 +27204,7 @@
     "fabric": "KOI0048",
     "marca": "MOTOKOI",
     "nome": "CABO FREIO BIZ 125 09/10 MOTOKOI",
-    "estoque": "3",
+    "estoque": "1",
     "preco": "9,61"
   },
   {
@@ -31988,7 +31988,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "CALCA X11 CLIMATE PRETO G",
-    "estoque": "2",
+    "estoque": "0",
     "preco": "94,49"
   },
   {
@@ -32004,7 +32004,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "CALCA X11 CLIMATE PRETO M",
-    "estoque": "2",
+    "estoque": "0",
     "preco": "94,49"
   },
   {
@@ -32052,7 +32052,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "CALCA X11 EXTREME AIR FEMININA PRETO/ROSA 4G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "765,47"
   },
   {
@@ -32156,7 +32156,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "16,79"
   },
   {
@@ -32292,7 +32292,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "340",
+    "estoque": "337",
     "preco": "17,33"
   },
   {
@@ -33188,7 +33188,7 @@
     "fabric": "KOI0187",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BIZ 125 18/24 PRETO MOTOKOI",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "24,14"
   },
   {
@@ -34876,7 +34876,7 @@
     "fabric": "KOI0226",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 150 04/08/JOB/SPORT MOTOKOI",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "17,61"
   },
   {
@@ -35524,7 +35524,7 @@
     "fabric": "KOI0288",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO YBR 00/08 MOTOKOI",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "19,94"
   },
   {
@@ -46588,7 +46588,7 @@
     "fabric": "10013432",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 56",
-    "estoque": "47",
+    "estoque": "46",
     "preco": "178,49"
   },
   {
@@ -46932,7 +46932,7 @@
     "fabric": "CAP-36PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 60",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "88,32"
   },
   {
@@ -49132,7 +49132,7 @@
     "fabric": "4894ORB",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL INFERIOR TITAN 00/04 E 08/09 PTA ORBITAL",
-    "estoque": "5",
+    "estoque": "25",
     "preco": "8,16"
   },
   {
@@ -49228,7 +49228,7 @@
     "fabric": "4888",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL INFERIOR TITAN 150 PRETA ORBITAL",
-    "estoque": "11",
+    "estoque": "71",
     "preco": "8,16"
   },
   {
@@ -49300,7 +49300,7 @@
     "fabric": "4900",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL INFERIOR TWISTER ORBITAL",
-    "estoque": "6",
+    "estoque": "11",
     "preco": "9,21"
   },
   {
@@ -49620,7 +49620,7 @@
     "fabric": "4886",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL INTERNA BRANCA TITAN 150/JOB ORBITAL",
-    "estoque": "3",
+    "estoque": "13",
     "preco": "13,41"
   },
   {
@@ -50004,8 +50004,8 @@
     "fabric": "4893",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL SUPERIOR FAN 125 09 ORBITAL",
-    "estoque": "6",
-    "preco": "16,56"
+    "estoque": "21",
+    "preco": "17,84"
   },
   {
     "codigo": "26871",
@@ -50140,8 +50140,8 @@
     "fabric": "4890ORB",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL SUPERIOR TITAN 00/04 ORBITAL",
-    "estoque": "5",
-    "preco": "18,66"
+    "estoque": "15",
+    "preco": "19,94"
   },
   {
     "codigo": "26846",
@@ -50236,8 +50236,8 @@
     "fabric": "4883ORB",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL SUPERIOR TITAN 150 ORBITAL",
-    "estoque": "6",
-    "preco": "9,21"
+    "estoque": "26",
+    "preco": "9,98"
   },
   {
     "codigo": "23188",
@@ -50268,7 +50268,7 @@
     "fabric": "4884",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL SUPERIOR TITAN 150 PRATA ORBITAL",
-    "estoque": "4",
+    "estoque": "9",
     "preco": "24,14"
   },
   {
@@ -50412,7 +50412,7 @@
     "fabric": "4896",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL SUPERIOR TWISTER PRATA ORBITAL",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "27,34"
   },
   {
@@ -59508,7 +59508,7 @@
     "fabric": "90260110",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO TITAN 150 MAGNETRON",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "73,49"
   },
   {
@@ -60028,7 +60028,7 @@
     "fabric": "",
     "marca": "TOTAL PRINT",
     "nome": "CHAVEIRO UNIVERSAL AVULSO",
-    "estoque": "2137",
+    "estoque": "2136",
     "preco": "4,19"
   },
   {
@@ -64900,8 +64900,8 @@
     "fabric": "4914RB",
     "marca": "ORBITAL",
     "nome": "CONJ. CARCACAS DO PAINEL TITAN 150/TITAN 160 14/24 ORBITAL (1 BOTAO)",
-    "estoque": "1",
-    "preco": "29,09"
+    "estoque": "6",
+    "preco": "31,49"
   },
   {
     "codigo": "48869",
@@ -70140,7 +70140,7 @@
     "fabric": "1018651",
     "marca": "WGK",
     "nome": "DISCO EMBREAGEM TWISTER/TORNADO 250 WGK",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "57,95"
   },
   {
@@ -79348,7 +79348,7 @@
     "fabric": "23526",
     "marca": "MOTOBOR",
     "nome": "ESTICADOR CORRENTE BROS/XLR/NXR/CBX 200/XR 200 MOTOBOR (COMPLETO)",
-    "estoque": "14",
+    "estoque": "12",
     "preco": "21,62"
   },
   {
@@ -83492,7 +83492,7 @@
     "fabric": "TM0921",
     "marca": "TMAC",
     "nome": "FILTRO OLEO FAZER 250/LANDER TMAC",
-    "estoque": "95",
+    "estoque": "94",
     "preco": "5,24"
   },
   {
@@ -85300,7 +85300,7 @@
     "fabric": "10116",
     "marca": "SIVERST",
     "nome": "GICLEUR MARCHA LENTA Nº 40 CG/TODAY/TITAN SIVERST",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "13,64"
   },
   {
@@ -85324,7 +85324,7 @@
     "fabric": "10214",
     "marca": "SIVERST",
     "nome": "GICLEUR MARCHA LENTA Nº 45 SIVERST",
-    "estoque": "5",
+    "estoque": "15",
     "preco": "13,64"
   },
   {
@@ -85340,7 +85340,7 @@
     "fabric": "10013100",
     "marca": "SIVERST",
     "nome": "GICLEUR Nº 100 TOD/TIT/NX 150/TIT 00 SIVERST",
-    "estoque": "8",
+    "estoque": "13",
     "preco": "6,29"
   },
   {
@@ -85412,7 +85412,7 @@
     "fabric": "10013108",
     "marca": "SIVERST",
     "nome": "GICLEUR Nº 108 TOD/TIT/NX 150/TIT 00 SIVERST",
-    "estoque": "7",
+    "estoque": "12",
     "preco": "6,72"
   },
   {
@@ -85452,7 +85452,7 @@
     "fabric": "10013115",
     "marca": "SIVERST",
     "nome": "GICLEUR Nº 115 CBR 450(ESQ)/XL/TODAY/TITAN SIVERST",
-    "estoque": "18",
+    "estoque": "28",
     "preco": "6,33"
   },
   {
@@ -85460,7 +85460,7 @@
     "fabric": "10243",
     "marca": "SIVERST",
     "nome": "GICLEUR Nº 118 TITAN 150 SIVERST",
-    "estoque": "7",
+    "estoque": "12",
     "preco": "6,72"
   },
   {
@@ -85484,7 +85484,7 @@
     "fabric": "10013120",
     "marca": "SIVERST",
     "nome": "GICLEUR Nº 120 TITAN 150 08/STRADA SIVERST",
-    "estoque": "11",
+    "estoque": "31",
     "preco": "6,33"
   },
   {
@@ -92316,7 +92316,7 @@
     "fabric": "764460414417",
     "marca": "GP TECH",
     "nome": "JAQUETA GP TECH ESSENCE FEMININA PRETO/CINZA GG",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "393,12"
   },
   {
@@ -92548,7 +92548,7 @@
     "fabric": "",
     "marca": "NORISK",
     "nome": "JAQUETA NORISK NR-01 PRETO/BRANCO L",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "457,01"
   },
   {
@@ -93364,7 +93364,7 @@
     "fabric": "11020362",
     "marca": "X11",
     "nome": "JAQUETA X11 EVO 3 FEMININA PRETO/ROSA M",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "0"
   },
   {
@@ -93892,7 +93892,7 @@
     "fabric": "",
     "marca": "X11",
     "nome": "JAQUETA X11 ONE 2 PRETO M",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "547,62"
   },
   {
@@ -100356,7 +100356,7 @@
     "fabric": "H04003XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BROS 160/XRE 190 VAZ (48/16/428HX128L)",
-    "estoque": "27",
+    "estoque": "26",
     "preco": "102,66"
   },
   {
@@ -101388,7 +101388,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "172",
+    "estoque": "170",
     "preco": "62,99"
   },
   {
@@ -101508,7 +101508,7 @@
     "fabric": "H01190XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 2000 VAZ (44/14/428HX116) H01190XS",
-    "estoque": "122",
+    "estoque": "121",
     "preco": "62,99"
   },
   {
@@ -102244,7 +102244,7 @@
     "fabric": "KOI0359",
     "marca": "MOTOKOI",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 MOTOKOI",
-    "estoque": "272",
+    "estoque": "271",
     "preco": "4,73"
   },
   {
@@ -102260,7 +102260,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "39",
+    "estoque": "37",
     "preco": "28,51"
   },
   {
@@ -102660,7 +102660,7 @@
     "fabric": "TL005",
     "marca": "TMAC",
     "nome": "LAMPADA PAINEL ESMAGADA CRISTAL TMAC T10",
-    "estoque": "733",
+    "estoque": "732",
     "preco": "1,04"
   },
   {
@@ -104524,16 +104524,16 @@
     "fabric": "4912ORB",
     "marca": "ORBITAL",
     "nome": "LENTE PAINEL SUPERIOR TITAN 150/TITAN 160 14/24 ORBITAL (1 BOTAO)",
-    "estoque": "4",
-    "preco": "16,79"
+    "estoque": "9",
+    "preco": "17,84"
   },
   {
     "codigo": "48871",
     "fabric": "4911ORB",
     "marca": "ORBITAL",
     "nome": "LENTE PAINEL SUPERIOR TITAN 150/TITAN 160 14/24 ORBITAL (2 BOTOES)",
-    "estoque": "0",
-    "preco": "18,66"
+    "estoque": "20",
+    "preco": "19,94"
   },
   {
     "codigo": "1283",
@@ -104948,15 +104948,15 @@
     "fabric": "4923",
     "marca": "ORBITAL",
     "nome": "LENTE PISCA TITAN 2000 CRISTAL ORBITAL",
-    "estoque": "8",
-    "preco": "6,29"
+    "estoque": "58",
+    "preco": "7,34"
   },
   {
     "codigo": "12516",
     "fabric": "4925ORB",
     "marca": "ORBITAL",
     "nome": "LENTE PISCA TITAN 2000 FUME ORBITAL",
-    "estoque": "2",
+    "estoque": "7",
     "preco": "8,16"
   },
   {
@@ -104980,8 +104980,8 @@
     "fabric": "4922",
     "marca": "ORBITAL",
     "nome": "LENTE PISCA TITAN 2000 LARANJA ORBITAL",
-    "estoque": "8",
-    "preco": "6,83"
+    "estoque": "28",
+    "preco": "7,34"
   },
   {
     "codigo": "18974",
@@ -105004,7 +105004,7 @@
     "fabric": "4924",
     "marca": "ORBITAL",
     "nome": "LENTE PISCA TITAN 2000 VERMELHA ORBITAL",
-    "estoque": "9",
+    "estoque": "19",
     "preco": "8,16"
   },
   {
@@ -105300,7 +105300,7 @@
     "fabric": "",
     "marca": "CASTROL",
     "nome": "LUBRIFICANTES MOTO 4T CASTROL 20W50 ACTEVO ESSENTIAL MINERAL",
-    "estoque": "2271",
+    "estoque": "2269",
     "preco": "24,14"
   },
   {
@@ -105356,7 +105356,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "1833",
+    "estoque": "1830",
     "preco": "35,69"
   },
   {
@@ -105364,7 +105364,7 @@
     "fabric": "123079",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W40 MX",
-    "estoque": "79",
+    "estoque": "78",
     "preco": "36,74"
   },
   {
@@ -105388,7 +105388,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "167",
+    "estoque": "165",
     "preco": "26,24"
   },
   {
@@ -108300,7 +108300,7 @@
     "fabric": "1038",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM NXR BROS 125 ES/FALCON/XR250 PROTEC",
-    "estoque": "52",
+    "estoque": "51",
     "preco": "9,72"
   },
   {
@@ -110396,7 +110396,7 @@
     "fabric": "4929",
     "marca": "ORBITAL",
     "nome": "MANOPLA CARGO 150/160 C. ROLDANA ORBITAL",
-    "estoque": "2",
+    "estoque": "7",
     "preco": "20,76"
   },
   {
@@ -111172,8 +111172,8 @@
     "fabric": "4930",
     "marca": "ORBITAL",
     "nome": "MANOPLA TITAN 150/160 C. ROLDANA ORBITAL",
-    "estoque": "7",
-    "preco": "17,84"
+    "estoque": "27",
+    "preco": "19,94"
   },
   {
     "codigo": "51117",
@@ -118276,7 +118276,7 @@
     "fabric": "1099P",
     "marca": "POLIVISOR",
     "nome": "PALA SAN MARINO PRETO POLIVISOR",
-    "estoque": "4",
+    "estoque": "54",
     "preco": "19,43"
   },
   {
@@ -118740,7 +118740,7 @@
     "fabric": "21284K",
     "marca": "MOTOKOI BR",
     "nome": "PARAFUSO FIX PARALAMA MOTOKOI FL 6/28 TITAN 150",
-    "estoque": "66",
+    "estoque": "65",
     "preco": "0,71"
   },
   {
@@ -122476,7 +122476,7 @@
     "fabric": "301712",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 04 FAN 06/08 PRETO MELC (301712)",
-    "estoque": "31",
+    "estoque": "30",
     "preco": "20,99"
   },
   {
@@ -124668,7 +124668,7 @@
     "fabric": "FA690",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO BROS 160/BIZ 125/PCX 19 CBS DIANT TMAC",
-    "estoque": "33",
+    "estoque": "31",
     "preco": "16,16"
   },
   {
@@ -124677,7 +124677,7 @@
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO BROS 160/CB 250 TWISTER/CRF 250 2015/XRE 300 22 C/ABS TRASEIRA COBREQ N-1840",
     "estoque": "46",
-    "preco": "30,45"
+    "preco": "28,88"
   },
   {
     "codigo": "47829",
@@ -124700,7 +124700,7 @@
     "fabric": "FA670",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO BROS 160/CB 250 TWISTER/CRF 250 2015/XRE 300 22 C/ABS TRASEIRA TMAC",
-    "estoque": "86",
+    "estoque": "82",
     "preco": "10,49"
   },
   {
@@ -125700,7 +125700,7 @@
     "fabric": "FA152",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO LANDER XTZ / FAZER 250 TRASEIRO TMAC",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "10,49"
   },
   {
@@ -127316,7 +127316,7 @@
     "fabric": "KOI0133",
     "marca": "MOTOKOI",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS MOTOKOI",
-    "estoque": "171",
+    "estoque": "170",
     "preco": "16,21"
   },
   {
@@ -129160,8 +129160,8 @@
     "preco": "38,49"
   },
   {
-    "codigo": "021898",
-    "fabric": "02392",
+    "codigo": "21898",
+    "fabric": "2392",
     "marca": "PROJETIL",
     "nome": "PEDAL FREIO TODAY/TITAN CROMADO PROJETIL",
     "estoque": "1",
@@ -129676,7 +129676,7 @@
     "fabric": "KOI0393",
     "marca": "MOTOKOI",
     "nome": "PEDAL PARTIDA TITAN150 04-08/BROS 06-12/FAN125 09-13 MOTOKOI",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "20,99"
   },
   {
@@ -130772,7 +130772,7 @@
     "fabric": "HB03.216",
     "marca": "VAZ",
     "nome": "PINHAO CG/XLR/CBXNX150 16D VAZ - HB03.216",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "20,99"
   },
   {
@@ -133900,7 +133900,7 @@
     "fabric": "6548/1548",
     "marca": "GVS",
     "nome": "PISCA YBR/FACTOR/FAZER 250/XTZ 250 D/E T/D LARANJA GVS PLUS",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "17,46"
   },
   {
@@ -138772,7 +138772,7 @@
     "fabric": "6181",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 100/80-14 TECHNIC SPORT R TT 48P",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "178,5"
   },
   {
@@ -138868,7 +138868,7 @@
     "fabric": "6082",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 110/70-17 TECHNIC SPORT CB 300 TL 54S",
-    "estoque": "2",
+    "estoque": "11",
     "preco": "198,45"
   },
   {
@@ -138948,7 +138948,7 @@
     "fabric": "6139",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 120/70-17 TECHNIC SPORT R TL 58V",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "355,95"
   },
   {
@@ -139020,7 +139020,7 @@
     "fabric": "6133",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-17 TECHNIC SPORT R TT 47P",
-    "estoque": "10",
+    "estoque": "20",
     "preco": "122,84"
   },
   {
@@ -139036,7 +139036,7 @@
     "fabric": "100648",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 2.75-18 MAGGION WINNER TT",
-    "estoque": "56",
+    "estoque": "55",
     "preco": "125,98"
   },
   {
@@ -139060,7 +139060,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "421",
+    "estoque": "479",
     "preco": "115,49"
   },
   {
@@ -139068,8 +139068,8 @@
     "fabric": "6050",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT TL 42P",
-    "estoque": "8",
-    "preco": "131,25"
+    "estoque": "18",
+    "preco": "139,65"
   },
   {
     "codigo": "37704",
@@ -139084,7 +139084,7 @@
     "fabric": "3021",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC TEC BORRACHUDO TT 42P",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "134,2"
   },
   {
@@ -139156,15 +139156,15 @@
     "fabric": "6153",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC SPORT R BIZ TT 33L",
-    "estoque": "2",
-    "preco": "94,49"
+    "estoque": "12",
+    "preco": "99,23"
   },
   {
     "codigo": "33782",
     "fabric": "3100",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC TIGER BIZ TT 33L",
-    "estoque": "19",
+    "estoque": "39",
     "preco": "97,13"
   },
   {
@@ -139236,7 +139236,7 @@
     "fabric": "3201",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 80/100-21 TECHNIC TXC TT 51R",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "250,43"
   },
   {
@@ -139324,7 +139324,7 @@
     "fabric": "3003",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-19 TECHNIC TEC BROS TT 52T",
-    "estoque": "15",
+    "estoque": "33",
     "preco": "162,75"
   },
   {
@@ -139420,7 +139420,7 @@
     "fabric": "006120",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/80-18 TECHNIC SPORT R TL 53P",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "194,25"
   },
   {
@@ -139436,8 +139436,8 @@
     "fabric": "6194",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/90-10 TECHNIC SCOOTER TL 56J",
-    "estoque": "0",
-    "preco": "204,73"
+    "estoque": "3",
+    "preco": "162,75"
   },
   {
     "codigo": "28988",
@@ -139476,7 +139476,7 @@
     "fabric": "3044",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/90-17 TECHNIC TMX TT 55M",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "250,94"
   },
   {
@@ -139572,7 +139572,7 @@
     "fabric": "3221",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 110/100-18 TECHNIC TXC TT 64R",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "364,35"
   },
   {
@@ -139652,7 +139652,7 @@
     "fabric": "3004",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 110/90-17 TECHNIC TEC TT 60P",
-    "estoque": "29",
+    "estoque": "59",
     "preco": "183,73"
   },
   {
@@ -139660,7 +139660,7 @@
     "fabric": "3231",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/100-18 TECHNIC TXC TT 68R",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "404,25"
   },
   {
@@ -139708,7 +139708,7 @@
     "fabric": "3019",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/80-18 TECHNIC TEC TORNADO/LANDER TT 62S",
-    "estoque": "5",
+    "estoque": "12",
     "preco": "241,52"
   },
   {
@@ -139748,7 +139748,7 @@
     "fabric": "3450",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 130/70-13 TECHNIC BELLATRIX TL 63P",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "270,34"
   },
   {
@@ -139804,7 +139804,7 @@
     "fabric": "6020",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 130/70-17 TECHNIC SPORT TWISTER/FAZER TL 62S",
-    "estoque": "7",
+    "estoque": "27",
     "preco": "280,35"
   },
   {
@@ -139836,7 +139836,7 @@
     "fabric": "3076",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 130/80-18 TECHNIC TEC TORNADO/LANDER TT 65S",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "404,25"
   },
   {
@@ -139884,7 +139884,7 @@
     "fabric": "6092",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT CB 300 TL 66S",
-    "estoque": "7",
+    "estoque": "13",
     "preco": "304,54"
   },
   {
@@ -139892,7 +139892,7 @@
     "fabric": "6199",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT R CB 300 TL 66S",
-    "estoque": "2",
+    "estoque": "20",
     "preco": "304,5"
   },
   {
@@ -140140,7 +140140,7 @@
     "fabric": "3101",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC TIGER BIZ TT 49L",
-    "estoque": "65",
+    "estoque": "115",
     "preco": "110,24"
   },
   {
@@ -140196,7 +140196,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "87",
+    "estoque": "86",
     "preco": "141,75"
   },
   {
@@ -140236,7 +140236,7 @@
     "fabric": "6119",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TL 57P",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "167,99"
   },
   {
@@ -140244,7 +140244,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "386",
+    "estoque": "506",
     "preco": "131,25"
   },
   {
@@ -141588,7 +141588,7 @@
     "fabric": "23283K",
     "marca": "MOTOKOI BR",
     "nome": "PRESILHA FIXACAO RABETA TITAN/FAN 150 160 14/20 POP 110I 15/21 MOTOKOI",
-    "estoque": "20",
+    "estoque": "15",
     "preco": "1,33"
   },
   {
@@ -142028,7 +142028,7 @@
     "fabric": "16070",
     "marca": "MOTOBOR",
     "nome": "PROTETOR CAMARA AR ARO 18 CG MOTOBOR",
-    "estoque": "63",
+    "estoque": "53",
     "preco": "2,09"
   },
   {
@@ -143020,7 +143020,7 @@
     "fabric": "1237",
     "marca": "POLIVISOR",
     "nome": "PROTETOR LATERAL EBF - E0X NEW SPARK POLIVISOR",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "25,2"
   },
   {
@@ -143204,7 +143204,7 @@
     "fabric": "1234",
     "marca": "POLIVISOR",
     "nome": "PROTETOR LATERAL LS2 VISEIRA FF358 POLIVISOR",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "29,93"
   },
   {
@@ -144668,7 +144668,7 @@
     "fabric": "IP0002",
     "marca": "RT",
     "nome": "PUNHO LUZ TITAN 2000 ES RT",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "20,99"
   },
   {
@@ -148268,7 +148268,7 @@
     "fabric": "90271290",
     "marca": "MAGNETRON",
     "nome": "REGULADOR /RETIFICADOR FALCON MAGNETRON",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "179,36"
   },
   {
@@ -149548,7 +149548,7 @@
     "fabric": "TM184",
     "marca": "TMAC",
     "nome": "RELE PISCA MODELO UNIVERSAL 2 PINOS TMAC",
-    "estoque": "14",
+    "estoque": "11",
     "preco": "6,83"
   },
   {
@@ -149588,7 +149588,7 @@
     "fabric": "TM170",
     "marca": "TMAC",
     "nome": "RELE PISCA TITAN 150 ATE 08 /FAN 125 04-09/TWISTER 06-08/BROS 150 06-08 TMAC",
-    "estoque": "96",
+    "estoque": "93",
     "preco": "12,01"
   },
   {
@@ -150212,7 +150212,7 @@
     "fabric": "10255",
     "marca": "SIVERST",
     "nome": "REPARO CARBURADOR TWISTER SIVERST",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "73,49"
   },
   {
@@ -153652,7 +153652,7 @@
     "fabric": "TR306",
     "marca": "TMAC",
     "nome": "RETROVISOR BMW TMAC (PAR YAMAHA) GIRO 360 (HASTE CURTA)",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "47,25"
   },
   {
@@ -154188,7 +154188,7 @@
     "fabric": "8274/3274",
     "marca": "GVS",
     "nome": "RETROVISOR KAWASAKI Z400 GVS (PAR HONDA)",
-    "estoque": "6",
+    "estoque": "7",
     "preco": "103,94"
   },
   {
@@ -154980,7 +154980,7 @@
     "fabric": "1397",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150/TITAN 125 NOVA PAR NEXPART",
-    "estoque": "112",
+    "estoque": "111",
     "preco": "20,99"
   },
   {
@@ -155324,7 +155324,7 @@
     "fabric": "4778/1124",
     "marca": "GVS",
     "nome": "RETROVISOR YBR 125 00/08/YBR 125 FACTOR 09/16 PAR GVS",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "30,44"
   },
   {
@@ -155748,7 +155748,7 @@
     "fabric": "KOI0401",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6301-RS CROMO RODA DIANT. CG MOTOKOI",
-    "estoque": "177",
+    "estoque": "175",
     "preco": "4,19"
   },
   {
@@ -156356,7 +156356,7 @@
     "fabric": "4991ORB",
     "marca": "ORBITAL",
     "nome": "ROLDANA ACELERADOR TWISTER/AERO 150/CBX200 ORBITAL",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "3,96"
   },
   {
@@ -164540,7 +164540,7 @@
     "fabric": "TP101",
     "marca": "TMAC",
     "nome": "TORNEIRA GASOLINA TITAN 150 TMAC",
-    "estoque": "65",
+    "estoque": "64",
     "preco": "14,19"
   },
   {
@@ -165012,7 +165012,7 @@
     "fabric": "1101958",
     "marca": "GP7/GP",
     "nome": "TRAVA PINHAO TITAN 150 GP",
-    "estoque": "89",
+    "estoque": "87",
     "preco": "2,84"
   },
   {
@@ -168356,7 +168356,7 @@
     "fabric": "1777TC",
     "marca": "POLIVISOR",
     "nome": "VISEIRA EBF 7 NOVO 2,20 MM CRISTAL POLIVISOR (C/FURO)",
-    "estoque": "7",
+    "estoque": "17",
     "preco": "41,99"
   },
   {
@@ -168548,7 +168548,7 @@
     "fabric": "1708PI",
     "marca": "POLIVISOR",
     "nome": "VISEIRA EBF EOX 2,20 MM ROSA POLIVISOR",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "62,99"
   },
   {
@@ -168716,7 +168716,7 @@
     "fabric": "1778CA",
     "marca": "POLIVISOR",
     "nome": "VISEIRA EBF X TROY FF 526 CAMALEAO POLIVISOR",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "73,49"
   },
   {
@@ -168740,7 +168740,7 @@
     "fabric": "1778CRL",
     "marca": "POLIVISOR",
     "nome": "VISEIRA EBF X TROY FF 526 CROMADO LIGHT POLIVISOR",
-    "estoque": "2",
+    "estoque": "7",
     "preco": "78,75"
   },
   {
@@ -169084,7 +169084,7 @@
     "fabric": "1772CA",
     "marca": "POLIVISOR",
     "nome": "VISEIRA LS2 FF320/353 CAMALEAO POLIVISOR",
-    "estoque": "3",
+    "estoque": "8",
     "preco": "87,56"
   },
   {
@@ -169100,7 +169100,7 @@
     "fabric": "1772CR",
     "marca": "POLIVISOR",
     "nome": "VISEIRA LS2 FF320/353 CROMADA POLIVISOR",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "87,87"
   },
   {
@@ -169108,15 +169108,15 @@
     "fabric": "1772DO",
     "marca": "POLIVISOR",
     "nome": "VISEIRA LS2 FF320/353 DOURADO POLIVISOR",
-    "estoque": "1",
-    "preco": "111,35"
+    "estoque": "6",
+    "preco": "87,87"
   },
   {
     "codigo": "33028",
     "fabric": "1772F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA LS2 FF320/353 FUME POLIVISOR",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "53,94"
   },
   {
@@ -169140,7 +169140,7 @@
     "fabric": "1772IR",
     "marca": "POLIVISOR",
     "nome": "VISEIRA LS2 FF320/353 IRIDIUM POLIVISOR",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "79,54"
   },
   {
@@ -169972,7 +169972,7 @@
     "fabric": "1735F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA NORISK FF391/RAZOR FUME POLIVISOR",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "52,1"
   },
   {
@@ -170692,8 +170692,8 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "120",
-    "preco": "5,51"
+    "estoque": "319",
+    "preco": "5,78"
   },
   {
     "codigo": "50360",
@@ -170772,7 +170772,7 @@
     "fabric": "1010F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM FUME POLIVISOR",
-    "estoque": "49",
+    "estoque": "149",
     "preco": "6,62"
   },
   {
@@ -170892,7 +170892,7 @@
     "fabric": "1759C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 2,20 MM CRISTAL POLIVISOR",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "16,28"
   },
   {
@@ -170916,7 +170916,7 @@
     "fabric": "1759F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 2,20 MM FUME POLIVISOR",
-    "estoque": "5",
+    "estoque": "25",
     "preco": "17"
   },
   {
@@ -170932,8 +170932,8 @@
     "fabric": "1020C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 62 0,80 MM CRISTAL",
-    "estoque": "0",
-    "preco": "6,36"
+    "estoque": "20",
+    "preco": "7,34"
   },
   {
     "codigo": "13525",
@@ -170964,7 +170964,7 @@
     "fabric": "1020F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 62 0,80 MM FUME POLIVISOR",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "7,88"
   },
   {
@@ -171316,7 +171316,7 @@
     "fabric": "1644C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TORK LIBERTY FOUR 2,20 MM POLIVISOR",
-    "estoque": "11",
+    "estoque": "41",
     "preco": "28,02"
   },
   {
@@ -171324,7 +171324,7 @@
     "fabric": "1644F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TORK LIBERTY FOUR 2,20 MM POLIVISOR FUME",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "31,49"
   },
   {
@@ -171636,7 +171636,7 @@
     "fabric": "1744F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TORK NEW LIBERTY 3 FUME POLIVISOR",
-    "estoque": "2",
+    "estoque": "22",
     "preco": "31,49"
   },
   {
@@ -171652,7 +171652,7 @@
     "fabric": "1744C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TORK NEW LIBERTY 3/TORK NEW ATOMIC/EBF NEW SPARK JET CRISTAL POLIVISOR",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "28,67"
   },
   {
