@@ -5132,7 +5132,7 @@
     "fabric": "KOI0313",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.85 X 18 CG/TOD/TIT TRAS MOTOKOI",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "80,84"
   },
   {
@@ -30276,7 +30276,7 @@
     "fabric": "TM7014",
     "marca": "TMAC",
     "nome": "CABO VELOCIMETRO TWISTER TMAC",
-    "estoque": "56",
+    "estoque": "55",
     "preco": "9,44"
   },
   {
@@ -31932,7 +31932,7 @@
     "fabric": "KOI0161",
     "marca": "MOTOKOI BR",
     "nome": "CALCA MOTOKOI SEGUNDA PELE PRETO GG",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "63"
   },
   {
@@ -32276,7 +32276,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "CAMARA DE AR DIANT/TRAS CG LEVORIN SA-18",
-    "estoque": "140",
+    "estoque": "139",
     "preco": "44,63"
   },
   {
@@ -32292,7 +32292,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "323",
+    "estoque": "314",
     "preco": "17,33"
   },
   {
@@ -32524,7 +32524,7 @@
     "fabric": "TM1003",
     "marca": "TMAC",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON TMAC TJ17 (110/90-17)",
-    "estoque": "49",
+    "estoque": "47",
     "preco": "19,94"
   },
   {
@@ -33076,7 +33076,7 @@
     "fabric": "KOI0189",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BIZ 100 98/07 MOTOKOI (COSTURA LATERAL)",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "22,58"
   },
   {
@@ -38220,7 +38220,7 @@
     "fabric": "C020182706260",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL DELUX BRANCO/AZUL 60",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "766,5"
   },
   {
@@ -38396,7 +38396,7 @@
     "fabric": "1258056B05",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO BOLT BRANCO/VERMELHO 56",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "137,45"
   },
   {
@@ -73972,7 +73972,7 @@
     "fabric": "1015",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 1,50 M UNIVERSAL C/ GANCHO FERRO MS EXTENSOR",
-    "estoque": "14",
+    "estoque": "10",
     "preco": "4,19"
   },
   {
@@ -78404,7 +78404,7 @@
     "fabric": "TM730",
     "marca": "TMAC",
     "nome": "ESTATOR FALCON 00/04 FALCON TMAC",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "212,98"
   },
   {
@@ -83108,7 +83108,7 @@
     "fabric": "S410210202003P",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO COMBUSTIVEL UNIVERSAL VEDAMOTORS TRANSPARENTE",
-    "estoque": "387",
+    "estoque": "386",
     "preco": "4,73"
   },
   {
@@ -89228,7 +89228,7 @@
     "fabric": "90235120",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR FAROL ALTO/BAIXO BIZ 100/125 2005/09 MAGNETRON",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "16,21"
   },
   {
@@ -89572,7 +89572,7 @@
     "fabric": "90235100",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR PARTIDA BIZ 125 ES ATE 09 MAGNETRON",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "12,08"
   },
   {
@@ -95668,7 +95668,7 @@
     "fabric": "KOI0119",
     "marca": "MOTOKOI",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 MOTOKOI 4MM",
-    "estoque": "179",
+    "estoque": "177",
     "preco": "24,14"
   },
   {
@@ -97300,7 +97300,7 @@
     "fabric": "S4VS210017057",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO FALCON VEDAMOTORS",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "10,01"
   },
   {
@@ -100148,7 +100148,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "99",
+    "estoque": "98",
     "preco": "62,99"
   },
   {
@@ -101460,7 +101460,7 @@
     "fabric": "H01190XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 2000 VAZ (44/14/428HX116) H01190XS",
-    "estoque": "120",
+    "estoque": "119",
     "preco": "62,99"
   },
   {
@@ -102004,7 +102004,7 @@
     "fabric": "KOI0357",
     "marca": "MOTOKOI",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 MOTOKOI 12V35",
-    "estoque": "94",
+    "estoque": "93",
     "preco": "3,66"
   },
   {
@@ -102012,7 +102012,7 @@
     "fabric": "12153M512V",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 PHILLIPS M5",
-    "estoque": "140",
+    "estoque": "139",
     "preco": "23,63"
   },
   {
@@ -105308,7 +105308,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "1774",
+    "estoque": "1773",
     "preco": "35,69"
   },
   {
@@ -105340,7 +105340,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "87",
+    "estoque": "79",
     "preco": "26,24"
   },
   {
@@ -105364,7 +105364,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "102",
+    "estoque": "99",
     "preco": "49,34"
   },
   {
@@ -105484,7 +105484,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "255",
+    "estoque": "254",
     "preco": "38,3"
   },
   {
@@ -113260,7 +113260,7 @@
     "fabric": "MNP0220",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON PRETA/AZUL ALUMINIZADA",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "157,79"
   },
   {
@@ -126636,7 +126636,7 @@
     "fabric": "KOI-00101 C",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO BIZ/BROS/XL 125 0,75 TRAS MOTOKOI BR",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "17,84"
   },
   {
@@ -141988,7 +141988,7 @@
     "fabric": "16070K",
     "marca": "MOTOKOI BR",
     "nome": "PROTETOR CAMARA AR ARO 18 CG MOTOKOI",
-    "estoque": "73",
+    "estoque": "71",
     "preco": "2,63"
   },
   {
@@ -145052,7 +145052,7 @@
     "fabric": "TM0147",
     "marca": "TMAC",
     "nome": "PUNHO LUZ YES 125 08 LE TMAC (C/MANETE)",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "49,15"
   },
   {
@@ -147476,7 +147476,7 @@
     "fabric": "1099",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA PRETO 35 X 35 MS EXTENSOR",
-    "estoque": "51",
+    "estoque": "50",
     "preco": "10,49"
   },
   {
@@ -149356,7 +149356,7 @@
     "fabric": "90226010",
     "marca": "MAGNETRON",
     "nome": "RELE PISCA ELETRONICO 125 92/04 - 2 PINOS MAGNETRON",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "18,62"
   },
   {
@@ -149380,7 +149380,7 @@
     "fabric": "TM175",
     "marca": "TMAC",
     "nome": "RELE PISCA ELETRONICO 125 92/04 - 3 PINOS TMAC",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "12,01"
   },
   {
@@ -150164,7 +150164,7 @@
     "fabric": "10255",
     "marca": "SIVERST",
     "nome": "REPARO CARBURADOR TWISTER SIVERST",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "73,49"
   },
   {
@@ -151036,7 +151036,7 @@
     "fabric": "M730902002030",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA CG/TITAN/BIZ 100/BIZ 125 VEDAMOTORS (PAR)",
-    "estoque": "124",
+    "estoque": "125",
     "preco": "15,51"
   },
   {
@@ -151284,7 +151284,7 @@
     "fabric": "P40FORK455015",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA TITAN 150/CBX 150/BROS VEDAMOTORS (PAR)",
-    "estoque": "224",
+    "estoque": "223",
     "preco": "18,66"
   },
   {
@@ -154932,7 +154932,7 @@
     "fabric": "1397",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150/TITAN 125 NOVA PAR NEXPART",
-    "estoque": "108",
+    "estoque": "107",
     "preco": "20,99"
   },
   {
@@ -167028,7 +167028,7 @@
     "fabric": "CPR6EA9",
     "marca": "NGK",
     "nome": "VELA BIZ 125 CPR6EA9 NGK",
-    "estoque": "30",
+    "estoque": "29",
     "preco": "35,46"
   },
   {
@@ -167468,7 +167468,7 @@
     "fabric": "C7HSA",
     "marca": "NGK",
     "nome": "VELA YBR 125 /DREAM/POP C7HSA NGK",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "20,99"
   },
   {
@@ -167588,7 +167588,7 @@
     "fabric": "TV006",
     "marca": "TMAC",
     "nome": "VELOCIMETRO FAN 125 KS/ES 09/13 TMAC",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "41,99"
   },
   {
@@ -168076,7 +168076,7 @@
     "fabric": "205400106",
     "marca": "ASX",
     "nome": "VISEIRA ASX/AXXIS REVO FUME/ROXO I-V18B",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "183,75"
   },
   {
@@ -169908,7 +169908,7 @@
     "fabric": "1735CR",
     "marca": "POLIVISOR",
     "nome": "VISEIRA NORISK FF391/RAZOR CROMADA POLIVISOR",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "72,52"
   },
   {
@@ -170652,7 +170652,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "319",
+    "estoque": "318",
     "preco": "5,78"
   },
   {
