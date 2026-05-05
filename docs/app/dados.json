@@ -3972,7 +3972,7 @@
     "fabric": "VE05009500109",
     "marca": "VEDAMOTORS",
     "nome": "ANEL ESCAPAMENTO CG/ML/TUR/XL VEDAMOTORS",
-    "estoque": "587",
+    "estoque": "586",
     "preco": "1,1"
   },
   {
@@ -4556,7 +4556,7 @@
     "fabric": "ATR010-1",
     "marca": "ATROX",
     "nome": "ANTENA CORTA PIPA GUIDAO 7 ESTAGIOS ATROX CROMADA",
-    "estoque": "56",
+    "estoque": "54",
     "preco": "20,99"
   },
   {
@@ -8101,7 +8101,7 @@
     "marca": "PIRAVAL",
     "nome": "BANCO COMPLETO BROS 125/BROS 150 03/08 PIRAVAL",
     "estoque": "3",
-    "preco": "188,99"
+    "preco": "189"
   },
   {
     "codigo": "21384",
@@ -8157,7 +8157,7 @@
     "marca": "PIRAVAL",
     "nome": "BANCO COMPLETO TITAN 150/FAN 125 09/13 PIRAVAL",
     "estoque": "2",
-    "preco": "178,49"
+    "preco": "178,5"
   },
   {
     "codigo": "19536",
@@ -8165,7 +8165,7 @@
     "marca": "PIRAVAL",
     "nome": "BANCO COMPLETO TITAN 150/JOB/SPORT 04/08 PRETO PIRAVAL",
     "estoque": "3",
-    "preco": "178,49"
+    "preco": "178,5"
   },
   {
     "codigo": "37835",
@@ -8292,7 +8292,7 @@
     "fabric": "MTX5L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ/TITAN 2000 ES/TITAN150 KS 125 MTX5L-BS MOTOKOI",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "113,66"
   },
   {
@@ -8564,7 +8564,7 @@
     "fabric": "2083",
     "marca": "MN3",
     "nome": "BAU PLASTICO INJETADO PRETO MN3 162 LITROS",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "372,75"
   },
   {
@@ -18356,7 +18356,7 @@
     "fabric": "TM1432",
     "marca": "TMAC",
     "nome": "BUJAO OLEO 150 TMAC C/ANEL",
-    "estoque": "1189",
+    "estoque": "1188",
     "preco": "2,15"
   },
   {
@@ -22156,7 +22156,7 @@
     "fabric": "TM5066",
     "marca": "TMAC",
     "nome": "CABO ACELERADOR TITAN 160/FAN 160 \"A\" TMAC",
-    "estoque": "49",
+    "estoque": "48",
     "preco": "9,44"
   },
   {
@@ -32316,7 +32316,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "137",
+    "estoque": "135",
     "preco": "17,33"
   },
   {
@@ -32540,7 +32540,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "60",
+    "estoque": "59",
     "preco": "20,99"
   },
   {
@@ -34908,7 +34908,7 @@
     "fabric": "KOI0227",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 150 09/13/FAN 150 09/13/FAN 125 09/13 MOTOKOI",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "17,61"
   },
   {
@@ -47892,7 +47892,7 @@
     "fabric": "TM403",
     "marca": "TMAC",
     "nome": "CARBURADOR BIZ 100 TMAC",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "94,49"
   },
   {
@@ -57641,7 +57641,7 @@
   },
   {
     "codigo": "44817",
-    "fabric": "2387",
+    "fabric": "02387",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TWISTER C/BORRACHA PROJETIL",
     "estoque": "6",
@@ -57657,7 +57657,7 @@
   },
   {
     "codigo": "21949",
-    "fabric": "2386",
+    "fabric": "02386",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TWISTER/CB 300 PROJETIL",
     "estoque": "7",
@@ -59761,7 +59761,7 @@
   },
   {
     "codigo": "29066",
-    "fabric": "21020",
+    "fabric": "021020",
     "marca": "OK PARTS",
     "nome": "CHAVE CONTATO XLR 250/XLX 250 OK PARTS",
     "estoque": "0",
@@ -63532,7 +63532,7 @@
     "fabric": "500",
     "marca": "PROTEC",
     "nome": "COLETOR ADMISSAO CG/TODAY/TITAN 125 PROTEC",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "24,34"
   },
   {
@@ -74068,7 +74068,7 @@
     "fabric": "1015",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 1,50 M UNIVERSAL C/ GANCHO FERRO MS EXTENSOR",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "4,19"
   },
   {
@@ -82508,7 +82508,7 @@
     "fabric": "S4V0210200054",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR TIT 125-150 09-13/BIZ 110I/POP 110/NXR125-150-160/XRE190 VEDAMOTORS",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "18,89"
   },
   {
@@ -90292,7 +90292,7 @@
     "fabric": "90237330",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR PARTIDA TITAN 150 14/TITAN 160 MAGNETRON",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "35,02"
   },
   {
@@ -97180,7 +97180,7 @@
     "fabric": "VS10003090183",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO FAZER 250  VEDAMOTORS",
-    "estoque": "30",
+    "estoque": "29",
     "preco": "18,22"
   },
   {
@@ -102444,7 +102444,7 @@
     "fabric": "TL004",
     "marca": "TMAC",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO TMAC",
-    "estoque": "917",
+    "estoque": "916",
     "preco": "1,4"
   },
   {
@@ -102892,7 +102892,7 @@
     "fabric": "TL003-1",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA CG 125 12X10W TMAC LARANJA",
-    "estoque": "2421",
+    "estoque": "2420",
     "preco": "1,07"
   },
   {
@@ -102916,7 +102916,7 @@
     "fabric": "TL006",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA TITAN 00 KS / ES  ESMAGADA 12V 16W  TMAC T15",
-    "estoque": "672",
+    "estoque": "662",
     "preco": "0,72"
   },
   {
@@ -105020,7 +105020,7 @@
     "fabric": "6715/1715",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 125/TITAN 150/BROS 150 14 DD/TE CRISTAL GVS",
-    "estoque": "12",
+    "estoque": "10",
     "preco": "8,39"
   },
   {
@@ -105476,7 +105476,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "1606",
+    "estoque": "1605",
     "preco": "36,74"
   },
   {
@@ -105508,7 +105508,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "4730",
+    "estoque": "4726",
     "preco": "27,29"
   },
   {
@@ -105620,7 +105620,7 @@
     "fabric": "2010000001042",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 20W50",
-    "estoque": "26",
+    "estoque": "24",
     "preco": "16,79"
   },
   {
@@ -110004,7 +110004,7 @@
     "fabric": "KOI0155",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI S/PUNHO PROTECAO UV PRETO G",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "18,38"
   },
   {
@@ -110580,7 +110580,7 @@
     "fabric": "MA037-001",
     "marca": "CIRCUIT",
     "nome": "MANOPLA CIRCUIT INTERLAGOS PT PLUS",
-    "estoque": "100",
+    "estoque": "99",
     "preco": "23,09"
   },
   {
@@ -113357,7 +113357,7 @@
     "marca": "PIRACAPAS",
     "nome": "MOCHILA MARMITEX P/20 PIRACAPAS",
     "estoque": "0",
-    "preco": "208,11"
+    "preco": "257,25"
   },
   {
     "codigo": "32035",
@@ -113421,7 +113421,7 @@
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON PRETA",
     "estoque": "1",
-    "preco": "136,5"
+    "preco": "137,76"
   },
   {
     "codigo": "34811",
@@ -116857,7 +116857,7 @@
   },
   {
     "codigo": "51331",
-    "fabric": "37017",
+    "fabric": "037017",
     "marca": "R1",
     "nome": "PAINEL BROS 150 11 R1",
     "estoque": "2",
@@ -119405,7 +119405,7 @@
     "marca": "SIVERST",
     "nome": "PARAFUSO REGULAGEM LENTA TITAN 2000 SIVERST",
     "estoque": "1",
-    "preco": "8,05"
+    "preco": "11,54"
   },
   {
     "codigo": "52922",
@@ -126444,7 +126444,7 @@
     "fabric": "KOI0383",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO XTZ125/YES/XTZ 250 LANDER DIANT MOTOKOI",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "10,49"
   },
   {
@@ -127444,7 +127444,7 @@
     "fabric": "302CPX",
     "marca": "COBREQ",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS COBREQ 302CPX",
-    "estoque": "6",
+    "estoque": "4",
     "preco": "34,64"
   },
   {
@@ -129305,7 +129305,7 @@
   },
   {
     "codigo": "21898",
-    "fabric": "2392",
+    "fabric": "02392",
     "marca": "PROJETIL",
     "nome": "PEDAL FREIO TODAY/TITAN CROMADO PROJETIL",
     "estoque": "5",
@@ -131892,7 +131892,7 @@
     "fabric": "6815",
     "marca": "GVS",
     "nome": "PISCA BROS 13 DD/TE/BROS 160 LARANJA GVS",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "23,1"
   },
   {
@@ -134100,7 +134100,7 @@
     "fabric": "6009/1009",
     "marca": "GVS",
     "nome": "PISCA YES 125  LARANJA GVS",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "25,2"
   },
   {
@@ -134108,7 +134108,7 @@
     "fabric": "6511/1511",
     "marca": "GVS",
     "nome": "PISCA YES 125  LARANJA GVS PLUS",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "23,1"
   },
   {
@@ -139292,7 +139292,7 @@
     "fabric": "",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREETFIGHTER MF7 TT",
-    "estoque": "47",
+    "estoque": "46",
     "preco": "100,79"
   },
   {
@@ -139820,7 +139820,7 @@
     "fabric": "3004",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 110/90-17 TECHNIC TEC TT 60P",
-    "estoque": "53",
+    "estoque": "52",
     "preco": "183,73"
   },
   {
@@ -140276,7 +140276,7 @@
     "fabric": "100266",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 80/100-14 MAGGION STREET BIZ 100 TT",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "117,59"
   },
   {
@@ -140340,7 +140340,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "52",
+    "estoque": "50",
     "preco": "230,99"
   },
   {
@@ -151428,7 +151428,7 @@
     "fabric": "7684N",
     "marca": "CORTECO",
     "nome": "RETENTOR BENGALA TITAN 150/CBX 150/BROS CORTECO",
-    "estoque": "100",
+    "estoque": "99",
     "preco": "23,91"
   },
   {
@@ -154708,7 +154708,7 @@
     "fabric": "4801",
     "marca": "GVS",
     "nome": "RETROVISOR MINI TITAN 2000 PAR GVS CROMADO",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "65,53"
   },
   {
@@ -159172,7 +159172,7 @@
     "fabric": "162",
     "marca": "PROJETIL",
     "nome": "SUPORTE ESCAPAMENTO TODAY/TITAN PRETO PROJETIL",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "24,38"
   },
   {
@@ -160660,7 +160660,7 @@
     "fabric": "4153",
     "marca": "PROJETIL",
     "nome": "SUPORTE PLACA UNIVERSAL PLACA NOVA (GRANDE) PROJETIL MOLDURA PRATA PINTADA",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "14,69"
   },
   {
