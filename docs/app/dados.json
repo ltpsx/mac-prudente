@@ -1,5 +1,13 @@
 [
   {
+    "codigo": "26838",
+    "fabric": "04057",
+    "marca": "PLASMOTO",
+    "nome": "",
+    "estoque": "15",
+    "preco": "72,45"
+  },
+  {
     "codigo": "48521",
     "fabric": "563806",
     "marca": "MELC",
@@ -8268,7 +8276,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "125,99"
   },
   {
@@ -11080,14 +11088,6 @@
     "preco": "49,88"
   },
   {
-    "codigo": "26838",
-    "fabric": "04057",
-    "marca": "PLASMOTO",
-    "nome": "BLOCO OPTICO TITAN 150 2014/FAN/TITAN 160 PLASMOTO",
-    "estoque": "15",
-    "preco": "72,45"
-  },
-  {
     "codigo": "51586",
     "fabric": "04057",
     "marca": "PLASMOTO",
@@ -11668,7 +11668,7 @@
     "fabric": "90210690",
     "marca": "MAGNETRON",
     "nome": "BOBINA FORCA BIZ 100/DREAM MAGNETRON",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "46,2"
   },
   {
@@ -35828,7 +35828,7 @@
     "fabric": "1005001148",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS NYLON FEMININO GG",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "148,42"
   },
   {
@@ -38116,7 +38116,7 @@
     "fabric": "1217058PTO",
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW PRETO 58",
-    "estoque": "49",
+    "estoque": "48",
     "preco": "115,49"
   },
   {
@@ -49324,7 +49324,7 @@
     "fabric": "103902",
     "marca": "MELC",
     "nome": "CARCACA PAINEL INFERIOR YBR 125 FACTOR MELC (103902)",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "14,69"
   },
   {
@@ -53036,7 +53036,7 @@
     "fabric": "224801",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL LATERAL FAN 125/FAN 150 / TITAN 150 14/15 PRETO INJETADO MELC (224801)",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "19,43"
   },
   {
@@ -60036,7 +60036,7 @@
     "fabric": "",
     "marca": "TOTAL PRINT",
     "nome": "CHAVEIRO UNIVERSAL AVULSO",
-    "estoque": "2093",
+    "estoque": "2092",
     "preco": "4,19"
   },
   {
@@ -71148,7 +71148,7 @@
     "fabric": "TM434",
     "marca": "TMAC",
     "nome": "DISCO FREIO YBR 125 09 DIANT TMAC",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "82,95"
   },
   {
@@ -97468,7 +97468,7 @@
     "fabric": "VS05004000144",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TITAN 00 KS/ES/KSE VEDAMOTORS",
-    "estoque": "47",
+    "estoque": "46",
     "preco": "5,78"
   },
   {
@@ -100276,7 +100276,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "54",
+    "estoque": "53",
     "preco": "62,99"
   },
   {
@@ -101540,7 +101540,7 @@
     "fabric": "001-KOI-037H4",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 160 MOTOKOI (44/15/428VOX118L) C/RETENTOR",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "131,23"
   },
   {
@@ -102580,7 +102580,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "57",
+    "estoque": "56",
     "preco": "18,38"
   },
   {
@@ -102804,7 +102804,7 @@
     "fabric": "TL005",
     "marca": "TMAC",
     "nome": "LAMPADA PAINEL ESMAGADA CRISTAL TMAC T10",
-    "estoque": "668",
+    "estoque": "666",
     "preco": "1,04"
   },
   {
@@ -105252,7 +105252,7 @@
     "fabric": "1237",
     "marca": "GVS",
     "nome": "LENTE PISCA YBR FACTOR 09/11/FAZER 250 11/XTZ 250 09/11 LARANJA GVS",
-    "estoque": "78",
+    "estoque": "77",
     "preco": "3,94"
   },
   {
@@ -105444,7 +105444,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "135",
+    "estoque": "134",
     "preco": "34,64"
   },
   {
@@ -105516,7 +105516,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "4245",
+    "estoque": "4242",
     "preco": "31,49"
   },
   {
@@ -113004,7 +113004,7 @@
     "fabric": "90205110",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA YES/INTRUDER 125 MAGNETRON",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "21,53"
   },
   {
@@ -115884,7 +115884,7 @@
     "fabric": "90205850",
     "marca": "MAGNETRON",
     "nome": "MOTOR PARTIDA FAZER 150 /XTZ 150 CROSSER/FACTOR YBR150 MAGNETRON",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "313,95"
   },
   {
@@ -117724,7 +117724,7 @@
     "fabric": "TP004",
     "marca": "TMAC",
     "nome": "PAINEL TITAN 150 KS/ES 04/08 S/ODOMETRO TMAC",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "121,19"
   },
   {
@@ -126276,7 +126276,7 @@
     "fabric": "KOI-00200",
     "marca": "MOTOKOI BR",
     "nome": "PASTILHA FREIO TITAN ES/ML/STRADA/CBX150 DIANTEIRO MOTOKOI BR",
-    "estoque": "37",
+    "estoque": "36",
     "preco": "9,44"
   },
   {
@@ -127428,7 +127428,7 @@
     "fabric": "302CP",
     "marca": "COBREQ",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS COBREQ 302CP",
-    "estoque": "231",
+    "estoque": "230",
     "preco": "31,49"
   },
   {
@@ -127548,7 +127548,7 @@
     "fabric": "KOI-00100 B",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,50 DIANT/TRAS MOTOKOI BR",
-    "estoque": "229",
+    "estoque": "228",
     "preco": "15,74"
   },
   {
@@ -130740,7 +130740,7 @@
     "fabric": "HB02.314",
     "marca": "VAZ",
     "nome": "PINHAO BIZ/DREAM 14D VAZ - HB02.314",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "12,08"
   },
   {
@@ -133468,7 +133468,7 @@
     "fabric": "7652/2652",
     "marca": "GVS",
     "nome": "PISCA TITAN 150 13/14/TITAN 125 DD/TE CRISTAL GVS S/LAMPADA",
-    "estoque": "70",
+    "estoque": "69",
     "preco": "23,1"
   },
   {
@@ -133492,7 +133492,7 @@
     "fabric": "2653",
     "marca": "GVS",
     "nome": "PISCA TITAN 150 13/14/TITAN 125 DE/TD CRISTAL GVS S/LAMPADA",
-    "estoque": "50",
+    "estoque": "49",
     "preco": "23,1"
   },
   {
@@ -139476,7 +139476,7 @@
     "fabric": "18822",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TT 47P",
-    "estoque": "100",
+    "estoque": "99",
     "preco": "220,4"
   },
   {
@@ -139500,7 +139500,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU DIANT 80/100-18 MICHELIN CITY EXTRA F 47S TL",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "283,49"
   },
   {
@@ -139948,7 +139948,7 @@
     "fabric": "3004",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 110/90-17 TECHNIC TEC TT 60P",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "183,73"
   },
   {
@@ -140468,7 +140468,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "267",
+    "estoque": "266",
     "preco": "230,99"
   },
   {
@@ -140492,7 +140492,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "141,75"
   },
   {
@@ -140500,7 +140500,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 90/90-18 MICHELIN CITY EXTRA TL 57S",
-    "estoque": "44",
+    "estoque": "43",
     "preco": "293,99"
   },
   {
@@ -140668,7 +140668,7 @@
     "fabric": "",
     "marca": "PANTANEIRO",
     "nome": "POLAINA PANTANEIRO PVC SOLA INTEIRA PRETO M",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "27,57"
   },
   {
@@ -153188,7 +153188,7 @@
     "fabric": "M733000793000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR PINHAO BIZ 125 VEDAMOTORS",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "6,29"
   },
   {
@@ -153932,7 +153932,7 @@
     "fabric": "KOI0243",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR BIZ 125/POP/BROS 09 PAR MOTOKOI BR",
-    "estoque": "206",
+    "estoque": "207",
     "preco": "20,99"
   },
   {
@@ -164492,7 +164492,7 @@
     "fabric": "1011001",
     "marca": "WGK",
     "nome": "TENSION /ACION. CORRENTE TITAN 150/BIZ 125/TITAN 160/BROS 160/CB 250/CB 300/XRE 300/CRF 230 WGK",
-    "estoque": "24",
+    "estoque": "23",
     "preco": "65,63"
   },
   {
@@ -171236,7 +171236,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "215",
+    "estoque": "214",
     "preco": "5,78"
   },
   {
