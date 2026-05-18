@@ -4748,7 +4748,7 @@
     "fabric": "832701",
     "marca": "MELC",
     "nome": "ARO FAROL TITAN 2000/150 CROMADO MELC (832701)",
-    "estoque": "32",
+    "estoque": "31",
     "preco": "17,83"
   },
   {
@@ -7372,7 +7372,7 @@
     "fabric": "KOI0156",
     "marca": "MOTOKOI BR",
     "nome": "BALACLAVA MOTOKOI PRETA",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "18,4"
   },
   {
@@ -8276,7 +8276,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "125,99"
   },
   {
@@ -15020,7 +15020,7 @@
     "fabric": "30",
     "marca": "PROTEC",
     "nome": "BORRACHA PEDAL DE PARTIDA TITAN 2000/ES/KS PROTEC",
-    "estoque": "52",
+    "estoque": "51",
     "preco": "2,72"
   },
   {
@@ -17780,7 +17780,7 @@
     "fabric": "03503",
     "marca": "DANIDREA",
     "nome": "BUCHA QUADRO ELASTICO TODAY/TITAN/TITAN 150/160 DANIDREA",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "15,74"
   },
   {
@@ -32140,7 +32140,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1090",
+    "estoque": "1080",
     "preco": "17,33"
   },
   {
@@ -32308,8 +32308,8 @@
     "fabric": "12177",
     "marca": "LEVORIN",
     "nome": "CAMARA DE AR TRAS TORNADO/XT/CB LEVORIN SC-18",
-    "estoque": "2",
-    "preco": "37,28"
+    "estoque": "12",
+    "preco": "47,01"
   },
   {
     "codigo": "13509",
@@ -35892,7 +35892,7 @@
     "fabric": "1004001134",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER EG",
-    "estoque": "37",
+    "estoque": "36",
     "preco": "89,24"
   },
   {
@@ -35916,7 +35916,7 @@
     "fabric": "1004001132",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER G",
-    "estoque": "54",
+    "estoque": "53",
     "preco": "89,24"
   },
   {
@@ -35924,7 +35924,7 @@
     "fabric": "1004001133",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER GG",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "89,24"
   },
   {
@@ -41908,7 +41908,7 @@
     "fabric": "1250060PTO",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SOLID PRETO 60",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "125,9"
   },
   {
@@ -45268,7 +45268,7 @@
     "fabric": "MC-837CZ",
     "marca": "MIXS",
     "nome": "CAPACETE MIXS FOKKER RACE PRETO/CINZA 60",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "257,25"
   },
   {
@@ -46284,7 +46284,7 @@
     "fabric": "C160170705758",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO/VERMELHO 58",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "294"
   },
   {
@@ -74564,7 +74564,7 @@
     "fabric": "P400210115003",
     "marca": "VEDAMOTORS",
     "nome": "EMBREAGEM KIT COMPLETO TIT150 05-14/FAN150/FAN09/BROS 06 VEDAMOTORS",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "115,49"
   },
   {
@@ -79484,7 +79484,7 @@
     "fabric": "23520",
     "marca": "MOTOBOR",
     "nome": "ESTICADOR CORRENTE TITAN 150 MOTOBOR",
-    "estoque": "62",
+    "estoque": "60",
     "preco": "2,73"
   },
   {
@@ -79492,7 +79492,7 @@
     "fabric": "23520K",
     "marca": "MOTOKOI BR",
     "nome": "ESTICADOR CORRENTE TITAN 150 MOTOKOI",
-    "estoque": "98",
+    "estoque": "97",
     "preco": "2,23"
   },
   {
@@ -79876,7 +79876,7 @@
     "fabric": "100500402",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO BIZ/POP 100 POLIMET MACICO",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "49,34"
   },
   {
@@ -83492,7 +83492,7 @@
     "fabric": "PL241",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO FAZER 250/LANDER TECFIL",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "14,18"
   },
   {
@@ -101500,7 +101500,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "62,99"
   },
   {
@@ -102052,7 +102052,7 @@
     "fabric": "Y04260XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO YBR 125 03/08/FACTOR 125 03/16 VAZ (45/14/428HX118L) Y04260XS",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "62,99"
   },
   {
@@ -102932,7 +102932,7 @@
     "fabric": "TL006",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA TITAN 00 KS / ES  ESMAGADA 12V 16W  TMAC T15",
-    "estoque": "613",
+    "estoque": "612",
     "preco": "0,72"
   },
   {
@@ -105436,7 +105436,7 @@
     "fabric": "",
     "marca": "CASTROL",
     "nome": "LUBRIFICANTES MOTO 4T CASTROL 20W50 ACTEVO ESSENTIAL MINERAL",
-    "estoque": "1977",
+    "estoque": "1975",
     "preco": "26,24"
   },
   {
@@ -105484,7 +105484,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "1179",
+    "estoque": "1177",
     "preco": "36,74"
   },
   {
@@ -105660,7 +105660,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "213",
+    "estoque": "211",
     "preco": "44,63"
   },
   {
@@ -113532,7 +113532,7 @@
     "fabric": "MNP0211",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON VERMELHA/PRETA",
-    "estoque": "37",
+    "estoque": "36",
     "preco": "136,5"
   },
   {
@@ -130036,7 +130036,7 @@
     "fabric": "5538/4718",
     "marca": "GVS",
     "nome": "PEDALEIRA CB 250 D/D GVS",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "68,25"
   },
   {
@@ -130332,7 +130332,7 @@
     "fabric": "P-254",
     "marca": "PROTEC",
     "nome": "PEDALEIRA TITAN 160/FAN 160 PROTEC DIR",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "23,63"
   },
   {
@@ -132380,7 +132380,7 @@
     "fabric": "6598/1598",
     "marca": "GVS",
     "nome": "PISCA CG-83/TITAN 99 D/D D/E LARANJA S/ COXIM S/LAMPADA GVS",
-    "estoque": "17",
+    "estoque": "15",
     "preco": "16,79"
   },
   {
@@ -139460,7 +139460,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN DAKAR II TL 47P (SEM CAMARA)",
-    "estoque": "114",
+    "estoque": "113",
     "preco": "239,4"
   },
   {
@@ -139596,7 +139596,7 @@
     "fabric": "80745",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 90/90-19 LEVORIN DUNA II BROS",
-    "estoque": "3",
+    "estoque": "13",
     "preco": "325,49"
   },
   {
@@ -139676,7 +139676,7 @@
     "fabric": "3017",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-21 TECHNIC TEC TT 54S",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "216,62"
   },
   {
@@ -139684,7 +139684,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 100/80-18 LEVORIN DAKAR II TL 59P (SEM CAMARA)",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "293,98"
   },
   {
@@ -139932,7 +139932,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 110/90-17 MICHELIN ANAKEE STREET TL 60P",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "446,25"
   },
   {
@@ -139948,7 +139948,7 @@
     "fabric": "3004",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 110/90-17 TECHNIC TEC TT 60P",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "183,73"
   },
   {
@@ -140492,7 +140492,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "32",
+    "estoque": "30",
     "preco": "141,75"
   },
   {
@@ -144084,7 +144084,7 @@
     "fabric": "PT0220",
     "marca": "PIRACAPAS",
     "nome": "PROTETOR TENIS PIRACAPAS",
-    "estoque": "37",
+    "estoque": "36",
     "preco": "11,57"
   },
   {
@@ -147860,7 +147860,7 @@
     "fabric": "1103",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA PRETO 42 X 42 MS EXTENSOR",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "12,59"
   },
   {
@@ -155380,7 +155380,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "32",
+    "estoque": "31",
     "preco": "19,94"
   },
   {
@@ -156860,7 +156860,7 @@
     "fabric": "190100",
     "marca": "MELC",
     "nome": "ROLDANA ACELERADOR CG/TITAN/150 MELC",
-    "estoque": "260",
+    "estoque": "259",
     "preco": "2,09"
   },
   {
@@ -159620,7 +159620,7 @@
     "fabric": "3192",
     "marca": "PROJETIL",
     "nome": "SUPORTE FAROL FAN 125 09/13 ARANHA PRETO PROJETIL",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "49,88"
   },
   {
@@ -159732,7 +159732,7 @@
     "fabric": "101300202",
     "marca": "POLIMET",
     "nome": "SUPORTE FAROL TITAN 150 04/08 FAN150 10/12 ARANHA PRETO POLIMET",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "48,83"
   },
   {
@@ -164996,7 +164996,7 @@
     "fabric": "TP100",
     "marca": "TMAC",
     "nome": "TORNEIRA GASOLINA CG/TOD/TIT 99 TMAC",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "13,66"
   },
   {
