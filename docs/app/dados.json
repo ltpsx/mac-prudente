@@ -16388,7 +16388,7 @@
     "fabric": "1012441",
     "marca": "WGK",
     "nome": "BRACO OSCILANTE CG 125 ATE 08 WGK PAR",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "40,94"
   },
   {
@@ -18348,7 +18348,7 @@
     "fabric": "1013211",
     "marca": "WGK",
     "nome": "BUJAO OLEO CG/TOD/TIT/CBX 200 WGK C/ANEL",
-    "estoque": "35",
+    "estoque": "34",
     "preco": "5,24"
   },
   {
@@ -32140,7 +32140,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1064",
+    "estoque": "1062",
     "preco": "17,33"
   },
   {
@@ -66164,7 +66164,7 @@
     "fabric": "TM1209",
     "marca": "TMAC",
     "nome": "CORREIA TRANSMISSAO NEO 115 10/12 TMAC",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "51,45"
   },
   {
@@ -70084,7 +70084,7 @@
     "fabric": "1018621",
     "marca": "WGK",
     "nome": "DISCO EMBREAGEM TITAN 150 WGK",
-    "estoque": "103",
+    "estoque": "102",
     "preco": "24,68"
   },
   {
@@ -82788,7 +82788,7 @@
     "fabric": "S4V0210200062",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR XRE 300 2010 ED VEDAMOTORS",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "47,25"
   },
   {
@@ -83188,7 +83188,7 @@
     "fabric": "TM0985",
     "marca": "TMAC",
     "nome": "FILTRO COMBUSTIVEL UNIVERSAL TMAC",
-    "estoque": "759",
+    "estoque": "754",
     "preco": "2,09"
   },
   {
@@ -83764,7 +83764,7 @@
     "fabric": "FVC022",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX VEDAMOTORS",
-    "estoque": "85",
+    "estoque": "84",
     "preco": "10,49"
   },
   {
@@ -86748,7 +86748,7 @@
     "fabric": "VE05016001045",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "163",
+    "estoque": "162",
     "preco": "6,29"
   },
   {
@@ -88884,7 +88884,7 @@
     "fabric": "100410901",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 160/FAN 160 CROMADO POLIMET C/PESO",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "66,68"
   },
   {
@@ -92188,7 +92188,7 @@
     "fabric": "TC2060",
     "marca": "TMAC",
     "nome": "INTERRUPTOR STOP FREIO YBR 125 TRAS TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "8,2"
   },
   {
@@ -98044,7 +98044,7 @@
     "fabric": "VS0561010001K",
     "marca": "VEDAMOTORS",
     "nome": "KIT A TITAN 150 VEDAMOTORS",
-    "estoque": "156",
+    "estoque": "155",
     "preco": "16,83"
   },
   {
@@ -101612,7 +101612,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "303",
+    "estoque": "301",
     "preco": "62,99"
   },
   {
@@ -101836,7 +101836,7 @@
     "fabric": "H03974X",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO XRE 300 VAZ (39/13/520HORX104L) H03974X C/RETENTOR",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "246,75"
   },
   {
@@ -102244,7 +102244,7 @@
     "fabric": "12153M512V",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 PHILLIPS M5",
-    "estoque": "125",
+    "estoque": "124",
     "preco": "23,63"
   },
   {
@@ -104945,7 +104945,7 @@
   },
   {
     "codigo": "11836",
-    "fabric": "1280",
+    "fabric": "6280",
     "marca": "GVS",
     "nome": "LENTE PISCA CG 83/99 LARANJA GVS",
     "estoque": "53",
@@ -105516,7 +105516,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "1167",
+    "estoque": "1165",
     "preco": "36,74"
   },
   {
@@ -105548,7 +105548,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "4198",
+    "estoque": "4195",
     "preco": "31,49"
   },
   {
@@ -105668,7 +105668,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "2876",
+    "estoque": "2874",
     "preco": "18,89"
   },
   {
@@ -105692,7 +105692,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "211",
+    "estoque": "210",
     "preco": "44,63"
   },
   {
@@ -109388,7 +109388,7 @@
     "fabric": "1092",
     "marca": "PROTEC",
     "nome": "MANETE FREIO START 160 TAMBOR PROTEC",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "9,2"
   },
   {
@@ -110012,7 +110012,7 @@
     "fabric": "KOI0151",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI C/PUNHO PROTECAO UV PRETO M",
-    "estoque": "49",
+    "estoque": "48",
     "preco": "18,38"
   },
   {
@@ -123252,7 +123252,7 @@
     "fabric": "304700",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 14/FAN 150 14/TITAN 160 EX 16 PRETO MELC (304700)",
-    "estoque": "28",
+    "estoque": "27",
     "preco": "57,75"
   },
   {
@@ -124700,7 +124700,7 @@
     "fabric": "174701",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO TITAN 150/FAN ESD 14/18 /CARGO/START 16/20 (A) PRETO MELC (174701)",
-    "estoque": "51",
+    "estoque": "50",
     "preco": "34,65"
   },
   {
@@ -126292,7 +126292,7 @@
     "fabric": "N906",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TITAN ES/ML/STRADA/CBX150 DIANTEIRO COBREQ N-906",
-    "estoque": "28",
+    "estoque": "27",
     "preco": "15,13"
   },
   {
@@ -127924,7 +127924,7 @@
     "fabric": "KOI-00102 D",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO YBR 125/XTZ 125 1,00 DIANT/TRAS MOTOKOI BR",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "19,94"
   },
   {
@@ -128612,7 +128612,7 @@
     "fabric": "1101437",
     "marca": "GP7/GP",
     "nome": "PEDAL CAMBIO TITAN 150 SPORT GP",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "20,99"
   },
   {
@@ -130068,7 +130068,7 @@
     "fabric": "5538/4718",
     "marca": "GVS",
     "nome": "PEDALEIRA CB 250 D/D GVS",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "68,25"
   },
   {
@@ -132164,7 +132164,7 @@
     "fabric": "PISCA 27",
     "marca": "STALLION",
     "nome": "PISCA CB 250 16 ED MOD ESPORTIVO STALLION BASE ORIGINAL (PAR)",
-    "estoque": "49",
+    "estoque": "48",
     "preco": "23,63"
   },
   {
@@ -140572,7 +140572,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "497",
+    "estoque": "496",
     "preco": "136,49"
   },
   {
@@ -140604,7 +140604,7 @@
     "fabric": "3008",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC TIGER TT 57P",
-    "estoque": "30",
+    "estoque": "29",
     "preco": "131,25"
   },
   {
@@ -151356,7 +151356,7 @@
     "fabric": "10116031",
     "marca": "WGK",
     "nome": "RESSALTO COMANDO CG 125 TITAN 2000 WGK",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "33,22"
   },
   {
@@ -155404,7 +155404,7 @@
     "fabric": "KOI0242",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 NOVA PAR MOTOKOI BR",
-    "estoque": "162",
+    "estoque": "161",
     "preco": "22,04"
   },
   {
@@ -157068,7 +157068,7 @@
     "fabric": "TC1149",
     "marca": "TMAC",
     "nome": "ROLETE CONTRA PESO NEO 115 05/12 (6 UN) TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "23,1"
   },
   {
@@ -165988,7 +165988,7 @@
     "fabric": "VA0510045",
     "marca": "METAL LEVE",
     "nome": "VALVULA ADMISSAO CG-TODAY ATE 91 METAL LEVE",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "31,9"
   },
   {
@@ -166700,7 +166700,7 @@
     "fabric": "VE0510046",
     "marca": "METAL LEVE",
     "nome": "VALVULA ESCAPE CG/TODAY ATE 91 METAL LEVE",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "71"
   },
   {
@@ -167980,7 +167980,7 @@
     "fabric": "CPR8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 150/FAN 150 CPR8EA-9 NGK",
-    "estoque": "665",
+    "estoque": "662",
     "preco": "31,49"
   },
   {
