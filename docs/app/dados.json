@@ -3436,7 +3436,7 @@
     "fabric": "KOI0179",
     "marca": "MOTOKOI",
     "nome": "AMORTECEDOR TITAN 2000 MOTOKOI (PAR)",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "125,99"
   },
   {
@@ -5685,7 +5685,7 @@
     "marca": "TRILHA",
     "nome": "ARVORE COMANDO VALVULA CB 300 TRILHA ESC",
     "estoque": "1",
-    "preco": "0,83"
+    "preco": "59,96"
   },
   {
     "codigo": "36169",
@@ -7364,16 +7364,16 @@
     "fabric": "KOI0156",
     "marca": "MOTOKOI BR",
     "nome": "BALACLAVA MOTOKOI PRETA",
-    "estoque": "4",
-    "preco": "11,03"
+    "estoque": "35",
+    "preco": "17,84"
   },
   {
     "codigo": "46159",
     "fabric": "KOI0162",
     "marca": "MOTOKOI BR",
     "nome": "BALACLAVA MOTOKOI PRETA FLANELADA P/FRIO",
-    "estoque": "2",
-    "preco": "13,65"
+    "estoque": "12",
+    "preco": "23,1"
   },
   {
     "codigo": "39667",
@@ -8269,7 +8269,7 @@
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
     "estoque": "13",
-    "preco": "86,85"
+    "preco": "124,07"
   },
   {
     "codigo": "45948",
@@ -8285,7 +8285,7 @@
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ/TITAN 2000 ES/TITAN150 KS 125 MTX5L-BS MOTOKOI",
     "estoque": "6",
-    "preco": "78,46"
+    "preco": "112,08"
   },
   {
     "codigo": "45939",
@@ -8373,7 +8373,7 @@
     "marca": "RAIOM",
     "nome": "BATERIA RTX10-BS RAIOM",
     "estoque": "2",
-    "preco": "301,88"
+    "preco": "330,75"
   },
   {
     "codigo": "45943",
@@ -8389,7 +8389,7 @@
     "marca": "RAIOM",
     "nome": "BATERIA SUZUKI/BURGMAN-SUNDOWN FUTURE RTX7A-BS RAIOM",
     "estoque": "0",
-    "preco": "152,25"
+    "preco": "157,49"
   },
   {
     "codigo": "45437",
@@ -8405,7 +8405,7 @@
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
     "estoque": "1",
-    "preco": "102,14"
+    "preco": "145,92"
   },
   {
     "codigo": "40002",
@@ -11588,24 +11588,24 @@
     "fabric": "KOI0166",
     "marca": "MOTOKOI BR",
     "nome": "BLUSA MOTOKOI SEGUNDA PELE PRETO GG",
-    "estoque": "2",
-    "preco": "34,65"
+    "estoque": "4",
+    "preco": "57,75"
   },
   {
     "codigo": "46161",
     "fabric": "KOI0164",
     "marca": "MOTOKOI BR",
     "nome": "BLUSA MOTOKOI SEGUNDA PELE PRETO M",
-    "estoque": "2",
-    "preco": "34,65"
+    "estoque": "7",
+    "preco": "57,75"
   },
   {
     "codigo": "46160",
     "fabric": "KOI0163",
     "marca": "MOTOKOI BR",
     "nome": "BLUSA MOTOKOI SEGUNDA PELE PRETO P",
-    "estoque": "1",
-    "preco": "34,65"
+    "estoque": "2",
+    "preco": "57,75"
   },
   {
     "codigo": "50720",
@@ -14692,7 +14692,7 @@
     "fabric": "C6158",
     "marca": "CORAMI",
     "nome": "BOMBA OLEO TITAN 160/FAN/START CORAMI",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "50,93"
   },
   {
@@ -18612,7 +18612,7 @@
     "fabric": "TM022",
     "marca": "TMAC",
     "nome": "BUZINA TWISTER TMAC",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "18,38"
   },
   {
@@ -22092,7 +22092,7 @@
     "fabric": "TM5002",
     "marca": "TMAC",
     "nome": "CABO ACELERADOR TITAN/FAN 125 2002/08 TMAC",
-    "estoque": "53",
+    "estoque": "52",
     "preco": "8,39"
   },
   {
@@ -27868,7 +27868,7 @@
     "fabric": "KOI0051",
     "marca": "MOTOKOI",
     "nome": "CABO FREIO TITAN 02/08 MOTOKOI",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "9,61"
   },
   {
@@ -27884,7 +27884,7 @@
     "fabric": "TM8011",
     "marca": "TMAC",
     "nome": "CABO FREIO TITAN 02/08 TMAC",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "11,14"
   },
   {
@@ -38196,7 +38196,7 @@
     "fabric": "1258058B05",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO BOLT BRANCO/VERMELHO 58",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "137,45"
   },
   {
@@ -38244,7 +38244,7 @@
     "fabric": "1258058P07",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO BOLT PRETO/ROSA 58",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "141,74"
   },
   {
@@ -40332,7 +40332,7 @@
     "fabric": "1189060P02",
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK FLASH PRETO/AZUL 60",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "279,32"
   },
   {
@@ -41484,40 +41484,40 @@
     "fabric": "1339056P11",
     "marca": "EBF",
     "nome": "CAPACETE EBF OPIUM ATTACK BICOLOR PRETO BRILHO/ROSA/BRANCO 56",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "1",
+    "preco": "365,4"
   },
   {
     "codigo": "54042",
     "fabric": "1339058P11",
     "marca": "EBF",
     "nome": "CAPACETE EBF OPIUM ATTACK BICOLOR PRETO BRILHO/ROSA/BRANCO 58",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "365,4"
   },
   {
     "codigo": "54043",
     "fabric": "1339060P11",
     "marca": "EBF",
     "nome": "CAPACETE EBF OPIUM ATTACK BICOLOR PRETO BRILHO/ROSA/BRANCO 60",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "365,4"
   },
   {
     "codigo": "53953",
     "fabric": "1337056PTO",
     "marca": "EBF",
     "nome": "CAPACETE EBF OPIUM SOLID PRETO 56",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "1",
+    "preco": "365,4"
   },
   {
     "codigo": "53957",
     "fabric": "1337058PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF OPIUM SOLID PRETO FOSCO 58",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "365,4"
   },
   {
     "codigo": "31025",
@@ -58828,7 +58828,7 @@
     "fabric": "90261610",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO BURGMAN 11/14 MAGNETRON",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "236,25"
   },
   {
@@ -70084,7 +70084,7 @@
     "fabric": "1018621",
     "marca": "WGK",
     "nome": "DISCO EMBREAGEM TITAN 150 WGK",
-    "estoque": "98",
+    "estoque": "97",
     "preco": "24,68"
   },
   {
@@ -75332,7 +75332,7 @@
     "fabric": "TM314",
     "marca": "TMAC",
     "nome": "ENGRENAGEM + PINHAO DO VELOCIMETRO TITAN 150 ESD TMAC FERRO",
-    "estoque": "216",
+    "estoque": "215",
     "preco": "9,58"
   },
   {
@@ -86133,7 +86133,7 @@
     "marca": "MOTOKOI BR",
     "nome": "GUARNICAO CUBA CARBURADOR BIZ MOTOKOI",
     "estoque": "8",
-    "preco": "0,6"
+    "preco": "1,05"
   },
   {
     "codigo": "50254",
@@ -86700,7 +86700,7 @@
     "fabric": "15193K",
     "marca": "MOTOKOI BR",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 150/FAN 125 09 MOTOKOI C/COXIM",
-    "estoque": "205",
+    "estoque": "204",
     "preco": "4,65"
   },
   {
@@ -86741,7 +86741,7 @@
     "marca": "MOTOKOI BR",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 160/BROS 160 MOTOKOI",
     "estoque": "50",
-    "preco": "2,26"
+    "preco": "3,62"
   },
   {
     "codigo": "20917",
@@ -91940,7 +91940,7 @@
     "fabric": "90214100",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR STOP FREIO TWISTER/TORNADO/CB 300/XRE 300 DIANT MAGNETRON",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "8,16"
   },
   {
@@ -105204,7 +105204,7 @@
     "fabric": "3397",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 2000/TWSITER/CB 300 LARANJA GVS",
-    "estoque": "107",
+    "estoque": "103",
     "preco": "4,73"
   },
   {
@@ -105516,7 +105516,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "1110",
+    "estoque": "1099",
     "preco": "36,74"
   },
   {
@@ -105548,7 +105548,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "4107",
+    "estoque": "4106",
     "preco": "31,49"
   },
   {
@@ -105556,7 +105556,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "215",
+    "estoque": "214",
     "preco": "45,14"
   },
   {
@@ -105668,7 +105668,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "2870",
+    "estoque": "2864",
     "preco": "18,89"
   },
   {
@@ -105692,7 +105692,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "201",
+    "estoque": "199",
     "preco": "44,63"
   },
   {
@@ -108508,7 +108508,7 @@
     "fabric": "24",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM STRADA/TWISTER/CB300 PROTEC",
-    "estoque": "73",
+    "estoque": "72",
     "preco": "7,11"
   },
   {
@@ -109396,7 +109396,7 @@
     "fabric": "23",
     "marca": "PROTEC",
     "nome": "MANETE FREIO STRADA/TWISTER/CB300 PROTEC",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "7,18"
   },
   {
@@ -110004,24 +110004,24 @@
     "fabric": "KOI0152",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI C/PUNHO PROTECAO UV PRETO G",
-    "estoque": "0",
-    "preco": "11,55"
+    "estoque": "100",
+    "preco": "18,38"
   },
   {
     "codigo": "46141",
     "fabric": "KOI0151",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI C/PUNHO PROTECAO UV PRETO M",
-    "estoque": "48",
-    "preco": "11,55"
+    "estoque": "98",
+    "preco": "18,38"
   },
   {
     "codigo": "46140",
     "fabric": "KOI0150",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI C/PUNHO PROTECAO UV PRETO P",
-    "estoque": "11",
-    "preco": "11,55"
+    "estoque": "31",
+    "preco": "18,38"
   },
   {
     "codigo": "46143",
@@ -110036,8 +110036,8 @@
     "fabric": "KOI0155",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI S/PUNHO PROTECAO UV PRETO G",
-    "estoque": "9",
-    "preco": "11,03"
+    "estoque": "50",
+    "preco": "17,84"
   },
   {
     "codigo": "46148",
@@ -110252,7 +110252,7 @@
     "fabric": "308",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 160 DIREITO PROTEC",
-    "estoque": "27",
+    "estoque": "25",
     "preco": "13,52"
   },
   {
@@ -110268,7 +110268,7 @@
     "fabric": "305",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 160 ESQUERDO PROTEC",
-    "estoque": "53",
+    "estoque": "51",
     "preco": "13,52"
   },
   {
@@ -127492,7 +127492,7 @@
     "fabric": "LBJ784",
     "marca": "LBJ",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,00 DIANT/TRAS LBJ",
-    "estoque": "163",
+    "estoque": "162",
     "preco": "15,28"
   },
   {
@@ -137548,7 +137548,7 @@
     "fabric": "1102731",
     "marca": "KMP",
     "nome": "PISTAO TWISTER 250/TORNADO 250 0,25 KMP",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "131,25"
   },
   {
@@ -139092,7 +139092,7 @@
     "fabric": "6181",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 100/80-14 TECHNIC SPORT R TT 48P",
-    "estoque": "5",
+    "estoque": "7",
     "preco": "178,5"
   },
   {
@@ -139140,7 +139140,7 @@
     "fabric": "6010",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 100/80-17 TECHNIC SPORT TWISTER TL 52S",
-    "estoque": "39",
+    "estoque": "38",
     "preco": "199,5"
   },
   {
@@ -139196,7 +139196,7 @@
     "fabric": "6197",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 110/70-17 TECHNIC SPORT R CB 300 TL 54S",
-    "estoque": "9",
+    "estoque": "18",
     "preco": "204,75"
   },
   {
@@ -139268,7 +139268,7 @@
     "fabric": "6139",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 120/70-17 TECHNIC SPORT R TL 58V",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "355,95"
   },
   {
@@ -139340,7 +139340,7 @@
     "fabric": "6133",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-17 TECHNIC SPORT R TT 47P",
-    "estoque": "20",
+    "estoque": "30",
     "preco": "122,84"
   },
   {
@@ -139356,7 +139356,7 @@
     "fabric": "100648",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 2.75-18 MAGGION WINNER TT",
-    "estoque": "30",
+    "estoque": "29",
     "preco": "125,98"
   },
   {
@@ -139380,7 +139380,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "444",
+    "estoque": "506",
     "preco": "115,49"
   },
   {
@@ -139388,7 +139388,7 @@
     "fabric": "6050",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT TL 42P",
-    "estoque": "11",
+    "estoque": "22",
     "preco": "139,65"
   },
   {
@@ -139484,7 +139484,7 @@
     "fabric": "3100",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC TIGER BIZ TT 33L",
-    "estoque": "31",
+    "estoque": "52",
     "preco": "97,13"
   },
   {
@@ -139652,7 +139652,7 @@
     "fabric": "3003",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-19 TECHNIC TEC BROS TT 52T",
-    "estoque": "46",
+    "estoque": "66",
     "preco": "162,75"
   },
   {
@@ -139748,7 +139748,7 @@
     "fabric": "006120",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/80-18 TECHNIC SPORT R TL 53P",
-    "estoque": "4",
+    "estoque": "6",
     "preco": "194,25"
   },
   {
@@ -139764,7 +139764,7 @@
     "fabric": "6194",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/90-10 TECHNIC SCOOTER TL 56J",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "162,75"
   },
   {
@@ -139980,7 +139980,7 @@
     "fabric": "3004",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 110/90-17 TECHNIC TEC TT 60P",
-    "estoque": "31",
+    "estoque": "61",
     "preco": "183,73"
   },
   {
@@ -139996,7 +139996,7 @@
     "fabric": "6191",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/70-14 TECHNIC SPORT R TL 69",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "199,49"
   },
   {
@@ -140060,7 +140060,7 @@
     "fabric": "3018",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/90-17 TECHNIC TEC FALCON/XT 600 TT 64S",
-    "estoque": "13",
+    "estoque": "16",
     "preco": "278,25"
   },
   {
@@ -140132,7 +140132,7 @@
     "fabric": "6020",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 130/70-17 TECHNIC SPORT TWISTER/FAZER TL 62S",
-    "estoque": "20",
+    "estoque": "41",
     "preco": "280,35"
   },
   {
@@ -140212,7 +140212,7 @@
     "fabric": "6092",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT CB 300 TL 66S",
-    "estoque": "10",
+    "estoque": "18",
     "preco": "304,54"
   },
   {
@@ -140220,7 +140220,7 @@
     "fabric": "6199",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT R CB 300 TL 66S",
-    "estoque": "16",
+    "estoque": "35",
     "preco": "304,5"
   },
   {
@@ -140428,8 +140428,8 @@
     "fabric": "16083",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 80/100-14 LEVORIN MATRIX BIZ",
-    "estoque": "36",
-    "preco": "178,68"
+    "estoque": "135",
+    "preco": "236,25"
   },
   {
     "codigo": "2479",
@@ -140468,7 +140468,7 @@
     "fabric": "3101",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC TIGER BIZ TT 49L",
-    "estoque": "101",
+    "estoque": "154",
     "preco": "110,24"
   },
   {
@@ -140492,8 +140492,8 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN DAKKAR II TL 57P (SEM CAMARA)",
-    "estoque": "0",
-    "preco": "212,49"
+    "estoque": "100",
+    "preco": "267,75"
   },
   {
     "codigo": "6409",
@@ -140564,7 +140564,7 @@
     "fabric": "6119",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TL 57P",
-    "estoque": "0",
+    "estoque": "16",
     "preco": "168"
   },
   {
@@ -140572,7 +140572,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "486",
+    "estoque": "694",
     "preco": "136,49"
   },
   {
@@ -140596,7 +140596,7 @@
     "fabric": "3022",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC TEC (BORRACHUDO) TT 57P",
-    "estoque": "12",
+    "estoque": "20",
     "preco": "163,33"
   },
   {
@@ -144868,7 +144868,7 @@
     "fabric": "TM0124",
     "marca": "TMAC",
     "nome": "PUNHO LUZ TITAN 150 ES/ESD 04/08/FAN 125 ES 09/13/FAN 150 ESI/ESDI/FLEX 10/13 TMAC",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "35,5"
   },
   {
@@ -167980,7 +167980,7 @@
     "fabric": "CPR8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 150/FAN 150 CPR8EA-9 NGK",
-    "estoque": "652",
+    "estoque": "650",
     "preco": "31,49"
   },
   {
@@ -171268,7 +171268,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "186",
+    "estoque": "185",
     "preco": "6,29"
   },
   {
