@@ -524,7 +524,7 @@
     "fabric": "344904",
     "marca": "MELC",
     "nome": "ABA TANQUE FAN 160 22/24 PRATA MET. MELC (344904)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "110,25"
   },
   {
@@ -588,7 +588,7 @@
     "fabric": "345801",
     "marca": "MELC",
     "nome": "ABA TANQUE FAN 160 ESD 16/21 PRETO MELC (345801)",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "103,95"
   },
   {
@@ -796,8 +796,8 @@
     "fabric": "344701",
     "marca": "MELC",
     "nome": "ABA TANQUE TITAN 150 14 VERMELHA MELC (344701)",
-    "estoque": "1",
-    "preco": "99,75"
+    "estoque": "2",
+    "preco": "103,95"
   },
   {
     "codigo": "20033",
@@ -980,8 +980,8 @@
     "fabric": "345001",
     "marca": "MELC",
     "nome": "ABA TANQUE TITAN 160 EX 22/24 CINZA MELC",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "103,95"
   },
   {
     "codigo": "52633",
@@ -1156,7 +1156,7 @@
     "fabric": "342109",
     "marca": "MELC",
     "nome": "ABA TANQUE TWISTER 08 PRATA MELC  (342109)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "150,19"
   },
   {
@@ -1380,7 +1380,7 @@
     "fabric": "344001",
     "marca": "MELC",
     "nome": "ABA TANQUE YBR FACTOR 09/12 PRETO MELC (344001)",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "152,25"
   },
   {
@@ -4780,7 +4780,7 @@
     "fabric": "832700",
     "marca": "MELC",
     "nome": "ARO FAROL TITAN 2000/150 PRETO MELC (832700)",
-    "estoque": "26",
+    "estoque": "56",
     "preco": "10,42"
   },
   {
@@ -10492,7 +10492,7 @@
     "fabric": "801600",
     "marca": "MELC",
     "nome": "BLOCO OPTICO BIZ 100 MELC (801600)",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "23,1"
   },
   {
@@ -10508,7 +10508,7 @@
     "fabric": "803600",
     "marca": "MELC",
     "nome": "BLOCO OPTICO BIZ 125 11/17/BIZ 100 13/16/BIZ 110 16/17 MELC (803600)",
-    "estoque": "16",
+    "estoque": "36",
     "preco": "48,29"
   },
   {
@@ -10564,7 +10564,7 @@
     "fabric": "803000",
     "marca": "MELC",
     "nome": "BLOCO OPTICO BIZ 125 MELC",
-    "estoque": "2",
+    "estoque": "9",
     "preco": "29,93"
   },
   {
@@ -11132,7 +11132,7 @@
     "fabric": "804700",
     "marca": "MELC",
     "nome": "BLOCO OPTICO TITAN 150 MIX 2011-13 MELC (804700)",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "47,25"
   },
   {
@@ -12980,7 +12980,7 @@
     "fabric": "90210370",
     "marca": "MAGNETRON",
     "nome": "BOBINA PULSO TITAN 00/01 - XLR 125  MAGNETRON",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "23,63"
   },
   {
@@ -15972,7 +15972,7 @@
     "fabric": "1097",
     "marca": "POLIVISOR",
     "nome": "BOTAO SAN MARINO UND POLIVISOR",
-    "estoque": "56",
+    "estoque": "54",
     "preco": "3,14"
   },
   {
@@ -16052,7 +16052,7 @@
     "fabric": "01",
     "marca": "EX RACING",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW ATOMIC/NEW LIBERTY 3/JOY 23 EX RACING PAR",
-    "estoque": "32",
+    "estoque": "31",
     "preco": "7,34"
   },
   {
@@ -19228,7 +19228,7 @@
     "fabric": "90.20830149",
     "marca": "CONTROLFLEX",
     "nome": "CABO ACELERADOR BROS 150 03/08 CONTROLFLEX +",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "9,44"
   },
   {
@@ -32020,7 +32020,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "231",
+    "estoque": "229",
     "preco": "16,79"
   },
   {
@@ -32068,7 +32068,7 @@
     "fabric": "KOI0291",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BROS/XTZ/CB 400/450 MOTOKOI T19",
-    "estoque": "124",
+    "estoque": "122",
     "preco": "18,89"
   },
   {
@@ -32132,7 +32132,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "CAMARA DE AR DIANT/TRAS CG LEVORIN SA-18",
-    "estoque": "118",
+    "estoque": "117",
     "preco": "44,63"
   },
   {
@@ -32148,7 +32148,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1065",
+    "estoque": "1054",
     "preco": "17,33"
   },
   {
@@ -32236,7 +32236,7 @@
     "fabric": "11553",
     "marca": "LEVORIN",
     "nome": "CAMARA DE AR TRAS BIZ LEVORIN MSA 14",
-    "estoque": "225",
+    "estoque": "223",
     "preco": "20,99"
   },
   {
@@ -32372,7 +32372,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "208",
+    "estoque": "207",
     "preco": "20,99"
   },
   {
@@ -49260,7 +49260,7 @@
     "fabric": "821700",
     "marca": "MELC",
     "nome": "CARCACA FAROL TITAN 00 A 04/FAN 125 05 A 13 MELC (821700)",
-    "estoque": "10",
+    "estoque": "30",
     "preco": "8,39"
   },
   {
@@ -49436,7 +49436,7 @@
     "fabric": "100100",
     "marca": "MELC",
     "nome": "CARCACA PAINEL INFERIOR CG 83/TODAY/TITAN MELC (100100)",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "9,79"
   },
   {
@@ -49612,7 +49612,7 @@
     "fabric": "101700",
     "marca": "MELC",
     "nome": "CARCACA PAINEL INFERIOR TITAN 00/04 E 08/10 MELC (101700)",
-    "estoque": "7",
+    "estoque": "17",
     "preco": "5,24"
   },
   {
@@ -49684,7 +49684,7 @@
     "fabric": "102703",
     "marca": "MELC",
     "nome": "CARCACA PAINEL INFERIOR TITAN 150 PRETA MELC (102703)",
-    "estoque": "19",
+    "estoque": "29",
     "preco": "7,34"
   },
   {
@@ -50028,7 +50028,7 @@
     "fabric": "101701",
     "marca": "MELC",
     "nome": "CARCACA PAINEL INTERNA BRANCA TITAN 00/04 / FAN 05/13 MELC (101701)",
-    "estoque": "12",
+    "estoque": "22",
     "preco": "11,03"
   },
   {
@@ -50252,7 +50252,7 @@
     "fabric": "103901",
     "marca": "MELC",
     "nome": "CARCACA PAINEL INTERNA BRANCA YBR 125 2009 ED FACTOR MELC",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "34,05"
   },
   {
@@ -50460,7 +50460,7 @@
     "fabric": "102803",
     "marca": "MELC",
     "nome": "CARCACA PAINEL SUPERIOR FAN 125 09 MELC",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "17,33"
   },
   {
@@ -50596,7 +50596,7 @@
     "fabric": "101702",
     "marca": "MELC",
     "nome": "CARCACA PAINEL SUPERIOR TITAN 00/04 MELC (101702)",
-    "estoque": "26",
+    "estoque": "36",
     "preco": "9,44"
   },
   {
@@ -50668,7 +50668,7 @@
     "fabric": "104700",
     "marca": "MELC",
     "nome": "CARCACA PAINEL SUPERIOR TITAN 150 11/13 SEM LENTE MELC (104700)",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "34,19"
   },
   {
@@ -50724,7 +50724,7 @@
     "fabric": "102704",
     "marca": "MELC",
     "nome": "CARCACA PAINEL SUPERIOR TITAN 150 PRATA MELC",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "20,45"
   },
   {
@@ -51044,7 +51044,7 @@
     "fabric": "104102",
     "marca": "MELC",
     "nome": "CARCACA PAINEL SUPERIOR YES 125 2007/10 MELC",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "49,58"
   },
   {
@@ -51532,7 +51532,7 @@
     "fabric": "373001",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL BIZ 125 05/10  PRETO MELC (373001)",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "57,68"
   },
   {
@@ -53060,7 +53060,7 @@
     "fabric": "225901",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL FRONTAL TITAN 160 ESD/EX 22/24 PRETO INJETADO MELC (225901)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "41,99"
   },
   {
@@ -53308,7 +53308,7 @@
     "fabric": "373504",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL LATERAL CB 300 11 AZUL MELC (373504)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "57,72"
   },
   {
@@ -53428,7 +53428,7 @@
     "fabric": "373510",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL LATERAL CB 300 14 AZUL MELC (373510)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "57,75"
   },
   {
@@ -53644,7 +53644,7 @@
     "fabric": "374901",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL LATERAL FAN 160 22/23 AZUL MELC (374901)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "52,99"
   },
   {
@@ -53652,7 +53652,7 @@
     "fabric": "374902",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL LATERAL FAN 160 22/23 PRETO MELC (374902)",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "59,43"
   },
   {
@@ -54396,7 +54396,7 @@
     "fabric": "375010",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL LATERAL TITAN 160 22/FAN 160 19 PRATA MELC (375010)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "57,75"
   },
   {
@@ -55164,7 +55164,7 @@
     "fabric": "351606",
     "marca": "MELC",
     "nome": "CARENAGEM FRONTAL BIZ 100 00/05 PRETO MELC (351606)",
-    "estoque": "3",
+    "estoque": "4",
     "preco": "77,06"
   },
   {
@@ -55348,7 +55348,7 @@
     "fabric": "351603",
     "marca": "MELC",
     "nome": "CARENAGEM FRONTAL BIZ 100 98/99 AMARELO MELC (351603)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "80,33"
   },
   {
@@ -55660,7 +55660,7 @@
     "fabric": "353001",
     "marca": "MELC",
     "nome": "CARENAGEM FRONTAL BIZ 125 05/10 BIZ 125+ 06/07 PRETO MELC (353001)",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "91,91"
   },
   {
@@ -55868,7 +55868,7 @@
     "fabric": "353600",
     "marca": "MELC",
     "nome": "CARENAGEM FRONTAL BIZ 125 11/12/16 VERMELHO MELC (353600)",
-    "estoque": "2",
+    "estoque": "5",
     "preco": "152,25"
   },
   {
@@ -55980,7 +55980,7 @@
     "fabric": "353616",
     "marca": "MELC",
     "nome": "CARENAGEM FRONTAL BIZ 125 15 BRANCO FOSCO MELC (353616)",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "164,81"
   },
   {
@@ -56380,8 +56380,8 @@
     "fabric": "366610",
     "marca": "MELC",
     "nome": "CARENAGEM FRONTAL LATERAL BIZ 125 21/22 MARROM PEROLIZADO MELC (366610)",
-    "estoque": "1",
-    "preco": "150,45"
+    "estoque": "2",
+    "preco": "156,45"
   },
   {
     "codigo": "43972",
@@ -56644,8 +56644,8 @@
     "fabric": "3K1619",
     "marca": "MELC",
     "nome": "CARENAGEM KIT COMPL BIZ 100 05 PRATA MELC (3K1619)",
-    "estoque": "0",
-    "preco": "335,45"
+    "estoque": "1",
+    "preco": "372,75"
   },
   {
     "codigo": "20076",
@@ -56860,8 +56860,8 @@
     "fabric": "8K4906",
     "marca": "MELC",
     "nome": "CARENAGEM KIT FAROL CG160/FAN 22/24 AZUL MELC (8K4906)",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "1",
+    "preco": "136,49"
   },
   {
     "codigo": "52810",
@@ -64780,7 +64780,7 @@
     "fabric": "175800",
     "marca": "MELC",
     "nome": "COMPLEMENTO ABA TANQUE FAN 160 15/19 PRETO INJETADO MELC (175800)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "37,98"
   },
   {
@@ -64796,7 +64796,7 @@
     "fabric": "174900",
     "marca": "MELC",
     "nome": "COMPLEMENTO ABA TANQUE FAN 160 22/24 PRETO MELC (174900)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "38,38"
   },
   {
@@ -64876,7 +64876,7 @@
     "fabric": "172702",
     "marca": "MELC",
     "nome": "COMPLEMENTO TAMPA LATERAL TITAN 150 04/08 PRETO MELC (172702)",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "47,09"
   },
   {
@@ -64892,7 +64892,7 @@
     "fabric": "173701",
     "marca": "MELC",
     "nome": "COMPLEMENTO TAMPA LATERAL TITAN 150 09/13 MIX/FAN MELC (173701)",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "80,86"
   },
   {
@@ -74724,7 +74724,7 @@
     "fabric": "87120-KGA-900",
     "marca": "HONDA",
     "nome": "EMBLEMA FRONTAL TITAN 2000 HONDA",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "17,33"
   },
   {
@@ -80036,7 +80036,7 @@
     "fabric": "23520K",
     "marca": "MOTOKOI BR",
     "nome": "ESTICADOR CORRENTE TITAN 150 MOTOKOI",
-    "estoque": "97",
+    "estoque": "95",
     "preco": "2,23"
   },
   {
@@ -81132,7 +81132,7 @@
     "fabric": "8K4901",
     "marca": "MELC",
     "nome": "FAROL COMPLETO FAN 160 22 C/CARENAGEM AZUL MELC",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "141,75"
   },
   {
@@ -81156,7 +81156,7 @@
     "fabric": "8K4909",
     "marca": "MELC",
     "nome": "FAROL COMPLETO FAN 160 22/24 C/CARENAGEM CINZA MELC",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "141,75"
   },
   {
@@ -81196,7 +81196,7 @@
     "fabric": "811700",
     "marca": "MELC",
     "nome": "FAROL COMPLETO TIT125 00-04/FAN125 05-13 MELC (811700)",
-    "estoque": "7",
+    "estoque": "27",
     "preco": "41,27"
   },
   {
@@ -81204,7 +81204,7 @@
     "fabric": "13001",
     "marca": "PLASMOTO",
     "nome": "FAROL COMPLETO TIT125 00-04/FAN125 05-13 PLASMOTO",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "52,49"
   },
   {
@@ -81284,7 +81284,7 @@
     "fabric": "8K3701",
     "marca": "MELC",
     "nome": "FAROL COMPLETO TITAN 150 09 C/CARENAGEM PRETO MELC (8K3701)",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "126,9"
   },
   {
@@ -81532,7 +81532,7 @@
     "fabric": "8K4809",
     "marca": "MELC",
     "nome": "FAROL COMPLETO TITAN 150 14 C/CARENAGEM PRETO INJETADO MELC (8K4809)",
-    "estoque": "0",
+    "estoque": "21",
     "preco": "131,24"
   },
   {
@@ -81588,7 +81588,7 @@
     "fabric": "812701",
     "marca": "MELC",
     "nome": "FAROL COMPLETO TITAN 150/FAN 150 ATE 13 MELC C/ARO CROMADO",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "56,82"
   },
   {
@@ -86476,7 +86476,7 @@
     "fabric": "12200K",
     "marca": "MOTOKOI BR",
     "nome": "GUARDA PO BENGALA CG/ML/TU MOTOKOI ***PAR***",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "5,78"
   },
   {
@@ -96316,7 +96316,7 @@
     "fabric": "TM013",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 TMAC 4MM",
-    "estoque": "133",
+    "estoque": "131",
     "preco": "24,14"
   },
   {
@@ -98012,7 +98012,7 @@
     "fabric": "VS05004000144",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TITAN 00 KS/ES/KSE VEDAMOTORS",
-    "estoque": "44",
+    "estoque": "43",
     "preco": "5,78"
   },
   {
@@ -98020,7 +98020,7 @@
     "fabric": "VS05004015400",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TITAN 150/BROS 150 VEDAMOTORS",
-    "estoque": "156",
+    "estoque": "155",
     "preco": "5,78"
   },
   {
@@ -100484,7 +100484,7 @@
     "fabric": "372",
     "marca": "MOTOVISAO",
     "nome": "KIT MECANISMO SAN MARINO COMPLETO MOTOVISAO",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "8,47"
   },
   {
@@ -101428,7 +101428,7 @@
     "fabric": "H03868XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO FAN 125 09 VAZ (43/14/428HX116L) H03868XS",
-    "estoque": "70",
+    "estoque": "68",
     "preco": "62,99"
   },
   {
@@ -102044,7 +102044,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "233",
+    "estoque": "231",
     "preco": "62,99"
   },
   {
@@ -105964,7 +105964,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "121",
+    "estoque": "119",
     "preco": "34,64"
   },
   {
@@ -106004,7 +106004,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "5694",
+    "estoque": "5693",
     "preco": "36,74"
   },
   {
@@ -106036,7 +106036,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "7337",
+    "estoque": "7334",
     "preco": "31,49"
   },
   {
@@ -110188,7 +110188,7 @@
     "fabric": "P-1020",
     "marca": "PROTEC",
     "nome": "MANETE TITAN 2000 KS CROMADO PAR PROTEC",
-    "estoque": "39",
+    "estoque": "38",
     "preco": "41,64"
   },
   {
@@ -110756,7 +110756,7 @@
     "fabric": "284",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 2000 KS  DIREITO  S/ROSCA PROTEC",
-    "estoque": "120",
+    "estoque": "119",
     "preco": "11,03"
   },
   {
@@ -110772,7 +110772,7 @@
     "fabric": "285",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 2000 KS ESQUERDO PROTEC",
-    "estoque": "111",
+    "estoque": "109",
     "preco": "11,03"
   },
   {
@@ -112876,7 +112876,7 @@
     "fabric": "16063",
     "marca": "MOTOBOR",
     "nome": "MEDIDOR OLEO TITAN 160/FAN 160/BROS 160 MOTOBOR",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "5,02"
   },
   {
@@ -118956,7 +118956,7 @@
     "fabric": "1099P",
     "marca": "POLIVISOR",
     "nome": "PALA SAN MARINO PRETO POLIVISOR",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "19,43"
   },
   {
@@ -120564,7 +120564,7 @@
     "fabric": "303001",
     "marca": "MELC",
     "nome": "PARALAMA DIANT BIZ 125 06/07 BIZ+125 (05/10) PRETO MELC (303001)",
-    "estoque": "2",
+    "estoque": "5",
     "preco": "52,49"
   },
   {
@@ -121452,7 +121452,7 @@
     "fabric": "516001",
     "marca": "MELC",
     "nome": "PARALAMA DIANT BROS 160 22/24 PRETO MELC (516001)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "73,49"
   },
   {
@@ -121684,7 +121684,7 @@
     "fabric": "303507",
     "marca": "MELC",
     "nome": "PARALAMA DIANT CB 300 12 E 15 BRANCO MELC (303507)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "73,49"
   },
   {
@@ -122236,7 +122236,7 @@
     "fabric": "302803",
     "marca": "MELC",
     "nome": "PARALAMA DIANT FAN 08 CINZA ESP. MELC (302803)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "23,63"
   },
   {
@@ -122268,7 +122268,7 @@
     "fabric": "222801",
     "marca": "MELC",
     "nome": "PARALAMA DIANT FAN 125 05/13 PRETO INJ MELC (222801)",
-    "estoque": "21",
+    "estoque": "36",
     "preco": "21,58"
   },
   {
@@ -122308,7 +122308,7 @@
     "fabric": "304802",
     "marca": "MELC",
     "nome": "PARALAMA DIANT FAN 125 14 AMARELO MELC (304802)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "61,94"
   },
   {
@@ -122356,7 +122356,7 @@
     "fabric": "304800",
     "marca": "MELC",
     "nome": "PARALAMA DIANT FAN 125 14 PRETO MELC (304800)",
-    "estoque": "1",
+    "estoque": "4",
     "preco": "58,72"
   },
   {
@@ -122492,7 +122492,7 @@
     "fabric": "304707",
     "marca": "MELC",
     "nome": "PARALAMA DIANT FAN 160 17/18 VERMELHO MELC (304707)",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "57,31"
   },
   {
@@ -123060,7 +123060,7 @@
     "fabric": "301700",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 00/01 E 04 VERMELHA MELC (301700)",
-    "estoque": "2",
+    "estoque": "6",
     "preco": "24,07"
   },
   {
@@ -123156,16 +123156,16 @@
     "fabric": "301710",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 03/04 AZUL MELC (301710)",
-    "estoque": "0",
-    "preco": "22,97"
+    "estoque": "3",
+    "preco": "24,07"
   },
   {
     "codigo": "39809",
     "fabric": "301712",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 04 FAN 06/08 PRETO MELC (301712)",
-    "estoque": "19",
-    "preco": "20,99"
+    "estoque": "39",
+    "preco": "24,07"
   },
   {
     "codigo": "37237",
@@ -123260,7 +123260,7 @@
     "fabric": "302703",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 04/08 PRETO MELC (302703)",
-    "estoque": "14",
+    "estoque": "24",
     "preco": "37,28"
   },
   {
@@ -123276,7 +123276,7 @@
     "fabric": "222700",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 04/08 S/PINTURA MELC (222700)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "31,49"
   },
   {
@@ -123364,7 +123364,7 @@
     "fabric": "302713",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 06/07 SPORT VERMELHO MELC (302713)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "50,25"
   },
   {
@@ -123372,7 +123372,7 @@
     "fabric": "302707",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 06/08 - JOB 07/08  VERMELHO MELC (302707)",
-    "estoque": "3",
+    "estoque": "9",
     "preco": "37,28"
   },
   {
@@ -123500,7 +123500,7 @@
     "fabric": "303703",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 09/10 MIX PRATA MELC (303703)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "52,9"
   },
   {
@@ -123532,7 +123532,7 @@
     "fabric": "303701",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 09/12 PRETO MELC (303701)",
-    "estoque": "11",
+    "estoque": "16",
     "preco": "50,48"
   },
   {
@@ -123676,7 +123676,7 @@
     "fabric": "304704",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 14/FAN 14/15/FAN 160 19/21 VERMELHO MELC (304704)",
-    "estoque": "8",
+    "estoque": "13",
     "preco": "60,05"
   },
   {
@@ -123692,7 +123692,7 @@
     "fabric": "304702",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 14/FAN 150 14/TITAN 160 16 BRANCO MELC (304702)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "58,72"
   },
   {
@@ -123716,7 +123716,7 @@
     "fabric": "304700",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 14/FAN 150 14/TITAN 160 EX 16 PRETO MELC (304700)",
-    "estoque": "19",
+    "estoque": "39",
     "preco": "57,75"
   },
   {
@@ -123732,7 +123732,7 @@
     "fabric": "304703",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 14/FAN 150 14/TITAN 160 EX 18 AZUL MELC (304703)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "56,47"
   },
   {
@@ -123764,7 +123764,7 @@
     "fabric": "304712",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 160 22/23 CINZA METALICO MELC (304712)",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "58,72"
   },
   {
@@ -124212,7 +124212,7 @@
     "fabric": "302101",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TWISTER 03/06/07/08  PRETO F. MAIOR MELC (302101)",
-    "estoque": "3",
+    "estoque": "6",
     "preco": "91,97"
   },
   {
@@ -124292,7 +124292,7 @@
     "fabric": "302109",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TWISTER 08 PRATA METAL. F. MAIOR MELC (302109)",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "98,33"
   },
   {
@@ -124308,7 +124308,7 @@
     "fabric": "302108",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TWISTER 08 VERMELHO F. MAIOR MELC (302108)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "89,25"
   },
   {
@@ -124548,7 +124548,7 @@
     "fabric": "301910",
     "marca": "MELC",
     "nome": "PARALAMA DIANT YBR 125 04/05 AZUL MELC (301910)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "54,67"
   },
   {
@@ -124612,7 +124612,7 @@
     "fabric": "303900",
     "marca": "MELC",
     "nome": "PARALAMA DIANT YBR FACTOR 09/11 VERMELHO MELC (303900)",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "79,32"
   },
   {
@@ -124620,7 +124620,7 @@
     "fabric": "303901",
     "marca": "MELC",
     "nome": "PARALAMA DIANT YBR FACTOR 09/12 PRETO MELC (303901)",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "76,93"
   },
   {
@@ -124684,7 +124684,7 @@
     "fabric": "304101",
     "marca": "MELC",
     "nome": "PARALAMA DIANT YES 05/11 PRETO MELC (304101)",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "81,18"
   },
   {
@@ -124884,7 +124884,7 @@
     "fabric": "173500",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO CB 300 09/12 MELC (173500)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "57,75"
   },
   {
@@ -124900,7 +124900,7 @@
     "fabric": "310105",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO CG 125 85 AZUL MELC (310105)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "57,75"
   },
   {
@@ -125076,7 +125076,7 @@
     "fabric": "172800",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO FAN 125 09/12 MELC (172800)",
-    "estoque": "10",
+    "estoque": "15",
     "preco": "51,45"
   },
   {
@@ -125196,7 +125196,7 @@
     "fabric": "175701",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO TITAN 160 EX (A) 16/22 PRETO MELC (175701)",
-    "estoque": "3",
+    "estoque": "6",
     "preco": "36,75"
   },
   {
@@ -125204,7 +125204,7 @@
     "fabric": "175702",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO TITAN 160 EX (B) 16/22 PRETO MELC (175702)",
-    "estoque": "1",
+    "estoque": "4",
     "preco": "58,59"
   },
   {
@@ -125236,7 +125236,7 @@
     "fabric": "170300",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO TODAY 91/TITAN 99 ( PORTA PLACA ) MELC (170300)",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "34,13"
   },
   {
@@ -125268,7 +125268,7 @@
     "fabric": "173900",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO YBR 125 FACTOR MELC (173900)",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "50,01"
   },
   {
@@ -125388,7 +125388,7 @@
     "fabric": "FA670",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO BROS 160/CB 250 TWISTER/CRF 250 2015/XRE 300 22 C/ABS TRASEIRA TMAC",
-    "estoque": "60",
+    "estoque": "59",
     "preco": "10,49"
   },
   {
@@ -132876,7 +132876,7 @@
     "fabric": "6598/1598",
     "marca": "GVS",
     "nome": "PISCA CG-83/TITAN 99 D/D D/E LARANJA S/ COXIM S/LAMPADA GVS",
-    "estoque": "15",
+    "estoque": "13",
     "preco": "16,79"
   },
   {
@@ -132884,7 +132884,7 @@
     "fabric": "1597",
     "marca": "GVS",
     "nome": "PISCA CG-83/TITAN 99 T/D T/E LARANJA C/ COXIM S/LAMPADA GVS",
-    "estoque": "45",
+    "estoque": "43",
     "preco": "17,33"
   },
   {
@@ -142052,7 +142052,7 @@
     "fabric": "180300",
     "marca": "MELC",
     "nome": "PORTA CORRENTE TODAY / TITAN 2000 MELC (180300)",
-    "estoque": "18",
+    "estoque": "28",
     "preco": "8,12"
   },
   {
@@ -143500,7 +143500,7 @@
     "fabric": "361605",
     "marca": "MELC",
     "nome": "PROTETOR GARFO BIZ 100 00/05 PRETO MELC (361605)",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "49,81"
   },
   {
@@ -143692,7 +143692,7 @@
     "fabric": "361603",
     "marca": "MELC",
     "nome": "PROTETOR GARFO BIZ 100 98/99 AMARELO MELC (361603)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "46,7"
   },
   {
@@ -146204,8 +146204,8 @@
     "fabric": "333509",
     "marca": "MELC",
     "nome": "RABETA CB 300 14 BRANCO MELC (333509)",
-    "estoque": "0",
-    "preco": "89,25"
+    "estoque": "2",
+    "preco": "94,49"
   },
   {
     "codigo": "17754",
@@ -146404,7 +146404,7 @@
     "fabric": "522801",
     "marca": "MELC",
     "nome": "RABETA FAN 09/13 PRETO MELC (522801)",
-    "estoque": "9",
+    "estoque": "19",
     "preco": "61,95"
   },
   {
@@ -146612,7 +146612,7 @@
     "fabric": "334800",
     "marca": "MELC",
     "nome": "RABETA FAN 150 14/15 ESDI PRETO MELC (334800)",
-    "estoque": "1",
+    "estoque": "35",
     "preco": "69,29"
   },
   {
@@ -146692,7 +146692,7 @@
     "fabric": "334808",
     "marca": "MELC",
     "nome": "RABETA FAN 160 20/21 PRATA METALICO MELC (334808)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "77,77"
   },
   {
@@ -146700,7 +146700,7 @@
     "fabric": "334810",
     "marca": "MELC",
     "nome": "RABETA FAN 160 22 AZUL PEROLIZADO MELC (3348090)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "77,77"
   },
   {
@@ -146852,7 +146852,7 @@
     "fabric": "330609",
     "marca": "MELC",
     "nome": "RABETA STRADA 98/99 VERMELHO MELC (330609)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "192,34"
   },
   {
@@ -146988,7 +146988,7 @@
     "fabric": "331707",
     "marca": "MELC",
     "nome": "RABETA TITAN 02/03 PRATA MELC (331707)",
-    "estoque": "3",
+    "estoque": "6",
     "preco": "55,98"
   },
   {
@@ -147004,7 +147004,7 @@
     "fabric": "331706",
     "marca": "MELC",
     "nome": "RABETA TITAN 02/03 VERDE MELC (331706)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "55,98"
   },
   {
@@ -147124,7 +147124,7 @@
     "fabric": "222701",
     "marca": "MELC",
     "nome": "RABETA TITAN 150 04/08 CONJ S/PINTURA MELC (222701)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "46,33"
   },
   {
@@ -147156,7 +147156,7 @@
     "fabric": "332703",
     "marca": "MELC",
     "nome": "RABETA TITAN 150 04/08 PRETO MELC (332703)",
-    "estoque": "9",
+    "estoque": "19",
     "preco": "68,24"
   },
   {
@@ -147196,7 +147196,7 @@
     "fabric": "332710",
     "marca": "MELC",
     "nome": "RABETA TITAN 150 06/07 PRATA MELC (332710)",
-    "estoque": "1",
+    "estoque": "5",
     "preco": "68,25"
   },
   {
@@ -147460,7 +147460,7 @@
     "fabric": "334705",
     "marca": "MELC",
     "nome": "RABETA TITAN 150 15 ESD/EX VERMELHO MELC (334705)",
-    "estoque": "1",
+    "estoque": "4",
     "preco": "84,49"
   },
   {
@@ -147828,7 +147828,7 @@
     "fabric": "330407",
     "marca": "MELC",
     "nome": "RABETA TITAN 98/99 ROXO MELC (1963209)",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "52,49"
   },
   {
@@ -148148,7 +148148,7 @@
     "fabric": "331807",
     "marca": "MELC",
     "nome": "RABETA YBR 00/08 PRETO MELC (331807)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "94,49"
   },
   {
@@ -148172,7 +148172,7 @@
     "fabric": "331812",
     "marca": "MELC",
     "nome": "RABETA YBR 04/08 PRATA MELC (331812)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "93,8"
   },
   {
@@ -148180,7 +148180,7 @@
     "fabric": "331811",
     "marca": "MELC",
     "nome": "RABETA YBR 05/08 VERMELHO MELC (331811)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "94,49"
   },
   {
@@ -151980,7 +151980,7 @@
     "fabric": "12002MD",
     "marca": "MOTOBOR",
     "nome": "RETENTOR BENGALA CG/TITAN/BIZ 100/BIZ 125 MOTOBOR MOLA DUPLA ***PAR***",
-    "estoque": "41",
+    "estoque": "40",
     "preco": "6,15"
   },
   {
@@ -154436,7 +154436,7 @@
     "fabric": "1398",
     "marca": "NEXTPART",
     "nome": "RETROVISOR BIZ 125/POP/BROS 09 PAR NEXPART",
-    "estoque": "150",
+    "estoque": "149",
     "preco": "16,79"
   },
   {
@@ -155868,7 +155868,7 @@
     "fabric": "KOI0242",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 NOVA PAR MOTOKOI BR",
-    "estoque": "152",
+    "estoque": "151",
     "preco": "22,04"
   },
   {
@@ -161548,7 +161548,7 @@
     "fabric": "170100",
     "marca": "MELC",
     "nome": "TAMPA FILTRO AR CG/TOD/TIT 99 MELC",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "13,24"
   },
   {
@@ -161772,7 +161772,7 @@
     "fabric": "321618",
     "marca": "MELC",
     "nome": "TAMPA LATERAL BIZ 100 01 VERDE MET MELC (321618)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "173,25"
   },
   {
@@ -162252,7 +162252,7 @@
     "fabric": "323014",
     "marca": "MELC",
     "nome": "TAMPA LATERAL BIZ 125 07 AZUL PEROLIZADO MELC (323014)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "186,42"
   },
   {
@@ -162740,7 +162740,7 @@
     "fabric": "534503",
     "marca": "MELC",
     "nome": "TAMPA LATERAL BROS 160 VERMELHA 18 ESDD (MT VMA)/19 ESDD (MT BCA/MT VMA) MELC (534503)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "77,63"
   },
   {
@@ -162996,7 +162996,7 @@
     "fabric": "222806",
     "marca": "MELC",
     "nome": "TAMPA LATERAL FAN 125 09/13 PRETO INJETADO MELC (222806)",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "97,74"
   },
   {
@@ -163028,7 +163028,7 @@
     "fabric": "224802",
     "marca": "MELC",
     "nome": "TAMPA LATERAL FAN 125 14/17 /CARGO FAN 125 14/16 /START 150 15 PRETO INJET. MELC (224802)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "94,49"
   },
   {
@@ -163100,7 +163100,7 @@
     "fabric": "224804",
     "marca": "MELC",
     "nome": "TAMPA LATERAL FAN 160 18/24 PRETO INJETADO MELC (224804)",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "89,25"
   },
   {
@@ -163268,7 +163268,7 @@
     "fabric": "321705",
     "marca": "MELC",
     "nome": "TAMPA LATERAL TITAN 00/01 VERDE METALICO MELC (321705)",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "57,75"
   },
   {
@@ -163348,7 +163348,7 @@
     "fabric": "321723",
     "marca": "MELC",
     "nome": "TAMPA LATERAL TITAN 02/03 PRATA MELC (321723)",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "58,89"
   },
   {
@@ -163380,7 +163380,7 @@
     "fabric": "321734",
     "marca": "MELC",
     "nome": "TAMPA LATERAL TITAN 04 PRETO MELC (321734)",
-    "estoque": "7",
+    "estoque": "9",
     "preco": "56,35"
   },
   {
@@ -163540,7 +163540,7 @@
     "fabric": "322732",
     "marca": "MELC",
     "nome": "TAMPA LATERAL TITAN 150 06/07 PRATA MELC (322732)",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "53,25"
   },
   {
@@ -163932,7 +163932,7 @@
     "fabric": "320413",
     "marca": "MELC",
     "nome": "TAMPA LATERAL TITAN 98/99 AZUL (ROXO) MELC (320413)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "47,24"
   },
   {
@@ -171804,7 +171804,7 @@
     "fabric": "1010F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM FUME POLIVISOR",
-    "estoque": "102",
+    "estoque": "101",
     "preco": "6,62"
   },
   {
