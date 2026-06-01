@@ -8149,7 +8149,7 @@
     "marca": "PIRAVAL",
     "nome": "BANCO COMPLETO TITAN 150 14/15 PIRAVAL",
     "estoque": "5",
-    "preco": "167,63"
+    "preco": "162,75"
   },
   {
     "codigo": "19557",
@@ -8157,7 +8157,7 @@
     "marca": "PIRAVAL",
     "nome": "BANCO COMPLETO TITAN 150/FAN 125 09/13 PIRAVAL",
     "estoque": "6",
-    "preco": "178,5"
+    "preco": "162,75"
   },
   {
     "codigo": "19536",
@@ -8165,7 +8165,7 @@
     "marca": "PIRAVAL",
     "nome": "BANCO COMPLETO TITAN 150/JOB/SPORT 04/08 PRETO PIRAVAL",
     "estoque": "8",
-    "preco": "178,5"
+    "preco": "162,75"
   },
   {
     "codigo": "37835",
@@ -8173,7 +8173,7 @@
     "marca": "PIRAVAL",
     "nome": "BANCO COMPLETO TITAN 160 16/24 PIRAVAL",
     "estoque": "12",
-    "preco": "192,94"
+    "preco": "187,95"
   },
   {
     "codigo": "21388",
@@ -8197,7 +8197,7 @@
     "marca": "PIRAVAL",
     "nome": "BANCO COMPLETO TITAN KS/ES/FAN 00/08 PRETO PIRAVAL",
     "estoque": "7",
-    "preco": "173,63"
+    "preco": "162,75"
   },
   {
     "codigo": "19558",
@@ -8229,7 +8229,7 @@
     "marca": "PIRAVAL",
     "nome": "BANCO COMPLETO YBR 00/08 PIRAVAL",
     "estoque": "3",
-    "preco": "228,42"
+    "preco": "198,45"
   },
   {
     "codigo": "23734",
@@ -15156,7 +15156,7 @@
     "fabric": "44064K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA PEDALEIRA CG/TITAN DIANT. MOTOKOI ***PAR***",
-    "estoque": "298",
+    "estoque": "297",
     "preco": "6,87"
   },
   {
@@ -15980,7 +15980,7 @@
     "fabric": "1097",
     "marca": "POLIVISOR",
     "nome": "BOTAO SAN MARINO UND POLIVISOR",
-    "estoque": "54",
+    "estoque": "53",
     "preco": "3,14"
   },
   {
@@ -18484,7 +18484,7 @@
     "fabric": "KOI0316",
     "marca": "MOTOKOI",
     "nome": "BUZINA CG/TITAN 12V MOTOKOI",
-    "estoque": "74",
+    "estoque": "73",
     "preco": "7,34"
   },
   {
@@ -30669,7 +30669,7 @@
     "marca": "NGK",
     "nome": "CACHIMBO VELA FALCON 13/15 NGK XD0FMGN",
     "estoque": "1",
-    "preco": "49,55"
+    "preco": "47,25"
   },
   {
     "codigo": "25836",
@@ -32029,7 +32029,7 @@
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
     "estoque": "224",
-    "preco": "16,79"
+    "preco": "14,16"
   },
   {
     "codigo": "6716",
@@ -32156,8 +32156,8 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1028",
-    "preco": "17,33"
+    "estoque": "1027",
+    "preco": "14,69"
   },
   {
     "codigo": "45624",
@@ -32269,7 +32269,7 @@
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
     "estoque": "184",
-    "preco": "16,79"
+    "preco": "14,16"
   },
   {
     "codigo": "8482",
@@ -48700,7 +48700,7 @@
     "fabric": "TM384",
     "marca": "TMAC",
     "nome": "CARBURADOR TITAN 2002/04/FAN 125 TMAC",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "81,89"
   },
   {
@@ -51976,14 +51976,6 @@
     "preco": "50,02"
   },
   {
-    "codigo": "52735",
-    "fabric": "463 0003",
-    "marca": "MELC",
-    "nome": "CARENAGEM FAROL BIZ 125 ES 25/26 BRANCO SPORTIVE",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "52816",
     "fabric": "463 0003",
     "marca": "SPORTIVE",
@@ -51992,26 +51984,10 @@
     "preco": "0"
   },
   {
-    "codigo": "52738",
-    "fabric": "463 0006",
-    "marca": "MELC",
-    "nome": "CARENAGEM FAROL BIZ 125 ES 25/26 PRETO SPORTIVE",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "52818",
     "fabric": "463 0006",
     "marca": "SPORTIVE",
     "nome": "CARENAGEM FAROL BIZ 125 ES 25/26 PRETO SPORTIVE",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
-    "codigo": "52737",
-    "fabric": "463 0005",
-    "marca": "MELC",
-    "nome": "CARENAGEM FAROL BIZ 125 ES 25/26 VERMELHO SPORTIVE",
     "estoque": "0",
     "preco": "0"
   },
@@ -57012,7 +56988,7 @@
     "fabric": "SR-15C",
     "marca": "STALLION",
     "nome": "CARREGADOR CELULAR C. SUPORTE STALLION C/CARREGADOR ALUMINIO FIXO RETROVISOR",
-    "estoque": "72",
+    "estoque": "71",
     "preco": "31,49"
   },
   {
@@ -57764,7 +57740,7 @@
     "fabric": "104",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL CG/TODAY/TITAN C/ BORRACHA PROJETIL",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "20,99"
   },
   {
@@ -64900,7 +64876,7 @@
     "fabric": "173701",
     "marca": "MELC",
     "nome": "COMPLEMENTO TAMPA LATERAL TITAN 150 09/13 MIX/FAN MELC (173701)",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "80,86"
   },
   {
@@ -84284,7 +84260,7 @@
     "fabric": "PL153",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX TECFIL",
-    "estoque": "166",
+    "estoque": "165",
     "preco": "10,49"
   },
   {
@@ -102949,7 +102925,7 @@
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
     "estoque": "215",
-    "preco": "28,51"
+    "preco": "29,16"
   },
   {
     "codigo": "25558",
@@ -105964,7 +105940,7 @@
     "fabric": "",
     "marca": "CASTROL",
     "nome": "LUBRIFICANTES MOTO 4T CASTROL 20W50 ACTEVO ESSENTIAL MINERAL",
-    "estoque": "1784",
+    "estoque": "1782",
     "preco": "29,39"
   },
   {
@@ -106012,7 +105988,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "5632",
+    "estoque": "5629",
     "preco": "36,74"
   },
   {
@@ -106044,7 +106020,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "5724",
+    "estoque": "5721",
     "preco": "31,49"
   },
   {
@@ -106068,7 +106044,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "183",
+    "estoque": "182",
     "preco": "49,34"
   },
   {
@@ -116276,7 +116252,7 @@
     "fabric": "KOI0409",
     "marca": "MOTOKOI",
     "nome": "MOTOR PARTIDA CB 250 MOTOKOI",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "302,39"
   },
   {
@@ -123772,7 +123748,7 @@
     "fabric": "304712",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 160 22/23 CINZA METALICO MELC (304712)",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "58,72"
   },
   {
@@ -127117,7 +127093,7 @@
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO YBR/TWISTER/CB 300/NINJA 250 DIANTEIRO COBREQ N-940",
     "estoque": "27",
-    "preco": "27,75"
+    "preco": "26,25"
   },
   {
     "codigo": "11335",
@@ -131244,7 +131220,7 @@
     "fabric": "HB02.314",
     "marca": "VAZ",
     "nome": "PINHAO BIZ/DREAM 14D VAZ - HB02.314",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "12,08"
   },
   {
@@ -139964,7 +139940,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN DAKAR II TL 47P (SEM CAMARA)",
-    "estoque": "102",
+    "estoque": "101",
     "preco": "239,4"
   },
   {
@@ -139980,7 +139956,7 @@
     "fabric": "18822",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TT 47P",
-    "estoque": "318",
+    "estoque": "317",
     "preco": "220,4"
   },
   {
@@ -140964,7 +140940,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN DAKKAR II TL 57P (SEM CAMARA)",
-    "estoque": "135",
+    "estoque": "133",
     "preco": "267,75"
   },
   {
@@ -155884,7 +155860,7 @@
     "fabric": "KOI0242",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 NOVA PAR MOTOKOI BR",
-    "estoque": "142",
+    "estoque": "141",
     "preco": "22,04"
   },
   {
@@ -168101,7 +168077,7 @@
     "marca": "NGK",
     "nome": "VELA BIZ 110I/POP 110 CPR6EA-9S NGK",
     "estoque": "5",
-    "preco": "37,8"
+    "preco": "36,74"
   },
   {
     "codigo": "9030",
@@ -168517,7 +168493,7 @@
     "marca": "NGK",
     "nome": "VELA TWISTER/TORNADO/CB 500 CR8EHIX-9 NGK IRIDIUM",
     "estoque": "0",
-    "preco": "76,45"
+    "preco": "89,01"
   },
   {
     "codigo": "13199",
