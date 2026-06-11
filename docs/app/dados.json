@@ -5556,8 +5556,8 @@
     "fabric": "10121821",
     "marca": "WGK",
     "nome": "ARVORE COMANDO VALVULA BIZ 125 05/10 WGK",
-    "estoque": "1",
-    "preco": "124,95"
+    "estoque": "5",
+    "preco": "103,95"
   },
   {
     "codigo": "12189",
@@ -5716,7 +5716,7 @@
     "fabric": "1011421",
     "marca": "WGK",
     "nome": "ARVORE COMANDO VALVULA CBX 150/CBX 200 WGK BRAVO",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "196,86"
   },
   {
@@ -5940,7 +5940,7 @@
     "fabric": "1013371",
     "marca": "WGK",
     "nome": "ARVORE COMANDO VALVULA TITAN 150 04/08 WGK BRAVO",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "199,49"
   },
   {
@@ -5980,7 +5980,7 @@
     "fabric": "10121851",
     "marca": "WGK",
     "nome": "ARVORE COMANDO VALVULA TITAN 150/FAN 125 09 ED/BROS 150 06 ED WGK",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "78,23"
   },
   {
@@ -6012,7 +6012,7 @@
     "fabric": "10121861",
     "marca": "WGK",
     "nome": "ARVORE COMANDO VALVULA TITAN 160/FAN 160/BROS 160/ XRE 190 WGK",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "93,45"
   },
   {
@@ -6036,7 +6036,7 @@
     "fabric": "10115751",
     "marca": "WGK",
     "nome": "ARVORE COMANDO VALVULA TITAN 92/99 WGK",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "94,49"
   },
   {
@@ -6068,7 +6068,7 @@
     "fabric": "10115761",
     "marca": "WGK",
     "nome": "ARVORE COMANDO VALVULA TITAN/FAN 2000/08 WGK",
-    "estoque": "0",
+    "estoque": "6",
     "preco": "152,25"
   },
   {
@@ -6212,7 +6212,7 @@
     "fabric": "10121871",
     "marca": "WGK",
     "nome": "ARVORE COMANDO VALVULA YBR 125/XTZ 125 06/16 WGK",
-    "estoque": "5",
+    "estoque": "7",
     "preco": "68,25"
   },
   {
@@ -7636,7 +7636,7 @@
     "fabric": "10112431",
     "marca": "WGK",
     "nome": "BALANCIN ADM/ESC BIZ 125 WGK (ADM/ESC) JG",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "32,54"
   },
   {
@@ -7660,7 +7660,7 @@
     "fabric": "10111901",
     "marca": "WGK",
     "nome": "BALANCIN ADM/ESC BIZ/DREAM WGK (JG)",
-    "estoque": "4",
+    "estoque": "6",
     "preco": "32,54"
   },
   {
@@ -7764,7 +7764,7 @@
     "fabric": "1013061",
     "marca": "WGK",
     "nome": "BALANCIN ADM/ESC ML/XLS/CBX/XR WGK PAR",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "43,68"
   },
   {
@@ -7844,7 +7844,7 @@
     "fabric": "1013251",
     "marca": "WGK",
     "nome": "BALANCIN ADM/ESC TITAN 150/NXR 06/08 WGK PAR",
-    "estoque": "3",
+    "estoque": "13",
     "preco": "82,95"
   },
   {
@@ -7852,7 +7852,7 @@
     "fabric": "10111781",
     "marca": "WGK",
     "nome": "BALANCIN ADM/ESC TITAN 160/FAN 160/NXR 160 WGK (PAR)",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "103,95"
   },
   {
@@ -8276,7 +8276,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "664",
+    "estoque": "663",
     "preco": "124,07"
   },
   {
@@ -9196,7 +9196,7 @@
     "fabric": "1100399",
     "marca": "TXK",
     "nome": "BIELA BIZ 125 TXK",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "183,75"
   },
   {
@@ -9212,7 +9212,7 @@
     "fabric": "10121521",
     "marca": "WGK",
     "nome": "BIELA BIZ 125 WGK",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "55,28"
   },
   {
@@ -9804,7 +9804,7 @@
     "fabric": "10121351",
     "marca": "WGK",
     "nome": "BIELA FAZER 250 WGK",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "162,75"
   },
   {
@@ -10037,7 +10037,7 @@
     "marca": "METAL LEVE",
     "nome": "BIELA TITAN 150/NXR BROS METAL LEVE",
     "estoque": "13",
-    "preco": "122,85"
+    "preco": "141,75"
   },
   {
     "codigo": "36295",
@@ -10076,7 +10076,7 @@
     "fabric": "10121581",
     "marca": "WGK",
     "nome": "BIELA TITAN 150/NXR BROS WGK",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "76,11"
   },
   {
@@ -10156,7 +10156,7 @@
     "fabric": "10121621",
     "marca": "WGK",
     "nome": "BIELA TITAN 160/BROS 160/XRE 190 WGK",
-    "estoque": "1",
+    "estoque": "6",
     "preco": "81,38"
   },
   {
@@ -11020,7 +11020,7 @@
     "fabric": "04004",
     "marca": "PLASMOTO",
     "nome": "BLOCO OPTICO TITAN 00-04/FAN125 05-13 PLASMOTO",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "23,1"
   },
   {
@@ -15116,7 +15116,7 @@
     "fabric": "44278K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA PEDALEIRA BIZ 125 2011/BIZ 100 13 MOTOKOI ***PAR***",
-    "estoque": "121",
+    "estoque": "120",
     "preco": "7,88"
   },
   {
@@ -16220,7 +16220,7 @@
     "fabric": "1100406",
     "marca": "GP7/GP",
     "nome": "BRACO FREIO DIANT TITAN 150 04/13 GP7",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "7,34"
   },
   {
@@ -16428,7 +16428,7 @@
     "fabric": "1012441",
     "marca": "WGK",
     "nome": "BRACO OSCILANTE CG 125 ATE 08 WGK PAR",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "40,94"
   },
   {
@@ -18292,7 +18292,7 @@
     "fabric": "10110261",
     "marca": "WGK",
     "nome": "BUJAO OLEO 150 WGK C/ANEL",
-    "estoque": "141",
+    "estoque": "140",
     "preco": "4,36"
   },
   {
@@ -18372,8 +18372,8 @@
     "fabric": "10124571",
     "marca": "WGK",
     "nome": "BUJAO OLEO CG 125 COMPLETO WGK",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "20",
+    "preco": "5,24"
   },
   {
     "codigo": "42915",
@@ -18988,7 +18988,7 @@
     "fabric": "TM5033",
     "marca": "TMAC",
     "nome": "CABO ACELERADOR BIZ 100 TMAC",
-    "estoque": "3",
+    "estoque": "0",
     "preco": "8,22"
   },
   {
@@ -19428,7 +19428,7 @@
     "fabric": "KOI0026",
     "marca": "MOTOKOI",
     "nome": "CABO ACELERADOR BROS 160 15/22 EDD/ESD/ES \"A\" MOTOKOI",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "8,06"
   },
   {
@@ -22068,7 +22068,7 @@
     "fabric": "TM5066",
     "marca": "TMAC",
     "nome": "CABO ACELERADOR TITAN 160/FAN 160 \"A\" TMAC",
-    "estoque": "32",
+    "estoque": "31",
     "preco": "9,44"
   },
   {
@@ -22084,7 +22084,7 @@
     "fabric": "TM5067",
     "marca": "TMAC",
     "nome": "CABO ACELERADOR TITAN 160/FAN 160 \"B\" TMAC",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "9,44"
   },
   {
@@ -29972,7 +29972,7 @@
     "fabric": "KOI0055",
     "marca": "MOTOKOI",
     "nome": "CABO VELOCIMETRO TITAN 2000 ES MOTOKOI",
-    "estoque": "44",
+    "estoque": "43",
     "preco": "8,16"
   },
   {
@@ -31196,7 +31196,7 @@
     "fabric": "1014411",
     "marca": "WGK",
     "nome": "CAIXA DIRECAO COLAR BIZ 100/BIZ 125/DREAM/WEB 100 WGK",
-    "estoque": "4",
+    "estoque": "24",
     "preco": "26,24"
   },
   {
@@ -31260,7 +31260,7 @@
     "fabric": "1014381",
     "marca": "WGK",
     "nome": "CAIXA DIRECAO COLAR CG/TITAN WGK",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "20,99"
   },
   {
@@ -31364,7 +31364,7 @@
     "fabric": "1014401",
     "marca": "WGK",
     "nome": "CAIXA DIRECAO COLAR NX 200/XR 200/BROS 125/150/160/FALCON/TORNADO WGK",
-    "estoque": "1",
+    "estoque": "11",
     "preco": "26,24"
   },
   {
@@ -31436,7 +31436,7 @@
     "fabric": "1014531",
     "marca": "WGK",
     "nome": "CAIXA DIRECAO COLAR TITAN 00/TITAN 150/TITAN 160 WGK",
-    "estoque": "4",
+    "estoque": "54",
     "preco": "26,24"
   },
   {
@@ -32068,7 +32068,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "186",
+    "estoque": "184",
     "preco": "14,16"
   },
   {
@@ -32196,7 +32196,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "757",
+    "estoque": "754",
     "preco": "14,69"
   },
   {
@@ -32420,7 +32420,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "193",
+    "estoque": "191",
     "preco": "20,99"
   },
   {
@@ -38164,7 +38164,7 @@
     "fabric": "1217056PTO",
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW PRETO 56",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "120,75"
   },
   {
@@ -52988,7 +52988,7 @@
     "fabric": "224800",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL FAN 125/FAN 150 / TITAN 150 14/15 PRETO MELC (224800)",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "40,95"
   },
   {
@@ -55900,7 +55900,7 @@
     "fabric": "353600",
     "marca": "MELC",
     "nome": "CARENAGEM FRONTAL BIZ 125 11/12/16 VERMELHO MELC (353600)",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "152,25"
   },
   {
@@ -57612,7 +57612,7 @@
     "fabric": "101000102",
     "marca": "POLIMET",
     "nome": "CAVALETE LATERAL BIZ 100 / DREAM / POP POLIMET",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "22,05"
   },
   {
@@ -62452,7 +62452,7 @@
     "fabric": "TM1304",
     "marca": "TMAC",
     "nome": "CILINDRO BENGALA INTERNO CG/TO/TITAN TMAC",
-    "estoque": "3",
+    "estoque": "1",
     "preco": "64,88"
   },
   {
@@ -66780,7 +66780,7 @@
     "fabric": "10116941",
     "marca": "WGK",
     "nome": "CORRENTE COMANDO BIZ 100 98/15/DREAM 100 93/98/POP 100 07/15/CRYPTON 98/04 WGK",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "17,63"
   },
   {
@@ -66868,7 +66868,7 @@
     "fabric": "10117021",
     "marca": "WGK",
     "nome": "CORRENTE COMANDO CB 250 102L WGK",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "47,25"
   },
   {
@@ -67068,7 +67068,7 @@
     "fabric": "10116971",
     "marca": "WGK",
     "nome": "CORRENTE COMANDO TITAN 150 04-15/FAN 125/150 09-18 94 L WGK",
-    "estoque": "1",
+    "estoque": "41",
     "preco": "29,16"
   },
   {
@@ -67100,8 +67100,8 @@
     "fabric": "10116991",
     "marca": "WGK",
     "nome": "CORRENTE COMANDO TITAN 160/BROS 160/XRE 190 WGK",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "30,44"
   },
   {
     "codigo": "17793",
@@ -67460,7 +67460,7 @@
     "fabric": "002-KOI-01500",
     "marca": "MOTOKOI",
     "nome": "CORRENTE TRANSMISSAO 428H X 132L MOTOKOI NXR 125 BROSS/FAZER",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "45,14"
   },
   {
@@ -70156,7 +70156,7 @@
     "fabric": "1018601",
     "marca": "WGK",
     "nome": "DISCO EMBREAGEM BIZ 125 WGK",
-    "estoque": "10",
+    "estoque": "25",
     "preco": "25,73"
   },
   {
@@ -70468,7 +70468,7 @@
     "fabric": "1018661",
     "marca": "WGK",
     "nome": "DISCO EMBREAGEM FAZER/LANDER WGK",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "60,64"
   },
   {
@@ -70644,7 +70644,7 @@
     "fabric": "1018621",
     "marca": "WGK",
     "nome": "DISCO EMBREAGEM TITAN 150 WGK",
-    "estoque": "68",
+    "estoque": "167",
     "preco": "24,68"
   },
   {
@@ -70740,7 +70740,7 @@
     "fabric": "1018651",
     "marca": "WGK",
     "nome": "DISCO EMBREAGEM TWISTER/TORNADO 250 WGK",
-    "estoque": "4",
+    "estoque": "14",
     "preco": "57,95"
   },
   {
@@ -70796,7 +70796,7 @@
     "fabric": "1018631",
     "marca": "WGK",
     "nome": "DISCO EMBREAGEM YBR 125/XTZ 125 WGK",
-    "estoque": "39",
+    "estoque": "49",
     "preco": "26,01"
   },
   {
@@ -70836,7 +70836,7 @@
     "fabric": "1018641",
     "marca": "WGK",
     "nome": "DISCO EMBREAGEM YES 125/INTRUDER WGK",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "28,3"
   },
   {
@@ -71860,7 +71860,7 @@
     "fabric": "1016571",
     "marca": "WGK",
     "nome": "DISCO SEPARADOR EMBREAGEM CG/TOD/TIT WGK JG 4 PECAS",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "17,61"
   },
   {
@@ -71900,7 +71900,7 @@
     "fabric": "1016561",
     "marca": "WGK",
     "nome": "DISCO SEPARADOR EMBREAGEM TITAN 150 WGK JG 4 PCS",
-    "estoque": "7",
+    "estoque": "12",
     "preco": "18,66"
   },
   {
@@ -71908,8 +71908,8 @@
     "fabric": "1016611",
     "marca": "WGK",
     "nome": "DISCO SEPARADOR EMBREAGEM TWISTER WGK JG 5 PCS",
-    "estoque": "1",
-    "preco": "49,15"
+    "estoque": "3",
+    "preco": "41,99"
   },
   {
     "codigo": "15316",
@@ -72292,7 +72292,7 @@
     "fabric": "10123411",
     "marca": "WGK",
     "nome": "EIXO CAMBIO CG 125 00/08 WGK",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "26,01"
   },
   {
@@ -72300,7 +72300,7 @@
     "fabric": "10123401",
     "marca": "WGK",
     "nome": "EIXO CAMBIO CG 125 92/99 WGK",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "24,96"
   },
   {
@@ -72572,7 +72572,7 @@
     "fabric": "10123501",
     "marca": "WGK",
     "nome": "EIXO CAMBIO YBR/FACTOR/XTZ 125 WGK",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "50,16"
   },
   {
@@ -73996,7 +73996,7 @@
     "fabric": "10115981",
     "marca": "WGK",
     "nome": "EIXO SECUNDARIO BIZ 125 WGK",
-    "estoque": "9",
+    "estoque": "14",
     "preco": "25,73"
   },
   {
@@ -74140,7 +74140,7 @@
     "fabric": "10115891",
     "marca": "WGK",
     "nome": "EIXO SECUNDARIO CBX 200/XR 200/NX 200 WGK",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "59,48"
   },
   {
@@ -74180,7 +74180,7 @@
     "fabric": "10115831",
     "marca": "WGK",
     "nome": "EIXO SECUNDARIO CG 125 TITAN APOS 91 WGK",
-    "estoque": "5",
+    "estoque": "25",
     "preco": "32,43"
   },
   {
@@ -74380,7 +74380,7 @@
     "fabric": "10115881",
     "marca": "WGK",
     "nome": "EIXO SECUNDARIO TITAN 150 ES/ESD WGK",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "49,15"
   },
   {
@@ -74484,7 +74484,7 @@
     "fabric": "10113111",
     "marca": "WGK",
     "nome": "EIXO SECUNDARIO TWISTER/TORNADO WGK",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "66,68"
   },
   {
@@ -74500,7 +74500,7 @@
     "fabric": "10115811",
     "marca": "WGK",
     "nome": "EIXO SECUNDARIO YBR 07 E/D WGK",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "52"
   },
   {
@@ -74724,7 +74724,7 @@
     "fabric": "136",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 4,00 M UNIVERSAL C/ GANCHO PLASTICO MS EXTENSOR",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "7,88"
   },
   {
@@ -74972,7 +74972,7 @@
     "fabric": "10116071",
     "marca": "WGK",
     "nome": "EMBREAGEM KIT COMPLETO CG/TIT95-99/TIT00-04 WGK",
-    "estoque": "2",
+    "estoque": "22",
     "preco": "93,85"
   },
   {
@@ -75164,7 +75164,7 @@
     "fabric": "10116061",
     "marca": "WGK",
     "nome": "EMBREAGEM KIT COMPLETO TIT150 05-14/FAN150/FAN09/BROS 06 WGK",
-    "estoque": "20",
+    "estoque": "100",
     "preco": "97,31"
   },
   {
@@ -75212,7 +75212,7 @@
     "fabric": "10116921",
     "marca": "WGK",
     "nome": "EMBREAGEM KIT COMPLETO TITAN 160/XRE 190 WGK",
-    "estoque": "9",
+    "estoque": "39",
     "preco": "99,75"
   },
   {
@@ -76292,7 +76292,7 @@
     "fabric": "10113411",
     "marca": "WGK",
     "nome": "ENGRENAGEM PARTIDA CB 300/XRE 300 WGK",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "169,32"
   },
   {
@@ -80084,7 +80084,7 @@
     "fabric": "TM0976",
     "marca": "TMAC",
     "nome": "ESTICADOR CORRENTE TITAN 150 TMAC",
-    "estoque": "355",
+    "estoque": "354",
     "preco": "2,09"
   },
   {
@@ -80460,7 +80460,7 @@
     "fabric": "100500402",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO BIZ/POP 100 POLIMET MACICO",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "49,34"
   },
   {
@@ -83060,7 +83060,7 @@
     "fabric": "ARM446/1",
     "marca": "TECFIL",
     "nome": "FILTRO AR TIT 125-150 09-13/BIZ 110I/POP 110/NXR125-150-160/XRE190 TECFIL",
-    "estoque": "164",
+    "estoque": "163",
     "preco": "7,34"
   },
   {
@@ -87468,7 +87468,7 @@
     "fabric": "10123841",
     "marca": "WGK",
     "nome": "GUIA CORRENTE COMANDO BIZ 125 WGK",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "10,49"
   },
   {
@@ -87548,7 +87548,7 @@
     "fabric": "10124031",
     "marca": "WGK",
     "nome": "GUIA CORRENTE COMANDO FALCON WGK",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "18,66"
   },
   {
@@ -87652,7 +87652,7 @@
     "fabric": "10123871",
     "marca": "WGK",
     "nome": "GUIA CORRENTE COMANDO TITAN 150/BROS 150 WGK",
-    "estoque": "0",
+    "estoque": "30",
     "preco": "9,21"
   },
   {
@@ -87748,7 +87748,7 @@
     "fabric": "10123921",
     "marca": "WGK",
     "nome": "GUIA CORRENTE COMANDO TWISTER/TORNADO WGK",
-    "estoque": "0",
+    "estoque": "10",
     "preco": "14,69"
   },
   {
@@ -96652,7 +96652,7 @@
     "fabric": "TC030",
     "marca": "TMAC",
     "nome": "JOGO RAIO TRAS TITAN 99 TMAC 4MM",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "31,49"
   },
   {
@@ -96932,7 +96932,7 @@
     "fabric": "TP2004",
     "marca": "TMAC",
     "nome": "JUNCAO BICO INJETOR TITAN 150 09/11/BROS 09/11 TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "14,75"
   },
   {
@@ -97908,7 +97908,7 @@
     "fabric": "VS05003010301",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 150/BROS 150 06/07 VEDAMOTORS",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "9,44"
   },
   {
@@ -98140,7 +98140,7 @@
     "fabric": "VS05004015400",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TITAN 150/BROS 150 VEDAMOTORS",
-    "estoque": "150",
+    "estoque": "149",
     "preco": "5,78"
   },
   {
@@ -98228,7 +98228,7 @@
     "fabric": "VS05034000034",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA PARTIDA CB 300/XRE 300 VEDAMOTORS",
-    "estoque": "11",
+    "estoque": "6",
     "preco": "2,63"
   },
   {
@@ -98676,7 +98676,7 @@
     "fabric": "VS0561010001K",
     "marca": "VEDAMOTORS",
     "nome": "KIT A TITAN 150 VEDAMOTORS",
-    "estoque": "144",
+    "estoque": "143",
     "preco": "16,83"
   },
   {
@@ -99117,7 +99117,7 @@
     "marca": "METAL LEVE",
     "nome": "KIT CILINDRO BIZ 125 METAL LEVE",
     "estoque": "3",
-    "preco": "367,5"
+    "preco": "393,75"
   },
   {
     "codigo": "49119",
@@ -100924,7 +100924,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "105",
+    "estoque": "104",
     "preco": "57,74"
   },
   {
@@ -102220,7 +102220,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "221",
+    "estoque": "220",
     "preco": "57,74"
   },
   {
@@ -102276,7 +102276,7 @@
     "fabric": "H01190XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 2000 VAZ (44/14/428HX116) H01190XS",
-    "estoque": "79",
+    "estoque": "78",
     "preco": "57,74"
   },
   {
@@ -102692,7 +102692,7 @@
     "fabric": "Y04260XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO YBR 125 03/08/FACTOR 125 03/16 VAZ (45/14/428HX118L) Y04260XS",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "62,99"
   },
   {
@@ -102828,7 +102828,7 @@
     "fabric": "VE05084000001",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA TITAN 150 VEDAMOTORS - GUARNICAO + 2 RETENTORES",
-    "estoque": "44",
+    "estoque": "42",
     "preco": "11,03"
   },
   {
@@ -103228,7 +103228,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "259",
+    "estoque": "258",
     "preco": "18,38"
   },
   {
@@ -103540,7 +103540,7 @@
     "fabric": "TL003-1",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA CG 125 12X10W TMAC LARANJA",
-    "estoque": "2326",
+    "estoque": "2321",
     "preco": "1,07"
   },
   {
@@ -103572,7 +103572,7 @@
     "fabric": "TL006-1",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA TITAN 00 KS / ES  SUPER PINGAO  W16 TMAC (LARANJA)",
-    "estoque": "147",
+    "estoque": "137",
     "preco": "1,09"
   },
   {
@@ -106116,7 +106116,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "5203",
+    "estoque": "5200",
     "preco": "36,74"
   },
   {
@@ -106148,7 +106148,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "5151",
+    "estoque": "9947",
     "preco": "27,29"
   },
   {
@@ -106268,7 +106268,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "2314",
+    "estoque": "2307",
     "preco": "18,89"
   },
   {
@@ -109020,7 +109020,7 @@
     "fabric": "24",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM STRADA/TWISTER/CB300 PROTEC",
-    "estoque": "53",
+    "estoque": "52",
     "preco": "7,11"
   },
   {
@@ -109116,7 +109116,7 @@
     "fabric": "P-1030",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM YBR 125 PROTEC",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "6,6"
   },
   {
@@ -109588,7 +109588,7 @@
     "fabric": "P-1032",
     "marca": "PROTEC",
     "nome": "MANETE FREIO BIZ 100 PROTEC",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "6,83"
   },
   {
@@ -111124,7 +111124,7 @@
     "fabric": "MA037-001",
     "marca": "CIRCUIT",
     "nome": "MANOPLA CIRCUIT INTERLAGOS PT PLUS",
-    "estoque": "45",
+    "estoque": "44",
     "preco": "23,09"
   },
   {
@@ -113692,7 +113692,7 @@
     "fabric": "1012501",
     "marca": "WGK",
     "nome": "MESA SUPERIOR GUIDAO CG125 83/99 WGK",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "43,47"
   },
   {
@@ -120036,7 +120036,7 @@
     "fabric": "10120891",
     "marca": "WGK",
     "nome": "PARAFUSO REGULAGEM VALVULAS CG/TOD/TIT/TIT 00/TIT 150/CBX 200/XT 600E WGK",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "6,29"
   },
   {
@@ -124260,7 +124260,7 @@
     "fabric": "302101",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TWISTER 03/06/07/08  PRETO F. MAIOR MELC (302101)",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "91,97"
   },
   {
@@ -125358,6 +125358,14 @@
     "nome": "PASTILHA FREIO BANDIT 650(2005) GSX-R 600-750-1000- (2001-2005) TRAS COBREQ N-977",
     "estoque": "3",
     "preco": "133,35"
+  },
+  {
+    "codigo": "54157",
+    "fabric": "FA691",
+    "marca": "TMAC",
+    "nome": "PASTILHA FREIO BIZ 125/ELITE 125 DIANT TMAC",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "36703",
@@ -126584,6 +126592,14 @@
     "preco": "0"
   },
   {
+    "codigo": "54156",
+    "fabric": "FA039",
+    "marca": "TMAC",
+    "nome": "PASTILHA FREIO SH150I 17/SH 300I TRAS TMAC",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "6760",
     "fabric": "N947",
     "marca": "COBREQ",
@@ -126782,6 +126798,14 @@
     "nome": "PASTILHA FREIO TITAN 160 25 TRAS COBREQ",
     "estoque": "12",
     "preco": "36,74"
+  },
+  {
+    "codigo": "54155",
+    "fabric": "FA161",
+    "marca": "TMAC",
+    "nome": "PASTILHA FREIO TITAN 160 ABS TMAC",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "53507",
@@ -130164,7 +130188,7 @@
     "fabric": "LBJ235",
     "marca": "TMAC",
     "nome": "PEDAL PARTIDA CG/TO/TITAN 99 LBJ",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "24,93"
   },
   {
@@ -132324,7 +132348,7 @@
     "fabric": "23002",
     "marca": "PLASMOTO",
     "nome": "PISCA BIZ 125 11/12 DIANT/ESQ PLASMOTO",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "82,06"
   },
   {
@@ -134268,7 +134292,7 @@
     "fabric": "1657",
     "marca": "GVS",
     "nome": "PISCA TITAN 2000/XRE 300/CB 300R D/D T/E COMPLETO C/ COXIM LARANJA GVS S/LAMPADA COMBATE",
-    "estoque": "420",
+    "estoque": "418",
     "preco": "13,13"
   },
   {
@@ -134292,7 +134316,7 @@
     "fabric": "1658",
     "marca": "GVS",
     "nome": "PISCA TITAN 2000/XRE 300/CB 300R DE/TD COMPLETO C/ COXIM LARANJA GVS S/LAMPADA COMBATE",
-    "estoque": "427",
+    "estoque": "424",
     "preco": "12,59"
   },
   {
@@ -137877,7 +137901,7 @@
     "marca": "METAL LEVE",
     "nome": "PISTAO TODAY 125 92/94/TITAN 125 95/01 0,75 METAL LEVE",
     "estoque": "1",
-    "preco": "84,66"
+    "preco": "114,45"
   },
   {
     "codigo": "28497",
@@ -138796,7 +138820,7 @@
     "fabric": "10125051",
     "marca": "WGK",
     "nome": "PLACA PARTIDA CB 300R/ XRE 300 WGK 4° GERACAO",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "236,28"
   },
   {
@@ -139012,7 +139036,7 @@
     "fabric": "10125031",
     "marca": "WGK",
     "nome": "PLACA PARTIDA STRADA/TITAN 150/BIZ 125/CG 160/CBX 250/XR 250/CRF 230 4ª GERACAO WGK",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "199,14"
   },
   {
@@ -139140,7 +139164,7 @@
     "fabric": "10125111",
     "marca": "WGK",
     "nome": "PLACA PARTIDA YBR 06 ATE 16 E/D 4ª GERACAO WGK",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "135,45"
   },
   {
@@ -140980,7 +141004,7 @@
     "fabric": "3101",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC TIGER BIZ TT 49L",
-    "estoque": "117",
+    "estoque": "116",
     "preco": "110,24"
   },
   {
@@ -141084,7 +141108,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "559",
+    "estoque": "558",
     "preco": "136,49"
   },
   {
@@ -142740,7 +142764,7 @@
     "fabric": "51203K",
     "marca": "MOTOKOI BR",
     "nome": "PRISIONEIRO COROA YBR MOTOKOI (KIT C/PORCAS E TRAVAS)",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "11,03"
   },
   {
@@ -147212,7 +147236,7 @@
     "fabric": "332703",
     "marca": "MELC",
     "nome": "RABETA TITAN 150 04/08 PRETO MELC (332703)",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "68,24"
   },
   {
@@ -148372,7 +148396,7 @@
     "fabric": "1100",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA AZUL 35 X 35 MS EXTENSOR",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "10,49"
   },
   {
@@ -151884,7 +151908,7 @@
     "fabric": "1010871",
     "marca": "WGK",
     "nome": "RESSALTO COMANDO CG 125 TITAN 2000 WGK BRAVO",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "73,49"
   },
   {
@@ -155340,7 +155364,7 @@
     "fabric": "4774",
     "marca": "GVS",
     "nome": "RETROVISOR MINI BIZ125/POP GVS (PAR)",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "20,99"
   },
   {
@@ -156860,7 +156884,7 @@
     "fabric": "KOI0401",
     "marca": "MOTOKOI",
     "nome": "ROLAMENTO 6301-RS CROMO RODA DIANT. CG MOTOKOI",
-    "estoque": "101",
+    "estoque": "99",
     "preco": "4,19"
   },
   {
@@ -157044,7 +157068,7 @@
     "fabric": "22XA4J1",
     "marca": "NACHI",
     "nome": "ROLAMENTO VIRABREQUIM BIZ 125 63/22X C18 LE NACHI",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "57,15"
   },
   {
@@ -157068,7 +157092,7 @@
     "fabric": "22XA4J1CS37",
     "marca": "NACHI",
     "nome": "ROLAMENTO VIRABREQUIM BIZ 125 63/22X C37 LD NACHI",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "57,15"
   },
   {
@@ -157140,7 +157164,7 @@
     "fabric": "10123031",
     "marca": "WGK",
     "nome": "ROLAMENTO VIRABREQUIM CB 250/ CB 300/XRE 300 WGK",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "71,16"
   },
   {
@@ -157468,7 +157492,7 @@
     "fabric": "191600",
     "marca": "MELC",
     "nome": "ROLDANA ACELERADOR BIZ MELC",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "2,63"
   },
   {
@@ -159500,7 +159524,7 @@
     "fabric": "TC1203",
     "marca": "TMAC",
     "nome": "SOQUETE FAROL BIZ 125 05/08 TMAC (TERMINAL MACHO)",
-    "estoque": "115",
+    "estoque": "114",
     "preco": "6,48"
   },
   {
@@ -163620,7 +163644,7 @@
     "fabric": "322709",
     "marca": "MELC",
     "nome": "TAMPA LATERAL TITAN 150 04/08 PRETO MELC (322709)",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "52,49"
   },
   {
@@ -164796,8 +164820,8 @@
     "fabric": "10124561",
     "marca": "WGK",
     "nome": "TAMPA VALVULA BIZ 100 WGK",
-    "estoque": "0",
-    "preco": "5,45"
+    "estoque": "10",
+    "preco": "5,24"
   },
   {
     "codigo": "23458",
@@ -165012,7 +165036,7 @@
     "fabric": "1010341",
     "marca": "WGK",
     "nome": "TENSION /ACION. CORRENTE CBX/NX/XR 200/CBX-XR250 WGK",
-    "estoque": "4",
+    "estoque": "9",
     "preco": "73,74"
   },
   {
@@ -165060,7 +165084,7 @@
     "fabric": "1017181",
     "marca": "WGK",
     "nome": "TENSION /ACION. CORRENTE FAZER / LANDER 250 WGK (CATRACA)",
-    "estoque": "2",
+    "estoque": "7",
     "preco": "76,13"
   },
   {
@@ -165132,7 +165156,7 @@
     "fabric": "1011001",
     "marca": "WGK",
     "nome": "TENSION /ACION. CORRENTE TITAN 150/BIZ 125/TITAN 160/BROS 160/CB 250/CB 300/XRE 300/CRF 230 WGK",
-    "estoque": "14",
+    "estoque": "64",
     "preco": "65,63"
   },
   {
@@ -165180,7 +165204,7 @@
     "fabric": "1011141",
     "marca": "WGK",
     "nome": "TENSION /ACION. CORRENTE YBR 125 WGK",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "68,23"
   },
   {
@@ -165212,7 +165236,7 @@
     "fabric": "10122441",
     "marca": "WGK",
     "nome": "TENSION /ACION. CORRENTE YES 125 WGK",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "29,16"
   },
   {
@@ -165228,7 +165252,7 @@
     "fabric": "10125431",
     "marca": "WGK",
     "nome": "TENSOR + GUIA CORRENTE COMANDO TITAN 150 / BROS 150 WGK (KIT)",
-    "estoque": "3",
+    "estoque": "13",
     "preco": "20,99"
   },
   {
@@ -165236,7 +165260,7 @@
     "fabric": "10125441",
     "marca": "WGK",
     "nome": "TENSOR + GUIA CORRENTE COMANDO TITAN 160 / BROS 160 WGK (KIT)",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "20,99"
   },
   {
@@ -165392,6 +165416,14 @@
     "preco": "11,73"
   },
   {
+    "codigo": "54149",
+    "fabric": "10124131",
+    "marca": "WGK",
+    "nome": "TENSOR CORRENTE COMANDO TITAN 150 WGK",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "34939",
     "fabric": "14510-KRE-G00",
     "marca": "HONDA",
@@ -165459,7 +165491,7 @@
     "codigo": "14111",
     "fabric": "1211761",
     "marca": "GP7/GP",
-    "nome": "TENSOR CORRENTE COMANDO YBR 00/05 GP",
+    "nome": "TENSOR CORRENTE COMANDO YBR 125 00/05 GP",
     "estoque": "0",
     "preco": "13,32"
   },
@@ -165467,9 +165499,25 @@
     "codigo": "41731",
     "fabric": "TC4513",
     "marca": "TMAC",
-    "nome": "TENSOR CORRENTE COMANDO YBR 00/05 TMAC",
+    "nome": "TENSOR CORRENTE COMANDO YBR 125 00/05 TMAC",
     "estoque": "3",
     "preco": "12,37"
+  },
+  {
+    "codigo": "54151",
+    "fabric": "10124161",
+    "marca": "WGK",
+    "nome": "TENSOR CORRENTE COMANDO YBR 125 00/05 WGK",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "54152",
+    "fabric": "10124171",
+    "marca": "WGK",
+    "nome": "TENSOR CORRENTE COMANDO YBR 125 06/16 WGK",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "42147",
@@ -165478,6 +165526,14 @@
     "nome": "TENSOR CORRENTE COMANDO YBR 125/XTZ 125 TMAC",
     "estoque": "1",
     "preco": "10,91"
+  },
+  {
+    "codigo": "54153",
+    "fabric": "10124221",
+    "marca": "WGK",
+    "nome": "TENSOR CORRENTE COMANDO YBR 150 WGK",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "34667",
@@ -165748,7 +165804,7 @@
     "fabric": "TP101",
     "marca": "TMAC",
     "nome": "TORNEIRA GASOLINA TITAN 150 TMAC",
-    "estoque": "51",
+    "estoque": "50",
     "preco": "14,19"
   },
   {
@@ -166692,7 +166748,7 @@
     "fabric": "10111271",
     "marca": "WGK",
     "nome": "VALVULA ADMISSAO FAN 09/ BROS 125 2013 WGK",
-    "estoque": "0",
+    "estoque": "5",
     "preco": "20,3"
   },
   {
@@ -166900,7 +166956,7 @@
     "fabric": "10111351",
     "marca": "WGK",
     "nome": "VALVULA ADMISSAO TITAN 150 WGK",
-    "estoque": "2",
+    "estoque": "12",
     "preco": "20,15"
   },
   {
@@ -166932,7 +166988,7 @@
     "fabric": "10112001",
     "marca": "WGK",
     "nome": "VALVULA ADMISSAO TITAN 160/BROS 160 WGK",
-    "estoque": "0",
+    "estoque": "20",
     "preco": "20,15"
   },
   {
@@ -167404,7 +167460,7 @@
     "fabric": "10111291",
     "marca": "WGK",
     "nome": "VALVULA ESCAPE FAN 09/ BROS 125 2013 WGK",
-    "estoque": "4",
+    "estoque": "9",
     "preco": "25,73"
   },
   {
@@ -167580,7 +167636,7 @@
     "fabric": "10111371",
     "marca": "WGK",
     "nome": "VALVULA ESCAPE TITAN 150 WGK",
-    "estoque": "3",
+    "estoque": "23",
     "preco": "24,34"
   },
   {
@@ -167612,7 +167668,7 @@
     "fabric": "10112021",
     "marca": "WGK",
     "nome": "VALVULA ESCAPE TITAN 160/BROS 160 WGK",
-    "estoque": "1",
+    "estoque": "16",
     "preco": "27,55"
   },
   {
@@ -168204,7 +168260,7 @@
     "fabric": "1010331",
     "marca": "WGK",
     "nome": "VARETA DE VALVULA CG/TITAN 125  WGK",
-    "estoque": "23",
+    "estoque": "73",
     "preco": "7,58"
   },
   {
@@ -168460,7 +168516,7 @@
     "fabric": "DR8EAN",
     "marca": "NGK",
     "nome": "VELA FAZER-LANDER-XTZ 250/XT 225 16 ED BICOMBUSTIVEL DR8EA-N NGK",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "28,34"
   },
   {
