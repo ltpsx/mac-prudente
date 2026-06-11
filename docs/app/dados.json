@@ -3596,7 +3596,7 @@
     "fabric": "TM933",
     "marca": "TMAC",
     "nome": "AMORTECEDOR XTZ 125 MONOCHOQUE TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "318,73"
   },
   {
@@ -8292,7 +8292,7 @@
     "fabric": "MTX5L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ/TITAN 2000 ES/TITAN150 KS 125 MTX5L-BS MOTOKOI",
-    "estoque": "192",
+    "estoque": "191",
     "preco": "112,08"
   },
   {
@@ -8412,7 +8412,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "98",
+    "estoque": "97",
     "preco": "145,92"
   },
   {
@@ -15869,7 +15869,7 @@
     "marca": "ASX",
     "nome": "BOTAO ASX CITY ARRO P-V01",
     "estoque": "0",
-    "preco": "0"
+    "preco": "31,49"
   },
   {
     "codigo": "40759",
@@ -30036,7 +30036,7 @@
     "fabric": "TM7003",
     "marca": "TMAC",
     "nome": "CABO VELOCIMETRO TITAN 2000 KS/BROS 125/150 KS/TORNADO/FALCON/XLR 125/NX 200 TMAC",
-    "estoque": "104",
+    "estoque": "103",
     "preco": "9,44"
   },
   {
@@ -35948,7 +35948,7 @@
     "fabric": "1004001134",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER EG",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "89,24"
   },
   {
@@ -47148,7 +47148,7 @@
     "fabric": "10013433",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 58",
-    "estoque": "119",
+    "estoque": "118",
     "preco": "178,49"
   },
   {
@@ -57036,7 +57036,7 @@
     "fabric": "SR-15C",
     "marca": "STALLION",
     "nome": "CARREGADOR CELULAR C. SUPORTE STALLION C/CARREGADOR ALUMINIO FIXO RETROVISOR",
-    "estoque": "58",
+    "estoque": "57",
     "preco": "31,49"
   },
   {
@@ -59940,7 +59940,7 @@
     "fabric": "KOI0323",
     "marca": "MOTOKOI",
     "nome": "CHAVE CONTATO TITAN 00/01 MOTOKOI",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "12,59"
   },
   {
@@ -63292,7 +63292,7 @@
     "fabric": "KOI0333",
     "marca": "MOTOKOI",
     "nome": "CILINDRO MESTRE FREIO TITAN 2000/TITAN 150/TITAN 160/CBX 200/CBX 250 SUPERIOR MOTOKOI",
-    "estoque": "51",
+    "estoque": "50",
     "preco": "47,24"
   },
   {
@@ -79820,7 +79820,7 @@
     "fabric": "TM721",
     "marca": "TMAC",
     "nome": "ESTATOR YES 125/INTRUDER 125/STX 200 MOTARD TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "110,25"
   },
   {
@@ -83244,7 +83244,7 @@
     "fabric": "S4V0210200089",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO AR TITAN 160/TITAN 150 14/15/FAN 125 14/16 VEDAMOTORS",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "26,78"
   },
   {
@@ -87196,7 +87196,7 @@
     "fabric": "VE99016001085",
     "marca": "VEDAMOTORS",
     "nome": "GUARNICAO TAMPA VALVULA CG/ML/TO/TITAN CDI 99 VEDAMOTORS",
-    "estoque": "289",
+    "estoque": "288",
     "preco": "3,14"
   },
   {
@@ -98204,7 +98204,7 @@
     "fabric": "VS15004008094",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO YES 125 VEDAMOTORS",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "11,07"
   },
   {
@@ -98444,7 +98444,7 @@
     "fabric": "VS05610000004",
     "marca": "VEDAMOTORS",
     "nome": "KIT A CB 300/XRE 300 VEDAMOTORS",
-    "estoque": "28",
+    "estoque": "27",
     "preco": "37,28"
   },
   {
@@ -101428,7 +101428,7 @@
     "fabric": "001-KOI-058H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FACTOR 150 16/17 MOTOKOI (39/14/428HX124L)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "73,49"
   },
   {
@@ -102220,7 +102220,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "220",
+    "estoque": "219",
     "preco": "57,74"
   },
   {
@@ -103228,7 +103228,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "258",
+    "estoque": "257",
     "preco": "18,38"
   },
   {
@@ -105204,7 +105204,7 @@
     "fabric": "70101",
     "marca": "PLASMOTO",
     "nome": "LENTE PAINEL BIZ 125 18 PLASMOTO",
-    "estoque": "41",
+    "estoque": "40",
     "preco": "31,49"
   },
   {
@@ -106076,7 +106076,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "93",
+    "estoque": "91",
     "preco": "34,64"
   },
   {
@@ -106124,7 +106124,7 @@
     "fabric": "123079",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W40 MX",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "36,74"
   },
   {
@@ -106148,7 +106148,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "9947",
+    "estoque": "9946",
     "preco": "27,29"
   },
   {
@@ -106180,7 +106180,7 @@
     "fabric": "104062",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W40",
-    "estoque": "53",
+    "estoque": "50",
     "preco": "49,34"
   },
   {
@@ -106268,7 +106268,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "2307",
+    "estoque": "2305",
     "preco": "18,89"
   },
   {
@@ -106292,7 +106292,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "131",
+    "estoque": "130",
     "preco": "44,63"
   },
   {
@@ -113980,7 +113980,7 @@
     "fabric": "MNP0207",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON PRETA",
-    "estoque": "176",
+    "estoque": "175",
     "preco": "137,76"
   },
   {
@@ -118052,7 +118052,7 @@
     "fabric": "1103247",
     "marca": "CONDOR",
     "nome": "PAINEL TITAN 125 95/99 CONDOR",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "94,26"
   },
   {
@@ -126740,7 +126740,7 @@
     "fabric": "FA375",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO TITAN 150 PARTIR DE 2009 DIANT TMAC",
-    "estoque": "145",
+    "estoque": "144",
     "preco": "10,49"
   },
   {
@@ -130740,7 +130740,7 @@
     "fabric": "5534/4711",
     "marca": "GVS",
     "nome": "PEDALEIRA FAZER DIANT/ESQ POLIDA GVS",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "80,85"
   },
   {
@@ -131060,7 +131060,7 @@
     "fabric": "45011",
     "marca": "MOTOBOR",
     "nome": "PEDALEIRA TWISTER/CB 300 TRAS/DIANT ESQUERDA MOTOBOR",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "17,97"
   },
   {
@@ -141004,7 +141004,7 @@
     "fabric": "3101",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC TIGER BIZ TT 49L",
-    "estoque": "116",
+    "estoque": "115",
     "preco": "110,24"
   },
   {
@@ -141108,7 +141108,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "558",
+    "estoque": "557",
     "preco": "136,49"
   },
   {
@@ -143893,7 +143893,7 @@
     "marca": "ASX",
     "nome": "PROTETOR LATERAL ASX P-V01",
     "estoque": "0",
-    "preco": "0"
+    "preco": "31,49"
   },
   {
     "codigo": "27331",
@@ -149660,7 +149660,7 @@
     "fabric": "TM146",
     "marca": "TMAC",
     "nome": "REGULADOR /RETIFICADOR YES 125 09/14/INTRUDER 125 09/14 TMAC",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "71"
   },
   {
@@ -152044,7 +152044,7 @@
     "fabric": "414N",
     "marca": "CORTECO",
     "nome": "RETENTOR BENGALA CG/TITAN/BIZ 100/BIZ 125 CORTECO",
-    "estoque": "190",
+    "estoque": "188",
     "preco": "8,93"
   },
   {
@@ -152692,7 +152692,7 @@
     "fabric": "M730900461000",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR CAMBIO CG/TITAN/FALCOM/CBX 250/NX 200/NXR 150/CRF 230/NX 250 VEDAMOTORS",
-    "estoque": "20",
+    "estoque": "18",
     "preco": "6,29"
   },
   {
@@ -154548,7 +154548,7 @@
     "fabric": "8222/3222",
     "marca": "GVS",
     "nome": "RETROVISOR BMW GS GVS (PAR HONDA) HASTE FIXA MINI",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "33,6"
   },
   {
@@ -164772,7 +164772,7 @@
     "fabric": "90261060",
     "marca": "MAGNETRON",
     "nome": "TAMPA TANQUE YBR 125 05 ED/XTZ 06/FAZER/LANDER MAGNETRON",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "36,04"
   },
   {
@@ -170325,7 +170325,7 @@
     "marca": "ASX",
     "nome": "VISEIRA KYT TT REVO IRIDIUM RAINBOW ASX",
     "estoque": "2",
-    "preco": "141,75"
+    "preco": "152,25"
   },
   {
     "codigo": "49061",
@@ -170341,7 +170341,7 @@
     "marca": "ASX",
     "nome": "VISEIRA KYT TT REVO IRIDIUM VERMELHA ASX",
     "estoque": "2",
-    "preco": "141,75"
+    "preco": "152,25"
   },
   {
     "codigo": "38962",
