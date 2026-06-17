@@ -4556,7 +4556,7 @@
     "fabric": "ATR010-1",
     "marca": "ATROX",
     "nome": "ANTENA CORTA PIPA GUIDAO 7 ESTAGIOS ATROX CROMADA",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "20,99"
   },
   {
@@ -4612,7 +4612,7 @@
     "fabric": "ATR010-4",
     "marca": "ATROX",
     "nome": "ANTENA CORTA PIPA RETROVISOR 7 ESTAGIOS ATROX CROMADA",
-    "estoque": "7",
+    "estoque": "5",
     "preco": "20,99"
   },
   {
@@ -13008,20 +13008,28 @@
     "preco": "8,93"
   },
   {
+    "codigo": "25455",
+    "fabric": "35779",
+    "marca": "JEC PRO",
+    "nome": "BOBINA PULSO TITAN 150/BROS 150 06- JEC PRO",
+    "estoque": "0",
+    "preco": "30,24"
+  },
+  {
     "codigo": "24311",
     "fabric": "90210970",
     "marca": "MAGNETRON",
-    "nome": "BOBINA PULSO TITAN 150 / BROS 150 /BIZ 125 MAGNETRON",
+    "nome": "BOBINA PULSO TITAN 150/BROS 150/TITAN 160/BIZ 125 MAGNETRON",
     "estoque": "6",
     "preco": "26,88"
   },
   {
-    "codigo": "25455",
-    "fabric": "35779",
-    "marca": "JEC PRO",
-    "nome": "BOBINA PULSO TITAN 150 / BROS 150 06- JEC PRO",
+    "codigo": "54163",
+    "fabric": "PDM0300",
+    "marca": "PANDAO",
+    "nome": "BOBINA PULSO TITAN 150/BROS 150/TITAN 160/BIZ 125 PANDAO",
     "estoque": "0",
-    "preco": "30,24"
+    "preco": "0"
   },
   {
     "codigo": "24344",
@@ -30732,7 +30740,7 @@
     "fabric": "90250720",
     "marca": "MAGNETRON",
     "nome": "CACHIMBO VELA TITAN 150/BROS 150 MAGNETRON",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "10,49"
   },
   {
@@ -36060,7 +36068,7 @@
     "fabric": "KOI0318",
     "marca": "MOTOKOI",
     "nome": "CAPA IMPERMEAVEL BANCO P/ MOTO G MOTOKOI",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "15,74"
   },
   {
@@ -38212,7 +38220,7 @@
     "fabric": "1217060VEM",
     "marca": "EBF",
     "nome": "CAPACETE EBF 7 NEW VERMELHO 60",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "120,75"
   },
   {
@@ -38388,7 +38396,7 @@
     "fabric": "1263056P07",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO BORBOLETA PRETO/ROSA 56",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "141,74"
   },
   {
@@ -38476,7 +38484,7 @@
     "fabric": "1259060PTO",
     "marca": "EBF",
     "nome": "CAPACETE EBF AUTOMATICO SOLID PRETO 60",
-    "estoque": "56",
+    "estoque": "57",
     "preco": "137,45"
   },
   {
@@ -58280,6 +58288,14 @@
     "preco": "0"
   },
   {
+    "codigo": "54164",
+    "fabric": "PDM1308",
+    "marca": "PANDAO",
+    "nome": "CDI BIZ 100 / DREAM PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "47953",
     "fabric": "TM0300",
     "marca": "TMAC",
@@ -58758,6 +58774,14 @@
     "nome": "CDI TODAY/TITAN 92/02 MAGNETRON",
     "estoque": "1",
     "preco": "57,74"
+  },
+  {
+    "codigo": "54165",
+    "fabric": "PDM1337",
+    "marca": "PANDAO",
+    "nome": "CDI TODAY/TITAN PANDAO",
+    "estoque": "0",
+    "preco": "0"
   },
   {
     "codigo": "43508",
@@ -79275,7 +79299,7 @@
     "codigo": "2790",
     "fabric": "90278510",
     "marca": "MAGNETRON",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 MAGNETRON",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 MAGNETRON",
     "estoque": "2",
     "preco": "131,76"
   },
@@ -79283,7 +79307,7 @@
     "codigo": "53197",
     "fabric": "PDM0376",
     "marca": "PANDAO",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 PANDAO",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 PANDAO",
     "estoque": "0",
     "preco": "52,49"
   },
@@ -79291,7 +79315,7 @@
     "codigo": "37554",
     "fabric": "ES0005",
     "marca": "RT",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 RT",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 RT",
     "estoque": "0",
     "preco": "71"
   },
@@ -79299,7 +79323,7 @@
     "codigo": "36943",
     "fabric": "50.173.19",
     "marca": "SERVITEC",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 SERVITEC",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 SERVITEC",
     "estoque": "0",
     "preco": "128,33"
   },
@@ -79307,7 +79331,7 @@
     "codigo": "25552",
     "fabric": "TM705",
     "marca": "TMAC",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 TMAC",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 TMAC",
     "estoque": "1",
     "preco": "82,95"
   },
@@ -79315,9 +79339,57 @@
     "codigo": "45363",
     "fabric": "022-P21T-11600",
     "marca": "TOHON",
-    "nome": "ESTATOR TITAN 03/04/FAN 125 05/08 TOHON",
+    "nome": "ESTATOR TITAN 125 03/04/FAN 125 05/08 TOHON",
     "estoque": "3",
     "preco": "108,14"
+  },
+  {
+    "codigo": "2786",
+    "fabric": "90271590",
+    "marca": "MAGNETRON",
+    "nome": "ESTATOR TITAN 125 92/99 C/BASE MAGNETRON",
+    "estoque": "3",
+    "preco": "152,23"
+  },
+  {
+    "codigo": "0200000535551",
+    "fabric": "KOI0981",
+    "marca": "MOTOKOI",
+    "nome": "ESTATOR TITAN 125 92/99 C/BASE MOTOKOI",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "54166",
+    "fabric": "PDM0357",
+    "marca": "PANDAO",
+    "nome": "ESTATOR TITAN 125 92/99 C/BASE PANDAO",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
+    "codigo": "43712",
+    "fabric": "ES0001",
+    "marca": "RT",
+    "nome": "ESTATOR TITAN 125 92/99 C/BASE RT",
+    "estoque": "0",
+    "preco": "81,39"
+  },
+  {
+    "codigo": "25545",
+    "fabric": "TM701",
+    "marca": "TMAC",
+    "nome": "ESTATOR TITAN 125 92/99 C/BASE TMAC",
+    "estoque": "1",
+    "preco": "83,99"
+  },
+  {
+    "codigo": "25549",
+    "fabric": "TM702",
+    "marca": "TMAC",
+    "nome": "ESTATOR TITAN 125 92/99 S/BASE TMAC",
+    "estoque": "2",
+    "preco": "72,45"
   },
   {
     "codigo": "2787",
@@ -79486,46 +79558,6 @@
     "nome": "ESTATOR TITAN 160 17/18/BROS 18 RT",
     "estoque": "0",
     "preco": "79,73"
-  },
-  {
-    "codigo": "2786",
-    "fabric": "90271590",
-    "marca": "MAGNETRON",
-    "nome": "ESTATOR TITAN 92/99 C/BASE MAGNETRON",
-    "estoque": "3",
-    "preco": "152,23"
-  },
-  {
-    "codigo": "0200000535551",
-    "fabric": "KOI0981",
-    "marca": "MOTOKOI",
-    "nome": "ESTATOR TITAN 92/99 C/BASE MOTOKOI",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
-    "codigo": "43712",
-    "fabric": "ES0001",
-    "marca": "RT",
-    "nome": "ESTATOR TITAN 92/99 C/BASE RT",
-    "estoque": "0",
-    "preco": "81,39"
-  },
-  {
-    "codigo": "25545",
-    "fabric": "TM701",
-    "marca": "TMAC",
-    "nome": "ESTATOR TITAN 92/99 C/BASE TMAC",
-    "estoque": "1",
-    "preco": "83,99"
-  },
-  {
-    "codigo": "25549",
-    "fabric": "TM702",
-    "marca": "TMAC",
-    "nome": "ESTATOR TITAN 92/99 S/BASE TMAC",
-    "estoque": "2",
-    "preco": "72,45"
   },
   {
     "codigo": "25819",
@@ -80804,7 +80836,7 @@
     "fabric": "100502302",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 160/FAN 160 PRETO C/PROTETOR POLIMET TUBULAR",
-    "estoque": "28",
+    "estoque": "27",
     "preco": "40,24"
   },
   {
@@ -84204,7 +84236,7 @@
     "fabric": "PSL637",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO HARLEY DAVIDSON TECFIL",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "41,51"
   },
   {
@@ -96184,6 +96216,14 @@
     "preco": "13,92"
   },
   {
+    "codigo": "54167",
+    "fabric": "PDM1107",
+    "marca": "PANDAO",
+    "nome": "JOGO RAIO DIANT TITAN 99 PANDAO 4MM",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "26348",
     "fabric": "30010",
     "marca": "SOLIDEZ",
@@ -103052,7 +103092,7 @@
     "fabric": "12458H412V",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "41,99"
   },
   {
@@ -103060,7 +103100,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "367",
+    "estoque": "368",
     "preco": "29,16"
   },
   {
@@ -103548,7 +103588,7 @@
     "fabric": "TL003-1",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA CG 125 12X10W TMAC LARANJA",
-    "estoque": "2310",
+    "estoque": "2308",
     "preco": "1,07"
   },
   {
@@ -105796,7 +105836,7 @@
     "fabric": "3398",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 2000/TWISTER/CB 300 FUME GVS",
-    "estoque": "79",
+    "estoque": "75",
     "preco": "5,24"
   },
   {
@@ -106124,7 +106164,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "5016",
+    "estoque": "5015",
     "preco": "36,74"
   },
   {
@@ -106156,7 +106196,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "9617",
+    "estoque": "9616",
     "preco": "27,29"
   },
   {
@@ -106164,7 +106204,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "82",
+    "estoque": "79",
     "preco": "45,14"
   },
   {
@@ -117044,7 +117084,7 @@
     "fabric": "121700",
     "marca": "MELC",
     "nome": "OLHO GATO TITAN 2000/TWISTER/FALCON - VERMELHA MELC **UNITARIO**",
-    "estoque": "44",
+    "estoque": "43",
     "preco": "4,73"
   },
   {
@@ -123044,7 +123084,7 @@
     "fabric": "300613",
     "marca": "MELC",
     "nome": "PARALAMA DIANT STRADA 97/98 ROXO MET MELC (300613)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "90,42"
   },
   {
@@ -123324,7 +123364,7 @@
     "fabric": "302703",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 04/08 PRETO MELC (302703)",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "37,28"
   },
   {
@@ -131660,7 +131700,7 @@
     "fabric": "YB15.215",
     "marca": "VAZ",
     "nome": "PINHAO FAZER/LANDER 250 15D VAZ PASSO 428",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "31,49"
   },
   {
@@ -148380,7 +148420,7 @@
     "fabric": "1100",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA AZUL 35 X 35 MS EXTENSOR",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "10,49"
   },
   {
@@ -155932,7 +155972,7 @@
     "fabric": "KOI0242",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 NOVA PAR MOTOKOI BR",
-    "estoque": "106",
+    "estoque": "105",
     "preco": "22,04"
   },
   {
@@ -155940,7 +155980,7 @@
     "fabric": "KOI0241",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR TITAN 150 PAR MOTOKOI BR",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "19,94"
   },
   {
@@ -164692,7 +164732,7 @@
     "fabric": "90260801",
     "marca": "MAGNETRON",
     "nome": "TAMPA TANQUE TITAN 125/150 / STRADA / TWISTER  INOX MAGNETRON",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "52,16"
   },
   {
