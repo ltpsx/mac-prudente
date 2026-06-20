@@ -5332,7 +5332,7 @@
     "fabric": "22330K",
     "marca": "MOTOKOI BR",
     "nome": "ARRUELA BUJAO OLEO TITAN 150/BIZ/YBR 12MM MOTOKOI",
-    "estoque": "769",
+    "estoque": "768",
     "preco": "0,39"
   },
   {
@@ -11888,14 +11888,6 @@
     "preco": "68,25"
   },
   {
-    "codigo": "28579",
-    "fabric": "36131",
-    "marca": "MHX",
-    "nome": "BOBINA IGNICAO BIZ 100 MHX",
-    "estoque": "0",
-    "preco": "48,55"
-  },
-  {
     "codigo": "25451",
     "fabric": "36116",
     "marca": "JEC PRO",
@@ -12544,14 +12536,6 @@
     "preco": "22,58"
   },
   {
-    "codigo": "25454",
-    "fabric": "35774",
-    "marca": "JEC PRO",
-    "nome": "BOBINA IGNICAO TITAN 03-04/FAN 125 08/TIT 150 04-08/TORNADO/TWISTER/NXR 125-150 03-04 JEC PRO",
-    "estoque": "0",
-    "preco": "46,18"
-  },
-  {
     "codigo": "6890",
     "fabric": "90200271",
     "marca": "MAGNETRON",
@@ -13085,7 +13069,7 @@
     "marca": "PANDAO",
     "nome": "BOBINA PULSO TITAN 150/BROS 150/TITAN 160/BIZ 125 PANDAO",
     "estoque": "0",
-    "preco": "0"
+    "preco": "15,74"
   },
   {
     "codigo": "24344",
@@ -30148,7 +30132,7 @@
     "fabric": "TM7003",
     "marca": "TMAC",
     "nome": "CABO VELOCIMETRO TITAN 2000 KS/BROS 125/150 KS/TORNADO/FALCON/XLR 125/NX 200 TMAC",
-    "estoque": "97",
+    "estoque": "96",
     "preco": "9,44"
   },
   {
@@ -32356,7 +32340,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "591",
+    "estoque": "589",
     "preco": "14,69"
   },
   {
@@ -46068,7 +46052,7 @@
     "fabric": "MC-836RS",
     "marca": "MIXS",
     "nome": "CAPACETE MIXS FOKKER RACE PRETO/ROSA 58",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "257,25"
   },
   {
@@ -46212,7 +46196,7 @@
     "fabric": "MCAP-457RS",
     "marca": "MIXS",
     "nome": "CAPACETE MIXS MX2 STORM PRETO FOSCO/ROSA 60",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "180,6"
   },
   {
@@ -47308,7 +47292,7 @@
     "fabric": "10013433",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO PRETO 58",
-    "estoque": "112",
+    "estoque": "111",
     "preco": "178,49"
   },
   {
@@ -48669,7 +48653,7 @@
     "marca": "PANDAO",
     "nome": "CARBURADOR CG/TODAY/TITAN 99 PANDAO",
     "estoque": "0",
-    "preco": "0"
+    "preco": "59,85"
   },
   {
     "codigo": "25797",
@@ -48949,7 +48933,7 @@
     "marca": "PANDAO",
     "nome": "CARBURADOR TITAN 2000 PANDAO",
     "estoque": "0",
-    "preco": "0"
+    "preco": "59,85"
   },
   {
     "codigo": "25801",
@@ -58501,7 +58485,7 @@
     "marca": "PANDAO",
     "nome": "CDI BIZ 100 / DREAM PANDAO",
     "estoque": "0",
-    "preco": "0"
+    "preco": "11,81"
   },
   {
     "codigo": "47953",
@@ -58670,6 +58654,14 @@
     "nome": "CDI CG 125/CBX 150/CBX 200/NX 200/XR 200/ XLS 125 88/96/TUR 88 EM DIANTE MOTOKOI PRO",
     "estoque": "0",
     "preco": "0"
+  },
+  {
+    "codigo": "54165",
+    "fabric": "PDM1337",
+    "marca": "PANDAO",
+    "nome": "CDI CG 125/CBX 150/CBX 200/NX 200/XR 200/ XLS 125 88/96/TUR 88 EM DIANTE PANDAO",
+    "estoque": "0",
+    "preco": "15,74"
   },
   {
     "codigo": "43387",
@@ -58982,14 +58974,6 @@
     "nome": "CDI TODAY/TITAN 92/02 MAGNETRON",
     "estoque": "1",
     "preco": "57,74"
-  },
-  {
-    "codigo": "54165",
-    "fabric": "PDM1337",
-    "marca": "PANDAO",
-    "nome": "CDI TODAY/TITAN PANDAO",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "43508",
@@ -71101,7 +71085,7 @@
     "marca": "PANDAO",
     "nome": "DISCO FREIO BIZ+ 125 DIANTEIRO PANDAO",
     "estoque": "0",
-    "preco": "37,79"
+    "preco": "29,93"
   },
   {
     "codigo": "0200000535476",
@@ -71197,7 +71181,7 @@
     "marca": "PANDAO",
     "nome": "DISCO FREIO CB 300/HORNET S. ABS TRASEIRO PANDAO",
     "estoque": "0",
-    "preco": "44,63"
+    "preco": "44,1"
   },
   {
     "codigo": "32772",
@@ -71405,7 +71389,7 @@
     "marca": "PANDAO",
     "nome": "DISCO FREIO FALCON/NX350 SAHARA/CBR 450 DIANTEIRO PANDAO",
     "estoque": "0",
-    "preco": "48,29"
+    "preco": "43,04"
   },
   {
     "codigo": "26123",
@@ -71685,7 +71669,7 @@
     "marca": "PANDAO",
     "nome": "DISCO FREIO TITAN 150 DIANTEIRO PANDAO",
     "estoque": "0",
-    "preco": "47,25"
+    "preco": "38,84"
   },
   {
     "codigo": "26116",
@@ -75396,7 +75380,7 @@
     "fabric": "10116061",
     "marca": "WGK",
     "nome": "EMBREAGEM KIT COMPLETO TIT150 05-14/FAN150/FAN09/BROS 06 WGK",
-    "estoque": "95",
+    "estoque": "93",
     "preco": "97,31"
   },
   {
@@ -79573,7 +79557,7 @@
     "marca": "PANDAO",
     "nome": "ESTATOR TITAN 125 92/99 C/BASE PANDAO",
     "estoque": "0",
-    "preco": "0"
+    "preco": "64,58"
   },
   {
     "codigo": "43712",
@@ -79614,6 +79598,14 @@
     "nome": "ESTATOR TITAN 150 04/08 MOTOKOI",
     "estoque": "0",
     "preco": "0"
+  },
+  {
+    "codigo": "53200",
+    "fabric": "PDM0377",
+    "marca": "PANDAO",
+    "nome": "ESTATOR TITAN 150 04/08 PANDAO",
+    "estoque": "0",
+    "preco": "55,13"
   },
   {
     "codigo": "37556",
@@ -79661,7 +79653,7 @@
     "marca": "PANDAO",
     "nome": "ESTATOR TITAN 150 14/15 FLEX PANDAO",
     "estoque": "0",
-    "preco": "78,75"
+    "preco": "64,58"
   },
   {
     "codigo": "35038",
@@ -79725,7 +79717,7 @@
     "marca": "PANDAO",
     "nome": "ESTATOR TITAN 150 I.E/ MIX / FAN ESI 09 EM DIANTE PANDAO",
     "estoque": "0",
-    "preco": "73,49"
+    "preco": "64,58"
   },
   {
     "codigo": "43713",
@@ -79742,14 +79734,6 @@
     "nome": "ESTATOR TITAN 150 I.E/ MIX / FAN ESI 09 EM DIANTE TMAC",
     "estoque": "0",
     "preco": "112,35"
-  },
-  {
-    "codigo": "53200",
-    "fabric": "PDM0377",
-    "marca": "PANDAO",
-    "nome": "ESTATOR TITAN 150 SPORT 2008  PANDAO",
-    "estoque": "0",
-    "preco": "50,39"
   },
   {
     "codigo": "25553",
@@ -84572,7 +84556,7 @@
     "fabric": "FVC022",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX VEDAMOTORS",
-    "estoque": "65",
+    "estoque": "64",
     "preco": "10,49"
   },
   {
@@ -96429,7 +96413,7 @@
     "marca": "PANDAO",
     "nome": "JOGO RAIO DIANT TITAN 99 PANDAO 4MM",
     "estoque": "0",
-    "preco": "0"
+    "preco": "20,99"
   },
   {
     "codigo": "26348",
@@ -96645,7 +96629,7 @@
     "marca": "PANDAO",
     "nome": "JOGO RAIO DIANT YBR TAMBOR PANDAO 4MM",
     "estoque": "0",
-    "preco": "0"
+    "preco": "20,9"
   },
   {
     "codigo": "32822",
@@ -98164,7 +98148,7 @@
     "fabric": "VS05003010301",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 150/BROS 150 06/07 VEDAMOTORS",
-    "estoque": "82",
+    "estoque": "81",
     "preco": "9,44"
   },
   {
@@ -98956,7 +98940,7 @@
     "fabric": "VS05610000260",
     "marca": "VEDAMOTORS",
     "nome": "KIT A TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "20,21"
   },
   {
@@ -101732,7 +101716,7 @@
     "fabric": "H03868XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO FAN 125 09 VAZ (43/14/428HX116L) H03868XS",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "57,74"
   },
   {
@@ -103236,7 +103220,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "360",
+    "estoque": "359",
     "preco": "29,16"
   },
   {
@@ -103724,7 +103708,7 @@
     "fabric": "TL003-1",
     "marca": "TMAC",
     "nome": "LAMPADA PISCA CG 125 12X10W TMAC LARANJA",
-    "estoque": "2292",
+    "estoque": "2288",
     "preco": "1,07"
   },
   {
@@ -106300,7 +106284,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "4926",
+    "estoque": "4923",
     "preco": "36,74"
   },
   {
@@ -106332,7 +106316,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "9499",
+    "estoque": "9496",
     "preco": "27,29"
   },
   {
@@ -106356,7 +106340,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "49,34"
   },
   {
@@ -106380,7 +106364,7 @@
     "fabric": "104071",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 10W30",
-    "estoque": "80",
+    "estoque": "79",
     "preco": "68,24"
   },
   {
@@ -106397,14 +106381,14 @@
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 10W50 KAWASAKI",
     "estoque": "2",
-    "preco": "62,99"
+    "preco": "68,24"
   },
   {
     "codigo": "9638",
     "fabric": "104081",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 15W50",
-    "estoque": "5",
+    "estoque": "1",
     "preco": "68,24"
   },
   {
@@ -106413,7 +106397,7 @@
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 7100 10W40",
     "estoque": "0",
-    "preco": "131,25"
+    "preco": "104,99"
   },
   {
     "codigo": "14209",
@@ -106421,7 +106405,7 @@
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 7100 20W50",
     "estoque": "1",
-    "preco": "131,25"
+    "preco": "104,99"
   },
   {
     "codigo": "25327",
@@ -106429,7 +106413,7 @@
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 7100 5W40",
     "estoque": "0",
-    "preco": "131,25"
+    "preco": "103,95"
   },
   {
     "codigo": "51308",
@@ -106452,7 +106436,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "1957",
+    "estoque": "1954",
     "preco": "18,89"
   },
   {
@@ -109212,7 +109196,7 @@
     "fabric": "24",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM STRADA/TWISTER/CB300 PROTEC",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "7,11"
   },
   {
@@ -109260,7 +109244,7 @@
     "fabric": "P-020",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM TITAN 2000 / TITAN 150 PROTEC",
-    "estoque": "133",
+    "estoque": "132",
     "preco": "6,83"
   },
   {
@@ -110996,7 +110980,7 @@
     "fabric": "285",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 2000 KS ESQUERDO PROTEC",
-    "estoque": "84",
+    "estoque": "83",
     "preco": "11,03"
   },
   {
@@ -125685,7 +125669,7 @@
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO CB 300 C/ABS 10/15/XRE 300 C/ABS PANDAO TRASEIRA",
     "estoque": "0",
-    "preco": "8,39"
+    "preco": "5,24"
   },
   {
     "codigo": "11890",
@@ -126709,7 +126693,7 @@
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO NMAX160 C/ABS DIANT PANDAO",
     "estoque": "0",
-    "preco": "0"
+    "preco": "5,24"
   },
   {
     "codigo": "20059",
@@ -126757,7 +126741,7 @@
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO PCX 150/CITYCLASS 200  DIANT PANDAO",
     "estoque": "0",
-    "preco": "0"
+    "preco": "6,29"
   },
   {
     "codigo": "9856",
@@ -126824,6 +126808,30 @@
     "preco": "84,16"
   },
   {
+    "codigo": "23761",
+    "fabric": "N1836",
+    "marca": "COBREQ",
+    "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160 EX COBREQ N-1836",
+    "estoque": "21",
+    "preco": "36,74"
+  },
+  {
+    "codigo": "47842",
+    "fabric": "KOI0378",
+    "marca": "MOTOKOI",
+    "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160 EX MOTOKOI",
+    "estoque": "5",
+    "preco": "12,59"
+  },
+  {
+    "codigo": "44681",
+    "fabric": "KOI-00230",
+    "marca": "MOTOKOI BR",
+    "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160 EX MOTOKOI BR",
+    "estoque": "2",
+    "preco": "16,79"
+  },
+  {
     "codigo": "53225",
     "fabric": "PDM1372",
     "marca": "PANDAO",
@@ -126832,34 +126840,10 @@
     "preco": "6,29"
   },
   {
-    "codigo": "23761",
-    "fabric": "N1836",
-    "marca": "COBREQ",
-    "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160EX COBREQ N-1836",
-    "estoque": "21",
-    "preco": "36,74"
-  },
-  {
-    "codigo": "47842",
-    "fabric": "KOI0378",
-    "marca": "MOTOKOI",
-    "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160EX MOTOKOI",
-    "estoque": "5",
-    "preco": "12,59"
-  },
-  {
-    "codigo": "44681",
-    "fabric": "KOI-00230",
-    "marca": "MOTOKOI BR",
-    "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160EX MOTOKOI BR",
-    "estoque": "2",
-    "preco": "16,79"
-  },
-  {
     "codigo": "26223",
     "fabric": "FA190",
     "marca": "TMAC",
-    "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160EX TMAC",
+    "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160 EX TMAC",
     "estoque": "45",
     "preco": "14,75"
   },
@@ -126867,7 +126851,7 @@
     "codigo": "26516",
     "fabric": "UNP 85",
     "marca": "UNIBREQ",
-    "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160EX UNIBREQ",
+    "nome": "PASTILHA FREIO TITAN 150 14/15 CBS/ TITAN 160 EX UNIBREQ",
     "estoque": "1",
     "preco": "27,97"
   },
@@ -127029,7 +127013,7 @@
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO TITAN ES/ML/STRADA/CBX150 DIANTEIRO PANDAO",
     "estoque": "0",
-    "preco": "0"
+    "preco": "4,19"
   },
   {
     "codigo": "28390",
@@ -127109,7 +127093,7 @@
     "marca": "PANDAO",
     "nome": "PASTILHA FREIO TWISTER 16/22/CB 600 08 DIANT PANDAO",
     "estoque": "0",
-    "preco": "8,39"
+    "preco": "5,78"
   },
   {
     "codigo": "22087",
@@ -127308,7 +127292,7 @@
     "fabric": "FA185",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO YBR FACTOR 09 ED DIANTEIRO TMAC",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "15,17"
   },
   {
@@ -130924,7 +130908,7 @@
     "fabric": "5534/4711",
     "marca": "GVS",
     "nome": "PEDALEIRA FAZER DIANT/ESQ POLIDA GVS",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "80,85"
   },
   {
@@ -131308,7 +131292,7 @@
     "fabric": "246",
     "marca": "PROTEC",
     "nome": "PEDALEIRA YBR 125 00/16/XTZ 125 03/14/XTZ 125 03/16/XTZ 20 07 ED T/E PROTEC",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "19,89"
   },
   {
@@ -135277,7 +135261,7 @@
     "marca": "KMP",
     "nome": "PISTAO BIZ 125 0,50 KMP",
     "estoque": "8",
-    "preco": "73,49"
+    "preco": "68,25"
   },
   {
     "codigo": "13361",
@@ -136893,7 +136877,7 @@
     "marca": "KMP",
     "nome": "PISTAO FAZER 250 1,00 KMP",
     "estoque": "2",
-    "preco": "247,43"
+    "preco": "183,75"
   },
   {
     "codigo": "15855",
@@ -137341,7 +137325,7 @@
     "marca": "KMP",
     "nome": "PISTAO TITAN 125 02/04/FAN 125 05/08 4,00 KMP",
     "estoque": "3",
-    "preco": "110,25"
+    "preco": "99,23"
   },
   {
     "codigo": "15026",
@@ -140092,7 +140076,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "389",
+    "estoque": "388",
     "preco": "115,49"
   },
   {
@@ -141196,7 +141180,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "186",
+    "estoque": "185",
     "preco": "230,99"
   },
   {
@@ -141212,7 +141196,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "154",
+    "estoque": "153",
     "preco": "141,74"
   },
   {
@@ -144923,7 +144907,7 @@
     "codigo": "15199",
     "fabric": "90237230",
     "marca": "MAGNETRON",
-    "nome": "PUNHO LUZ BROS 125 KS 13 MAGNETRON",
+    "nome": "PUNHO LUZ BROS 125 KS 13/15 MAGNETRON",
     "estoque": "2",
     "preco": "90,12"
   },
@@ -145022,14 +145006,6 @@
     "nome": "PUNHO LUZ BROS 150 KS 2009 MAGNETRON",
     "estoque": "2",
     "preco": "81,91"
-  },
-  {
-    "codigo": "18635",
-    "fabric": "072604",
-    "marca": "MAXX",
-    "nome": "PUNHO LUZ BROS 150 KS 2009 MAXX EXCLUSIVE",
-    "estoque": "0",
-    "preco": "31,56"
   },
   {
     "codigo": "28317",
@@ -145472,14 +145448,6 @@
     "preco": "43,68"
   },
   {
-    "codigo": "37059",
-    "fabric": "50.128.27",
-    "marca": "SERVITEC",
-    "nome": "PUNHO LUZ PUNHO LUZ TITAN 150 KS / FAN 125 KS 2009 SERVITEC",
-    "estoque": "0",
-    "preco": "54,13"
-  },
-  {
     "codigo": "13581",
     "fabric": "90237130",
     "marca": "MAGNETRON",
@@ -145512,14 +145480,6 @@
     "preco": "84,11"
   },
   {
-    "codigo": "54169",
-    "fabric": "PDM2366",
-    "marca": "PANDAO",
-    "nome": "PUNHO LUZ TITAN 125 00/04 PANDAO",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "0200000535728",
     "fabric": "KOI0999",
     "marca": "MOTOKOI",
@@ -145539,7 +145499,7 @@
     "codigo": "9035",
     "fabric": "90235000",
     "marca": "MAGNETRON",
-    "nome": "PUNHO LUZ TITAN 150 09 KS/ES/ESD/MIX MAGNETRON",
+    "nome": "PUNHO LUZ TITAN 150 09/11 KS/ES/ESD/MIX MAGNETRON",
     "estoque": "2",
     "preco": "76,53"
   },
@@ -145566,14 +145526,6 @@
     "nome": "PUNHO LUZ TITAN 150 14 CONDOR",
     "estoque": "0",
     "preco": "71,28"
-  },
-  {
-    "codigo": "38237",
-    "fabric": "38001",
-    "marca": "MHX",
-    "nome": "PUNHO LUZ TITAN 150 14/TITAN 160/FAN 160 MHX",
-    "estoque": "0",
-    "preco": "90,42"
   },
   {
     "codigo": "26979",
@@ -145611,7 +145563,7 @@
     "codigo": "9036",
     "fabric": "90235010",
     "marca": "MAGNETRON",
-    "nome": "PUNHO LUZ TITAN 150 KS / FAN 125 KS 2009 MAGNETRON",
+    "nome": "PUNHO LUZ TITAN 150 KS 04/08/FAN 125 KS 09/13 MAGNETRON",
     "estoque": "3",
     "preco": "63,2"
   },
@@ -145619,17 +145571,9 @@
     "codigo": "18026",
     "fabric": "26904",
     "marca": "MHX",
-    "nome": "PUNHO LUZ TITAN 150 KS / FAN 125 KS 2009 MHX",
+    "nome": "PUNHO LUZ TITAN 150 KS 04/08/FAN 125 KS 09/13 MHX",
     "estoque": "0",
     "preco": "49,71"
-  },
-  {
-    "codigo": "36300",
-    "fabric": "IP0001",
-    "marca": "RT",
-    "nome": "PUNHO LUZ TITAN 150 KS / FAN 125 KS 2009 RT",
-    "estoque": "0",
-    "preco": "26,68"
   },
   {
     "codigo": "0200000535698",
@@ -145646,6 +145590,14 @@
     "nome": "PUNHO LUZ TITAN 150 KS 04/08/FAN 125 KS 09/13 PANDAO",
     "estoque": "0",
     "preco": "19,94"
+  },
+  {
+    "codigo": "36300",
+    "fabric": "IP0001",
+    "marca": "RT",
+    "nome": "PUNHO LUZ TITAN 150 KS 04/08/FAN 125 KS 09/13 RT",
+    "estoque": "0",
+    "preco": "26,68"
   },
   {
     "codigo": "32771",
@@ -145760,6 +145712,14 @@
     "preco": "0"
   },
   {
+    "codigo": "54169",
+    "fabric": "PDM2366",
+    "marca": "PANDAO",
+    "nome": "PUNHO LUZ TITAN 2000 KS PANDAO",
+    "estoque": "0",
+    "preco": "19,94"
+  },
+  {
     "codigo": "36303",
     "fabric": "IP0004",
     "marca": "RT",
@@ -145806,14 +145766,6 @@
     "nome": "PUNHO LUZ TODAY 92/94 C/MANICOTO MAGNETRON",
     "estoque": "4",
     "preco": "79,08"
-  },
-  {
-    "codigo": "34289",
-    "fabric": "",
-    "marca": "MAGNETRON",
-    "nome": "PUNHO LUZ TODAY 92/94 MAGNETRON C/MANICOTO",
-    "estoque": "0",
-    "preco": "60,39"
   },
   {
     "codigo": "36920",
@@ -156548,7 +156500,7 @@
     "fabric": "KOI0244",
     "marca": "MOTOKOI BR",
     "nome": "RETROVISOR YBR PAR MOTOKOI BR",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "26,24"
   },
   {
@@ -166452,7 +166404,7 @@
     "fabric": "1101956",
     "marca": "GP7/GP",
     "nome": "TRAVA PINHAO YBR/FACTOR GP",
-    "estoque": "46",
+    "estoque": "45",
     "preco": "3,74"
   },
   {
@@ -169948,7 +169900,7 @@
     "fabric": "1708C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA EBF EOX 2,20 MM CRSTAL POLIVISOR",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "26,78"
   },
   {
@@ -170884,7 +170836,7 @@
     "fabric": "2000000895116",
     "marca": "LS2",
     "nome": "VISEIRA LS2 FF358/FF396 CLEAR",
-    "estoque": "3",
+    "estoque": "4",
     "preco": "91,33"
   },
   {
@@ -170892,7 +170844,7 @@
     "fabric": "8110022223201",
     "marca": "LS2",
     "nome": "VISEIRA LS2 FF358/FF396 FUME",
-    "estoque": "1",
+    "estoque": "4",
     "preco": "93,45"
   },
   {
@@ -170900,7 +170852,7 @@
     "fabric": "2000000897110",
     "marca": "LS2",
     "nome": "VISEIRA LS2 FF358/FF396 IRIDIUM BLUE (AZUL)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "93,45"
   },
   {
@@ -170908,7 +170860,7 @@
     "fabric": "2000156043003",
     "marca": "LS2",
     "nome": "VISEIRA LS2 FF358/FF396 IRIDIUM GOLD (DOURADA)",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "93,45"
   },
   {
@@ -170916,7 +170868,7 @@
     "fabric": "8110022233200",
     "marca": "LS2",
     "nome": "VISEIRA LS2 FF358/FF396 IRIDIUM SILVER (CROMADA)",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "93,45"
   },
   {
