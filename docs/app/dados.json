@@ -8284,7 +8284,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "564",
+    "estoque": "563",
     "preco": "124,07"
   },
   {
@@ -29124,7 +29124,7 @@
     "fabric": "TM7018",
     "marca": "TMAC",
     "nome": "CABO VELOCIMETRO BIZ 125 09 TMAC",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "9,44"
   },
   {
@@ -35648,6 +35648,14 @@
     "preco": "18,47"
   },
   {
+    "codigo": "35463",
+    "fabric": "200106",
+    "marca": "DELTA",
+    "nome": "CAPA CHUVA DELTA NYLON EXXGG",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "35456",
     "fabric": "200103",
     "marca": "DELTA",
@@ -35656,12 +35664,12 @@
     "preco": "128,99"
   },
   {
-    "codigo": "35460",
-    "fabric": "200102",
+    "codigo": "35462",
+    "fabric": "200104",
     "marca": "DELTA",
-    "nome": "CAPA CHUVA DELTA NYLON M",
+    "nome": "CAPA CHUVA DELTA NYLON GG",
     "estoque": "0",
-    "preco": "144,6"
+    "preco": "0"
   },
   {
     "codigo": "35457",
@@ -35678,14 +35686,6 @@
     "nome": "CAPA CHUVA PANTANEIRO INFANTIL C/CAPUZ ROSA",
     "estoque": "0",
     "preco": "49,72"
-  },
-  {
-    "codigo": "38012",
-    "fabric": "",
-    "marca": "PANTANEIRO",
-    "nome": "CAPA CHUVA PANTANEIRO NYLON FEMININO",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "38018",
@@ -35736,14 +35736,6 @@
     "preco": "164,38"
   },
   {
-    "codigo": "38005",
-    "fabric": "",
-    "marca": "PANTANEIRO",
-    "nome": "CAPA CHUVA PANTANEIRO NYLON LUXO",
-    "estoque": "0",
-    "preco": "0"
-  },
-  {
     "codigo": "31809",
     "fabric": "",
     "marca": "PANTANEIRO",
@@ -35766,14 +35758,6 @@
     "nome": "CAPA CHUVA PANTANEIRO NYLON UNISEX G",
     "estoque": "0",
     "preco": "152,24"
-  },
-  {
-    "codigo": "38009",
-    "fabric": "38009",
-    "marca": "PANTANEIRO",
-    "nome": "CAPA CHUVA PANTANEIRO NYLON UNISEX GG",
-    "estoque": "0",
-    "preco": "152,25"
   },
   {
     "codigo": "38007",
@@ -35856,14 +35840,6 @@
     "preco": "89,24"
   },
   {
-    "codigo": "31825",
-    "fabric": "",
-    "marca": "PANTANEIRO",
-    "nome": "CAPA CHUVA PANTANEIRO PVC TORNADO M",
-    "estoque": "0",
-    "preco": "89,24"
-  },
-  {
     "codigo": "31824",
     "fabric": "",
     "marca": "PANTANEIRO",
@@ -35902,14 +35878,6 @@
     "nome": "CAPA CHUVA PIRACAPAS (LUVA + POLAINA + CAPA) G",
     "estoque": "1",
     "preco": "139,23"
-  },
-  {
-    "codigo": "31799",
-    "fabric": "CCP0363",
-    "marca": "PIRACAPAS",
-    "nome": "CAPA CHUVA PIRACAPAS (LUVA + POLAINA + CAPA) GG",
-    "estoque": "0",
-    "preco": "133,88"
   },
   {
     "codigo": "31797",
@@ -35981,22 +35949,6 @@
     "marca": "PIRAVAL",
     "nome": "CAPA CHUVA PIRAVAL PVC PLUS P",
     "estoque": "3",
-    "preco": "74,97"
-  },
-  {
-    "codigo": "49928",
-    "fabric": "CCPP0394",
-    "marca": "PIRAVAL",
-    "nome": "CAPA CHUVA PIRAVAL PVC PLUS P",
-    "estoque": "0",
-    "preco": "82,43"
-  },
-  {
-    "codigo": "36031",
-    "fabric": "CCPF0394",
-    "marca": "PIRAVAL",
-    "nome": "CAPA CHUVA PIRAVAL PVC PLUS P FEMININA",
-    "estoque": "0",
     "preco": "74,97"
   },
   {
@@ -36140,7 +36092,7 @@
     "fabric": "1004001133",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER GG",
-    "estoque": "39",
+    "estoque": "37",
     "preco": "89,24"
   },
   {
@@ -37868,7 +37820,7 @@
     "fabric": "C02018980UG56",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-12 EVOLVE AZUL/ROSA 56",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "483"
   },
   {
@@ -47244,7 +47196,7 @@
     "fabric": "10013516",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO FEMME PRETO 56",
-    "estoque": "39",
+    "estoque": "38",
     "preco": "178,48"
   },
   {
@@ -53308,7 +53260,7 @@
     "fabric": "225901",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL FRONTAL TITAN 160 ESD/EX 22/24 PRETO INJETADO MELC (225901)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "41,99"
   },
   {
@@ -54556,7 +54508,7 @@
     "fabric": "375003",
     "marca": "MELC",
     "nome": "CARENAGEM FAROL LATERAL TITAN 160 22 CINZA MELC 22/23 (375003)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "57,75"
   },
   {
@@ -83524,7 +83476,7 @@
     "fabric": "ARM451/1",
     "marca": "TECFIL",
     "nome": "FILTRO AR TITAN 160/TITAN 150 14/15/FAN 125 14/16 TECFIL",
-    "estoque": "100",
+    "estoque": "99",
     "preco": "27,43"
   },
   {
@@ -83940,7 +83892,7 @@
     "fabric": "KL1054",
     "marca": "MAHLE",
     "nome": "FILTRO COMBUSTIVEL FAZER 150/FAZER 250/CROSSER FLEX MAHLE",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "18,38"
   },
   {
@@ -83964,7 +83916,7 @@
     "fabric": "KL741",
     "marca": "MAHLE",
     "nome": "FILTRO COMBUSTIVEL TITAN 150 09 MIX/FLEX MAHLE",
-    "estoque": "128",
+    "estoque": "127",
     "preco": "12,59"
   },
   {
@@ -94460,7 +94412,7 @@
     "fabric": "11150132",
     "marca": "X11",
     "nome": "JAQUETA X11 IRON 3 FEMININA PRETO/ROSA GG",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "821,1"
   },
   {
@@ -94564,7 +94516,7 @@
     "fabric": "11150141",
     "marca": "X11",
     "nome": "JAQUETA X11 IRON 3 PRETO/VERMELHO G",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "821,89"
   },
   {
@@ -101116,7 +101068,7 @@
     "fabric": "001-KOI-004H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO BIZ 100 MOTOKOI (35/15/428HX108L)",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "56,7"
   },
   {
@@ -103484,7 +103436,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "164",
+    "estoque": "163",
     "preco": "18,38"
   },
   {
@@ -106404,7 +106356,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "9323",
+    "estoque": "9320",
     "preco": "27,29"
   },
   {
@@ -106444,7 +106396,7 @@
     "fabric": "",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 20W50",
-    "estoque": "39",
+    "estoque": "38",
     "preco": "50,39"
   },
   {
@@ -106524,7 +106476,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "1857",
+    "estoque": "1856",
     "preco": "18,89"
   },
   {
@@ -106796,7 +106748,7 @@
     "fabric": "1202",
     "marca": "IMPORTADA",
     "nome": "LUVA MOTOQUEIRO IMPORTADA TAMANHO UNICO",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "37,11"
   },
   {
@@ -108532,7 +108484,7 @@
     "fabric": "11041618",
     "marca": "X11",
     "nome": "LUVA X11 FIT X FEMININO PRETO G",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "72,31"
   },
   {
@@ -108572,7 +108524,7 @@
     "fabric": "11041615",
     "marca": "X11",
     "nome": "LUVA X11 FIT X MASCULINA PRETO 3G",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "72,31"
   },
   {
@@ -108588,7 +108540,7 @@
     "fabric": "11041614",
     "marca": "X11",
     "nome": "LUVA X11 FIT X MASCULINA PRETO GG",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "72,31"
   },
   {
@@ -114468,7 +114420,7 @@
     "fabric": "MNP0211",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON VERMELHA/PRETA",
-    "estoque": "39",
+    "estoque": "38",
     "preco": "136,5"
   },
   {
@@ -124276,7 +124228,7 @@
     "fabric": "304712",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 160 22/23 CINZA METALICO MELC (304712)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "58,72"
   },
   {
@@ -125660,7 +125612,7 @@
     "fabric": "173700",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO TITAN 150 09/12 INJ. MELC (173700)",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "48,6"
   },
   {
@@ -133228,7 +133180,7 @@
     "fabric": "PISCA 27",
     "marca": "STALLION",
     "nome": "PISCA CB 250 16 ED MOD ESPORTIVO STALLION BASE ORIGINAL (PAR)",
-    "estoque": "44",
+    "estoque": "43",
     "preco": "23,63"
   },
   {
@@ -134420,7 +134372,7 @@
     "fabric": "3392",
     "marca": "GVS",
     "nome": "PISCA MINI TITAN UNIVERSAL C/ LAMPADA FUME GVS",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "17,61"
   },
   {
@@ -140436,7 +140388,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "381",
+    "estoque": "380",
     "preco": "115,49"
   },
   {
@@ -140548,7 +140500,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN DAKAR II TL 47P (SEM CAMARA)",
-    "estoque": "85",
+    "estoque": "84",
     "preco": "239,4"
   },
   {
@@ -140820,7 +140772,7 @@
     "fabric": "80005",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 100/90-14 LEVORIN MATRIX SCOOTER TL PCX",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "393,96"
   },
   {
@@ -141228,7 +141180,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 140/70-17 LEVORIN MATRIX SPORT II CB 300",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "509,24"
   },
   {
@@ -141260,7 +141212,7 @@
     "fabric": "6199",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT R CB 300 TL 66S",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "304,5"
   },
   {
@@ -141604,7 +141556,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "503",
+    "estoque": "502",
     "preco": "136,49"
   },
   {
@@ -145596,7 +145548,7 @@
     "fabric": "TM0144",
     "marca": "TMAC",
     "nome": "PUNHO LUZ FAN 05/08 TMAC",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "37,28"
   },
   {
@@ -156172,7 +156124,7 @@
     "fabric": "610112/110112",
     "marca": "GVS",
     "nome": "RETROVISOR MINI Z400 GVS (PAR)",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "51,45"
   },
   {
