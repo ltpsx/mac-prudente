@@ -3964,7 +3964,7 @@
     "fabric": "TM1050",
     "marca": "TMAC",
     "nome": "ANEL ESCAPAMENTO CG/ML/TUR/XL TMAC",
-    "estoque": "333",
+    "estoque": "323",
     "preco": "0,58"
   },
   {
@@ -5076,7 +5076,7 @@
     "fabric": "KOI0311",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.60 X 18 CG/TOD/TIT DIANT MOTOKOI",
-    "estoque": "67",
+    "estoque": "66",
     "preco": "69,29"
   },
   {
@@ -5148,7 +5148,7 @@
     "fabric": "KOI0313",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.85 X 18 CG/TOD/TIT TRAS MOTOKOI",
-    "estoque": "118",
+    "estoque": "117",
     "preco": "80,84"
   },
   {
@@ -5280,6 +5280,14 @@
     "preco": "0"
   },
   {
+    "codigo": "12997",
+    "fabric": "14X185-13",
+    "marca": "FABRECK",
+    "nome": "ARO RODA ESPORTIVO 1.85 X 14 TRAS FABRECK LARANJA NEON",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "34580",
     "fabric": "",
     "marca": "FABRECK",
@@ -5352,6 +5360,14 @@
     "preco": "0"
   },
   {
+    "codigo": "11302",
+    "fabric": "18X250-11",
+    "marca": "FABRECK",
+    "nome": "ARO RODA ESPORTIVO 2.50 X 18 CG/TOD/TIT TRAS FABRECK AZUL NEON",
+    "estoque": "0",
+    "preco": "0"
+  },
+  {
     "codigo": "33468",
     "fabric": "",
     "marca": "FABRECK",
@@ -5412,7 +5428,7 @@
     "fabric": "22330K",
     "marca": "MOTOKOI BR",
     "nome": "ARRUELA BUJAO OLEO TITAN 150/BIZ/YBR 12MM MOTOKOI",
-    "estoque": "690",
+    "estoque": "689",
     "preco": "0,39"
   },
   {
@@ -31012,7 +31028,7 @@
     "fabric": "90250720",
     "marca": "MAGNETRON",
     "nome": "CACHIMBO VELA TITAN 150/BROS 150 MAGNETRON",
-    "estoque": "15",
+    "estoque": "13",
     "preco": "10,49"
   },
   {
@@ -32612,7 +32628,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "213",
+    "estoque": "212",
     "preco": "14,69"
   },
   {
@@ -47852,7 +47868,7 @@
     "fabric": "CAP-35PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 58",
-    "estoque": "88",
+    "estoque": "87",
     "preco": "94,49"
   },
   {
@@ -63140,7 +63156,7 @@
     "fabric": "KOI0117",
     "marca": "MOTOKOI",
     "nome": "CILINDRO BENGALA INTERNO TITAN 150/TITAN 160 MOTOKOI",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "70,29"
   },
   {
@@ -64500,7 +64516,7 @@
     "fabric": "TM1531",
     "marca": "TMAC",
     "nome": "COLETOR ADMISSAO BURGMAN 125 05/10 TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "36,75"
   },
   {
@@ -70008,14 +70024,6 @@
     "preco": "133,35"
   },
   {
-    "codigo": "5112",
-    "fabric": "315",
-    "marca": "FABRECK",
-    "nome": "CUBO RODA CRYPTON TRASEIRA FABREK",
-    "estoque": "0",
-    "preco": "94,5"
-  },
-  {
     "codigo": "25374",
     "fabric": "UHB 1005",
     "marca": "UNIBREQ",
@@ -70366,14 +70374,6 @@
     "nome": "CUBO RODA XTZ 150 TRASEIRO FABRECK C/DISCO",
     "estoque": "2",
     "preco": "351,73"
-  },
-  {
-    "codigo": "22061",
-    "fabric": "343",
-    "marca": "FABRECK",
-    "nome": "CUBO RODA XTZ 250 TRASEIRO FABRECK",
-    "estoque": "0",
-    "preco": "281,84"
   },
   {
     "codigo": "42668",
@@ -71896,28 +71896,12 @@
     "preco": "93,45"
   },
   {
-    "codigo": "13051",
-    "fabric": "95",
-    "marca": "FABRECK",
-    "nome": "DISCO FREIO FAZER 250 TRASEIRO FABRECK",
-    "estoque": "0",
-    "preco": "136,63"
-  },
-  {
     "codigo": "28322",
     "fabric": "TM443",
     "marca": "TMAC",
     "nome": "DISCO FREIO FAZER 250 TRASEIRO TMAC",
     "estoque": "0",
     "preco": "103,77"
-  },
-  {
-    "codigo": "13041",
-    "fabric": "81",
-    "marca": "FABRECK",
-    "nome": "DISCO FREIO INTRUDER 125 DIANTEIRO FABREK",
-    "estoque": "0",
-    "preco": "126"
   },
   {
     "codigo": "28072",
@@ -72080,14 +72064,6 @@
     "preco": "157,09"
   },
   {
-    "codigo": "22062",
-    "fabric": "194",
-    "marca": "FABRECK",
-    "nome": "DISCO FREIO TITAN 150 2009 DIANTEIRO FABRECK",
-    "estoque": "0",
-    "preco": "98,88"
-  },
-  {
     "codigo": "44518",
     "fabric": "KOI0121",
     "marca": "MOTOKOI",
@@ -72142,14 +72118,6 @@
     "nome": "DISCO FREIO TITAN 150/TITAN 160 CBS DIANTEIRO RT",
     "estoque": "0",
     "preco": "69,3"
-  },
-  {
-    "codigo": "11343",
-    "fabric": "112",
-    "marca": "FABRECK",
-    "nome": "DISCO FREIO TITAN 160/BROS 160/XRE 190/TITAN 125 ES DIANTEIRO FABRECK",
-    "estoque": "0",
-    "preco": "97,11"
   },
   {
     "codigo": "11340",
@@ -76172,7 +76140,7 @@
     "fabric": "TC1110",
     "marca": "TMAC",
     "nome": "EMBREAGEM PRIMARIA NEO 115 05/12 COMPLETO TMAC (3 PECAS)",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "141,75"
   },
   {
@@ -78236,7 +78204,7 @@
     "fabric": "100113301",
     "marca": "POLIMET",
     "nome": "ESCAPAMENTO TITAN 150 09 ESD POLIMET CROMADO ESTRALADO LATINHA (C/SUPORTE P/PROTETOR)",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "249,22"
   },
   {
@@ -78592,22 +78560,6 @@
     "preco": "86,51"
   },
   {
-    "codigo": "1604",
-    "fabric": "404",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO BIZ 100 99/01 DIANTEIRO FABREK",
-    "estoque": "0",
-    "preco": "78,37"
-  },
-  {
-    "codigo": "1600",
-    "fabric": "401",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO BIZ 100 TRASEIRO FABREK",
-    "estoque": "0",
-    "preco": "30,24"
-  },
-  {
     "codigo": "42710",
     "fabric": "TM7085",
     "marca": "TMAC",
@@ -78648,28 +78600,12 @@
     "preco": "81,11"
   },
   {
-    "codigo": "13039",
-    "fabric": "421",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO BROS 125/150 DIANTEIRO FABREK",
-    "estoque": "0",
-    "preco": "96,44"
-  },
-  {
     "codigo": "42709",
     "fabric": "TM7071",
     "marca": "TMAC",
     "nome": "ESPELHO FREIO BROS 125/150 DIANTEIRO TMAC",
     "estoque": "0",
     "preco": "92,85"
-  },
-  {
-    "codigo": "5102",
-    "fabric": "415",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO BROS 125/150 TRASEIRO FABREK",
-    "estoque": "0",
-    "preco": "98,3"
   },
   {
     "codigo": "42712",
@@ -78696,28 +78632,12 @@
     "preco": "82,43"
   },
   {
-    "codigo": "5101",
-    "fabric": "414",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO NX 150/NX 200/XR 200/XLR125 TRASEIRO FABREK",
-    "estoque": "0",
-    "preco": "101,44"
-  },
-  {
     "codigo": "43430",
     "fabric": "TM7077",
     "marca": "TMAC",
     "nome": "ESPELHO FREIO POP 100/POP 110 DIANTEIRO TMAC",
     "estoque": "1",
     "preco": "76,45"
-  },
-  {
-    "codigo": "5098",
-    "fabric": "411",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO STRADA TRASEIRO FABREK",
-    "estoque": "0",
-    "preco": "78,81"
   },
   {
     "codigo": "5104",
@@ -78744,14 +78664,6 @@
     "preco": "69,44"
   },
   {
-    "codigo": "1598",
-    "fabric": "409",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO TITAN 150 TRASEIRO FABREK",
-    "estoque": "0",
-    "preco": "90,65"
-  },
-  {
     "codigo": "53633",
     "fabric": "KOI-00400",
     "marca": "MOTOKOI BR",
@@ -78768,28 +78680,12 @@
     "preco": "103,94"
   },
   {
-    "codigo": "1602",
-    "fabric": "406",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO TITAN 2000 DIANTEIRO FABREK",
-    "estoque": "0",
-    "preco": "98,3"
-  },
-  {
     "codigo": "43426",
     "fabric": "TM7076",
     "marca": "TMAC",
     "nome": "ESPELHO FREIO TITAN 2000 DIANTEIRO TMAC",
     "estoque": "3",
     "preco": "87,55"
-  },
-  {
-    "codigo": "1597",
-    "fabric": "402",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO TITAN 2000 TRASEIRO FABREK",
-    "estoque": "0",
-    "preco": "57,11"
   },
   {
     "codigo": "43431",
@@ -78800,28 +78696,12 @@
     "preco": "83,42"
   },
   {
-    "codigo": "1601",
-    "fabric": "405",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO TITAN 99 DIANTEIRO FABREK",
-    "estoque": "0",
-    "preco": "98,3"
-  },
-  {
     "codigo": "43427",
     "fabric": "TM7072",
     "marca": "TMAC",
     "nome": "ESPELHO FREIO TITAN 99 DIANTEIRO TMAC",
     "estoque": "2",
     "preco": "76,45"
-  },
-  {
-    "codigo": "1596",
-    "fabric": "400",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO TITAN 99 TRASEIRO FABREK",
-    "estoque": "0",
-    "preco": "38,5"
   },
   {
     "codigo": "53632",
@@ -78870,22 +78750,6 @@
     "nome": "ESPELHO FREIO XTZ 125 TRASEIRO TMAC",
     "estoque": "2",
     "preco": "113,56"
-  },
-  {
-    "codigo": "1603",
-    "fabric": "407",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO YBR DIANTEIRO FABREK",
-    "estoque": "0",
-    "preco": "98,3"
-  },
-  {
-    "codigo": "1599",
-    "fabric": "403",
-    "marca": "FABRECK",
-    "nome": "ESPELHO FREIO YBR TRASEIRO FABREK",
-    "estoque": "0",
-    "preco": "52,94"
   },
   {
     "codigo": "42713",
@@ -79804,7 +79668,7 @@
     "fabric": "TM725",
     "marca": "TMAC",
     "nome": "ESTATOR FAN 125 09/15 TMAC",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "83,99"
   },
   {
@@ -81524,7 +81388,7 @@
     "fabric": "100502302",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TITAN 160/FAN 160 PRETO C/PROTETOR POLIMET TUBULAR",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "40,24"
   },
   {
@@ -83588,7 +83452,7 @@
     "fabric": "ARM429/1",
     "marca": "TECFIL",
     "nome": "FILTRO AR LEAD 110 TECFIL",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "36,75"
   },
   {
@@ -85260,16 +85124,8 @@
     "fabric": "TM7095",
     "marca": "TMAC",
     "nome": "FLANGE RODA BIZ 100 TRASEIRO TMAC",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "55,13"
-  },
-  {
-    "codigo": "36021",
-    "fabric": "297",
-    "marca": "FABRECK",
-    "nome": "FLANGE RODA BIZ 125 TRASEIRO FABRECK",
-    "estoque": "0",
-    "preco": "71,7"
   },
   {
     "codigo": "51902",
@@ -85320,28 +85176,12 @@
     "preco": "99,23"
   },
   {
-    "codigo": "11298",
-    "fabric": "330",
-    "marca": "FABRECK",
-    "nome": "FLANGE RODA TITAN 150 TRASEIRA FABRECK",
-    "estoque": "0",
-    "preco": "62,72"
-  },
-  {
     "codigo": "44333",
     "fabric": "TM7093",
     "marca": "TMAC",
     "nome": "FLANGE RODA TITAN 150 TRASEIRA TMAC",
     "estoque": "0",
     "preco": "60,38"
-  },
-  {
-    "codigo": "28073",
-    "fabric": "299",
-    "marca": "FABRECK",
-    "nome": "FLANGE RODA TITAN 160 EX TRASEIRA FABRECK",
-    "estoque": "0",
-    "preco": "64,44"
   },
   {
     "codigo": "11297",
@@ -85358,14 +85198,6 @@
     "nome": "FLANGE RODA YBR/RD TRASEIRA COBREQ",
     "estoque": "4",
     "preco": "82,74"
-  },
-  {
-    "codigo": "28074",
-    "fabric": "331",
-    "marca": "FABRECK",
-    "nome": "FLANGE RODA YBR/RD TRASEIRA FABRECK",
-    "estoque": "0",
-    "preco": "62,25"
   },
   {
     "codigo": "42716",
@@ -87972,7 +87804,7 @@
     "fabric": "15086K",
     "marca": "MOTOKOI BR",
     "nome": "GUARNICAO TAMPA VALVULA TITAN 150/FAN 125 09 MOTOKOI",
-    "estoque": "104",
+    "estoque": "99",
     "preco": "2,63"
   },
   {
@@ -96340,7 +96172,7 @@
     "fabric": "VS05700010001",
     "marca": "VEDAMOTORS",
     "nome": "JOGO JUNTAS TITAN 150/BROS 150 06/07 VEDAMOTORS",
-    "estoque": "91",
+    "estoque": "90",
     "preco": "23,63"
   },
   {
@@ -96820,7 +96652,7 @@
     "fabric": "TM014",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT TITAN 2000/150 ES 4MM DISCO TMAC",
-    "estoque": "85",
+    "estoque": "84",
     "preco": "31,49"
   },
   {
@@ -97172,7 +97004,7 @@
     "fabric": "KOI0119",
     "marca": "MOTOKOI",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 MOTOKOI 4MM",
-    "estoque": "109",
+    "estoque": "108",
     "preco": "24,14"
   },
   {
@@ -102892,7 +102724,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "149",
+    "estoque": "148",
     "preco": "57,74"
   },
   {
@@ -102956,7 +102788,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "143",
+    "estoque": "142",
     "preco": "57,74"
   },
   {
@@ -106812,7 +106644,7 @@
     "fabric": "4455",
     "marca": "IPIRANGA",
     "nome": "LUBRIFICANTES MOTO 4T IPIRANGA 10W30 SL SEMI-SINTETICO",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "34,64"
   },
   {
@@ -106852,7 +106684,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "4666",
+    "estoque": "4665",
     "preco": "36,74"
   },
   {
@@ -106884,7 +106716,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "9045",
+    "estoque": "9042",
     "preco": "27,29"
   },
   {
@@ -106940,7 +106772,7 @@
     "fabric": "104078",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 10W40",
-    "estoque": "15",
+    "estoque": "11",
     "preco": "68,24"
   },
   {
@@ -113928,14 +113760,6 @@
     "preco": "226,8"
   },
   {
-    "codigo": "7245",
-    "fabric": "216",
-    "marca": "FABRECK",
-    "nome": "MESA INFERIOR GUIDAO STRADA FABRECK",
-    "estoque": "0",
-    "preco": "51,68"
-  },
-  {
     "codigo": "49375",
     "fabric": "TM0650",
     "marca": "TMAC",
@@ -114404,7 +114228,7 @@
     "fabric": "90205110",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA YES/INTRUDER 125 MAGNETRON",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "21,53"
   },
   {
@@ -125724,7 +125548,7 @@
     "fabric": "304102",
     "marca": "MELC",
     "nome": "PARALAMA DIANT YES 05/11 PRATA MELC (304102)",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "84,58"
   },
   {
@@ -127504,14 +127328,6 @@
     "preco": "17,64"
   },
   {
-    "codigo": "22100",
-    "fabric": "782",
-    "marca": "FABRECK",
-    "nome": "PASTILHA FREIO PCX 150/CITYCLASS 200  DIANT FABRECK",
-    "estoque": "0",
-    "preco": "41,92"
-  },
-  {
     "codigo": "54172",
     "fabric": "PDM1379",
     "marca": "PANDAO",
@@ -127924,7 +127740,7 @@
     "fabric": "N909",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO XLX 350/LEAD 110I 09/16/ELITE 125 19/24 DIANTEIRO COBREQ N-909",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "28,34"
   },
   {
@@ -128014,14 +127830,6 @@
     "nome": "PASTILHA FREIO XTZ 250 LANDER 2016>/XTZ 250 TENERE 2016>/CROSSER 150 14/17/CRF 250 13/14  DIANTEIRA TMAC",
     "estoque": "0",
     "preco": "0"
-  },
-  {
-    "codigo": "6566",
-    "fabric": "734",
-    "marca": "FABRECK",
-    "nome": "PASTILHA FREIO XTZ125/YES/XTZ 250 LANDER DIANT FABRECK",
-    "estoque": "0",
-    "preco": "24,83"
   },
   {
     "codigo": "47848",
@@ -128142,14 +127950,6 @@
     "nome": "PASTILHA FREIO YBR/TWISTER/CB 300/NINJA 250 DIANTEIRO COBREQ N-940",
     "estoque": "38",
     "preco": "26,25"
-  },
-  {
-    "codigo": "11335",
-    "fabric": "623",
-    "marca": "FABRECK",
-    "nome": "PASTILHA FREIO YBR/TWISTER/CB 300/NINJA 250 DIANTEIRO FABRECK",
-    "estoque": "0",
-    "preco": "18,74"
   },
   {
     "codigo": "47853",
@@ -128432,14 +128232,6 @@
     "preco": "16,79"
   },
   {
-    "codigo": "7267",
-    "fabric": "5071",
-    "marca": "FABRECK",
-    "nome": "PATIM FREIO CB 400/CB 450 0,25 TRAS FABRECK",
-    "estoque": "0",
-    "preco": "16,97"
-  },
-  {
     "codigo": "7268",
     "fabric": "5072",
     "marca": "FABRECK",
@@ -128470,22 +128262,6 @@
     "nome": "PATIM FREIO CBX 200/NX 350 0,00 TRAS FABRECK",
     "estoque": "1",
     "preco": "16,74"
-  },
-  {
-    "codigo": "7256",
-    "fabric": "5091",
-    "marca": "FABRECK",
-    "nome": "PATIM FREIO CBX 200/NX 350 0,25 TRAS FABRECK",
-    "estoque": "0",
-    "preco": "13,23"
-  },
-  {
-    "codigo": "7257",
-    "fabric": "5092",
-    "marca": "FABRECK",
-    "nome": "PATIM FREIO CBX 200/NX 350 0,50 TRAS FABRECK",
-    "estoque": "0",
-    "preco": "13,23"
   },
   {
     "codigo": "11312",
@@ -128782,30 +128558,6 @@
     "nome": "PATIM FREIO CRYPTON/NEO 0,00 DIANT/TRAS DIAFRAG",
     "estoque": "0",
     "preco": "32,76"
-  },
-  {
-    "codigo": "5088",
-    "fabric": "510",
-    "marca": "FABRECK",
-    "nome": "PATIM FREIO CRYPTON/NEO 0,00 DIANT/TRAS FABRECK",
-    "estoque": "0",
-    "preco": "18,55"
-  },
-  {
-    "codigo": "13065",
-    "fabric": "5103",
-    "marca": "FABRECK",
-    "nome": "PATIM FREIO CRYPTON/NEO 0,75 DIANT/TRAS FABRECK",
-    "estoque": "0",
-    "preco": "19,66"
-  },
-  {
-    "codigo": "13066",
-    "fabric": "5104",
-    "marca": "FABRECK",
-    "nome": "PATIM FREIO CRYPTON/NEO 1,00 DIANT/TRAS FABRECK",
-    "estoque": "0",
-    "preco": "17,64"
   },
   {
     "codigo": "21333",
@@ -129116,7 +128868,7 @@
     "fabric": "KOI-00100 D",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 1,00 DIANT/TRAS MOTOKOI BR",
-    "estoque": "201",
+    "estoque": "200",
     "preco": "17,84"
   },
   {
@@ -129326,14 +129078,6 @@
     "nome": "PATIM FREIO YBR 125/XTZ 125 0,50 DIANT/TRAS DIAFRAG",
     "estoque": "0",
     "preco": "30,86"
-  },
-  {
-    "codigo": "7261",
-    "fabric": "5242",
-    "marca": "FABRECK",
-    "nome": "PATIM FREIO YBR 125/XTZ 125 0,50 DIANT/TRAS FABRECK",
-    "estoque": "0",
-    "preco": "17,64"
   },
   {
     "codigo": "45299",
@@ -131804,7 +131548,7 @@
     "fabric": "45007K",
     "marca": "MOTOKOI BR",
     "nome": "PEDALEIRA TITAN 150 MODELO 160 MOTOKOI ESQ",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "16,79"
   },
   {
@@ -135292,7 +135036,7 @@
     "fabric": "1657",
     "marca": "GVS",
     "nome": "PISCA TITAN 2000/XRE 300/CB 300R D/D T/E COMPLETO C/ COXIM LARANJA GVS S/LAMPADA COMBATE",
-    "estoque": "361",
+    "estoque": "360",
     "preco": "13,13"
   },
   {
@@ -140836,7 +140580,7 @@
     "fabric": "6181",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 100/80-14 TECHNIC SPORT R TT 48P",
-    "estoque": "6",
+    "estoque": "8",
     "preco": "178,5"
   },
   {
@@ -140932,7 +140676,7 @@
     "fabric": "6082",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 110/70-17 TECHNIC SPORT CB 300 TL 54S",
-    "estoque": "12",
+    "estoque": "22",
     "preco": "198,45"
   },
   {
@@ -140940,7 +140684,7 @@
     "fabric": "6197",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 110/70-17 TECHNIC SPORT R CB 300 TL 54S",
-    "estoque": "9",
+    "estoque": "19",
     "preco": "204,75"
   },
   {
@@ -141012,7 +140756,7 @@
     "fabric": "6139",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 120/70-17 TECHNIC SPORT R TL 58V",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "355,95"
   },
   {
@@ -141084,7 +140828,7 @@
     "fabric": "6133",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-17 TECHNIC SPORT R TT 47P",
-    "estoque": "18",
+    "estoque": "33",
     "preco": "122,84"
   },
   {
@@ -141116,7 +140860,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "365",
+    "estoque": "440",
     "preco": "115,49"
   },
   {
@@ -141124,7 +140868,7 @@
     "fabric": "6050",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT TL 42P",
-    "estoque": "7",
+    "estoque": "17",
     "preco": "139,65"
   },
   {
@@ -141220,7 +140964,7 @@
     "fabric": "3100",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC TIGER BIZ TT 33L",
-    "estoque": "12",
+    "estoque": "27",
     "preco": "97,13"
   },
   {
@@ -141388,7 +141132,7 @@
     "fabric": "3003",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-19 TECHNIC TEC BROS TT 52T",
-    "estoque": "46",
+    "estoque": "66",
     "preco": "162,75"
   },
   {
@@ -141396,7 +141140,7 @@
     "fabric": "3043",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-19 TECHNIC TMX BROS TT 52M",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "220,49"
   },
   {
@@ -141444,7 +141188,7 @@
     "fabric": "3017",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-21 TECHNIC TEC TT 54S",
-    "estoque": "1",
+    "estoque": "14",
     "preco": "216,62"
   },
   {
@@ -141460,7 +141204,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 100/80-18 MICHELIN CITY EXTRA TL 59S",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "351,74"
   },
   {
@@ -141492,7 +141236,7 @@
     "fabric": "6194",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/90-10 TECHNIC SCOOTER TL 56J",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "162,75"
   },
   {
@@ -141524,7 +141268,7 @@
     "fabric": "6094",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/90-14 TECHNIC SPORT R TL 57P",
-    "estoque": "1",
+    "estoque": "16",
     "preco": "202,65"
   },
   {
@@ -141532,7 +141276,7 @@
     "fabric": "3044",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/90-17 TECHNIC TMX TT 55M",
-    "estoque": "3",
+    "estoque": "5",
     "preco": "257,25"
   },
   {
@@ -141588,7 +141332,7 @@
     "fabric": "6129",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/90-18 TECHNIC SPORT R TL 62P",
-    "estoque": "2",
+    "estoque": "27",
     "preco": "222,59"
   },
   {
@@ -141604,7 +141348,7 @@
     "fabric": "6074",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 100/90-18 TECHNIC SPORT TL 62P",
-    "estoque": "4",
+    "estoque": "29",
     "preco": "222,59"
   },
   {
@@ -141636,7 +141380,7 @@
     "fabric": "6005",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 110/80-14 TECHNIC SPORT R TL 59P",
-    "estoque": "3",
+    "estoque": "18",
     "preco": "262,48"
   },
   {
@@ -141684,7 +141428,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 110/90-17 MICHELIN ANAKEE STREET TL 60P",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "446,25"
   },
   {
@@ -141700,7 +141444,7 @@
     "fabric": "3004",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 110/90-17 TECHNIC TEC TT 60P",
-    "estoque": "23",
+    "estoque": "53",
     "preco": "183,73"
   },
   {
@@ -141756,7 +141500,7 @@
     "fabric": "3019",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/80-18 TECHNIC TEC TORNADO/LANDER TT 62S",
-    "estoque": "1",
+    "estoque": "16",
     "preco": "241,52"
   },
   {
@@ -141780,7 +141524,7 @@
     "fabric": "3018",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/90-17 TECHNIC TEC FALCON/XT 600 TT 64S",
-    "estoque": "11",
+    "estoque": "14",
     "preco": "278,25"
   },
   {
@@ -141796,7 +141540,7 @@
     "fabric": "3450",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 130/70-13 TECHNIC BELLATRIX TL 63P",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "270,34"
   },
   {
@@ -141900,7 +141644,7 @@
     "fabric": "6171",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-14 TECHNIC SPORT R TL 62S",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "322,35"
   },
   {
@@ -141932,7 +141676,7 @@
     "fabric": "6092",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT CB 300 TL 66S",
-    "estoque": "14",
+    "estoque": "19",
     "preco": "304,54"
   },
   {
@@ -141940,7 +141684,7 @@
     "fabric": "6199",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 140/70-17 TECHNIC SPORT R CB 300 TL 66S",
-    "estoque": "18",
+    "estoque": "29",
     "preco": "304,5"
   },
   {
@@ -142180,7 +141924,7 @@
     "fabric": "6213",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC SPORT R BIZ TT 49L",
-    "estoque": "1",
+    "estoque": "16",
     "preco": "110,24"
   },
   {
@@ -142188,7 +141932,7 @@
     "fabric": "3101",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC TIGER BIZ TT 49L",
-    "estoque": "97",
+    "estoque": "142",
     "preco": "110,24"
   },
   {
@@ -142236,7 +141980,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "129",
+    "estoque": "128",
     "preco": "141,74"
   },
   {
@@ -142276,7 +142020,7 @@
     "fabric": "6119",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TL 57P",
-    "estoque": "0",
+    "estoque": "11",
     "preco": "168"
   },
   {
@@ -142284,7 +142028,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "476",
+    "estoque": "676",
     "preco": "136,49"
   },
   {
@@ -142308,7 +142052,7 @@
     "fabric": "3022",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC TEC (BORRACHUDO) TT 57P",
-    "estoque": "18",
+    "estoque": "25",
     "preco": "163,33"
   },
   {
@@ -142316,7 +142060,7 @@
     "fabric": "3008",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC TIGER TT 57P",
-    "estoque": "14",
+    "estoque": "39",
     "preco": "131,25"
   },
   {
@@ -153340,7 +153084,7 @@
     "fabric": "TM080",
     "marca": "TMAC",
     "nome": "RETENTOR BENGALA CG/TITAN/BIZ 100/BIZ 125 TMAC",
-    "estoque": "83",
+    "estoque": "67",
     "preco": "3,03"
   },
   {
@@ -153580,7 +153324,7 @@
     "fabric": "TM081",
     "marca": "TMAC",
     "nome": "RETENTOR BENGALA TITAN 150/CBX 150/BROS TMAC",
-    "estoque": "158",
+    "estoque": "138",
     "preco": "3,23"
   },
   {
@@ -154700,7 +154444,7 @@
     "fabric": "VE990571186AN",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR MESA MAGNETO C/ANEIS CG/TITAN 125 VEDAMOTORS",
-    "estoque": "35",
+    "estoque": "33",
     "preco": "8,39"
   },
   {
@@ -157836,7 +157580,7 @@
     "fabric": "6004-2RS",
     "marca": "WGK",
     "nome": "ROLAMENTO 6004-2RS COROA TITAN 150/TITAN 160 WGK",
-    "estoque": "15",
+    "estoque": "12",
     "preco": "8,39"
   },
   {
@@ -158132,7 +157876,7 @@
     "fabric": "6301-2RS",
     "marca": "WGK",
     "nome": "ROLAMENTO 6301-2RS CROMO RODA DIANT. CG WGK",
-    "estoque": "11",
+    "estoque": "9",
     "preco": "6,29"
   },
   {
@@ -170156,7 +169900,7 @@
     "fabric": "CR7EH9",
     "marca": "NGK",
     "nome": "VELA LEAD CR7EH-9 NGK",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "57,75"
   },
   {
@@ -170268,7 +170012,7 @@
     "fabric": "CPR8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 150/FAN 150 CPR8EA-9 NGK",
-    "estoque": "450",
+    "estoque": "448",
     "preco": "31,49"
   },
   {
@@ -170292,7 +170036,7 @@
     "fabric": "DP8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN ATE 99 DP8EA-9 NGK",
-    "estoque": "170",
+    "estoque": "169",
     "preco": "20,99"
   },
   {
@@ -173484,7 +173228,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "102",
+    "estoque": "101",
     "preco": "6,29"
   },
   {
@@ -173556,7 +173300,7 @@
     "fabric": "1010F",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM FUME POLIVISOR",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "6,62"
   },
   {
