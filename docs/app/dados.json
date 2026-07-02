@@ -4564,7 +4564,7 @@
     "fabric": "ATR010-1",
     "marca": "ATROX",
     "nome": "ANTENA CORTA PIPA GUIDAO 7 ESTAGIOS ATROX CROMADA",
-    "estoque": "11",
+    "estoque": "9",
     "preco": "20,99"
   },
   {
@@ -6972,7 +6972,7 @@
     "fabric": "100201201",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO TITAN 150 04/08 CROMADO REFORCADO POLIMET",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "103,95"
   },
   {
@@ -8388,7 +8388,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "513",
+    "estoque": "512",
     "preco": "124,07"
   },
   {
@@ -8444,7 +8444,7 @@
     "fabric": "00910B",
     "marca": "RAIOM",
     "nome": "BATERIA CB500/CBR600/BANDIT 650/KANSAS RTX9- RAIOM",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "219,44"
   },
   {
@@ -8700,7 +8700,7 @@
     "fabric": "BP-09FM",
     "marca": "TORK",
     "nome": "BAULETO TORK SMART BOX 2 PRETO 45 LITROS (LENTE FUME)",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "155,4"
   },
   {
@@ -23604,7 +23604,7 @@
     "fabric": "90.20830154",
     "marca": "CONTROLFLEX",
     "nome": "CABO ACELERADOR YBR FACTOR 2009 /12 CONTROLFLEX +",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "11,38"
   },
   {
@@ -27092,7 +27092,7 @@
     "fabric": "KOI0076",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM YBR FACTOR 09/12 MOTOKOI",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "12,38"
   },
   {
@@ -32628,7 +32628,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "204",
+    "estoque": "202",
     "preco": "14,69"
   },
   {
@@ -58524,7 +58524,7 @@
     "fabric": "3967",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TITAN 160 C/ BORRACHA PROJETIL",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "20,99"
   },
   {
@@ -68116,7 +68116,7 @@
     "fabric": "TM208",
     "marca": "TMAC",
     "nome": "CORRENTE TRANSMISSAO 428UO X 118L TMAC C/ RETENTOR",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "86,51"
   },
   {
@@ -70180,7 +70180,7 @@
     "fabric": "KOI00300",
     "marca": "MOTOKOI BR",
     "nome": "CUBO RODA TITAN 150 TRASEIRA MOTOKOI BR",
-    "estoque": "41",
+    "estoque": "40",
     "preco": "122,85"
   },
   {
@@ -73460,7 +73460,7 @@
     "fabric": "09011",
     "marca": "REGGIO",
     "nome": "EIXO CAVALETE CENTRAL TITAN 150/TITAN 125 REGGIO",
-    "estoque": "52",
+    "estoque": "51",
     "preco": "16,79"
   },
   {
@@ -85668,7 +85668,7 @@
     "fabric": "90255010",
     "marca": "MAGNETRON",
     "nome": "FUSIVEL 10A VIDRO MAGNETRON",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "1,28"
   },
   {
@@ -85740,7 +85740,7 @@
     "fabric": "90255020",
     "marca": "MAGNETRON",
     "nome": "FUSIVEL 15A VIDRO MAGNETRON",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "1,31"
   },
   {
@@ -90004,7 +90004,7 @@
     "fabric": "100408901",
     "marca": "POLIMET",
     "nome": "GUIDAO TITAN 160/FAN 160 POLIMET",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "44,63"
   },
   {
@@ -101692,7 +101692,7 @@
     "fabric": "001-KOI-061H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO CB 250 MOTOKOI (40/13/520HX110L)",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "103,95"
   },
   {
@@ -106668,7 +106668,7 @@
     "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "1139",
+    "estoque": "1137",
     "preco": "30,44"
   },
   {
@@ -106684,7 +106684,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "4651",
+    "estoque": "4650",
     "preco": "36,74"
   },
   {
@@ -106716,7 +106716,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "8994",
+    "estoque": "8988",
     "preco": "27,29"
   },
   {
@@ -106836,7 +106836,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "1689",
+    "estoque": "1688",
     "preco": "18,89"
   },
   {
@@ -111372,7 +111372,7 @@
     "fabric": "305",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 160 ESQUERDO PROTEC",
-    "estoque": "85",
+    "estoque": "84",
     "preco": "13,52"
   },
   {
@@ -112548,7 +112548,7 @@
     "fabric": "5561",
     "marca": "GVS",
     "nome": "MANOPLA TITAN 2000 GVS",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "14,64"
   },
   {
@@ -114684,7 +114684,7 @@
     "fabric": "MNP0207",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON PRETA",
-    "estoque": "133",
+    "estoque": "132",
     "preco": "137,76"
   },
   {
@@ -128868,7 +128868,7 @@
     "fabric": "KOI-00100 D",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 1,00 DIANT/TRAS MOTOKOI BR",
-    "estoque": "200",
+    "estoque": "199",
     "preco": "17,84"
   },
   {
@@ -157028,7 +157028,7 @@
     "fabric": "1397",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150/TITAN 125 NOVA PAR NEXPART",
-    "estoque": "134",
+    "estoque": "133",
     "preco": "20,99"
   },
   {
@@ -169468,7 +169468,7 @@
     "fabric": "23002K",
     "marca": "MOTOKOI BR",
     "nome": "VARAO FREIO TITAN 99/00 MOTOKOI",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "11,54"
   },
   {
@@ -170124,7 +170124,7 @@
     "fabric": "C7HSA",
     "marca": "NGK",
     "nome": "VELA YBR 125 /DREAM/POP C7HSA NGK",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "20,99"
   },
   {
