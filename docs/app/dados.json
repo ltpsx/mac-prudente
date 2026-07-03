@@ -8556,7 +8556,7 @@
     "fabric": "008N10B",
     "marca": "RAIOM",
     "nome": "BATERIA YES/INTRUDER 125/VBLADE RTX8N-BS RAIOM",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "178,49"
   },
   {
@@ -10204,7 +10204,7 @@
     "fabric": "10121581",
     "marca": "WGK",
     "nome": "BIELA TITAN 150/BROS 150 WGK",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "76,11"
   },
   {
@@ -10260,7 +10260,7 @@
     "fabric": "1104294",
     "marca": "TXK",
     "nome": "BIELA TITAN 160/BROS 160/XRE 190 TXK",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "203,1"
   },
   {
@@ -24932,7 +24932,7 @@
     "fabric": "KOI0084",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM BROS 160 EDD/ESD/ES MOTOKOI",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "8,03"
   },
   {
@@ -31468,7 +31468,7 @@
     "fabric": "TM565",
     "marca": "TMAC",
     "nome": "CAIXA DIRECAO COLAR FACTOR 125/FACTOR 150/FAZER 150 TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "21"
   },
   {
@@ -35100,7 +35100,7 @@
     "fabric": "KOI0203",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 160/TITAN 150 14/20/FAN 125 14/20/FAN 150 14/20 PT MOTOKOI",
-    "estoque": "148",
+    "estoque": "147",
     "preco": "17,61"
   },
   {
@@ -39376,14 +39376,6 @@
     "preco": "160,03"
   },
   {
-    "codigo": "30614",
-    "fabric": "BCO",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF E0X SPECTRO BRANCO/PRETO 56",
-    "estoque": "0",
-    "preco": "188,64"
-  },
-  {
     "codigo": "30618",
     "fabric": "BCO",
     "marca": "EBF",
@@ -39440,14 +39432,6 @@
     "preco": "169,8"
   },
   {
-    "codigo": "30647",
-    "fabric": "11860 F01",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF E0X TITANIO PRETO FOSCO/AMARELO 56",
-    "estoque": "0",
-    "preco": "188,64"
-  },
-  {
     "codigo": "30761",
     "fabric": "F01",
     "marca": "EBF",
@@ -39486,14 +39470,6 @@
     "nome": "CAPACETE EBF NEW SPARK AIR PRETO FOSCO/AZUL 61/62",
     "estoque": "0",
     "preco": "201,5"
-  },
-  {
-    "codigo": "34091",
-    "fabric": "",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK AIR PRETO FOSCO/PRATA 56",
-    "estoque": "0",
-    "preco": "214,28"
   },
   {
     "codigo": "34092",
@@ -39728,14 +39704,6 @@
     "preco": "241,4"
   },
   {
-    "codigo": "32193",
-    "fabric": "1225060F02",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK BLACK EDITION II PRETO FOSCO/AZUL 60",
-    "estoque": "0",
-    "preco": "241,4"
-  },
-  {
     "codigo": "32194",
     "fabric": "1225061F02",
     "marca": "EBF",
@@ -39750,30 +39718,6 @@
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION II PRETO FOSCO/PRATA 56",
     "estoque": "0",
     "preco": "241,4"
-  },
-  {
-    "codigo": "32196",
-    "fabric": "1225058F04",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK BLACK EDITION II PRETO FOSCO/PRATA 58",
-    "estoque": "0",
-    "preco": "241,4"
-  },
-  {
-    "codigo": "32197",
-    "fabric": "1225060F04",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK BLACK EDITION II PRETO FOSCO/PRATA 60",
-    "estoque": "0",
-    "preco": "241,4"
-  },
-  {
-    "codigo": "32198",
-    "fabric": "1225061F04",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK BLACK EDITION II PRETO FOSCO/PRATA 61/62",
-    "estoque": "0",
-    "preco": "241,38"
   },
   {
     "codigo": "32203",
@@ -39804,14 +39748,6 @@
     "fabric": "1225056F05",
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK BLACK EDITION II PRETO FOSCO/VERMELHO 56",
-    "estoque": "0",
-    "preco": "241,4"
-  },
-  {
-    "codigo": "32200",
-    "fabric": "1225058F05",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK BLACK EDITION II PRETO FOSCO/VERMELHO 58",
     "estoque": "0",
     "preco": "241,4"
   },
@@ -40744,14 +40680,6 @@
     "preco": "241,4"
   },
   {
-    "codigo": "38342",
-    "fabric": "1267061P04",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK MIXED BLUE PRETO/PRATA 61/62",
-    "estoque": "0",
-    "preco": "241,4"
-  },
-  {
     "codigo": "38343",
     "fabric": "1267056P07",
     "marca": "EBF",
@@ -40792,14 +40720,6 @@
     "preco": "241,4"
   },
   {
-    "codigo": "38349",
-    "fabric": "1267060P10",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK MIXED BLUE PRETO/VERDE 60",
-    "estoque": "0",
-    "preco": "241,4"
-  },
-  {
     "codigo": "38351",
     "fabric": "1267056P05",
     "marca": "EBF",
@@ -40812,22 +40732,6 @@
     "fabric": "1267058P05",
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK MIXED BLUE PRETO/VERMELHO 58",
-    "estoque": "0",
-    "preco": "241,4"
-  },
-  {
-    "codigo": "38353",
-    "fabric": "1267060P05",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK MIXED BLUE PRETO/VERMELHO 60",
-    "estoque": "0",
-    "preco": "241,4"
-  },
-  {
-    "codigo": "38354",
-    "fabric": "1267061P05",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK MIXED BLUE PRETO/VERMELHO 61/62",
     "estoque": "0",
     "preco": "241,4"
   },
@@ -41136,36 +41040,12 @@
     "preco": "279,32"
   },
   {
-    "codigo": "51718",
-    "fabric": "1314056P07",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/ROSA 56",
-    "estoque": "0",
-    "preco": "229,85"
-  },
-  {
-    "codigo": "51719",
-    "fabric": "1314058P07",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/ROSA 58",
-    "estoque": "0",
-    "preco": "229,85"
-  },
-  {
     "codigo": "51720",
     "fabric": "1314060P07",
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/ROSA 60",
     "estoque": "0",
     "preco": "229,85"
-  },
-  {
-    "codigo": "51721",
-    "fabric": "1314061P07",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/ROSA 61",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "51722",
@@ -41182,22 +41062,6 @@
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/TIFANY 58",
     "estoque": "0",
     "preco": "229,85"
-  },
-  {
-    "codigo": "51724",
-    "fabric": "1314060P17",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/TIFANY 60",
-    "estoque": "0",
-    "preco": "229,85"
-  },
-  {
-    "codigo": "51725",
-    "fabric": "1314061P17",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/TIFANY 61/62",
-    "estoque": "0",
-    "preco": "0"
   },
   {
     "codigo": "51714",
@@ -41220,14 +41084,6 @@
     "fabric": "1314060P05",
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/VERMELHO 60",
-    "estoque": "0",
-    "preco": "229,85"
-  },
-  {
-    "codigo": "51717",
-    "fabric": "1314061P05",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK SPINNER PRETO/VERMELHO 61/62",
     "estoque": "0",
     "preco": "229,85"
   },
@@ -41612,14 +41468,6 @@
     "fabric": "1316058P07",
     "marca": "EBF",
     "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/ROSA 58",
-    "estoque": "0",
-    "preco": "241,4"
-  },
-  {
-    "codigo": "51935",
-    "fabric": "1316060P07",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF NEW SPARK ZOIIM PRETO/ROSA 60",
     "estoque": "0",
     "preco": "241,4"
   },
@@ -42388,7 +42236,7 @@
     "fabric": "1250060PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SOLID PRETO FOSCO 60",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "131,25"
   },
   {
@@ -44968,30 +44816,6 @@
     "preco": "348,78"
   },
   {
-    "codigo": "40515",
-    "fabric": "1232058F02",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF X TROY SV LEGACY PRETO FOSCO/AZUL 58",
-    "estoque": "0",
-    "preco": "348,79"
-  },
-  {
-    "codigo": "40516",
-    "fabric": "1232060F02",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF X TROY SV LEGACY PRETO FOSCO/AZUL 60",
-    "estoque": "0",
-    "preco": "348,79"
-  },
-  {
-    "codigo": "40518",
-    "fabric": "1232058F05",
-    "marca": "EBF",
-    "nome": "CAPACETE EBF X TROY SV LEGACY PRETO FOSCO/VERMELHO 58",
-    "estoque": "0",
-    "preco": "348,79"
-  },
-  {
     "codigo": "48304",
     "fabric": "",
     "marca": "EBF",
@@ -47092,7 +46916,7 @@
     "fabric": "10013517",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO FEMME PRETO 58",
-    "estoque": "39",
+    "estoque": "38",
     "preco": "178,48"
   },
   {
@@ -60236,7 +60060,7 @@
     "fabric": "90260570",
     "marca": "MAGNETRON",
     "nome": "CHAVE CONTATO TITAN 160 18/20/FAN 160 18/20 MAGNETRON",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "110,25"
   },
   {
@@ -68108,7 +67932,7 @@
     "fabric": "44110K",
     "marca": "MOTOKOI BR",
     "nome": "COXIM AMORTECEDOR MOTOKOI  INFERIOR/SUPERIOR TITAN 150 04-12/TITAN 125 02-12",
-    "estoque": "48",
+    "estoque": "46",
     "preco": "5,25"
   },
   {
@@ -68476,7 +68300,7 @@
     "fabric": "14002K",
     "marca": "MOTOKOI BR",
     "nome": "COXIM COROA TITAN 150/TITAN 160 MOTOKOI (4 PCS)",
-    "estoque": "84",
+    "estoque": "83",
     "preco": "11,54"
   },
   {
@@ -81372,7 +81196,7 @@
     "fabric": "811700",
     "marca": "MELC",
     "nome": "FAROL COMPLETO TIT125 00-04/FAN125 05-13 MELC (811700)",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "41,27"
   },
   {
@@ -83812,7 +83636,7 @@
     "fabric": "KL741",
     "marca": "MAHLE",
     "nome": "FILTRO COMBUSTIVEL TITAN 150 09 MIX/FLEX MAHLE",
-    "estoque": "114",
+    "estoque": "111",
     "preco": "12,59"
   },
   {
@@ -84444,7 +84268,7 @@
     "fabric": "KOI0355",
     "marca": "MOTOKOI",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX MOTOKOI",
-    "estoque": "183",
+    "estoque": "181",
     "preco": "4,19"
   },
   {
@@ -97412,7 +97236,7 @@
     "fabric": "VS05003010301",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 150/BROS 150 06/07 VEDAMOTORS",
-    "estoque": "65",
+    "estoque": "64",
     "preco": "9,44"
   },
   {
@@ -97644,7 +97468,7 @@
     "fabric": "VS05004015400",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TITAN 150/BROS 150 VEDAMOTORS",
-    "estoque": "138",
+    "estoque": "137",
     "preco": "5,78"
   },
   {
@@ -101588,7 +101412,7 @@
     "fabric": "001-KOI-034H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 150 MOTOKOI (43/16/428HX118)",
-    "estoque": "49",
+    "estoque": "47",
     "preco": "57,74"
   },
   {
@@ -101692,7 +101516,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "137",
+    "estoque": "136",
     "preco": "57,74"
   },
   {
@@ -102284,7 +102108,7 @@
     "fabric": "VE05084000004",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA CG 160 VEDAMOTORS",
-    "estoque": "97",
+    "estoque": "95",
     "preco": "10,49"
   },
   {
@@ -102700,7 +102524,7 @@
     "fabric": "LF-01 SB",
     "marca": "STALLION",
     "nome": "LAMPADA LED FAROL TITAN H4 LED STALLION",
-    "estoque": "140",
+    "estoque": "138",
     "preco": "18,38"
   },
   {
@@ -105140,7 +104964,7 @@
     "fabric": "6715/1715",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 125/TITAN 150/BROS 150 14 DD/TE CRISTAL GVS",
-    "estoque": "82",
+    "estoque": "81",
     "preco": "8,39"
   },
   {
@@ -105148,7 +104972,7 @@
     "fabric": "1716",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 125/TITAN 150/BROS 150 14 DE/TD CRISTAL GVS",
-    "estoque": "69",
+    "estoque": "68",
     "preco": "8,39"
   },
   {
@@ -105572,7 +105396,7 @@
     "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "1136",
+    "estoque": "1130",
     "preco": "30,44"
   },
   {
@@ -105620,7 +105444,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "8909",
+    "estoque": "8902",
     "preco": "27,29"
   },
   {
@@ -105628,7 +105452,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "83",
+    "estoque": "82",
     "preco": "45,14"
   },
   {
@@ -105740,7 +105564,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "1634",
+    "estoque": "1629",
     "preco": "18,89"
   },
   {
@@ -114468,7 +114292,7 @@
     "fabric": "28261-KRM-840",
     "marca": "HONDA",
     "nome": "MOLA PEDAL PARTIDA INTERNA TITAN 150/BROS 150 ORIGINAL HONDA",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "24,23"
   },
   {
@@ -124324,7 +124148,7 @@
     "fabric": "KOI0366",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO BROS 160/BIZ 125/PCX 19 CBS DIANT MOTOKOI",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "12,59"
   },
   {
@@ -125028,7 +124852,7 @@
     "fabric": "KOI-00201",
     "marca": "MOTOKOI BR",
     "nome": "PASTILHA FREIO FALCON/BROSS/TORNADO/XR200/NX350/XRE300 SEM ABS DIANTEIRO MOTOKOI BR",
-    "estoque": "31",
+    "estoque": "30",
     "preco": "13,64"
   },
   {
@@ -125572,7 +125396,7 @@
     "fabric": "N949",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TITAN 150 PARTIR DE 2009 DIANT COBREQ N-949",
-    "estoque": "61",
+    "estoque": "60",
     "preco": "27,03"
   },
   {
@@ -126908,7 +126732,7 @@
     "fabric": "KOI-00100 A",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,25 DIANT/TRAS MOTOKOI BR",
-    "estoque": "72",
+    "estoque": "71",
     "preco": "15,74"
   },
   {
@@ -126948,7 +126772,7 @@
     "fabric": "KOI-00100 B",
     "marca": "MOTOKOI BR",
     "nome": "PATIM FREIO TITAN 00/TITAN 150 0,50 DIANT/TRAS MOTOKOI BR",
-    "estoque": "330",
+    "estoque": "329",
     "preco": "15,74"
   },
   {
@@ -138772,8 +138596,8 @@
     "fabric": "554101",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 110/70-17 LEVORIN MATRIX II 59S CB 300 TL",
-    "estoque": "7",
-    "preco": "356,99"
+    "estoque": "6",
+    "preco": "375,82"
   },
   {
     "codigo": "41144",
@@ -138893,7 +138717,7 @@
     "marca": "MICHELIN",
     "nome": "PNEU DIANT 120/70-19 MICHELIN ANAKEE ADVENTURE R 19 60V TL/TT",
     "estoque": "0",
-    "preco": "1258,95"
+    "preco": "1495,22"
   },
   {
     "codigo": "38850",
@@ -138933,7 +138757,7 @@
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 2.75-17 LEVORIN DAKAR 2 TL 47P",
     "estoque": "0",
-    "preco": "233,32"
+    "preco": "257"
   },
   {
     "codigo": "42689",
@@ -139125,7 +138949,7 @@
     "marca": "MICHELIN",
     "nome": "PNEU DIANT 80/100-18 MICHELIN CITY EXTRA F 47S TL",
     "estoque": "8",
-    "preco": "283,49"
+    "preco": "293,81"
   },
   {
     "codigo": "34801",
@@ -139133,7 +138957,7 @@
     "marca": "MICHELIN",
     "nome": "PNEU DIANT 80/100-18 MICHELIN PILOT STREET 2 TL/TT 47S",
     "estoque": "6",
-    "preco": "309,75"
+    "preco": "325,32"
   },
   {
     "codigo": "42967",
@@ -139229,7 +139053,7 @@
     "marca": "MICHELIN",
     "nome": "PNEU DIANT 90/90-19 MICHELIN ANAKEE STREET TL 52P",
     "estoque": "5",
-    "preco": "325,42"
+    "preco": "345,28"
   },
   {
     "codigo": "10076",
@@ -139325,7 +139149,7 @@
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 100/80-18 MICHELIN PILOT STREET 2 TL 59S",
     "estoque": "0",
-    "preco": "351,75"
+    "preco": "375,83"
   },
   {
     "codigo": "46201",
@@ -139341,7 +139165,7 @@
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 100/90-10 LEVORIN MATRIX SCOOTER TL",
     "estoque": "1",
-    "preco": "262,49"
+    "preco": "313,72"
   },
   {
     "codigo": "42671",
@@ -139357,7 +139181,7 @@
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 100/90-14 LEVORIN MATRIX SCOOTER TL PCX",
     "estoque": "17",
-    "preco": "393,96"
+    "preco": "408,1"
   },
   {
     "codigo": "38851",
@@ -139485,7 +139309,7 @@
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 110/80-14 PILOT STREET 2 59S TL MICHELIN PCX",
     "estoque": "3",
-    "preco": "341,25"
+    "preco": "370,3"
   },
   {
     "codigo": "42953",
@@ -139677,7 +139501,7 @@
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 130/70-17 LEVORIN MATRIX SPORT II 68S TWISTER/FAZER",
     "estoque": "0",
-    "preco": "463,05"
+    "preco": "478,47"
   },
   {
     "codigo": "6411",
@@ -139765,7 +139589,7 @@
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 140/70-17 LEVORIN MATRIX SPORT II CB 300",
     "estoque": "2",
-    "preco": "509,24"
+    "preco": "517,82"
   },
   {
     "codigo": "15096",
@@ -139781,7 +139605,7 @@
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 140/70-17 MICHELIN PILOT STREET 2 R TL 66S CB 300",
     "estoque": "0",
-    "preco": "586,95"
+    "preco": "638,2"
   },
   {
     "codigo": "33794",
@@ -140004,7 +139828,7 @@
     "fabric": "16083",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 80/100-14 LEVORIN MATRIX BIZ",
-    "estoque": "162",
+    "estoque": "161",
     "preco": "236,25"
   },
   {
@@ -140020,7 +139844,7 @@
     "fabric": "16083",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 80/100-14 MICHELIN PILOT STREET 2 49S TL BIZ",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "288,75"
   },
   {
@@ -140076,7 +139900,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "133",
+    "estoque": "131",
     "preco": "230,99"
   },
   {
@@ -141740,7 +141564,7 @@
     "fabric": "51202K",
     "marca": "MOTOKOI BR",
     "nome": "PRISIONEIRO COROA TITAN 150/FAN 09/TWISTER/CB 300 MOTOKOI (KIT C/PORCAS)",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "14,18"
   },
   {
@@ -141796,7 +141620,7 @@
     "fabric": "51203K",
     "marca": "MOTOKOI BR",
     "nome": "PRISIONEIRO COROA YBR MOTOKOI (KIT C/PORCAS E TRAVAS)",
-    "estoque": "33",
+    "estoque": "32",
     "preco": "11,03"
   },
   {
@@ -143302,14 +143126,6 @@
     "nome": "PROTETOR LATERAL NORISK SUPRA",
     "estoque": "1",
     "preco": "51,2"
-  },
-  {
-    "codigo": "25370",
-    "fabric": "4000111",
-    "marca": "EBF",
-    "nome": "PROTETOR LATERAL ORION/EBF 7 M12",
-    "estoque": "0",
-    "preco": "9,72"
   },
   {
     "codigo": "52939",
@@ -147556,7 +147372,7 @@
     "fabric": "1103",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA PRETO 42 X 42 MS EXTENSOR",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "12,59"
   },
   {
@@ -147836,7 +147652,7 @@
     "fabric": "TC901",
     "marca": "TMAC",
     "nome": "REFIL BOMBA COMBUSTIVEL FAZER 250 06/14/LANDER 250 07/13/TENERE 11/13 FLEX TMAC C/FILTRO",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "120,07"
   },
   {
@@ -147964,7 +147780,7 @@
     "fabric": "TC910",
     "marca": "TMAC",
     "nome": "REFIL BOMBA COMBUSTIVEL TITAN 150 14/15/TITAN 160/FAN 160 16/ED/BROS 160 ESD15/17/TWISTER16/22/XRE 190 16/ED TMAC C/FILTRO",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "103,95"
   },
   {
@@ -151548,7 +151364,7 @@
     "fabric": "7796N",
     "marca": "CORTECO",
     "nome": "RETENTOR BENGALA XRE 300/FALCON/TORNADO/LANDER CORTECO",
-    "estoque": "29",
+    "estoque": "28",
     "preco": "47,25"
   },
   {
@@ -167516,7 +167332,7 @@
     "fabric": "33504",
     "marca": "TRILHA",
     "nome": "VARAO FREIO TITAN 150 15/TITAN 160/FAN 160 CBS TRILHA",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "22,94"
   },
   {
@@ -168108,7 +167924,7 @@
     "fabric": "CPR8EA9",
     "marca": "NGK",
     "nome": "VELA TITAN 150/FAN 150 CPR8EA-9 NGK",
-    "estoque": "436",
+    "estoque": "435",
     "preco": "31,49"
   },
   {
@@ -171284,7 +171100,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "6,29"
   },
   {
