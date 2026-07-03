@@ -1380,7 +1380,7 @@
     "fabric": "344001",
     "marca": "MELC",
     "nome": "ABA TANQUE YBR FACTOR 09/12 PRETO MELC (344001)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "152,25"
   },
   {
@@ -6100,8 +6100,8 @@
     "fabric": "9020850101",
     "marca": "VINNI",
     "nome": "ARVORE COMANDO VALVULA TITAN 160/FAN 160/BROS 160/ XRE 190 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "3",
+    "preco": "74,82"
   },
   {
     "codigo": "26997",
@@ -6164,8 +6164,8 @@
     "fabric": "9020850004",
     "marca": "VINNI",
     "nome": "ARVORE COMANDO VALVULA TITAN/FAN 2000/08 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "126,95"
   },
   {
     "codigo": "15401",
@@ -9228,8 +9228,8 @@
     "fabric": "9020810346",
     "marca": "VINNI",
     "nome": "BIELA BIZ 110I/POP 110I 16 ED VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "63,67"
   },
   {
     "codigo": "42698",
@@ -9268,8 +9268,8 @@
     "fabric": "9020810005",
     "marca": "VINNI",
     "nome": "BIELA BIZ 125 06 ED VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "5",
+    "preco": "62,13"
   },
   {
     "codigo": "33206",
@@ -9540,8 +9540,8 @@
     "fabric": "9020810003",
     "marca": "VINNI",
     "nome": "BIELA CG/ML/TUR 82 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "100,38"
   },
   {
     "codigo": "50435",
@@ -9828,8 +9828,8 @@
     "fabric": "9020810093",
     "marca": "VINNI",
     "nome": "BIELA FAN 125 09/14 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "77,66"
   },
   {
     "codigo": "50434",
@@ -10108,8 +10108,8 @@
     "fabric": "9020810006",
     "marca": "VINNI",
     "nome": "BIELA TITAN 150/BROS 105 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "20",
+    "preco": "87,99"
   },
   {
     "codigo": "8759",
@@ -10124,8 +10124,8 @@
     "fabric": "9020810157",
     "marca": "VINNI",
     "nome": "BIELA TITAN 150/BROS 150 (DIAM.SUP.P.15 MM P/COMP.) VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "141,44"
   },
   {
     "codigo": "8159",
@@ -10276,8 +10276,8 @@
     "fabric": "9020810337",
     "marca": "VINNI",
     "nome": "BIELA TITAN 160/BROS 160/XRE 190 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "20",
+    "preco": "75,29"
   },
   {
     "codigo": "50437",
@@ -10292,8 +10292,8 @@
     "fabric": "9020810004",
     "marca": "VINNI",
     "nome": "BIELA TITAN/FAN 125 02/08/BROS 125 (DIAM.SUP.P.13 MM P/COMP) VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "85,82"
   },
   {
     "codigo": "8760",
@@ -10308,8 +10308,8 @@
     "fabric": "9020810158",
     "marca": "VINNI",
     "nome": "BIELA TITAN/FAN 125 02/08/BROS 125 (DIAM.SUP.P.15 MM P/COMP) VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "139,08"
   },
   {
     "codigo": "5138",
@@ -10420,8 +10420,8 @@
     "fabric": "9020810001",
     "marca": "VINNI",
     "nome": "BIELA TITAN/XLR/KS/ES 92/01 CBX/NX200 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "76,08"
   },
   {
     "codigo": "50433",
@@ -14700,8 +14700,8 @@
     "fabric": "9020880255",
     "marca": "VINNI",
     "nome": "BOMBA OLEO BIZ 125 06/18 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "56,88"
   },
   {
     "codigo": "42753",
@@ -14772,16 +14772,16 @@
     "fabric": "9020880257",
     "marca": "VINNI",
     "nome": "BOMBA OLEO CG 83/91 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "76,77"
   },
   {
     "codigo": "54280",
     "fabric": "9020880258",
     "marca": "VINNI",
     "nome": "BOMBA OLEO CG 92/99 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "78,81"
   },
   {
     "codigo": "42755",
@@ -14860,8 +14860,8 @@
     "fabric": "9020880579",
     "marca": "VINNI",
     "nome": "BOMBA OLEO FAZER/XTZ/FACTOR 125/150 14 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "51,08"
   },
   {
     "codigo": "42757",
@@ -14876,8 +14876,8 @@
     "fabric": "9020880259",
     "marca": "VINNI",
     "nome": "BOMBA OLEO TITAN 125 00-04/FAN 125 05-08/BROS 125 03-05/BROS 150 03-05/XLR 125 01-02 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "71,73"
   },
   {
     "codigo": "42758",
@@ -14892,8 +14892,8 @@
     "fabric": "9020880260",
     "marca": "VINNI",
     "nome": "BOMBA OLEO TITAN 150/BROS 06 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "3",
+    "preco": "37,46"
   },
   {
     "codigo": "42294",
@@ -14916,8 +14916,8 @@
     "fabric": "9020880472",
     "marca": "VINNI",
     "nome": "BOMBA OLEO TITAN YES 125/INTRUDER 125 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "52,08"
   },
   {
     "codigo": "42293",
@@ -14956,8 +14956,8 @@
     "fabric": "9020880263",
     "marca": "VINNI",
     "nome": "BOMBA OLEO YBR 125 00-08/XTZ 125 00-08/FACTOR 125 09-16 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "48,35"
   },
   {
     "codigo": "32220",
@@ -15492,7 +15492,7 @@
     "fabric": "44084K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA PEDALEIRA TITAN 160 DIANT MOTOKOI (PAR)",
-    "estoque": "293",
+    "estoque": "292",
     "preco": "9,44"
   },
   {
@@ -31324,8 +31324,8 @@
     "fabric": "9020880179",
     "marca": "VINNI",
     "nome": "CAIXA DIRECAO COLAR BIZ 100/BIZ 125/POP 100/PCX 150 DREAM/WEB 100 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "24,71"
   },
   {
     "codigo": "50471",
@@ -31364,8 +31364,8 @@
     "fabric": "9020880596",
     "marca": "VINNI",
     "nome": "CAIXA DIRECAO COLAR BURGMAN ATE 09 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "31,07"
   },
   {
     "codigo": "12134",
@@ -31476,8 +31476,8 @@
     "fabric": "9020880565",
     "marca": "VINNI",
     "nome": "CAIXA DIRECAO COLAR FACTOR 125/FACTOR 150/FAZER 150 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "27,37"
   },
   {
     "codigo": "46772",
@@ -31508,8 +31508,8 @@
     "fabric": "9020880482",
     "marca": "VINNI",
     "nome": "CAIXA DIRECAO COLAR FAZER 250/XTZ 250/XT 600 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "34,1"
   },
   {
     "codigo": "22540",
@@ -31556,8 +31556,8 @@
     "fabric": "9020880063",
     "marca": "VINNI",
     "nome": "CAIXA DIRECAO COLAR NX 200/XR 200/BROS 125/150/160/FALCON/TORNADO VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "23,87"
   },
   {
     "codigo": "50475",
@@ -31644,8 +31644,8 @@
     "fabric": "9020880064",
     "marca": "VINNI",
     "nome": "CAIXA DIRECAO COLAR TITAN 00/FAN 125/TITAN 150/TITAN 160 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "22,66"
   },
   {
     "codigo": "50474",
@@ -31684,8 +31684,8 @@
     "fabric": "9020880479",
     "marca": "VINNI",
     "nome": "CAIXA DIRECAO COLAR TWISTER/ CB300R/HORNET/CBR450-600-900-1000F/CB500 VINNI JOGO",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "5",
+    "preco": "36,29"
   },
   {
     "codigo": "50472",
@@ -31740,8 +31740,8 @@
     "fabric": "9020880508",
     "marca": "VINNI",
     "nome": "CAIXA DIRECAO COLAR YBR/RD/DT180/NEO VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "22,95"
   },
   {
     "codigo": "50476",
@@ -31772,8 +31772,8 @@
     "fabric": "9020880566",
     "marca": "VINNI",
     "nome": "CAIXA DIRECAO COLAR YES/KATANA/INTRUDER125 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "28,99"
   },
   {
     "codigo": "50477",
@@ -31860,8 +31860,8 @@
     "fabric": "9020880136",
     "marca": "VINNI",
     "nome": "CAIXA DIRECAO CONICO FACTOR 125 09-16/VIRAGO 250 95-02/MAX 125 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "26,36"
   },
   {
     "codigo": "45237",
@@ -41692,7 +41692,7 @@
     "fabric": "1337060PFO",
     "marca": "EBF",
     "nome": "CAPACETE EBF OPIUM SOLID PRETO FOSCO 60",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "361,69"
   },
   {
@@ -48516,8 +48516,8 @@
     "fabric": "9020840026",
     "marca": "VINNI",
     "nome": "CARBURADOR TITAN 02/04/FAN 125 05/08 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "120,91"
   },
   {
     "codigo": "44232",
@@ -48588,8 +48588,8 @@
     "fabric": "9020840029",
     "marca": "VINNI",
     "nome": "CARBURADOR TITAN 150 04/08 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "3",
+    "preco": "137,12"
   },
   {
     "codigo": "26109",
@@ -48644,8 +48644,8 @@
     "fabric": "9020840065",
     "marca": "VINNI",
     "nome": "CARBURADOR TWISTER VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "1",
+    "preco": "455,21"
   },
   {
     "codigo": "28303",
@@ -60532,16 +60532,16 @@
     "fabric": "9020890070",
     "marca": "VINNI",
     "nome": "CHAVETA TRAVA VALVULA CG 125 ATE 01 / CBX NX 150 200 / XLR 125 UNID. VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "5,99"
   },
   {
     "codigo": "54323",
     "fabric": "9020890069",
     "marca": "VINNI",
     "nome": "CHAVETA TRAVA VALVULA TITAN 150 04 ED/TITAN 150 09 ED/FAN 125 09 ED/BROS 125 13-14 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "6,65"
   },
   {
     "codigo": "12493",
@@ -66596,8 +66596,8 @@
     "fabric": "9020800070",
     "marca": "VINNI",
     "nome": "CORREIA TRANSMISSAO BURGMAN 125 2008-14 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "46,78"
   },
   {
     "codigo": "26410",
@@ -66644,8 +66644,8 @@
     "fabric": "9020800069",
     "marca": "VINNI",
     "nome": "CORREIA TRANSMISSAO LEAD 110 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "51,41"
   },
   {
     "codigo": "44571",
@@ -66684,8 +66684,8 @@
     "fabric": "9020800086",
     "marca": "VINNI",
     "nome": "CORREIA TRANSMISSAO NMAX 160 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "90,28"
   },
   {
     "codigo": "43396",
@@ -67012,8 +67012,8 @@
     "fabric": "9020850013",
     "marca": "VINNI",
     "nome": "CORRENTE COMANDO TITAN 150 04-13/FAN 125/150 09-13 94 L VINNI (SILENCIOSA)",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "28,05"
   },
   {
     "codigo": "23137",
@@ -67052,8 +67052,8 @@
     "fabric": "9020850099",
     "marca": "VINNI",
     "nome": "CORRENTE COMANDO TITAN 160/BROS 160 15/XRE 190 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "29,46"
   },
   {
     "codigo": "52879",
@@ -70212,8 +70212,8 @@
     "fabric": "9020870024",
     "marca": "VINNI",
     "nome": "DISCO EMBREAGEM CB 300/XRE 300/FALCON VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "65,39"
   },
   {
     "codigo": "11527",
@@ -70644,8 +70644,8 @@
     "fabric": "9020870004",
     "marca": "VINNI",
     "nome": "DISCO EMBREAGEM TITAN 150/TITAN 160/XRE 190 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "20",
+    "preco": "20,7"
   },
   {
     "codigo": "44548",
@@ -75012,8 +75012,8 @@
     "fabric": "9020870014",
     "marca": "VINNI",
     "nome": "EMBREAGEM KIT COMPLETO CG/TIT95-99/TIT00-04 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "88,29"
   },
   {
     "codigo": "37609",
@@ -75228,8 +75228,8 @@
     "fabric": "9020870034",
     "marca": "VINNI",
     "nome": "EMBREAGEM KIT COMPLETO TITAN 150 04/15/FAN 150/FAN 125 09/BROS 150 09/14 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "96,53"
   },
   {
     "codigo": "37610",
@@ -75284,8 +75284,8 @@
     "fabric": "9020870117",
     "marca": "VINNI",
     "nome": "EMBREAGEM KIT COMPLETO TITAN 160/XRE 190 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "96,93"
   },
   {
     "codigo": "37611",
@@ -75412,8 +75412,8 @@
     "fabric": "9020870035",
     "marca": "VINNI",
     "nome": "EMBREAGEM PRIMARIA BIZ 100 98/01 (TACA+PESO) VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "201,56"
   },
   {
     "codigo": "51423",
@@ -75452,8 +75452,8 @@
     "fabric": "9020870036",
     "marca": "VINNI",
     "nome": "EMBREAGEM PRIMARIA BIZ 125 06-10 (TACA+PESO) VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "285,44"
   },
   {
     "codigo": "51424",
@@ -83724,7 +83724,7 @@
     "fabric": "S410210202003P",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO COMBUSTIVEL UNIVERSAL VEDAMOTORS TRANSPARENTE",
-    "estoque": "328",
+    "estoque": "326",
     "preco": "4,73"
   },
   {
@@ -84900,7 +84900,7 @@
     "fabric": "A6",
     "marca": "STALLION",
     "nome": "FONE BLUETOOTH ST-A6 STALLION (INTERNO)",
-    "estoque": "96",
+    "estoque": "95",
     "preco": "77,78"
   },
   {
@@ -85892,7 +85892,7 @@
     "fabric": "10013100",
     "marca": "SIVERST",
     "nome": "GICLEUR Nº 100 TOD/TIT/NX 150/TIT 00 SIVERST",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "6,29"
   },
   {
@@ -88676,8 +88676,8 @@
     "fabric": "9020890116",
     "marca": "VINNI",
     "nome": "GUIA VALVULA TITAN 150/NXR 150 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "20",
+    "preco": "7,17"
   },
   {
     "codigo": "39602",
@@ -95172,8 +95172,8 @@
     "fabric": "9020880139",
     "marca": "VINNI",
     "nome": "JOGO RAIO DIANT BIZ 100/125 VINNI 4MM",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "30",
+    "preco": "39,6"
   },
   {
     "codigo": "11170",
@@ -95396,8 +95396,8 @@
     "fabric": "9020880126",
     "marca": "VINNI",
     "nome": "JOGO RAIO DIANT TITAN 2000/150 ES 4MM DISCO VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "37,24"
   },
   {
     "codigo": "22794",
@@ -95724,8 +95724,8 @@
     "fabric": "9020880124",
     "marca": "VINNI",
     "nome": "JOGO RAIO DIANT/TRAS TITAN 00/FAN KS 00/TITAN 150/TITAN 160 VINNI 4MM",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "5",
+    "preco": "34,25"
   },
   {
     "codigo": "11034",
@@ -95812,8 +95812,8 @@
     "fabric": "9020880138",
     "marca": "VINNI",
     "nome": "JOGO RAIO TRAS BIZ 100/125/POP VINNI 4,00 MM",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "30",
+    "preco": "38,82"
   },
   {
     "codigo": "0200000535667",
@@ -98916,8 +98916,8 @@
     "fabric": "9020840004",
     "marca": "VINNI",
     "nome": "KIT CILINDRO TITAN 150 04-15/FAN 150 10-15/BROS 150 06-15 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "272,08"
   },
   {
     "codigo": "49192",
@@ -98956,8 +98956,8 @@
     "fabric": "9020840069",
     "marca": "VINNI",
     "nome": "KIT CILINDRO TITAN 160/BROS 160/FAN 160 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "293,61"
   },
   {
     "codigo": "36878",
@@ -105412,7 +105412,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "4614",
+    "estoque": "4613",
     "preco": "36,74"
   },
   {
@@ -105444,7 +105444,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "8896",
+    "estoque": "8891",
     "preco": "27,29"
   },
   {
@@ -105580,7 +105580,7 @@
     "fabric": "",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 10W40 SEMI SINTETICO",
-    "estoque": "69",
+    "estoque": "68",
     "preco": "49,88"
   },
   {
@@ -112092,8 +112092,8 @@
     "fabric": "9020780161",
     "marca": "VINNI",
     "nome": "MESA PORTA ESCOVA TITAN 150 / FAN 09 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "7,56"
   },
   {
     "codigo": "2381",
@@ -115892,8 +115892,8 @@
     "fabric": "9020880243",
     "marca": "VINNI",
     "nome": "PAINEL BIZ 125 05/08 KS/ES VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "4",
+    "preco": "144,65"
   },
   {
     "codigo": "52015",
@@ -116756,8 +116756,8 @@
     "fabric": "9020880234",
     "marca": "VINNI",
     "nome": "PAINEL TITAN 125 95/99 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "111,24"
   },
   {
     "codigo": "25563",
@@ -117012,8 +117012,8 @@
     "fabric": "9020880238",
     "marca": "VINNI",
     "nome": "PAINEL TITAN 150 KS/ES 04/08 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "4",
+    "preco": "133,93"
   },
   {
     "codigo": "14951",
@@ -117204,8 +117204,8 @@
     "fabric": "9020880235",
     "marca": "VINNI",
     "nome": "PAINEL TITAN 2000 KS/ES VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "124,93"
   },
   {
     "codigo": "34865",
@@ -122524,7 +122524,7 @@
     "fabric": "304700",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 14/FAN 150 14/TITAN 160 EX 16 PRETO MELC (304700)",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "57,75"
   },
   {
@@ -123300,7 +123300,7 @@
     "fabric": "301907",
     "marca": "MELC",
     "nome": "PARALAMA DIANT YBR 125 02/08 PRETO MELC (301907)",
-    "estoque": "3",
+    "estoque": "4",
     "preco": "47,25"
   },
   {
@@ -124004,7 +124004,7 @@
     "fabric": "175701",
     "marca": "MELC",
     "nome": "PARALAMA TRASEIRO TITAN 160 EX (A) 16/22 PRETO MELC (175701)",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "36,75"
   },
   {
@@ -129828,8 +129828,8 @@
     "fabric": "9020870032",
     "marca": "VINNI",
     "nome": "PESO EMBREAGEM PRIMARIO BIZ 100 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "91,48"
   },
   {
     "codigo": "42316",
@@ -129844,8 +129844,8 @@
     "fabric": "9020870033",
     "marca": "VINNI",
     "nome": "PESO EMBREAGEM PRIMARIO BIZ 125 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "111,64"
   },
   {
     "codigo": "43245",
@@ -135620,8 +135620,8 @@
     "fabric": "9020810036",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 125 02/04/FAN 125 05/08 0,25 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "5",
+    "preco": "55,91"
   },
   {
     "codigo": "15285",
@@ -135676,8 +135676,8 @@
     "fabric": "9020810037",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 125 02/04/FAN 125 05/08 0,50 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "3",
+    "preco": "55,91"
   },
   {
     "codigo": "36231",
@@ -135724,8 +135724,8 @@
     "fabric": "9020810038",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 125 02/04/FAN 125 05/08 0,75 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "3",
+    "preco": "55,91"
   },
   {
     "codigo": "48947",
@@ -135780,8 +135780,8 @@
     "fabric": "9020810103",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 125 02/04/FAN 125 05/08 1,00 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "55,91"
   },
   {
     "codigo": "15288",
@@ -135796,8 +135796,8 @@
     "fabric": "9020810104",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 125 02/04/FAN 125 05/08 1,25 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "74,6"
   },
   {
     "codigo": "13338",
@@ -135820,16 +135820,16 @@
     "fabric": "9020810105",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 125 02/04/FAN 125 05/08 1,50 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "74,6"
   },
   {
     "codigo": "54352",
     "fabric": "9020810106",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 125 02/04/FAN 125 05/08 1,75 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "74,6"
   },
   {
     "codigo": "8175",
@@ -135844,8 +135844,8 @@
     "fabric": "9020810107",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 125 02/04/FAN 125 05/08 2,00 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "85,27"
   },
   {
     "codigo": "13447",
@@ -135876,8 +135876,8 @@
     "fabric": "9020810108",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 125 02/04/FAN 125 05/08 3,00 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "85,27"
   },
   {
     "codigo": "15025",
@@ -135908,8 +135908,8 @@
     "fabric": "9020810109",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 125 02/04/FAN 125 05/08 4,00 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "85,27"
   },
   {
     "codigo": "23401",
@@ -135972,8 +135972,8 @@
     "fabric": "9020810040",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 150/BROS 150 0,25 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "20",
+    "preco": "66,51"
   },
   {
     "codigo": "36226",
@@ -136020,8 +136020,8 @@
     "fabric": "9020810041",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 150/BROS 150 0,50 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "20",
+    "preco": "66,51"
   },
   {
     "codigo": "36227",
@@ -136116,8 +136116,8 @@
     "fabric": "9020810129",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 150/BROS 150 1,00 VINNI",
-    "estoque": "2",
-    "preco": "67,19"
+    "estoque": "7",
+    "preco": "64,76"
   },
   {
     "codigo": "13342",
@@ -136156,8 +136156,8 @@
     "fabric": "9020810131",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 150/BROS 150 1,50 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "81,96"
   },
   {
     "codigo": "18672",
@@ -136180,8 +136180,8 @@
     "fabric": "9020810132",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 150/BROS 150 1,75 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "81,96"
   },
   {
     "codigo": "33419",
@@ -136196,16 +136196,16 @@
     "fabric": "9020810325",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 150/BROS 150 190 CC 0,25 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "104,59"
   },
   {
     "codigo": "54368",
     "fabric": "9020810326",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 150/BROS 150 190 CC 0,50 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "104,59"
   },
   {
     "codigo": "23406",
@@ -136244,8 +136244,8 @@
     "fabric": "9020810324",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 150/BROS 150 190 CC STD VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "104,59"
   },
   {
     "codigo": "13431",
@@ -136276,8 +136276,8 @@
     "fabric": "9020810133",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 150/BROS 150 2,00 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "81,96"
   },
   {
     "codigo": "17699",
@@ -136332,8 +136332,8 @@
     "fabric": "9020810134",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 150/BROS 150 3,00 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "92,41"
   },
   {
     "codigo": "19797",
@@ -136364,8 +136364,8 @@
     "fabric": "9020810135",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 150/BROS 150 4,00 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "92,41"
   },
   {
     "codigo": "19794",
@@ -136436,8 +136436,8 @@
     "fabric": "9020810342",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 160/BROS 160 0,25 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "65,88"
   },
   {
     "codigo": "40296",
@@ -136484,8 +136484,8 @@
     "fabric": "9020810343",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 160/BROS 160 0,50 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "5",
+    "preco": "65,88"
   },
   {
     "codigo": "40297",
@@ -136524,8 +136524,8 @@
     "fabric": "9020810344",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 160/BROS 160 0,75 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "5",
+    "preco": "65,88"
   },
   {
     "codigo": "40298",
@@ -136580,8 +136580,8 @@
     "fabric": "9020810345",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 160/BROS 160 1,00 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "5",
+    "preco": "65,88"
   },
   {
     "codigo": "32654",
@@ -136628,8 +136628,8 @@
     "fabric": "9020810372",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 160/BROS 160 3,00 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "91,76"
   },
   {
     "codigo": "23255",
@@ -136652,8 +136652,8 @@
     "fabric": "9020810373",
     "marca": "VINNI",
     "nome": "PISTAO TITAN 160/BROS 160 4,00 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "5",
+    "preco": "91,76"
   },
   {
     "codigo": "34278",
@@ -139124,7 +139124,7 @@
     "fabric": "3017",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-21 TECHNIC TEC TT 54S",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "220,76"
   },
   {
@@ -139436,7 +139436,7 @@
     "fabric": "3019",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 120/80-18 TECHNIC TEC TORNADO/LANDER TT 62S",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "246,04"
   },
   {
@@ -139972,7 +139972,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "669",
+    "estoque": "667",
     "preco": "136,49"
   },
   {
@@ -140556,7 +140556,7 @@
     "fabric": "22562K",
     "marca": "MOTOKOI BR",
     "nome": "PORCA ESCAPAMENTO TITAN 00/STRADA 7MM MOTOKOI",
-    "estoque": "31",
+    "estoque": "29",
     "preco": "1,04"
   },
   {
@@ -143956,8 +143956,8 @@
     "fabric": "9020780069",
     "marca": "VINNI",
     "nome": "PUNHO LUZ FAN 05/08 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "38,43"
   },
   {
     "codigo": "27106",
@@ -143972,8 +143972,8 @@
     "fabric": "9020780071",
     "marca": "VINNI",
     "nome": "PUNHO LUZ FAN 125 14/15 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "37,94"
   },
   {
     "codigo": "46822",
@@ -144252,8 +144252,8 @@
     "fabric": "9020780068",
     "marca": "VINNI",
     "nome": "PUNHO LUZ TITAN 00/04 ES VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "42,13"
   },
   {
     "codigo": "13200",
@@ -144316,8 +144316,8 @@
     "fabric": "9020780067",
     "marca": "VINNI",
     "nome": "PUNHO LUZ TITAN 00/04 KS VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "41,15"
   },
   {
     "codigo": "0200000535728",
@@ -144348,8 +144348,8 @@
     "fabric": "9020780074",
     "marca": "VINNI",
     "nome": "PUNHO LUZ TITAN 150 09/11 KS/ES/ESD/MIX VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "39,66"
   },
   {
     "codigo": "0200000535681",
@@ -144412,8 +144412,8 @@
     "fabric": "9020780073",
     "marca": "VINNI",
     "nome": "PUNHO LUZ TITAN 150 ES/ESD 04/08/FAN 125 ES 09/13/FAN 150 ESI/ESDI 10/13 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "38,54"
   },
   {
     "codigo": "9036",
@@ -144468,8 +144468,8 @@
     "fabric": "9020780072",
     "marca": "VINNI",
     "nome": "PUNHO LUZ TITAN 150 KS 04/08/FAN 125 KS 09/13 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "38,72"
   },
   {
     "codigo": "10403",
@@ -144517,7 +144517,7 @@
     "marca": "SCUD",
     "nome": "PUNHO LUZ TITAN 160/FAN 160/FAN 125 ES/ESD/KS/FAN 150 ESDI 14/15/TITAN 150 14/15 ES/ESD/EX 14/15 SCUD",
     "estoque": "0",
-    "preco": "0"
+    "preco": "64,02"
   },
   {
     "codigo": "43490",
@@ -144532,8 +144532,8 @@
     "fabric": "9020780070",
     "marca": "VINNI",
     "nome": "PUNHO LUZ TITAN 160/FAN 160/FAN 125 ES/ESD/KS/FAN 150 ESDI 14/15/TITAN 150 14/15 ES/ESD/EX 14/15 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "40,46"
   },
   {
     "codigo": "23128",
@@ -144572,8 +144572,8 @@
     "fabric": "9020780066",
     "marca": "VINNI",
     "nome": "PUNHO LUZ TITAN 99 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "42,76"
   },
   {
     "codigo": "24411",
@@ -154225,7 +154225,7 @@
   },
   {
     "codigo": "45264",
-    "fabric": "5974",
+    "fabric": "8974",
     "marca": "GVS",
     "nome": "RETROVISOR LEAD 110 PRETO PAR ROSCA M8 GVS LENTE CONVEXA",
     "estoque": "12",
@@ -164644,8 +164644,8 @@
     "fabric": "9020880035",
     "marca": "VINNI",
     "nome": "TORNEIRA GASOLINA CG 125 83-88/TODAY 125 89-94/TITAN 125 94-04/FAN 125 05-08 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "5",
+    "preco": "13,52"
   },
   {
     "codigo": "8160",
@@ -164764,8 +164764,8 @@
     "fabric": "9020880033",
     "marca": "VINNI",
     "nome": "TORNEIRA GASOLINA TITAN 150 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "12,79"
   },
   {
     "codigo": "5903",
@@ -165500,8 +165500,8 @@
     "fabric": "9020890007",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO BIZ 100 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "12,04"
   },
   {
     "codigo": "32686",
@@ -165556,8 +165556,8 @@
     "fabric": "9020890001",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO BIZ 125 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "14,26"
   },
   {
     "codigo": "32688",
@@ -165580,8 +165580,8 @@
     "fabric": "9020890067",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO BURGMAN 125 06/10 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "35,77"
   },
   {
     "codigo": "47130",
@@ -165596,8 +165596,8 @@
     "fabric": "9020890101",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO BURGMAN 125I 11 ED VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "23,96"
   },
   {
     "codigo": "36248",
@@ -165660,8 +165660,8 @@
     "fabric": "9020890003",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO CBX/NX 150/200 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "20,14"
   },
   {
     "codigo": "1114",
@@ -165684,8 +165684,8 @@
     "fabric": "9020890032",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO CRYPTON 105 98-05/CRYPTON 115 10-16 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "17,47"
   },
   {
     "codigo": "36275",
@@ -165700,8 +165700,8 @@
     "fabric": "9020890092",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO FACTOR 125I 17 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "24,02"
   },
   {
     "codigo": "49883",
@@ -165716,8 +165716,8 @@
     "fabric": "9020890100",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO FALCON 400 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "24,57"
   },
   {
     "codigo": "36265",
@@ -165764,8 +165764,8 @@
     "fabric": "9020890057",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO FAN 09/ BROS 125 2013 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "4",
+    "preco": "14,46"
   },
   {
     "codigo": "32690",
@@ -165788,8 +165788,8 @@
     "fabric": "9020890079",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO FAZER 150 14/15 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "23,11"
   },
   {
     "codigo": "24883",
@@ -165948,8 +165948,8 @@
     "fabric": "9020890011",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO TITAN 02/08 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "8",
+    "preco": "17,76"
   },
   {
     "codigo": "36261",
@@ -166004,8 +166004,8 @@
     "fabric": "9020890010",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO TITAN 150 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "96",
+    "preco": "19,41"
   },
   {
     "codigo": "32692",
@@ -166044,8 +166044,8 @@
     "fabric": "9020890083",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO TITAN 160/BROS 160 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "96",
+    "preco": "18,19"
   },
   {
     "codigo": "32694",
@@ -166076,8 +166076,8 @@
     "fabric": "9020890005",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO TODAY/TITAN 92/01 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "8",
+    "preco": "16,58"
   },
   {
     "codigo": "36253",
@@ -166108,8 +166108,8 @@
     "fabric": "9020890013",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO TWISTER/TORNADO VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "17,7"
   },
   {
     "codigo": "32696",
@@ -166164,8 +166164,8 @@
     "fabric": "9020890087",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO XRE 190 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "3",
+    "preco": "22,11"
   },
   {
     "codigo": "36272",
@@ -166196,8 +166196,8 @@
     "fabric": "9020890017",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO YBR 125 00-16/XTZ 125 03-15 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "16,81"
   },
   {
     "codigo": "32698",
@@ -166228,8 +166228,8 @@
     "fabric": "9020890051",
     "marca": "VINNI",
     "nome": "VALVULA ADMISSAO YES/INTRUDER 125 06/12 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "18,19"
   },
   {
     "codigo": "35181",
@@ -166364,8 +166364,8 @@
     "fabric": "9020890008",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE BIZ 100 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "15,3"
   },
   {
     "codigo": "24968",
@@ -166420,8 +166420,8 @@
     "fabric": "9020890002",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE BIZ 125 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "10",
+    "preco": "17,72"
   },
   {
     "codigo": "32689",
@@ -166444,8 +166444,8 @@
     "fabric": "9020890068",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE BURGMAN 125 06/10 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "48,11"
   },
   {
     "codigo": "47129",
@@ -166460,8 +166460,8 @@
     "fabric": "9020890102",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE BURGMAN 125I 11 ED VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "28,5"
   },
   {
     "codigo": "36249",
@@ -166524,8 +166524,8 @@
     "fabric": "9020890004",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE CBX/NX 150/200 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "20,14"
   },
   {
     "codigo": "2144",
@@ -166548,8 +166548,8 @@
     "fabric": "9020890033",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE CRYPTON 105 98-05/CRYPTON 115 10-16 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "25,1"
   },
   {
     "codigo": "36274",
@@ -166564,8 +166564,8 @@
     "fabric": "9020890094",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE FACTOR 125I 17 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "28,97"
   },
   {
     "codigo": "36266",
@@ -166596,8 +166596,8 @@
     "fabric": "9020890099",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE FALCON VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "31,4"
   },
   {
     "codigo": "36254",
@@ -166628,8 +166628,8 @@
     "fabric": "9020890058",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE FAN 09/ BROS 125 2013 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "4",
+    "preco": "17,8"
   },
   {
     "codigo": "32691",
@@ -166652,8 +166652,8 @@
     "fabric": "9020890080",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE FAZER 150 14 ED VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "29,87"
   },
   {
     "codigo": "32702",
@@ -166700,8 +166700,8 @@
     "fabric": "9020890095",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE FAZER 250 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "35,91"
   },
   {
     "codigo": "32705",
@@ -166828,8 +166828,8 @@
     "fabric": "9020890009",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE TITAN 150 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "96",
+    "preco": "15,84"
   },
   {
     "codigo": "32693",
@@ -166868,8 +166868,8 @@
     "fabric": "9020890084",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE TITAN 160/BROS 160 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "96",
+    "preco": "23,1"
   },
   {
     "codigo": "32695",
@@ -166900,8 +166900,8 @@
     "fabric": "9020890012",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE TITAN/FAN 02/05 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "8",
+    "preco": "13,51"
   },
   {
     "codigo": "36260",
@@ -166932,8 +166932,8 @@
     "fabric": "9020890006",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE TODAY/TITAN CDI ATE 01 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "8",
+    "preco": "20,66"
   },
   {
     "codigo": "36252",
@@ -166964,8 +166964,8 @@
     "fabric": "9020890014",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE TWISTER/TORNADO/CB300/XRE300 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "23,77"
   },
   {
     "codigo": "32697",
@@ -167020,8 +167020,8 @@
     "fabric": "9020890088",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE XRE 190 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "3",
+    "preco": "27,43"
   },
   {
     "codigo": "36273",
@@ -167044,8 +167044,8 @@
     "fabric": "9020890018",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE YBR 125 00-16/XTZ 125 03-15 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "20,15"
   },
   {
     "codigo": "32700",
@@ -167068,8 +167068,8 @@
     "fabric": "9020890052",
     "marca": "VINNI",
     "nome": "VALVULA ESCAPE YES/INTRUDER 125 06/12 VINNI",
-    "estoque": "0",
-    "preco": "0"
+    "estoque": "2",
+    "preco": "32,57"
   },
   {
     "codigo": "27583",
