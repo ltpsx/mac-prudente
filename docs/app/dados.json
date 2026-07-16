@@ -12244,7 +12244,7 @@
     "fabric": "TM584",
     "marca": "TMAC",
     "nome": "BOBINA IGNICAO CRYPTON 105/NEO 115 TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "29,46"
   },
   {
@@ -25012,7 +25012,7 @@
     "fabric": "KOI0084",
     "marca": "MOTOKOI",
     "nome": "CABO EMBREAGEM BROS 160 EDD/ESD/ES MOTOKOI",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "8,03"
   },
   {
@@ -32420,7 +32420,7 @@
     "fabric": "KOI0167",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT BIZ MOTOKOI (250-17)",
-    "estoque": "230",
+    "estoque": "229",
     "preco": "14,16"
   },
   {
@@ -32604,7 +32604,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1775",
+    "estoque": "1774",
     "preco": "14,69"
   },
   {
@@ -32741,7 +32741,7 @@
     "marca": "LEVORIN",
     "nome": "CAMARA DE AR TRAS BIZ LEVORIN MSA 14",
     "estoque": "182",
-    "preco": "20,99"
+    "preco": "17,84"
   },
   {
     "codigo": "45537",
@@ -85308,7 +85308,7 @@
     "fabric": "PDM3010",
     "marca": "QINLIFE",
     "nome": "FONE BLUETOOTH V10 RGB QINLIFE",
-    "estoque": "75",
+    "estoque": "74",
     "preco": "47,25"
   },
   {
@@ -100533,7 +100533,7 @@
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO BIZ 100 13/15 MOTOKOI (34/14/428HX108L)",
     "estoque": "5",
-    "preco": "57,74"
+    "preco": "47,24"
   },
   {
     "codigo": "43022",
@@ -100621,7 +100621,7 @@
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO BIZ 125 MOTOKOI (34/14/428HX106L)",
     "estoque": "35",
-    "preco": "57,74"
+    "preco": "47,24"
   },
   {
     "codigo": "28783",
@@ -101245,7 +101245,7 @@
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FAN 125 09 MOTOKOI (43/14/428HX116L)",
     "estoque": "24",
-    "preco": "57,74"
+    "preco": "47,24"
   },
   {
     "codigo": "54412",
@@ -101293,7 +101293,7 @@
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO FAN 125 14/16 MOTOKOI (43/14/428HX118L)",
     "estoque": "3",
-    "preco": "57,74"
+    "preco": "47,24"
   },
   {
     "codigo": "43603",
@@ -101501,7 +101501,7 @@
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO GSR 150I MOTOKOI (42/15/428HX116L)",
     "estoque": "2",
-    "preco": "69,99"
+    "preco": "47,24"
   },
   {
     "codigo": "52909",
@@ -101877,7 +101877,7 @@
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 150 MOTOKOI (43/16/428HX118)",
     "estoque": "44",
-    "preco": "57,74"
+    "preco": "47,24"
   },
   {
     "codigo": "46463",
@@ -101941,7 +101941,7 @@
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 160 MOTOKOI (44/15/428HX118L)",
     "estoque": "87",
-    "preco": "57,74"
+    "preco": "47,24"
   },
   {
     "codigo": "46464",
@@ -102013,7 +102013,7 @@
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 2000 MOTOKOI (44/14/428HX116)",
     "estoque": "17",
-    "preco": "57,74"
+    "preco": "47,24"
   },
   {
     "codigo": "45353",
@@ -102061,7 +102061,7 @@
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 99 MOTOKOI (43/14/428HX116)",
     "estoque": "27",
-    "preco": "57,74"
+    "preco": "47,24"
   },
   {
     "codigo": "32742",
@@ -102844,7 +102844,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "310",
+    "estoque": "309",
     "preco": "29,16"
   },
   {
@@ -105860,7 +105860,7 @@
     "fabric": "PA00671",
     "marca": "PANTHER",
     "nome": "LUBRIFICANTES ATF PANTHER 1 LT",
-    "estoque": "48",
+    "estoque": "47",
     "preco": "16,28"
   },
   {
@@ -105924,7 +105924,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "4120",
+    "estoque": "4119",
     "preco": "36,74"
   },
   {
@@ -105956,7 +105956,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "7896",
+    "estoque": "7894",
     "preco": "29,39"
   },
   {
@@ -139197,7 +139197,7 @@
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 60/100-17 LEVORIN MATRIX BIZ",
     "estoque": "119",
-    "preco": "209,99"
+    "preco": "188,99"
   },
   {
     "codigo": "2607",
@@ -139236,7 +139236,7 @@
     "fabric": "6153",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 60/100-17 TECHNIC SPORT R BIZ TT 33L",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "99,23"
   },
   {
@@ -139269,7 +139269,7 @@
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TT 47P",
     "estoque": "241",
-    "preco": "220,4"
+    "preco": "199,49"
   },
   {
     "codigo": "39575",
@@ -140213,7 +140213,7 @@
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 80/100-14 LEVORIN MATRIX BIZ",
     "estoque": "134",
-    "preco": "236,25"
+    "preco": "188,99"
   },
   {
     "codigo": "2479",
@@ -140293,15 +140293,15 @@
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN DAKKAR II TL 57P (SEM CAMARA)",
     "estoque": "47",
-    "preco": "267,75"
+    "preco": "230,99"
   },
   {
     "codigo": "6409",
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "71",
-    "preco": "230,99"
+    "estoque": "70",
+    "preco": "209,99"
   },
   {
     "codigo": "47444",
@@ -140316,7 +140316,7 @@
     "fabric": "100649",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 90/90-18 MAGGION WINNER TT",
-    "estoque": "100",
+    "estoque": "99",
     "preco": "141,74"
   },
   {
