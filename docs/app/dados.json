@@ -8492,7 +8492,7 @@
     "fabric": "00810B",
     "marca": "RAIOM",
     "nome": "BATERIA CBX/NX/XR200/SAHA RTX8-BS RAIOM",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "203,33"
   },
   {
@@ -10724,7 +10724,7 @@
     "fabric": "04055",
     "marca": "PLASMOTO",
     "nome": "BLOCO OPTICO BIZ 125 11/17/BIZ 100 13/16/BIZ 110 16/17 PLASMOTO",
-    "estoque": "17",
+    "estoque": "16",
     "preco": "62,99"
   },
   {
@@ -18100,7 +18100,7 @@
     "fabric": "03503",
     "marca": "DANIDREA",
     "nome": "BUCHA QUADRO ELASTICO TODAY/TITAN/TITAN 150/160 DANIDREA",
-    "estoque": "59",
+    "estoque": "58",
     "preco": "15,74"
   },
   {
@@ -28164,7 +28164,7 @@
     "fabric": "TM8024",
     "marca": "TMAC",
     "nome": "CABO FREIO START 160 DIANTEIRO TMAC",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "19,43"
   },
   {
@@ -31740,7 +31740,7 @@
     "fabric": "9020880064",
     "marca": "VINNI",
     "nome": "CAIXA DIRECAO COLAR TITAN 00/FAN 125/TITAN 150/TITAN 160 VINNI",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "22,66"
   },
   {
@@ -32532,7 +32532,7 @@
     "fabric": "KOI0292",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT FALCON/TORNADO/XT MOTOKOI T21",
-    "estoque": "139",
+    "estoque": "138",
     "preco": "18,89"
   },
   {
@@ -32620,7 +32620,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1715",
+    "estoque": "1707",
     "preco": "14,69"
   },
   {
@@ -32780,7 +32780,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "188",
+    "estoque": "183",
     "preco": "14,16"
   },
   {
@@ -38372,7 +38372,7 @@
     "fabric": "C020165209758",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL AUTHENTIC PRETO FOSCO/GRAFITE 58",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "766,5"
   },
   {
@@ -38380,7 +38380,7 @@
     "fabric": "C020165209760",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL AUTHENTIC PRETO FOSCO/GRAFITE 60",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "766,5"
   },
   {
@@ -38388,7 +38388,7 @@
     "fabric": "C020165209762",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL AUTHENTIC PRETO FOSCO/GRAFITE 61/62",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "766,5"
   },
   {
@@ -38396,7 +38396,7 @@
     "fabric": "C020165205556",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL AUTHENTIC PRETO/GRAFITE 56",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "766,5"
   },
   {
@@ -38404,7 +38404,7 @@
     "fabric": "C020165205558",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL AUTHENTIC PRETO/GRAFITE 58",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "766,5"
   },
   {
@@ -38412,7 +38412,7 @@
     "fabric": "C020165205560",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL AUTHENTIC PRETO/GRAFITE 60",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "766,5"
   },
   {
@@ -38420,7 +38420,7 @@
     "fabric": "C020165205562",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL AUTHENTIC PRETO/GRAFITE 61/62",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "766,5"
   },
   {
@@ -38436,7 +38436,7 @@
     "fabric": "C020182706258",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL DELUX BRANCO/AZUL 58",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "766,5"
   },
   {
@@ -38444,7 +38444,7 @@
     "fabric": "C020182706260",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL DELUX BRANCO/AZUL 60",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "766,5"
   },
   {
@@ -38452,7 +38452,7 @@
     "fabric": "C020182706262",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL DELUX BRANCO/AZUL 61/62",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "766,5"
   },
   {
@@ -38460,7 +38460,7 @@
     "fabric": "C02018250IV56",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL FRONTIER AZUL/LARANJA 56",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "766,5"
   },
   {
@@ -38468,7 +38468,7 @@
     "fabric": "C02018250IV58",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL FRONTIER AZUL/LARANJA 58",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "766,5"
   },
   {
@@ -38476,7 +38476,7 @@
     "fabric": "C02018250IV60",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL FRONTIER AZUL/LARANJA 60",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "766,5"
   },
   {
@@ -38484,7 +38484,7 @@
     "fabric": "C02018250IV62",
     "marca": "BIEFFE",
     "nome": "CAPACETE BIEFFE B-TRAIL FRONTIER AZUL/LARANJA 61/62",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "766,5"
   },
   {
@@ -46476,7 +46476,7 @@
     "fabric": "C16013290W656",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS FREEWAY KING AMARELO LIMAO 56",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "372,71"
   },
   {
@@ -46484,7 +46484,7 @@
     "fabric": "C16013290W658",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS FREEWAY KING AMARELO LIMAO 58",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "372,75"
   },
   {
@@ -46492,7 +46492,7 @@
     "fabric": "C16013290W660",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS FREEWAY KING AMARELO LIMAO 60",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "372,75"
   },
   {
@@ -46500,7 +46500,7 @@
     "fabric": "C16013290W662",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS FREEWAY KING AMARELO LIMAO 61/62",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "372,75"
   },
   {
@@ -46508,7 +46508,7 @@
     "fabric": "C16018740TW56",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 EKKO PRETO FOSCO/MARSALA 56 (2 VISEIRAS)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "514,5"
   },
   {
@@ -46516,7 +46516,7 @@
     "fabric": "C16018740TW58",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 EKKO PRETO FOSCO/MARSALA 58 (2 VISEIRAS)",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "514,5"
   },
   {
@@ -46524,7 +46524,7 @@
     "fabric": "C16018740TW60",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 EKKO PRETO FOSCO/MARSALA 60 (2 VISEIRAS)",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "514,5"
   },
   {
@@ -46532,7 +46532,7 @@
     "fabric": "C16018740TW62",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 EKKO PRETO FOSCO/MARSALA 61/62 (2 VISEIRAS)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "514,5"
   },
   {
@@ -46540,7 +46540,7 @@
     "fabric": "C16018740B456",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 EKKO PRETO/CORES 56 (2 VISEIRAS)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "514,5"
   },
   {
@@ -46548,7 +46548,7 @@
     "fabric": "C16018740B458",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 EKKO PRETO/CORES 58 (2 VISEIRAS)",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "514,5"
   },
   {
@@ -46556,7 +46556,7 @@
     "fabric": "C16018740B460",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 EKKO PRETO/CORES 60 (2 VISEIRAS)",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "514,5"
   },
   {
@@ -46572,7 +46572,7 @@
     "fabric": "C16018050U956",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 NAKED PRETO FOSCO/PRATA 56",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "420"
   },
   {
@@ -46580,7 +46580,7 @@
     "fabric": "C16018050U958",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 NAKED PRETO FOSCO/PRATA 58",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "420"
   },
   {
@@ -46588,7 +46588,7 @@
     "fabric": "C16018050U960",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 NAKED PRETO FOSCO/PRATA 60",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "420"
   },
   {
@@ -46596,7 +46596,7 @@
     "fabric": "C16018050U962",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 NAKED PRETO FOSCO/PRATA 61/62",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "420"
   },
   {
@@ -46604,7 +46604,7 @@
     "fabric": "C160180508756",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 NAKED PRETO/PRATA 56",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "420"
   },
   {
@@ -46612,7 +46612,7 @@
     "fabric": "C160180508758",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 NAKED PRETO/PRATA 58",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "420"
   },
   {
@@ -46620,7 +46620,7 @@
     "fabric": "C160180508760",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 NAKED PRETO/PRATA 60",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "420"
   },
   {
@@ -46628,7 +46628,7 @@
     "fabric": "C160180508762",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON 23 NAKED PRETO/PRATA 61/62",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "420"
   },
   {
@@ -46636,7 +46636,7 @@
     "fabric": "C1601745F0458",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO RT PRETO FOSCO/AMARELO 58 (2 VISEIRAS)",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "514,5"
   },
   {
@@ -46644,7 +46644,7 @@
     "fabric": "C1601745F0460",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO RT PRETO FOSCO/AMARELO 60 (2 VISEIRAS)",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "514,5"
   },
   {
@@ -46652,7 +46652,7 @@
     "fabric": "C1601745F0462",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO RT PRETO FOSCO/AMARELO 61/62 (2 VISEIRAS)",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "514,5"
   },
   {
@@ -46660,7 +46660,7 @@
     "fabric": "C16019010CY56",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO AZUL FOSCO/PRATA 56",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "472,5"
   },
   {
@@ -46668,7 +46668,7 @@
     "fabric": "C16019010CY58",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO AZUL FOSCO/PRATA 58",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "472,5"
   },
   {
@@ -46676,7 +46676,7 @@
     "fabric": "C16019010CY60",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO AZUL FOSCO/PRATA 60",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "472,5"
   },
   {
@@ -46684,7 +46684,7 @@
     "fabric": "C16019010CY62",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO AZUL FOSCO/PRATA 61/62",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "472,5"
   },
   {
@@ -46692,7 +46692,7 @@
     "fabric": "C160190105756",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO PRETO/VERMELHO 56",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "472,5"
   },
   {
@@ -46700,7 +46700,7 @@
     "fabric": "C160190105760",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO PRETO/VERMELHO 60",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "472,5"
   },
   {
@@ -46708,7 +46708,7 @@
     "fabric": "C160190105762",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO PRETO/VERMELHO 61/62",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "472,5"
   },
   {
@@ -46716,7 +46716,7 @@
     "fabric": "C160190105758",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO PRETRO/VERMELHO 58",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "472,5"
   },
   {
@@ -46724,7 +46724,7 @@
     "fabric": "C16019010UL56",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO VINHO/AZUL 56",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "472,5"
   },
   {
@@ -46732,7 +46732,7 @@
     "fabric": "C16019010UL58",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO VINHO/AZUL 58",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "472,5"
   },
   {
@@ -46740,7 +46740,7 @@
     "fabric": "C16019010UL60",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO VINHO/AZUL 60",
-    "estoque": "2",
+    "estoque": "3",
     "preco": "472,5"
   },
   {
@@ -46748,7 +46748,7 @@
     "fabric": "C16019010UL62",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS ICON PRO TOKYO VINHO/AZUL 61/62",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "472,5"
   },
   {
@@ -46756,7 +46756,7 @@
     "fabric": "C160177404758",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS MACH-5 REACH AZUL/VERMELHO 58",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "693"
   },
   {
@@ -46764,7 +46764,7 @@
     "fabric": "C160177404760",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS MACH-5 REACH AZUL/VERMELHO 60",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "693"
   },
   {
@@ -46772,7 +46772,7 @@
     "fabric": "C160177404762",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS MACH-5 REACH AZUL/VERMELHO 61/62",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "693"
   },
   {
@@ -46788,7 +46788,7 @@
     "fabric": "C160177405760",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS MACH-5 REACH PRETO/VERMELHO 60",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "693"
   },
   {
@@ -46796,7 +46796,7 @@
     "fabric": "C160177405762",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS MACH-5 REACH PRETO/VERMELHO 61/62",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "693"
   },
   {
@@ -46804,7 +46804,7 @@
     "fabric": "C16017070D956",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO FOSCO/DOURADO 56",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "294"
   },
   {
@@ -46812,7 +46812,7 @@
     "fabric": "C16017070D958",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO FOSCO/DOURADO 58",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "294"
   },
   {
@@ -46820,7 +46820,7 @@
     "fabric": "C16017070D960",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO FOSCO/DOURADO 60",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "294"
   },
   {
@@ -46836,7 +46836,7 @@
     "fabric": "C16017070GN56",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO FOSCO/ROXO 56",
-    "estoque": "0",
+    "estoque": "2",
     "preco": "294"
   },
   {
@@ -46868,7 +46868,7 @@
     "fabric": "C160170704356",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO/DOURADO 56",
-    "estoque": "1",
+    "estoque": "3",
     "preco": "294"
   },
   {
@@ -46876,7 +46876,7 @@
     "fabric": "C160170704358",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO/DOURADO 58",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "294"
   },
   {
@@ -46884,7 +46884,7 @@
     "fabric": "C160170704360",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO/DOURADO 60",
-    "estoque": "2",
+    "estoque": "5",
     "preco": "294"
   },
   {
@@ -46892,7 +46892,7 @@
     "fabric": "C160170704362",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO/DOURADO 61/62",
-    "estoque": "0",
+    "estoque": "1",
     "preco": "294"
   },
   {
@@ -46956,7 +46956,7 @@
     "fabric": "C16017070UJ56",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO/RUBI 56",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "294"
   },
   {
@@ -46964,7 +46964,7 @@
     "fabric": "C16017070UJ58",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO/RUBI 58",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "294"
   },
   {
@@ -46972,7 +46972,7 @@
     "fabric": "C16017070UJ60",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO/RUBI 60",
-    "estoque": "0",
+    "estoque": "3",
     "preco": "294"
   },
   {
@@ -46980,7 +46980,7 @@
     "fabric": "C16017070UJ62",
     "marca": "PEELS",
     "nome": "CAPACETE PEELS SPIKE II 1ST PRETO/RUBI 61/62",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "294"
   },
   {
@@ -57980,7 +57980,7 @@
     "fabric": "104",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL CG/TODAY/TITAN C/ BORRACHA PROJETIL",
-    "estoque": "32",
+    "estoque": "31",
     "preco": "20,99"
   },
   {
@@ -69652,7 +69652,7 @@
     "fabric": "0004-CB/RR",
     "marca": "COBREQ",
     "nome": "CUBO RODA BIZ 100/125 TRASEIRA COBREQ",
-    "estoque": "3",
+    "estoque": "7",
     "preco": "162,75"
   },
   {
@@ -81284,7 +81284,7 @@
     "fabric": "100501702",
     "marca": "POLIMET",
     "nome": "ESTRIBO PEDAL APOIO TODAY/TITAN POLIMET TUBULAR C/BORRACHAS",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "46,82"
   },
   {
@@ -84692,7 +84692,7 @@
     "fabric": "PL153",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX TECFIL",
-    "estoque": "88",
+    "estoque": "87",
     "preco": "10,49"
   },
   {
@@ -84964,7 +84964,7 @@
     "fabric": "0001-FL",
     "marca": "COBREQ",
     "nome": "FLANGE RODA TITAN 150 04/13 TRASEIRA COBREQ",
-    "estoque": "2",
+    "estoque": "7",
     "preco": "99,23"
   },
   {
@@ -100668,7 +100668,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "57,74"
   },
   {
@@ -101996,7 +101996,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "53",
+    "estoque": "52",
     "preco": "57,74"
   },
   {
@@ -102660,7 +102660,7 @@
     "fabric": "ST-ELF-07",
     "marca": "STALLION",
     "nome": "LAMPADA FAROL BIZ 100/125/DREAM/BROS 150 09/12 STALLION M5 LED",
-    "estoque": "37",
+    "estoque": "36",
     "preco": "23,63"
   },
   {
@@ -102924,7 +102924,7 @@
     "fabric": "TL004",
     "marca": "TMAC",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO TMAC",
-    "estoque": "307",
+    "estoque": "306",
     "preco": "1,4"
   },
   {
@@ -105876,7 +105876,7 @@
     "fabric": "PA00671",
     "marca": "PANTHER",
     "nome": "LUBRIFICANTES ATF PANTHER 1 LT",
-    "estoque": "45",
+    "estoque": "44",
     "preco": "16,28"
   },
   {
@@ -105892,7 +105892,7 @@
     "fabric": "",
     "marca": "CASTROL",
     "nome": "LUBRIFICANTES MOTO 4T CASTROL 20W50 ACTEVO ESSENTIAL MINERAL",
-    "estoque": "1541",
+    "estoque": "1539",
     "preco": "29,39"
   },
   {
@@ -105972,7 +105972,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "7741",
+    "estoque": "7737",
     "preco": "29,39"
   },
   {
@@ -107724,7 +107724,7 @@
     "fabric": "P-020",
     "marca": "PROTEC",
     "nome": "MANETE EMBREAGEM TITAN 2000 / TITAN 150 PROTEC",
-    "estoque": "295",
+    "estoque": "294",
     "preco": "6,83"
   },
   {
@@ -108612,7 +108612,7 @@
     "fabric": "1085",
     "marca": "PROTEC",
     "nome": "MANETE FREIO TITAN 160 DISCO PROTEC",
-    "estoque": "73",
+    "estoque": "72",
     "preco": "7,63"
   },
   {
@@ -124284,7 +124284,7 @@
     "fabric": "N1886",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO BROS 160/BIZ 125/PCX 19 CBS DIANT COBREQ N-1886",
-    "estoque": "28",
+    "estoque": "48",
     "preco": "24,14"
   },
   {
@@ -124324,7 +124324,7 @@
     "fabric": "N1840",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO BROS 160/CB 250 TWISTER/CRF 250 2015/XRE 300 22 C/ABS TRASEIRA COBREQ N-1840",
-    "estoque": "48",
+    "estoque": "98",
     "preco": "28,88"
   },
   {
@@ -124388,7 +124388,7 @@
     "fabric": "N1834",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO CB 300 24 ED ABS/PCX 150 19/22 ABS/XTZ 250 16 ED /XTZ 150 14 ED DIANTEIRA COBREQ N-1834",
-    "estoque": "0",
+    "estoque": "4",
     "preco": "41,99"
   },
   {
@@ -124412,7 +124412,7 @@
     "fabric": "N1617",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO CB 300 S.ABS/CB 500 F-X/XJ 6 09-12 TRAS COBREQ N-1617",
-    "estoque": "7",
+    "estoque": "12",
     "preco": "41,99"
   },
   {
@@ -124460,7 +124460,7 @@
     "fabric": "N964",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO CB 300/XRE 300 C.ABS /CB 600 HORNET 2008 C. ABS DIANTEIRO COBREQ N-964",
-    "estoque": "2",
+    "estoque": "6",
     "preco": "125,61"
   },
   {
@@ -124572,7 +124572,7 @@
     "fabric": "N932",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO CB 500/XT660R TRASEIRO COBREQ N-932",
-    "estoque": "7",
+    "estoque": "17",
     "preco": "64,88"
   },
   {
@@ -124996,7 +124996,7 @@
     "fabric": "KOI-00201",
     "marca": "MOTOKOI BR",
     "nome": "PASTILHA FREIO FALCON/BROSS/TORNADO/XR200/NX350/XRE300 SEM ABS DIANTEIRO MOTOKOI BR",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "13,64"
   },
   {
@@ -125012,7 +125012,7 @@
     "fabric": "N917",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO FALCON/BROSS/TORNADO/XR200/NX350/XRE300/BROS 160 SEM ABS DIANTEIRO COBREQ N-917",
-    "estoque": "56",
+    "estoque": "86",
     "preco": "30,21"
   },
   {
@@ -125292,7 +125292,7 @@
     "fabric": "N946",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO LANDER XTZ / FAZER 250/TENERE 250 TRASEIRO COBREQ N-946",
-    "estoque": "40",
+    "estoque": "50",
     "preco": "25,96"
   },
   {
@@ -125380,7 +125380,7 @@
     "fabric": "N1802",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO PCX 150  DIANT COBREQ N-1802",
-    "estoque": "1",
+    "estoque": "2",
     "preco": "99,81"
   },
   {
@@ -125540,7 +125540,7 @@
     "fabric": "N949",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TITAN 150 PARTIR DE 2009 DIANT COBREQ N-949",
-    "estoque": "44",
+    "estoque": "74",
     "preco": "27,03"
   },
   {
@@ -125596,7 +125596,7 @@
     "fabric": "N1882",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TITAN 160 18/FAN 150 18 CBS COBREQ N-1882",
-    "estoque": "25",
+    "estoque": "45",
     "preco": "26,78"
   },
   {
@@ -125644,7 +125644,7 @@
     "fabric": "N1924",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TITAN 160 25 TRAS COBREQ",
-    "estoque": "8",
+    "estoque": "18",
     "preco": "36,74"
   },
   {
@@ -125676,7 +125676,7 @@
     "fabric": "N906",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TITAN ES/ML/STRADA/CBX150 DIANTEIRO COBREQ N-906",
-    "estoque": "94",
+    "estoque": "134",
     "preco": "15,13"
   },
   {
@@ -125820,7 +125820,7 @@
     "fabric": "N909",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO XLX 350/LEAD 110I 09/16/ELITE 125 19/24 DIANTEIRO COBREQ N-909",
-    "estoque": "4",
+    "estoque": "6",
     "preco": "28,34"
   },
   {
@@ -139140,7 +139140,7 @@
     "fabric": "6103",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC SPORT R TT 42P",
-    "estoque": "389",
+    "estoque": "388",
     "preco": "115,49"
   },
   {
@@ -140324,7 +140324,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "83",
+    "estoque": "81",
     "preco": "209,99"
   },
   {
@@ -143212,7 +143212,7 @@
     "fabric": "A02572040ZZ54",
     "marca": "BIEFFE",
     "nome": "PROTETOR LATERAL BIEFFE B-40/B-12 19",
-    "estoque": "3",
+    "estoque": "6",
     "preco": "37,8"
   },
   {
@@ -149260,7 +149260,7 @@
     "fabric": "90280031",
     "marca": "MAGNETRON",
     "nome": "RELE PARTIDA CBX 200/NX 200/XR200/FAZER 150 MAGNETRON",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "34,65"
   },
   {
@@ -164124,7 +164124,7 @@
     "fabric": "10400001",
     "marca": "SCUD",
     "nome": "TAMPA TANQUE TITAN 125/150 / STRADA / TWISTER  SCUD",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "59,01"
   },
   {
@@ -164132,7 +164132,7 @@
     "fabric": "TM849",
     "marca": "TMAC",
     "nome": "TAMPA TANQUE TITAN 160 TMAC",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "68,25"
   },
   {
@@ -164932,7 +164932,7 @@
     "fabric": "10124181",
     "marca": "WGK",
     "nome": "TENSOR CORRENTE COMANDO TWISTER/TORNADO WGK",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "18,89"
   },
   {
@@ -169292,7 +169292,7 @@
     "fabric": "A02701870ZZ54",
     "marca": "BIEFFE",
     "nome": "VISEIRA BIEFFE B-12 2020 CAMALEAO",
-    "estoque": "5",
+    "estoque": "10",
     "preco": "78,75"
   },
   {
@@ -169300,7 +169300,7 @@
     "fabric": "A02511870ZZ54",
     "marca": "BIEFFE",
     "nome": "VISEIRA BIEFFE B-12 2020 CRISTAL",
-    "estoque": "5",
+    "estoque": "10",
     "preco": "73,49"
   },
   {
@@ -169308,7 +169308,7 @@
     "fabric": "A02621870ZZ54",
     "marca": "BIEFFE",
     "nome": "VISEIRA BIEFFE B-12 2020 CROMADA",
-    "estoque": "4",
+    "estoque": "9",
     "preco": "78,75"
   },
   {
@@ -169316,7 +169316,7 @@
     "fabric": "A02521870ZZ54",
     "marca": "BIEFFE",
     "nome": "VISEIRA BIEFFE B-12 2020 FUME",
-    "estoque": "5",
+    "estoque": "10",
     "preco": "78,75"
   },
   {
@@ -169324,7 +169324,7 @@
     "fabric": "A02501870ZZ54",
     "marca": "BIEFFE",
     "nome": "VISEIRA BIEFFE B-12 2020 IRIDIUM",
-    "estoque": "5",
+    "estoque": "10",
     "preco": "78,75"
   },
   {
@@ -169332,7 +169332,7 @@
     "fabric": "A02376420ZZ54",
     "marca": "BIEFFE",
     "nome": "VISEIRA BIEFFE B-12 REVO IRIDIUM",
-    "estoque": "5",
+    "estoque": "10",
     "preco": "114,45"
   },
   {
@@ -169340,7 +169340,7 @@
     "fabric": "A02376400ZZ54",
     "marca": "BIEFFE",
     "nome": "VISEIRA BIEFFE B-12 REVO ROSA",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "114,45"
   },
   {
@@ -169348,7 +169348,7 @@
     "fabric": "A02377850ZZ54",
     "marca": "BIEFFE",
     "nome": "VISEIRA BIEFFE B-12 REVO ROXA",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "114,45"
   },
   {
@@ -169356,7 +169356,7 @@
     "fabric": "A02376410ZZ54",
     "marca": "BIEFFE",
     "nome": "VISEIRA BIEFFE B-12 REVO VERDE",
-    "estoque": "5",
+    "estoque": "10",
     "preco": "114,45"
   },
   {
@@ -169364,7 +169364,7 @@
     "fabric": "A02376390ZZ54",
     "marca": "BIEFFE",
     "nome": "VISEIRA BIEFFE B-12 REVO VERMELHO",
-    "estoque": "2",
+    "estoque": "4",
     "preco": "114,45"
   },
   {
