@@ -3804,7 +3804,7 @@
     "fabric": "11074",
     "marca": "MOTOBOR",
     "nome": "ANEL CARBURADOR (BOCAL) MOTOBOR 25 X 2,7 CG/ML/TU UNIT",
-    "estoque": "9",
+    "estoque": "0",
     "preco": "0,76"
   },
   {
@@ -4588,7 +4588,7 @@
     "fabric": "M8",
     "marca": "JOJAFER",
     "nome": "ANTENA CORTA PIPA GUIDAO JOJAFER",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "15,28"
   },
   {
@@ -8412,7 +8412,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "381",
+    "estoque": "395",
     "preco": "124,07"
   },
   {
@@ -8428,7 +8428,7 @@
     "fabric": "MTX5L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ/TITAN 2000 ES/TITAN150 KS 125 MTX5L-BS MOTOKOI",
-    "estoque": "124",
+    "estoque": "125",
     "preco": "112,08"
   },
   {
@@ -8548,7 +8548,7 @@
     "fabric": "MTX7L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA TWISTER/BROS 150/HUNTER/FALCON/INTRUDER/TITAN150 ES/ESD MTX7L-BS MOTOKOI",
-    "estoque": "14",
+    "estoque": "20",
     "preco": "145,92"
   },
   {
@@ -15564,7 +15564,7 @@
     "fabric": "44084K",
     "marca": "MOTOKOI BR",
     "nome": "BORRACHA PEDALEIRA TITAN 160 DIANT MOTOKOI (PAR)",
-    "estoque": "282",
+    "estoque": "281",
     "preco": "9,44"
   },
   {
@@ -16348,7 +16348,7 @@
     "fabric": "01",
     "marca": "EX RACING",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW ATOMIC/NEW LIBERTY 3/JOY 23 EX RACING PAR",
-    "estoque": "17",
+    "estoque": "15",
     "preco": "7,34"
   },
   {
@@ -18820,7 +18820,7 @@
     "fabric": "KOI0316",
     "marca": "MOTOKOI",
     "nome": "BUZINA CG/TITAN 12V MOTOKOI",
-    "estoque": "26",
+    "estoque": "22",
     "preco": "7,34"
   },
   {
@@ -32620,7 +32620,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1606",
+    "estoque": "1603",
     "preco": "14,69"
   },
   {
@@ -32780,7 +32780,7 @@
     "fabric": "KOI0169",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS BIZ MOTOKOI R14",
-    "estoque": "156",
+    "estoque": "154",
     "preco": "14,16"
   },
   {
@@ -32916,7 +32916,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "128",
+    "estoque": "127",
     "preco": "20,99"
   },
   {
@@ -33516,7 +33516,7 @@
     "fabric": "KOI0188",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO BIZ 125 05/08 PRETO MOTOKOI",
-    "estoque": "48",
+    "estoque": "47",
     "preco": "26,24"
   },
   {
@@ -35348,7 +35348,7 @@
     "fabric": "KOI0203",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 160/TITAN 150 14/20/FAN 125 14/20/FAN 150 14/20 PT MOTOKOI",
-    "estoque": "128",
+    "estoque": "127",
     "preco": "17,61"
   },
   {
@@ -71348,7 +71348,7 @@
     "fabric": "TM435",
     "marca": "TMAC",
     "nome": "DISCO FREIO BROS 150/160 DIANT TMAC",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "73,49"
   },
   {
@@ -71668,7 +71668,7 @@
     "fabric": "TM446",
     "marca": "TMAC",
     "nome": "DISCO FREIO FALCON/XRE300/HORNET ATE 07/CBR 450SR/BROS160 TRASEIRO TMAC",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "78,79"
   },
   {
@@ -75068,7 +75068,7 @@
     "fabric": "1005",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 1,00 M UNIVERSAL C/ GANCHO PLASTICO MS EXTENSOR",
-    "estoque": "2",
+    "estoque": "27",
     "preco": "2,09"
   },
   {
@@ -75084,7 +75084,7 @@
     "fabric": "1015",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 1,50 M UNIVERSAL C/ GANCHO FERRO MS EXTENSOR",
-    "estoque": "6",
+    "estoque": "56",
     "preco": "4,19"
   },
   {
@@ -75108,7 +75108,7 @@
     "fabric": "1007",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 1,50 M UNIVERSAL C/ GANCHO PASTICO MS EXTENSOR",
-    "estoque": "3",
+    "estoque": "53",
     "preco": "3,68"
   },
   {
@@ -75132,7 +75132,7 @@
     "fabric": "1016",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 2,00 M UNIVERSAL C/ GANCHO FERRO MS EXTENSOR",
-    "estoque": "1",
+    "estoque": "41",
     "preco": "4,73"
   },
   {
@@ -75164,7 +75164,7 @@
     "fabric": "1008",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 2,00 M UNIVERSAL C/ GANCHO PLASTICO MS EXTENSOR",
-    "estoque": "4",
+    "estoque": "34",
     "preco": "4,19"
   },
   {
@@ -75188,7 +75188,7 @@
     "fabric": "1480",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 3,00 M UNIVERSAL C/ GANCHO PLASTICO MS EXTENSOR",
-    "estoque": "4",
+    "estoque": "19",
     "preco": "6,29"
   },
   {
@@ -75212,7 +75212,7 @@
     "fabric": "136",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 4,00 M UNIVERSAL C/ GANCHO PLASTICO MS EXTENSOR",
-    "estoque": "7",
+    "estoque": "17",
     "preco": "7,88"
   },
   {
@@ -83492,7 +83492,7 @@
     "fabric": "ARM446/1",
     "marca": "TECFIL",
     "nome": "FILTRO AR TIT 125-150 09-13/BIZ 110I/POP 110/NXR125-150-160/XRE190 TECFIL",
-    "estoque": "138",
+    "estoque": "137",
     "preco": "7,34"
   },
   {
@@ -84108,7 +84108,7 @@
     "fabric": "KL741",
     "marca": "MAHLE",
     "nome": "FILTRO COMBUSTIVEL TITAN 150 09 MIX/FLEX MAHLE",
-    "estoque": "99",
+    "estoque": "98",
     "preco": "12,59"
   },
   {
@@ -84364,7 +84364,7 @@
     "fabric": "OC1019",
     "marca": "MAHLE",
     "nome": "FILTRO OLEO CB 500/HORNET/NINJA 300 MAHLE",
-    "estoque": "59",
+    "estoque": "58",
     "preco": "20,99"
   },
   {
@@ -84748,7 +84748,7 @@
     "fabric": "PL153",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX TECFIL",
-    "estoque": "74",
+    "estoque": "73",
     "preco": "10,49"
   },
   {
@@ -85020,7 +85020,7 @@
     "fabric": "0001-FL",
     "marca": "COBREQ",
     "nome": "FLANGE RODA TITAN 150 04/13 TRASEIRA COBREQ",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "99,23"
   },
   {
@@ -89396,7 +89396,7 @@
     "fabric": "100409901",
     "marca": "POLIMET",
     "nome": "GUIDAO CARGO 160 POLIMET C/PESO",
-    "estoque": "44",
+    "estoque": "43",
     "preco": "57,75"
   },
   {
@@ -95644,7 +95644,7 @@
     "fabric": "TC011",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT BIZ 100/125 TMAC 4MM",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "31,49"
   },
   {
@@ -96300,7 +96300,7 @@
     "fabric": "TC012",
     "marca": "TMAC",
     "nome": "JOGO RAIO TRAS BIZ 100/125/POP TMAC 4,00 MM",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "31,49"
   },
   {
@@ -97972,7 +97972,7 @@
     "fabric": "VS05004000264",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL ESQUERDO TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "7,88"
   },
   {
@@ -102012,7 +102012,7 @@
     "fabric": "001-KOI-037H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 160 MOTOKOI (44/15/428HX118L)",
-    "estoque": "82",
+    "estoque": "81",
     "preco": "47,24"
   },
   {
@@ -102652,7 +102652,7 @@
     "fabric": "VE05084000004",
     "marca": "VEDAMOTORS",
     "nome": "KIT VEDACAO TAMPA VALVULA CG 160 VEDAMOTORS",
-    "estoque": "58",
+    "estoque": "57",
     "preco": "10,49"
   },
   {
@@ -105996,7 +105996,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "3908",
+    "estoque": "3901",
     "preco": "36,74"
   },
   {
@@ -106028,7 +106028,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "7573",
+    "estoque": "7564",
     "preco": "29,39"
   },
   {
@@ -106036,7 +106036,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "73",
+    "estoque": "70",
     "preco": "45,14"
   },
   {
@@ -106076,7 +106076,7 @@
     "fabric": "104071",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5100 10W30",
-    "estoque": "57",
+    "estoque": "54",
     "preco": "68,24"
   },
   {
@@ -109732,7 +109732,7 @@
     "fabric": "2458",
     "marca": "GVS",
     "nome": "MANOPLA BIZ 125 GVS",
-    "estoque": "9",
+    "estoque": "8",
     "preco": "11,54"
   },
   {
@@ -110580,7 +110580,7 @@
     "fabric": "2430/7430",
     "marca": "GVS",
     "nome": "MANOPLA TITAN 160 CARGO 16/22 GVS C/ROLDANA",
-    "estoque": "45",
+    "estoque": "44",
     "preco": "16,79"
   },
   {
@@ -112084,7 +112084,7 @@
     "fabric": "90203200",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA CB 300/XRE 300/CRF 230F 2008 ED/CB 250 MAGNETRON",
-    "estoque": "0",
+    "estoque": "-1",
     "preco": "55,98"
   },
   {
@@ -112804,7 +112804,7 @@
     "fabric": "MNP0207",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON PRETA",
-    "estoque": "94",
+    "estoque": "92",
     "preco": "131,25"
   },
   {
@@ -116060,7 +116060,7 @@
     "fabric": "9020880243",
     "marca": "VINNI",
     "nome": "PAINEL BIZ 125 05/08 KS/ES VINNI",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "144,65"
   },
   {
@@ -117196,7 +117196,7 @@
     "fabric": "TP004",
     "marca": "TMAC",
     "nome": "PAINEL TITAN 150 KS/ES 04/08 S/ODOMETRO TMAC",
-    "estoque": "27",
+    "estoque": "26",
     "preco": "121,19"
   },
   {
@@ -118148,7 +118148,7 @@
     "fabric": "TM7217",
     "marca": "TMAC",
     "nome": "PARAFUSO CARCACA MOTOR TITAN 125 00/04/FAN 125 05/08 TMAC (SEXTAVADO/FLANGE/14 PCS)",
-    "estoque": "10",
+    "estoque": "8",
     "preco": "8,93"
   },
   {
@@ -118364,7 +118364,7 @@
     "fabric": "21540K",
     "marca": "MOTOKOI BR",
     "nome": "PARAFUSO ESTRIBO 8X20 MOTOKOI",
-    "estoque": "118",
+    "estoque": "102",
     "preco": "1,04"
   },
   {
@@ -119060,7 +119060,7 @@
     "fabric": "21297K",
     "marca": "MOTOKOI BR",
     "nome": "PARAFUSO TAMPA VALVULA CG/TOD/TIT MOTOKOI 6X30 CH10",
-    "estoque": "30",
+    "estoque": "20",
     "preco": "0,71"
   },
   {
@@ -119100,7 +119100,7 @@
     "fabric": "TM7229",
     "marca": "TMAC",
     "nome": "PARAFUSO TAMPA VALVULA TITAN 150 TMAC CH10 ***PAR***",
-    "estoque": "8",
+    "estoque": "5",
     "preco": "5,95"
   },
   {
@@ -125636,7 +125636,7 @@
     "fabric": "FA375",
     "marca": "TMAC",
     "nome": "PASTILHA FREIO TITAN 150 PARTIR DE 2009 DIANT TMAC",
-    "estoque": "89",
+    "estoque": "88",
     "preco": "10,49"
   },
   {
@@ -128708,7 +128708,7 @@
     "fabric": "LBJ202",
     "marca": "TMAC",
     "nome": "PEDAL FREIO TITAN 150 LBJ",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "31,49"
   },
   {
@@ -130324,7 +130324,7 @@
     "fabric": "68396",
     "marca": "EX RACING",
     "nome": "PESO GUIDAO PCX 150 19 ED CROMADO EX RACING COM BUCHA (PAR)",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "36,31"
   },
   {
@@ -139276,7 +139276,7 @@
     "fabric": "",
     "marca": "MAGGION",
     "nome": "PNEU DIANT 60/100-17 MAGGION  BIZ 100 /DREAM STREETFIGHTER MF7 TT",
-    "estoque": "100",
+    "estoque": "99",
     "preco": "100,79"
   },
   {
@@ -139804,7 +139804,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 110/90-17 MICHELIN ANAKEE STREET TL 60P",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "446,25"
   },
   {
@@ -140300,7 +140300,7 @@
     "fabric": "100266",
     "marca": "MAGGION",
     "nome": "PNEU TRAS 80/100-14 MAGGION STREET BIZ 100 TT",
-    "estoque": "120",
+    "estoque": "119",
     "preco": "117,59"
   },
   {
@@ -140372,7 +140372,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN DAKKAR II TL 57P (SEM CAMARA)",
-    "estoque": "28",
+    "estoque": "27",
     "preco": "230,99"
   },
   {
@@ -140380,7 +140380,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "47",
+    "estoque": "46",
     "preco": "209,99"
   },
   {
@@ -140452,7 +140452,7 @@
     "fabric": "6113",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 90/90-18 TECHNIC SPORT R TT 57P",
-    "estoque": "589",
+    "estoque": "587",
     "preco": "136,49"
   },
   {
@@ -141708,7 +141708,7 @@
     "fabric": "TM7216",
     "marca": "TMAC",
     "nome": "PRESILHA FIXACAO CARENAGEM TITAN 160/TITAN 150 14/FAZER 150 TMAC",
-    "estoque": "8799",
+    "estoque": "8779",
     "preco": "0,6"
   },
   {
@@ -141748,7 +141748,7 @@
     "fabric": "TM7214",
     "marca": "TMAC",
     "nome": "PRESILHA FIXACAO RABETA TITAN 00 TMAC ***UNITARIO***",
-    "estoque": "4472",
+    "estoque": "4460",
     "preco": "0,79"
   },
   {
@@ -141764,7 +141764,7 @@
     "fabric": "TM7215",
     "marca": "TMAC",
     "nome": "PRESILHA FIXACAO RABETA TITAN 150 TMAC",
-    "estoque": "969",
+    "estoque": "957",
     "preco": "0,81"
   },
   {
@@ -141772,7 +141772,7 @@
     "fabric": "23279",
     "marca": "MOTOBOR",
     "nome": "PRESILHA FIXACAO RABETA TITAN 99 MOTOBOR",
-    "estoque": "249",
+    "estoque": "237",
     "preco": "1,89"
   },
   {
@@ -141804,7 +141804,7 @@
     "fabric": "23283K",
     "marca": "MOTOKOI BR",
     "nome": "PRESILHA FIXACAO RABETA TITAN/FAN 150 160 14/20 POP 110I 15/21 MOTOKOI",
-    "estoque": "124",
+    "estoque": "112",
     "preco": "1,33"
   },
   {
@@ -142060,7 +142060,7 @@
     "fabric": "TM7209",
     "marca": "TMAC",
     "nome": "PRISIONEIRO COROA TITAN 150/FAN 09/TWISTER/CB 300 TMAC (KIT 4 PCS)",
-    "estoque": "27",
+    "estoque": "26",
     "preco": "7,2"
   },
   {
@@ -147828,7 +147828,7 @@
     "fabric": "1100",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA AZUL 35 X 35 MS EXTENSOR",
-    "estoque": "0",
+    "estoque": "40",
     "preco": "10,49"
   },
   {
@@ -147892,7 +147892,7 @@
     "fabric": "1101",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA VERMELHA 35 X 35 MS EXTENSOR",
-    "estoque": "0",
+    "estoque": "50",
     "preco": "10,49"
   },
   {
@@ -149372,7 +149372,7 @@
     "fabric": "90280271",
     "marca": "MAGNETRON",
     "nome": "RELE PARTIDA FALCON/SHADOW 600  MAGNETRON",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "40,74"
   },
   {
@@ -155428,7 +155428,7 @@
     "fabric": "1458",
     "marca": "NEXTPART",
     "nome": "RETROVISOR TITAN 150 PAR NEXPART",
-    "estoque": "254",
+    "estoque": "253",
     "preco": "16,79"
   },
   {
@@ -155980,7 +155980,7 @@
     "fabric": "6004 ZE",
     "marca": "NACHI",
     "nome": "ROLAMENTO 6004 COROA TITAN 150/TITAN 160 C/ BLIND NACHI",
-    "estoque": "30",
+    "estoque": "29",
     "preco": "27,29"
   },
   {
@@ -161916,7 +161916,7 @@
     "fabric": "323010",
     "marca": "MELC",
     "nome": "TAMPA LATERAL BIZ 125 07/08 VERMELHO MELC (323010)",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "183,75"
   },
   {
