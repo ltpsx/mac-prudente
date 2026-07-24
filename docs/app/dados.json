@@ -3044,7 +3044,7 @@
     "fabric": "MSC41011",
     "marca": "COFAP",
     "nome": "AMORTECEDOR BROS 160/ XRE 190 COFAP",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "577,51"
   },
   {
@@ -8412,7 +8412,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "406",
+    "estoque": "405",
     "preco": "124,07"
   },
   {
@@ -30324,7 +30324,7 @@
     "fabric": "KOI0055",
     "marca": "MOTOKOI",
     "nome": "CABO VELOCIMETRO TITAN 2000 ES MOTOKOI",
-    "estoque": "31",
+    "estoque": "29",
     "preco": "8,16"
   },
   {
@@ -32620,7 +32620,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1517",
+    "estoque": "1515",
     "preco": "14,69"
   },
   {
@@ -36492,7 +36492,7 @@
     "fabric": "1004001133",
     "marca": "PROTERCAPAS",
     "nome": "CAPA CHUVA PROTERCAPAS PVC LIDER GG",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "89,24"
   },
   {
@@ -42564,7 +42564,7 @@
     "fabric": "1271056P03",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/LILAS 56",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "137,45"
   },
   {
@@ -47612,7 +47612,7 @@
     "fabric": "CAP-36PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 60",
-    "estoque": "78",
+    "estoque": "77",
     "preco": "83,99"
   },
   {
@@ -57284,7 +57284,7 @@
     "fabric": "SR-15C",
     "marca": "STALLION",
     "nome": "CARREGADOR CELULAR C. SUPORTE STALLION C/CARREGADOR ALUMINIO FIXO RETROVISOR",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "31,49"
   },
   {
@@ -68772,7 +68772,7 @@
     "fabric": "14004BK",
     "marca": "MOTOKOI BR",
     "nome": "COXIM COROA TWISTER/CB 300 MOTOKOI (KIT 4) PVC",
-    "estoque": "80",
+    "estoque": "79",
     "preco": "6,7"
   },
   {
@@ -84468,7 +84468,7 @@
     "fabric": "PL249",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO FAZER 150/CROSSER 150/FACTOR 125I TECFIL",
-    "estoque": "78",
+    "estoque": "79",
     "preco": "13,64"
   },
   {
@@ -84516,7 +84516,7 @@
     "fabric": "PL241",
     "marca": "TECFIL",
     "nome": "FILTRO OLEO FAZER 250/LANDER TECFIL",
-    "estoque": "28",
+    "estoque": "27",
     "preco": "14,18"
   },
   {
@@ -89660,7 +89660,7 @@
     "fabric": "100411201",
     "marca": "POLIMET",
     "nome": "GUIDAO PCX 150 16/22 CROMADO POLIMET",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "73,49"
   },
   {
@@ -102908,7 +102908,7 @@
     "fabric": "H4FIT",
     "marca": "PHILIPS",
     "nome": "LAMPADA FAROL TITAN H4 12V 35X35 PHILLIPS FIT",
-    "estoque": "280",
+    "estoque": "279",
     "preco": "29,16"
   },
   {
@@ -105676,7 +105676,7 @@
     "fabric": "3397",
     "marca": "GVS",
     "nome": "LENTE PISCA TITAN 2000/TWSITER/CB 300 LARANJA GVS",
-    "estoque": "114",
+    "estoque": "113",
     "preco": "4,73"
   },
   {
@@ -105940,7 +105940,7 @@
     "fabric": "",
     "marca": "CASTROL",
     "nome": "LUBRIFICANTES MOTO 4T CASTROL 20W50 ACTEVO ESSENTIAL MINERAL",
-    "estoque": "1516",
+    "estoque": "1515",
     "preco": "29,39"
   },
   {
@@ -105988,7 +105988,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "3776",
+    "estoque": "3775",
     "preco": "36,74"
   },
   {
@@ -106020,7 +106020,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "7322",
+    "estoque": "7318",
     "preco": "29,39"
   },
   {
@@ -106028,7 +106028,7 @@
     "fabric": "110551",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 3000+ 20W50",
-    "estoque": "111",
+    "estoque": "110",
     "preco": "52,49"
   },
   {
@@ -106132,7 +106132,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "907",
+    "estoque": "906",
     "preco": "19,94"
   },
   {
@@ -109828,7 +109828,7 @@
     "fabric": "MA037-001",
     "marca": "CIRCUIT",
     "nome": "MANOPLA CIRCUIT INTERLAGOS PT PLUS",
-    "estoque": "71",
+    "estoque": "70",
     "preco": "23,09"
   },
   {
@@ -122596,7 +122596,7 @@
     "fabric": "303707",
     "marca": "MELC",
     "nome": "PARALAMA DIANT TITAN 150 11 CINZA MELC (303707)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "50,66"
   },
   {
@@ -154308,7 +154308,7 @@
     "fabric": "110491",
     "marca": "GVS",
     "nome": "RETROVISOR ELITE 125 09/23 PRATA ROSCA M10 (PAR HONDA) GVS",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "89,25"
   },
   {
