@@ -4636,7 +4636,7 @@
     "fabric": "M9",
     "marca": "JOJAFER",
     "nome": "ANTENA CORTA PIPA RETROVISOR JOJAFER",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "14,19"
   },
   {
@@ -16332,7 +16332,7 @@
     "fabric": "1232",
     "marca": "POLIVISOR",
     "nome": "BOTAO VISEIRA CAPACETE TORK NEW ATOMIC/NEW LIBERTY 3/JOY 23 POLIVISOR PAR",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "8,16"
   },
   {
@@ -18068,7 +18068,7 @@
     "fabric": "03503",
     "marca": "DANIDREA",
     "nome": "BUCHA QUADRO ELASTICO TODAY/TITAN/TITAN 150/160 DANIDREA",
-    "estoque": "50",
+    "estoque": "48",
     "preco": "15,74"
   },
   {
@@ -32588,7 +32588,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1406",
+    "estoque": "1405",
     "preco": "14,69"
   },
   {
@@ -32828,7 +32828,7 @@
     "fabric": "KOI0290",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TORNADO/XT/CB MOTOKOI 4.10-18 120/80-18",
-    "estoque": "73",
+    "estoque": "70",
     "preco": "18,89"
   },
   {
@@ -32884,7 +32884,7 @@
     "fabric": "KOI0289",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR TRAS TWISTER/BROS/FALCON MOTOKOI (4.00-R17)",
-    "estoque": "107",
+    "estoque": "104",
     "preco": "20,99"
   },
   {
@@ -35316,7 +35316,7 @@
     "fabric": "KOI0228",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 160/TITAN 150/FAN 14 PT MOTOKOI",
-    "estoque": "32",
+    "estoque": "31",
     "preco": "18,38"
   },
   {
@@ -47212,7 +47212,7 @@
     "fabric": "10013516",
     "marca": "TAURUS",
     "nome": "CAPACETE TAURUS SAN MARINO FEMME PRETO 56",
-    "estoque": "19",
+    "estoque": "18",
     "preco": "178,48"
   },
   {
@@ -80364,7 +80364,7 @@
     "fabric": "23520K",
     "marca": "MOTOKOI BR",
     "nome": "ESTICADOR CORRENTE TITAN 150 MOTOKOI",
-    "estoque": "95",
+    "estoque": "93",
     "preco": "2,23"
   },
   {
@@ -84756,7 +84756,7 @@
     "fabric": "21131001910",
     "marca": "TEKBOND",
     "nome": "FITA ISOLANTE 19MM X 10M X 0.13MM TEKBOND",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "5,29"
   },
   {
@@ -86132,7 +86132,7 @@
     "fabric": "10112",
     "marca": "SIVERST",
     "nome": "GICLEUR MARCHA LENTA Nº 35 TITAN 96/99 SIVERST",
-    "estoque": "17",
+    "estoque": "14",
     "preco": "13,64"
   },
   {
@@ -86916,7 +86916,7 @@
     "fabric": "12203K",
     "marca": "MOTOKOI BR",
     "nome": "GUARDA PO BENGALA YBR/YES MOTOKOI ***PAR***",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "5,71"
   },
   {
@@ -92748,7 +92748,7 @@
     "fabric": "90212070",
     "marca": "MAGNETRON",
     "nome": "INTERRUPTOR STOP FREIO TWISTER S/ MOLA TRAS MAGNETRON",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "12,65"
   },
   {
@@ -95468,7 +95468,7 @@
     "fabric": "KC-BIZ D 2,6",
     "marca": "DDL",
     "nome": "JOGO RAIO DIANT BIZ 100/125 DDL 2,6MM",
-    "estoque": "11",
+    "estoque": "10",
     "preco": "31,49"
   },
   {
@@ -97604,7 +97604,7 @@
     "fabric": "VS05003000263",
     "marca": "VEDAMOTORS",
     "nome": "JUNTA TAMPA LATERAL DIREITO TITAN 160/BROS 160 VEDAMOTORS",
-    "estoque": "16",
+    "estoque": "15",
     "preco": "13,13"
   },
   {
@@ -100588,7 +100588,7 @@
     "fabric": "H03800XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 125 VAZ (34/14/428HX106L)",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "57,74"
   },
   {
@@ -100780,7 +100780,7 @@
     "fabric": "H04003XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BROS 160/XRE 190 VAZ (48/16/428HX128L)",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "102,66"
   },
   {
@@ -101852,7 +101852,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "88",
+    "estoque": "87",
     "preco": "57,74"
   },
   {
@@ -101916,7 +101916,7 @@
     "fabric": "H04007XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 160 VAZ (44/15/428HX118L) H04007XS",
-    "estoque": "88",
+    "estoque": "89",
     "preco": "57,74"
   },
   {
@@ -102028,7 +102028,7 @@
     "fabric": "H01104XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 99 VAZ (43/14/428HX116) H01104XS",
-    "estoque": "45",
+    "estoque": "46",
     "preco": "57,74"
   },
   {
@@ -102844,7 +102844,7 @@
     "fabric": "TL004",
     "marca": "TMAC",
     "nome": "LAMPADA LANTERNA TRAS. 2 POLOS CG 125 FREIO TMAC",
-    "estoque": "205",
+    "estoque": "204",
     "preco": "1,4"
   },
   {
@@ -105860,7 +105860,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "3580",
+    "estoque": "3555",
     "preco": "36,74"
   },
   {
@@ -106036,7 +106036,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "221",
+    "estoque": "220",
     "preco": "51,03"
   },
   {
@@ -109356,7 +109356,7 @@
     "fabric": "284",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 2000 KS  DIREITO  S/ROSCA PROTEC",
-    "estoque": "202",
+    "estoque": "200",
     "preco": "11,03"
   },
   {
@@ -109372,7 +109372,7 @@
     "fabric": "285",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 2000 KS ESQUERDO PROTEC",
-    "estoque": "160",
+    "estoque": "158",
     "preco": "11,03"
   },
   {
@@ -112068,7 +112068,7 @@
     "fabric": "90205020",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA TITAN 150 / FAN 09 MAGNETRON",
-    "estoque": "143",
+    "estoque": "141",
     "preco": "10,49"
   },
   {
@@ -112132,7 +112132,7 @@
     "fabric": "90205000",
     "marca": "MAGNETRON",
     "nome": "MESA PORTA ESCOVA TITAN125ES/CBX/NX/XR200-150/TWISTER/FAZER 250 MAGNETRON",
-    "estoque": "20",
+    "estoque": "19",
     "preco": "10,49"
   },
   {
@@ -112764,7 +112764,7 @@
     "fabric": "MNP0218",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON VERMELHA",
-    "estoque": "13",
+    "estoque": "12",
     "preco": "137,76"
   },
   {
@@ -114076,7 +114076,7 @@
     "fabric": "25134K",
     "marca": "MOTOKOI BR",
     "nome": "MOLA PEDAL FREIO CG/TO/TITAN MOTOKOI",
-    "estoque": "93",
+    "estoque": "92",
     "preco": "1,55"
   },
   {
@@ -124212,7 +124212,7 @@
     "fabric": "N1886",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO BROS 160/BIZ 125/PCX 19 CBS DIANT COBREQ N-1886",
-    "estoque": "43",
+    "estoque": "42",
     "preco": "24,14"
   },
   {
@@ -125220,7 +125220,7 @@
     "fabric": "N946",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO LANDER XTZ / FAZER 250/TENERE 250 TRASEIRO COBREQ N-946",
-    "estoque": "42",
+    "estoque": "41",
     "preco": "25,96"
   },
   {
@@ -129484,7 +129484,7 @@
     "fabric": "P-253",
     "marca": "PROTEC",
     "nome": "PEDALEIRA ESQ TITAN 160/FAN 160 PROTEC",
-    "estoque": "25",
+    "estoque": "24",
     "preco": "23,63"
   },
   {
@@ -139900,7 +139900,7 @@
     "fabric": "",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 140/70-17 LEVORIN MATRIX SPORT II CB 300",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "509,25"
   },
   {
@@ -140196,7 +140196,7 @@
     "fabric": "3101",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 80/100-14 TECHNIC TIGER BIZ TT 49L",
-    "estoque": "104",
+    "estoque": "103",
     "preco": "111,48"
   },
   {
@@ -140236,7 +140236,7 @@
     "fabric": "15353",
     "marca": "LEVORIN",
     "nome": "PNEU TRAS 90/90-18 LEVORIN MATRIX",
-    "estoque": "149",
+    "estoque": "148",
     "preco": "209,99"
   },
   {
@@ -144172,7 +144172,7 @@
     "fabric": "TM1022",
     "marca": "TMAC",
     "nome": "PUNHO LUZ CG 89/91 TMAC",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "39,38"
   },
   {
@@ -149564,7 +149564,7 @@
     "fabric": "90226120",
     "marca": "MAGNETRON",
     "nome": "RELE PISCA BIZ 100 MAGNETRON",
-    "estoque": "3",
+    "estoque": "1",
     "preco": "20,99"
   },
   {
@@ -151820,7 +151820,7 @@
     "fabric": "7651N",
     "marca": "CORTECO",
     "nome": "RETENTOR BENGALA YBR/FACTOR/FAZER 150/YES CORTECO",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "23,09"
   },
   {
@@ -151852,7 +151852,7 @@
     "fabric": "12015MDK",
     "marca": "MOTOKOI BR",
     "nome": "RETENTOR BENGALA YBR/FACTOR/FAZER 150/YES MOTOKOI MOLA DUPLA ***PAR***",
-    "estoque": "23",
+    "estoque": "22",
     "preco": "7,09"
   },
   {
@@ -171532,7 +171532,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "41",
+    "estoque": "38",
     "preco": "6,29"
   },
   {
