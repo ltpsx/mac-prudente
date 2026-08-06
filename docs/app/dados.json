@@ -3356,7 +3356,7 @@
     "fabric": "TM963",
     "marca": "TMAC",
     "nome": "AMORTECEDOR TITAN 150 TMAC (PAR)",
-    "estoque": "12",
+    "estoque": "11",
     "preco": "137,63"
   },
   {
@@ -3572,7 +3572,7 @@
     "fabric": "MSC42004",
     "marca": "COFAP",
     "nome": "AMORTECEDOR XTZ 250 TENERE MONOCHOQUE COFAP",
-    "estoque": "4",
+    "estoque": "0",
     "preco": "1097,82"
   },
   {
@@ -4244,7 +4244,7 @@
     "fabric": "AA8620025",
     "marca": "METAL LEVE",
     "nome": "ANEL PISTAO TITAN 150 0,25 METAL LEVE",
-    "estoque": "5",
+    "estoque": "0",
     "preco": "0"
   },
   {
@@ -5108,7 +5108,7 @@
     "fabric": "KOI0313",
     "marca": "MOTOKOI",
     "nome": "ARO RODA 1.85 X 18 CG/TOD/TIT TRAS MOTOKOI",
-    "estoque": "180",
+    "estoque": "179",
     "preco": "80,84"
   },
   {
@@ -7004,7 +7004,7 @@
     "fabric": "100202802",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO TITAN 150 09/12/FAN 125/150 09/12 PRETO REFORCADO POLIMET",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "103,95"
   },
   {
@@ -8348,7 +8348,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "317",
+    "estoque": "315",
     "preco": "124,07"
   },
   {
@@ -18036,7 +18036,7 @@
     "fabric": "03503",
     "marca": "DANIDREA",
     "nome": "BUCHA QUADRO ELASTICO TODAY/TITAN/TITAN 150/160 DANIDREA",
-    "estoque": "36",
+    "estoque": "35",
     "preco": "15,74"
   },
   {
@@ -31660,7 +31660,7 @@
     "fabric": "10510005",
     "marca": "SCUD",
     "nome": "CAIXA DIRECAO COLAR TITAN 00/FAN 125/TITAN 150/TITAN 160 SCUD",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "34,37"
   },
   {
@@ -35220,7 +35220,7 @@
     "fabric": "KOI0227",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 150 09/13/FAN 150 09/13/FAN 125 09/13 MOTOKOI",
-    "estoque": "124",
+    "estoque": "123",
     "preco": "17,61"
   },
   {
@@ -35276,7 +35276,7 @@
     "fabric": "KOI0203",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TITAN 160/TITAN 150 14/20/FAN 125 14/20/FAN 150 14/20 PT MOTOKOI",
-    "estoque": "145",
+    "estoque": "144",
     "preco": "17,61"
   },
   {
@@ -42516,7 +42516,7 @@
     "fabric": "1271058P03",
     "marca": "EBF",
     "nome": "CAPACETE EBF SPARK JET SPEED PRETO/LILAS 58",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "145,95"
   },
   {
@@ -47548,7 +47548,7 @@
     "fabric": "CAP-35PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 58",
-    "estoque": "32",
+    "estoque": "31",
     "preco": "83,99"
   },
   {
@@ -47556,7 +47556,7 @@
     "fabric": "CAP-36PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 60",
-    "estoque": "55",
+    "estoque": "54",
     "preco": "83,99"
   },
   {
@@ -50988,7 +50988,7 @@
     "fabric": "4896",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL SUPERIOR TWISTER PRATA ORBITAL",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "27,54"
   },
   {
@@ -57708,7 +57708,7 @@
     "fabric": "101002002",
     "marca": "POLIMET",
     "nome": "CAVALETE LATERAL BIZ 125 06/19 POLIMET",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "23,1"
   },
   {
@@ -58036,7 +58036,7 @@
     "fabric": "630",
     "marca": "PROJETIL",
     "nome": "CAVALETE LATERAL TITAN 00/08/FAN 125 C/ BORRACHA PROJETIL",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "23,1"
   },
   {
@@ -60732,7 +60732,7 @@
     "fabric": "",
     "marca": "TOTAL PRINT",
     "nome": "CHAVEIRO UNIVERSAL AVULSO",
-    "estoque": "1908",
+    "estoque": "1907",
     "preco": "4,19"
   },
   {
@@ -65100,7 +65100,7 @@
     "fabric": "BPE0001",
     "marca": "RT",
     "nome": "COMPRESSOR AR PORTATIL RT",
-    "estoque": "66",
+    "estoque": "65",
     "preco": "104,99"
   },
   {
@@ -80404,7 +80404,7 @@
     "fabric": "3650",
     "marca": "PROJETIL",
     "nome": "ESTRIBO PEDAL APOIO BIZ 125 11 PROJETIL",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "72,45"
   },
   {
@@ -85916,7 +85916,7 @@
     "fabric": "10116",
     "marca": "SIVERST",
     "nome": "GICLEUR MARCHA LENTA Nº 45 CG/TODAY/TITAN SIVERST",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "13,64"
   },
   {
@@ -85988,7 +85988,7 @@
     "fabric": "10013105",
     "marca": "SIVERST",
     "nome": "GICLEUR Nº 105 SIVERST",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "6,02"
   },
   {
@@ -86012,7 +86012,7 @@
     "fabric": "10013110",
     "marca": "SIVERST",
     "nome": "GICLEUR Nº 110 CBX/XLX 250 R SIVERST",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "7,41"
   },
   {
@@ -95820,7 +95820,7 @@
     "fabric": "TM013",
     "marca": "TMAC",
     "nome": "JOGO RAIO DIANT/TRAS TITAN/FAN KS 2000/150 TMAC 4MM",
-    "estoque": "112",
+    "estoque": "111",
     "preco": "24,14"
   },
   {
@@ -100932,7 +100932,7 @@
     "fabric": "H03868XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO FAN 125 09 VAZ (43/14/428HX116L) H03868XS",
-    "estoque": "22",
+    "estoque": "21",
     "preco": "57,74"
   },
   {
@@ -101564,7 +101564,7 @@
     "fabric": "H03673XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO TITAN 150 VAZ (43/16/428HX118L) H03673XS",
-    "estoque": "54",
+    "estoque": "53",
     "preco": "57,74"
   },
   {
@@ -105556,7 +105556,7 @@
     "fabric": "01026931",
     "marca": "LUBRAX",
     "nome": "LUBRIFICANTES MOTO 4T LUBRAX 10W30 SL PROFISSIONAL",
-    "estoque": "885",
+    "estoque": "884",
     "preco": "30,44"
   },
   {
@@ -105604,7 +105604,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "6345",
+    "estoque": "6343",
     "preco": "29,39"
   },
   {
@@ -105620,7 +105620,7 @@
     "fabric": "111548",
     "marca": "MOTUL",
     "nome": "LUBRIFICANTES MOTO 4T MOTUL 5000+ 10W30",
-    "estoque": "61",
+    "estoque": "57",
     "preco": "52,49"
   },
   {
@@ -105700,7 +105700,7 @@
     "fabric": "",
     "marca": "OXFORD",
     "nome": "LUBRIFICANTES MOTO 4T OXFORD 10W30",
-    "estoque": "116",
+    "estoque": "115",
     "preco": "20,99"
   },
   {
@@ -105716,7 +105716,7 @@
     "fabric": "23544",
     "marca": "REVOLUXX",
     "nome": "LUBRIFICANTES MOTO 4T REVOLUXX 20W50 MIXXON",
-    "estoque": "430",
+    "estoque": "429",
     "preco": "19,94"
   },
   {
@@ -105748,7 +105748,7 @@
     "fabric": "YP018",
     "marca": "YAMAHA",
     "nome": "LUBRIFICANTES MOTO 4T YAMALUBE 20W50",
-    "estoque": "198",
+    "estoque": "196",
     "preco": "51,03"
   },
   {
@@ -108820,7 +108820,7 @@
     "fabric": "KOI0152",
     "marca": "MOTOKOI BR",
     "nome": "MANGUITO MOTOKOI C/PUNHO PROTECAO UV PRETO G",
-    "estoque": "75",
+    "estoque": "74",
     "preco": "18,38"
   },
   {
@@ -109092,7 +109092,7 @@
     "fabric": "285",
     "marca": "PROTEC",
     "nome": "MANICOTO TITAN 2000 KS ESQUERDO PROTEC",
-    "estoque": "150",
+    "estoque": "149",
     "preco": "11,03"
   },
   {
@@ -113788,7 +113788,7 @@
     "fabric": "25134K",
     "marca": "MOTOKOI BR",
     "nome": "MOLA PEDAL FREIO CG/TO/TITAN MOTOKOI",
-    "estoque": "90",
+    "estoque": "89",
     "preco": "1,55"
   },
   {
@@ -117948,7 +117948,7 @@
     "fabric": "21540K",
     "marca": "MOTOKOI BR",
     "nome": "PARAFUSO ESTRIBO 8X20 MOTOKOI",
-    "estoque": "124",
+    "estoque": "120",
     "preco": "1,04"
   },
   {
@@ -125372,7 +125372,7 @@
     "fabric": "N1815",
     "marca": "COBREQ",
     "nome": "PASTILHA FREIO TRAS CB 1000R COBREQ N-1815",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "92,82"
   },
   {
@@ -144612,7 +144612,7 @@
     "fabric": "TM0146",
     "marca": "TMAC",
     "nome": "PUNHO LUZ TITAN 160/FAN 160/FAN 125 ES/ESD/KS/FAN 150 ESDI 14/15/TITAN 150 14/15 ES/ESD/EX 14/15 TMAC",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "51,45"
   },
   {
@@ -149236,7 +149236,7 @@
     "fabric": "90280480",
     "marca": "MAGNETRON",
     "nome": "RELE PARTIDA XTZ 250 LANDER/FAZER 250/ XTZ 250Z TENERE MAGNETRON",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "68,25"
   },
   {
