@@ -7412,7 +7412,7 @@
     "fabric": "100203201",
     "marca": "POLIMET",
     "nome": "BAGAGEIRO YBR 125 FACTOR 09/16 CROMADO POLIMET",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "110,25"
   },
   {
@@ -8348,7 +8348,7 @@
     "fabric": "MTX6L-BS",
     "marca": "MOTOKOI BR",
     "nome": "BATERIA BIZ / FAN 125 ES 09/TITAN150 MIX 09 ED MTX6L-BS MOTOKOI",
-    "estoque": "299",
+    "estoque": "300",
     "preco": "124,07"
   },
   {
@@ -10836,7 +10836,7 @@
     "fabric": "04053",
     "marca": "PLASMOTO",
     "nome": "BLOCO OPTICO CB 300 PLASMOTO",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "114,45"
   },
   {
@@ -16092,7 +16092,7 @@
     "fabric": "1262",
     "marca": "POLIVISOR",
     "nome": "BOTAO EBF NEW 7 POLIVISOR (NOVO)",
-    "estoque": "21",
+    "estoque": "20",
     "preco": "9,51"
   },
   {
@@ -26972,7 +26972,7 @@
     "fabric": "TM4058",
     "marca": "TMAC",
     "nome": "CABO EMBREAGEM XTZ 150 14/17 TMAC",
-    "estoque": "3",
+    "estoque": "2",
     "preco": "16,16"
   },
   {
@@ -31684,7 +31684,7 @@
     "fabric": "1014531",
     "marca": "WGK",
     "nome": "CAIXA DIRECAO COLAR TITAN 00/FAN 125/TITAN 150/TITAN 160 WGK",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "26,24"
   },
   {
@@ -32556,7 +32556,7 @@
     "fabric": "KOI0168",
     "marca": "MOTOKOI",
     "nome": "CAMARA DE AR DIANT/TRAS CG MOTOKOI 18",
-    "estoque": "1107",
+    "estoque": "1106",
     "preco": "14,69"
   },
   {
@@ -35484,7 +35484,7 @@
     "fabric": "KOI0197",
     "marca": "MOTOKOI BR",
     "nome": "CAPA BANCO TWISTER 01/08 MOTOKOI",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "26,78"
   },
   {
@@ -47516,7 +47516,7 @@
     "fabric": "CAP-149PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR KIDS PRETO 54",
-    "estoque": "14",
+    "estoque": "13",
     "preco": "89,24"
   },
   {
@@ -47556,7 +47556,7 @@
     "fabric": "CAP-36PT",
     "marca": "TORK",
     "nome": "CAPACETE TORK LIBERTY FOUR PRETO 60",
-    "estoque": "34",
+    "estoque": "33",
     "preco": "83,99"
   },
   {
@@ -49884,7 +49884,7 @@
     "fabric": "4900",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL INFERIOR TWISTER ORBITAL",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "9,21"
   },
   {
@@ -50988,7 +50988,7 @@
     "fabric": "4896",
     "marca": "ORBITAL",
     "nome": "CARCACA PAINEL SUPERIOR TWISTER PRATA ORBITAL",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "27,54"
   },
   {
@@ -52732,7 +52732,7 @@
     "fabric": "20017",
     "marca": "PLASMOTO",
     "nome": "CARENAGEM FAROL CB 300 COMP PLASMOTO",
-    "estoque": "8",
+    "estoque": "7",
     "preco": "47,25"
   },
   {
@@ -60044,7 +60044,7 @@
     "fabric": "10100005",
     "marca": "SCUD",
     "nome": "CHAVE CONTATO TITAN 00/01 SCUD",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "21,8"
   },
   {
@@ -70764,7 +70764,7 @@
     "fabric": "10150008",
     "marca": "SCUD",
     "nome": "DISCO EMBREAGEM TWISTER/TORNADO 250 SCUD",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "68,8"
   },
   {
@@ -74700,7 +74700,7 @@
     "fabric": "1007",
     "marca": "MS EXTENSOR",
     "nome": "ELASTICO PRETO 1,50 M UNIVERSAL C/ GANCHO PASTICO MS EXTENSOR",
-    "estoque": "27",
+    "estoque": "25",
     "preco": "3,68"
   },
   {
@@ -80076,7 +80076,7 @@
     "fabric": "TM0976",
     "marca": "TMAC",
     "nome": "ESTICADOR CORRENTE TITAN 150 TMAC",
-    "estoque": "414",
+    "estoque": "413",
     "preco": "2,09"
   },
   {
@@ -84324,7 +84324,7 @@
     "fabric": "FVC022",
     "marca": "VEDAMOTORS",
     "nome": "FILTRO OLEO TWISTER/FALCON/CB300/XRE300/TORNADO/XLX VEDAMOTORS",
-    "estoque": "81",
+    "estoque": "76",
     "preco": "10,49"
   },
   {
@@ -97908,7 +97908,7 @@
     "fabric": "VS05610000001",
     "marca": "VEDAMOTORS",
     "nome": "KIT A CRF 230 VEDAMOTORS",
-    "estoque": "6",
+    "estoque": "5",
     "preco": "51,52"
   },
   {
@@ -100196,7 +100196,7 @@
     "fabric": "H04012XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BIZ 110I 16 ED VAZ (33/14/428HX106L) H04012XS",
-    "estoque": "8",
+    "estoque": "6",
     "preco": "57,74"
   },
   {
@@ -100460,7 +100460,7 @@
     "fabric": "H04003XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO BROS 160/XRE 190 VAZ (48/16/428HX128L)",
-    "estoque": "7",
+    "estoque": "6",
     "preco": "94,49"
   },
   {
@@ -101492,7 +101492,7 @@
     "fabric": "001-KOI-034H0",
     "marca": "MOTOKOI",
     "nome": "KIT TRANSMISSAO TITAN 150 MOTOKOI (43/16/428HX118)",
-    "estoque": "15",
+    "estoque": "14",
     "preco": "47,24"
   },
   {
@@ -102076,7 +102076,7 @@
     "fabric": "Y04260XS",
     "marca": "VAZ",
     "nome": "KIT TRANSMISSAO YBR 125 03/08/FACTOR 125 03/16 VAZ (45/14/428HX118L) Y04260XS",
-    "estoque": "26",
+    "estoque": "25",
     "preco": "57,74"
   },
   {
@@ -105540,7 +105540,7 @@
     "fabric": "123075",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 10W30 SEMI-SINTETICO",
-    "estoque": "3107",
+    "estoque": "3101",
     "preco": "36,74"
   },
   {
@@ -105572,7 +105572,7 @@
     "fabric": "121708",
     "marca": "MOBIL",
     "nome": "LUBRIFICANTES MOTO 4T MOBIL 20W50",
-    "estoque": "6179",
+    "estoque": "6178",
     "preco": "29,39"
   },
   {
@@ -112356,7 +112356,7 @@
     "fabric": "MNP0207",
     "marca": "PIRACAPAS",
     "nome": "MOCHILA PIZZA PIRACAPAS 45 LTS NYLON PRETA",
-    "estoque": "18",
+    "estoque": "17",
     "preco": "131,25"
   },
   {
@@ -125644,7 +125644,7 @@
     "fabric": "KOI0387",
     "marca": "MOTOKOI",
     "nome": "PASTILHA FREIO YBR/TWISTER/CB 300/NINJA 250 DIANTEIRO MOTOKOI",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "9,44"
   },
   {
@@ -134300,7 +134300,7 @@
     "fabric": "1103516",
     "marca": "KMP PREMIUM",
     "nome": "PISTAO CBX 200/NX 200/XR 200 3,00 KMP PREMIUM",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "173,25"
   },
   {
@@ -134468,7 +134468,7 @@
     "fabric": "1103500",
     "marca": "KMP PREMIUM",
     "nome": "PISTAO CRF 230F 1,50 KMP PREMIUM",
-    "estoque": "1",
+    "estoque": "0",
     "preco": "209,99"
   },
   {
@@ -138804,7 +138804,7 @@
     "fabric": "3007",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 2.75-18 TECHNIC TIGER TT 42P",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "115,49"
   },
   {
@@ -138908,7 +138908,7 @@
     "fabric": "18822",
     "marca": "LEVORIN",
     "nome": "PNEU DIANT 80/100-18 LEVORIN MATRIX TT 47P",
-    "estoque": "90",
+    "estoque": "88",
     "preco": "199,49"
   },
   {
@@ -139052,7 +139052,7 @@
     "fabric": "3003",
     "marca": "TECHNIC",
     "nome": "PNEU DIANT 90/90-19 TECHNIC TEC BROS TT 52T",
-    "estoque": "49",
+    "estoque": "48",
     "preco": "162,75"
   },
   {
@@ -139388,7 +139388,7 @@
     "fabric": "3004",
     "marca": "TECHNIC",
     "nome": "PNEU TRAS 110/90-17 TECHNIC TEC TT 60P",
-    "estoque": "138",
+    "estoque": "137",
     "preco": "184,13"
   },
   {
@@ -139956,7 +139956,7 @@
     "fabric": "",
     "marca": "MICHELIN",
     "nome": "PNEU TRAS 90/90-18 MICHELIN CITY EXTRA TL 57S",
-    "estoque": "10",
+    "estoque": "9",
     "preco": "293,99"
   },
   {
@@ -140596,7 +140596,7 @@
     "fabric": "TM7231",
     "marca": "TMAC",
     "nome": "PORCA ESCAPAMENTO TITAN 00/STRADA 7MM TMAC",
-    "estoque": "66",
+    "estoque": "64",
     "preco": "1,04"
   },
   {
@@ -147380,7 +147380,7 @@
     "fabric": "1100",
     "marca": "MS EXTENSOR",
     "nome": "REDE ELASTICA AZUL 35 X 35 MS EXTENSOR",
-    "estoque": "37",
+    "estoque": "36",
     "preco": "10,49"
   },
   {
@@ -151324,7 +151324,7 @@
     "fabric": "TM081",
     "marca": "TMAC",
     "nome": "RETENTOR BENGALA TITAN 150/CBX 150/BROS TMAC",
-    "estoque": "92",
+    "estoque": "90",
     "preco": "3,23"
   },
   {
@@ -151340,7 +151340,7 @@
     "fabric": "P40FORK455015",
     "marca": "VEDAMOTORS",
     "nome": "RETENTOR BENGALA TITAN 150/CBX 150/BROS VEDAMOTORS (PAR)",
-    "estoque": "187",
+    "estoque": "186",
     "preco": "18,66"
   },
   {
@@ -157452,7 +157452,7 @@
     "fabric": "TP1205",
     "marca": "TMAC",
     "nome": "SENSOR INCLINACAO TITAN 160/FAN 160/POP 110 TMAC",
-    "estoque": "2",
+    "estoque": "1",
     "preco": "41,99"
   },
   {
@@ -165764,7 +165764,7 @@
     "fabric": "VA0510070",
     "marca": "METAL LEVE",
     "nome": "VALVULA ADMISSAO CBX/NX 150/200 METAL LEVE",
-    "estoque": "4",
+    "estoque": "3",
     "preco": "40,97"
   },
   {
@@ -166628,7 +166628,7 @@
     "fabric": "VE0510069",
     "marca": "METAL LEVE",
     "nome": "VALVULA ESCAPE CBX/NX 150/200 METAL LEVE",
-    "estoque": "5",
+    "estoque": "4",
     "preco": "71,16"
   },
   {
@@ -171228,7 +171228,7 @@
     "fabric": "1010C",
     "marca": "POLIVISOR",
     "nome": "VISEIRA TAURUS SAN MARINO 0,80 MM CRISTAL POLIVISOR",
-    "estoque": "474",
+    "estoque": "473",
     "preco": "6,29"
   },
   {
